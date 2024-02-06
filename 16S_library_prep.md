@@ -1,11 +1,11 @@
-adapted from SOP_MDE_Metabarcoding Standard Genetic Methods (November2021).pdf (https://github.com/SERCCoastalDisease/Protocols/blob/main/SOP_MDE_Metabarcoding%20Standard%20Genetic%20Methods%20(November2021).pdf)
+**NOTE**: adapted from: [SOP_MDE_Metabarcoding Standard Genetic Methods (November2021).pdf](https://github.com/SERCCoastalDisease/Protocols/blob/main/SOP_MDE_Metabarcoding%20Standard%20Genetic%20Methods%20(November2021).pdf)
 
-*all calculations can be done here https://docs.google.com/spreadsheets/d/1l1ROib1xUoKOvusw5yShw5e5KsiRvz8F_r2zNBwmhAM/edit#gid=0
+**NOTE**: all calculations can be done here: https://docs.google.com/spreadsheets/d/1l1ROib1xUoKOvusw5yShw5e5KsiRvz8F_r2zNBwmhAM/edit#gid=0
 
 
 #### I. PCR
 - **Repeat 3x for all samples that are to be included in the metabarcode library**
-- ==*always include water (negative control - indication of no contamination) and very dilute positive controls (1-5ng of DNA) in every experiment*==
+- *always include water (negative control - indication of no contamination) and very dilute positive controls (1-5ng of DNA) in every experiment*
 - **Mix the following agents via vortex:** Buffer, MgCl2, primers
 - **DO NOT vortex:** BSA or Taq
 	- Taq should *never* be left at room temperature - **stays in freezer or in freezer box**
@@ -36,7 +36,7 @@ adapted from SOP_MDE_Metabarcoding Standard Genetic Methods (November2021).pdf (
 	3. 72C for 10 mins (extension)
 
 
-### ==**ALL POST-PCR DONE IN OTHER ROOM (aka the rest of this protocol)**
+### **ALL POST-PCR DONE IN OTHER ROOM (aka the rest of this protocol)**
 
 
 #### II. Gel electrophoresis

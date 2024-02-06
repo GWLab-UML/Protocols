@@ -1,15 +1,14 @@
 ## Microbiome enrichment protocol
+
 This is the adapted protocol for the New England Biolabs Microbiome Enrichment kit, specifically for Coral DNA:
 
 https://www.neb.com/products/e2612-nebnext-microbiome-dna-enrichment-kit#Product%20Information
 
-Protocol:https://www.neb.com/protocols/2013/04/18/protocol-for-use-with-nebnext-microbiome-dna-enrichment-e2612
+Protocol: https://www.neb.com/protocols/2013/04/18/protocol-for-use-with-nebnext-microbiome-dna-enrichment-e2612
 
-Reagents expressed in ==**bold**== need a calculation from this document. Use the following spreadsheet to determine your DNA input and reagent input volumes:
+Reagents expressed in **bold** need a calculation from this document. Use the following spreadsheet to determine your DNA input and reagent input volumes:
 
 https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit#gid=0
-
-
 
 
 ### Prepare beads - Pt1
@@ -17,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 `Begin thawing Bind/wash buffer at beginning of protocol.`
 1. Resuspend NEBNext Protein A Magnetic Beads by gently pipetting the slurry up and down until the suspension is homogeneous. Alternatively, rotate the tube on a rotating mixer gently for 15 minutes at 4°C. Do not vortex.
 
-2. In a new microcentrifuge tube, add ==X μl of **MBD2-Fc protein**== and ==**Y μl of Protein A Magnetic Beads**==. Mix by pipetting up and down until the beads are completely homogeneous, at least 5-10 times.
+2. In a new microcentrifuge tube, add X μl of **MBD2-Fc protein** and **Y μl of Protein A Magnetic Beads**. Mix by pipetting up and down until the beads are completely homogeneous, at least 5-10 times.
 
 3. Mix the bead-protein mixture by placing the tube in a rotating mixer for 10 minutes at room temperature (~20 ºC).
 
@@ -43,10 +42,10 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 `The MBD2-Fc-bound magnetic beads are stable for up to 7 days at 4°C` 
 
 ### Capture Methylated Host DNA and Enriched Microbial DNA - Pt2
-1. Add 30 uL of input DNA and corresponding ==Z μl of **MBD2-Fc-bound magnetic beads**== to new tubes. Resuspend by pipetting up and down.
+1. Add 30 uL of input DNA and corresponding Z μl of **MBD2-Fc-bound magnetic beads** to new tubes. Resuspend by pipetting up and down.
 	- (Beads from above "Prepare Beads-Pt1" section.) Z uL of beads differs for each sample. If you change the amount of input DNA, Z changes. Check spreadsheet.
 
-3. Add 7.5µl of ==**undiluted Bind/wash Buffer** (5X)== for a final concentration of 1X. Pipette the sample up and down until the beads are completely homogenous, at least 5-10 times. 
+3. Add 7.5µl of **undiluted Bind/wash Buffer** (5X) for a final concentration of 1X. Pipette the sample up and down until the beads are completely homogenous, at least 5-10 times. 
 	- amount of bind/wash buffer depends on dna volume (check excel sheet)
 
 4.  Agitate the tube on a rotating mixer for 15 minutes at room temperature with rotation.
@@ -112,4 +111,4 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 
 12. Place the tube/plate on the magnetic stand. After 5 minutes (or when the solution is clear), transfer eluate to a new microcentrifuge tube (combine the eluates if sample was split in two).
 
-`This supernatant contains the target DNA (Microbial or Host depending on your input sample). Measure concentration using Qubit or Nanodrop with Elution buffer as the blank. Store at –20°C` 
+`This supernatant contains the target DNA (Microbial or Host depending on your input sample). Measure concentration using Qubit or Nanodrop with Elution buffer as the blank. Store at –20°C`
