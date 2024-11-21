@@ -28,7 +28,7 @@ All steps are assuming 50-100mg starting tissue and 1mL Trizol (may want to decr
 
 **Perform following procedure in ventilated safety hood. Keep samples on ice.**
 
-1. Move sample from RNAlater into new sterile 2mL tube using __ (pipette tip? forceps?)
+1. Move sample from RNAlater into new sterile 2mL tube using sterilized/flamed forceps
 2. Add 1mL Trizol to sample.
 3. Insert homogenizer probe into Homogenizer 150 making sure it locks into place. 
 4. Submerge probe in 2mL tube, hovering just above the bottom. Turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds.
