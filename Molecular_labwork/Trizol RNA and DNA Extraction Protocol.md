@@ -1,5 +1,5 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: December 5, 2024
+Last edit: December 17, 2024 JGM
 ### Notes
 All steps are assuming 50-100mg starting tissue and 1mL Trizol. Change the following volumes of reagents if changing the amount of Trizol:
 - Homogenizing and phase separation: 0.2mL chloroform
@@ -102,7 +102,8 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 1. Add 1mL of 75% ethanol to wash the pellet; vortex sample briefly then centrifuge at 7,500g for 5 minutes at 4ºC
 	- Samples can be stored in 75% ethanol prior to centrifugation at 4ºC for up to a week *(testing)*
 2. Remove and discard the supernatant, going back in with a smaller pipette tip to remove all excess liquid
-3. Air dry the RNA pellet for 5-10 minutes; do not allow the RNA pellet to dry completely 
+3. Repeat steps 1 and 2 for a second 75% EtOH wash
+4. Air dry the RNA pellet for 5-10 minutes; do not allow the RNA pellet to dry completely 
 
 **Solubilize the RNA**
 1. Resuspend the RNA pellet in 30µL RNase-free water by pipetting the solution up and down several times
