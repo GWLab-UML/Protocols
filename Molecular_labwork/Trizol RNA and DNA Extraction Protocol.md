@@ -1,5 +1,5 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: December 17, 2024 JGM
+Last edit: February 3, 2025 JF
 ### Notes
 All steps are assuming 50-100mg starting tissue and 1mL Trizol. Change the following volumes of reagents if changing the amount of Trizol:
 - Homogenizing and phase separation: 0.2mL chloroform
@@ -53,6 +53,7 @@ All steps are assuming 50-100mg starting tissue and 1mL Trizol. Change the follo
 - Set minicentrifuge to 4ºC
 - For homogenizing: set up bunsen burner inside fume hood
 - For RNA extraction: set incubator to 55-60ºC
+- Warm 8mM NaOH for DNA resuspension
 ### 1A. Homogenizing samples 
 
 **Perform following procedure in fume hood. Take precautions to avoid RNA contamination.**
@@ -73,7 +74,7 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 **Perform following procedure in fume hood, except for centrifugation. Take precautions to avoid RNA contamination.**
 
 1. Incubate samples for 5 minutes at room temp
-2. Add 0.2 mL chloroform and shake each sample vigorously by hand for 15 seconds
+2. Add 0.2 mL chloroform and gently invert each sample until thoroughly mixed
 3. Incubate samples for 2 minutes at room temperature
 4. Centrifuge samples at 12,000g for 15 minutes at 4ºC
 	- The mixture will separate into a lower red phenol-chloroform phase, a milky interphase, and a colorless upper aqueous phase (~50% of the total volume)
@@ -81,8 +82,7 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 	- Tilting the tube at a slight angle is okay, but keeping the tube upright will help prevent the phases from mixing
 	- Try to remove 300-400uL of the aqueous phase
 6. Place the aqueous phase into a new 1.5mL tube and proceed to RNA isolation; keep on ice
-7. Store the interphase and phenol-chloroform phase at 4ºC for DNA isolation
-	- If unable to perform DNA extraction on the same day: remove any remaining aqueous phase, re-centrifuge tubes at 12,000g for 5 minutes at 4ºC, use a 200uL pipette to remove any remaining aqueous phase, then store samples at 4ºC for up to a week *(testing from this [protocol](http://bridgeslab.sph.umich.edu/protocols/index.php/Extraction_of_DNA_from_TRIZOL_preparations))*
+7. Store the interphase and phenol-chloroform phase at 4ºC for DNA isolation on the same day
 
 ### 2. RNA Isolation
 
@@ -121,34 +121,36 @@ See more [here](https://dna.uga.edu/wp-content/uploads/sites/51/2019/02/Note-on-
 ### 3. DNA Isolation
 
 **Precipitate the DNA**
-1. Remove any remaining aqueous phase using a smaller pipette—this step is critical to limiting DNA contamination
+1. Remove any remaining aqueous phase using a smaller pipette—this step is critical to limiting DNA contamination, but DO NOT DISTURB THE INTERPHASE
+	- If disturbed, consider re-spinning at 12,000g for 5 minutes before trying to remove the aqueous phase again
 2. Add 0.3mL 100% ethanol, cap the tube and invert several times to mix before pipetting into a new 1.5mL tube
-3. Incubate for 2-3 minutes at room temperature
-4. Centrifuge at 2,000g for 5 minutes at 4ºC
+3. Incubate for 2-3 minutes at room temperature on shaker
+4. Centrifuge at 5,000g for 5 minutes at 4ºC
 5. Remove the phenol-ethanol supernatant, going back in with a smaller pipette tip to remove all excess liquid
 
 Work can now move to the biosafety cabinet/laminar flow hood
 
 **Wash the DNA**
 1. Add 1mL of sodium citrate/ethanol solution to each sample
-2. Incubate for 30 minutes at room temperature, periodically mixing by gentle inversion
+2. Incubate for 30 minutes at room temperature on shaker
 	- DNA can be kept in sodium citrate/ethanol solution for up to 2 hours
-3. Centrifuge at 2,000g for 5 minutes at 4ºC
+3. Centrifuge at 5,000g for 5 minutes at 4ºC
 4. Remove and discard supernatant, then repeat wash steps 1-3 again
 	- It is unlikely that a pellet will be visible so be careful when pipetting
-5. Add 1.5mL 75% ethanol and incubate for 10-20 minutes at room temperature, periodically mixing by gentle inversion
+5. Add 1.5mL 75% ethanol and incubate for 5 minutes at room temperature on shaker
 	- Can store overnight at 4ºC
-6. Centrifuge at 2,000g for 5 minutes at 4ºC
+6. Centrifuge at 5,000g for 5 minutes at 4ºC
 7. Remove and discard supernatant, going back in with a smaller pipette tip to remove all excess liquid
-8. Vacuum or air dry the DNA pellet for 5-10 minutes; do not allow the DNA pellet to dry completely.
+8. Vacuum or air dry the DNA pellet for 10-15 minutes; do not allow the DNA pellet to dry completely.
 
 **Resuspend the DNA**
-1. Add 20uL TE buffer
-2. Centrifuge at 12,000g for 10 minutes at 10ºC to remove any insoluble material
-3. Transfer the supernatant containing the DNA to a new 1.5mL tube
-4. Long-term storage at -20ºC
+1. Add 20uL 8mM NaOH buffer and pipette up and down until pellet is dissolved, let sit for one minute before quantifying
+2. Measure on Nanodrop/Qubit
+3. Add 180uL TE buffer to bring pH down to 7-8 and store in -20ºC
 
-(*could also try EB buffer*)
+4. ~~Centrifuge at 12,000g for 10 minutes at 10ºC to remove any insoluble material~~
+5. ~~Transfer the supernatant containing the DNA to a new 1.5mL tube~~
+6. ~~Long-term storage at -20ºC~~
 
 Trying to avoid this part of the protocol...
 1. <mark style="background: #FFF3A3A6;">Resuspend the DNA 300-600µL of 8mM NaOH at a concentration of 0.2-0.3 µg/µL</mark>
