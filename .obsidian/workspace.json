@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "563ede75af7d7cab",
+    "type": "split",
+    "children": [
+      {
+        "id": "b69a62f61d334c6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b509b002e6b526f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Molecular_labwork/Trizol RNA and DNA Extraction Protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trizol RNA and DNA Extraction Protocol"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a26be8d3ef109591",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a6c2fa1ef7a022a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c728000105eba8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ce1ae77a1a40f8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e812d935fa053e79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8780b01e9953903d",
+    "type": "split",
+    "children": [
+      {
+        "id": "20e4187c618e115f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb86e8bb564efdb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e64b15ed87a17313",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "dc19fdfe2b2f6be5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f9b6d8ba37939ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b509b002e6b526f9",
+  "lastOpenFiles": [
+    "Molecular_labwork/TBE_Buffer_Protocol.md",
+    "Molecular_labwork/Microbiome-enrichment.md",
+    "Molecular_labwork/Qubit.md",
+    "Molecular_labwork/DNA Extraction Protocol.md",
+    "Wetlab/Algae-Culturing.md",
+    "Molecular_labwork/Trizol RNA and DNA Extraction Protocol.md"
+  ]
+}
