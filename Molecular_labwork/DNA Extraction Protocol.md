@@ -2,7 +2,7 @@ This protocol uses the Omega Bio-Tek E.Z.N.A. Soil kit. This is the link:
 [https://www.omegabiotek.com/product/soil-dna-extraction-kit-e-z-n-a-soil-dna-kit/?cn-reloaded=1#protocols](https://www.omegabiotek.com/product/soil-dna-extraction-kit-e-z-n-a-soil-dna-kit/?cn-reloaded=1#protocols)
 Otherwise, follow these steps for coral DNA  extraction.
 
-Last edit: CCD Jan 16, 2025 
+Last edit: CCD Feb 17, 2025 
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#preparation)Preparation
 
