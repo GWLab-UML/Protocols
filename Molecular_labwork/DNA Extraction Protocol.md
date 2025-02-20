@@ -2,20 +2,30 @@ This protocol uses the Omega Bio-Tek E.Z.N.A. Soil kit. This is the link:
 [https://www.omegabiotek.com/product/soil-dna-extraction-kit-e-z-n-a-soil-dna-kit/?cn-reloaded=1#protocols](https://www.omegabiotek.com/product/soil-dna-extraction-kit-e-z-n-a-soil-dna-kit/?cn-reloaded=1#protocols)
 Otherwise, follow these steps for coral DNA  extraction.
 
-Last edit: CCD Feb 17, 2025 
+Last edit: CCD Feb 20, 2025 
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#preparation)Preparation
 
--   Heat a heating block/incubator to 70 ◦C, no shaking, put Elution buffer in
--   Make sure your P2 buffer is chilled
--   UV Sterilize 3 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes 
--   Make sure HBC buffer and wash buffer are correctly diluted with appropriate chemicals
+-   Aliquot Elution buffer into 1.5 mL Eppendorf tubes
+- Heat a heating block/incubator to 70 ◦C, no shaking, put Elution buffer aliquot in
+- Heat the water bath/incubator to 37◦C
+-   Make sure your P2 buffer and cHTR reagent are chilled
+-    Make sure HBC buffer and wash buffer are correctly diluted with appropriate chemicals
+-   UV Sterilize 
+	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes 
+	- 1 x # of samples in 1.5 mL Eppendorf tubes
+- Wash Hands up to your elbows & mask up!
+- 
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#tissue-lysis)Tissue lysis
 
-1.  Weigh approximately 150 – 250 mg of coral sample in an Eppendorf tube or directly into the disruptor tube. Weigh your sample and note down how much sample you’ve processed. 
+1.  Weigh approximately 150 – 250 mg of coral sample in an Eppendorf tube or directly into the disruptor tube. 
+**Only utilize half of each coral sample in your DNA extraction!!**
+1. Crush the coral sample you are using into a tissue slurry (can be done in the tube cap or in the tube with RNA Later)
+2. Weigh your sample and note down how much sample you’ve processed. 
 
 _The disruptor tube is faster, but you cannot put the sample back if you get too much sample._
+
 
 2.  Add 725 µL of SLX-Mlus buffer to the disruptor tube. Vortex until the coral skeleton is virtually bare (usually 5-10 minutes).
     
@@ -35,11 +45,10 @@ _The disruptor tube is faster, but you cannot put the sample back if you get too
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#inhibitor-removal)Inhibitor Removal
 
 9.  Transfer 400 µL supernatant into a 1.5 mL Lo-Bind Eppendorf tube. Add 135 µL chilled P2 buffer and 200 µL of resuspended cHTR reagent.
-    
-10.  Centrifuge at 10000 g/rpm for 1:30 minute at room temperature.
-
 
 _Do not shake the cHTR reagent bottle: this foams it up and barely does anything for the resuspension. Its better to just pipette up and down._
+    
+10.  Centrifuge at 10000 g/rpm for 1:30 minute at room temperature.
 
 *If the pellet has not fully settled out of the supernatant, you may recentrifuge at the same setting. **Be sure to balance out the centrifuge if you are doing this!***
 
