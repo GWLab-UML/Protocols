@@ -1,5 +1,5 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: February 5, 2025 JF
+Last edit: February 24, 2025 JGM
 ### Notes
 All steps are assuming 50-100mg starting tissue and 1mL Trizol. 
 Optimized for working with small samples of oyster tissue. 
