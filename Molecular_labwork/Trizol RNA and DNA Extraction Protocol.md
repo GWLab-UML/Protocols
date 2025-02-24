@@ -1,51 +1,59 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: February 3, 2025 JF
+Last edit: February 5, 2025 JF
 ### Notes
-All steps are assuming 50-100mg starting tissue and 1mL Trizol. Change the following volumes of reagents if changing the amount of Trizol:
-- Homogenizing and phase separation: 0.2mL chloroform
-- RNA isolation: 0.5mL isopropanol, 1mL 75% ethanol
-- DNA isolation: 0.3mL 100% ethanol, 1mL sodium citrate / ethanol solution, 1.5mL 75% ethanol
+All steps are assuming 50-100mg starting tissue and 1mL Trizol. 
+Optimized for working with small samples of oyster tissue. 
+Relevant calculations can be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1dncCvx_XR8j56II3qtQBzECOIseynwCOv8T3BreIVWM/edit?usp=sharing)
 ### Materials
 ***Homogenizing***
 - RNase away
-- RNA-free 1.5mL tubes (1 per sample)
 - RNA-free 2mL tubes (1 per sample)
+- RNA-free 1.5mL tubes (1 per sample)
 - Forceps, bunsen burner, ethanol
 - Homogenizer 150
-- Plastic homogenizer probes
+- Sterile plastic homogenizer probes (1 per sample)
 - Trizol
-- Chloroform
-- Ice
+- Chloroform (200uL per sample)
+- Cold rack
 
 ***RNA Extraction***
-- 100% isopropanol
-- 75% ethanol (==make new aliquot every time==)
-- Molecular grade water (RNA-free)
+- 100% isopropanol (500uL per sample)
+- 75% ethanol (==make new aliquot every time==, 1mL per sample)
+- Molecular grade water (RNA-free, sterile, 30uL per sample)
 
 ***DNA Extraction***
-- RNA-free 1.5mL tubes (1 per sample)
-- 100% ethanol
-- 75% ethanol
-- Sodium citrate, 0.1M in 10% ethanol pH 8.5
+- DNA lo-bind 1.5mL tubes (1 per sample)
+- 100% ethanol (300uL per sample)
+- 75% ethanol (==make new aliquot every time==, 1mL per sample)
+- Sodium citrate, 0.1M in 10% ethanol pH 8.5 (2mL per sample)
 	- To make stock 1M sodium citrate:
 		- 24.9g sodium citrate dissolved in 100mL of molecular grade water
 		- Autoclave at 121ºC for 20 minutes
 		- Store at room temp
 	- To make working 0.1M sodium citrate in 10% ethanol:
-		- 10mL 100% ethanol
+		- 10mL 100% ethanol (sterile)
 		- 10mL 1M sodium citrate solution
 		- 80mL molecular grade water
-		- Store at room temp—stable for several months
-- TE buffer, pH 8.0
+		- Store at room temp
+- Sodium hydroxide, 8mM (20uL per sample)
+	- To make stock 2M sodium hydroxide:
+		- 40g sodium hydroxide dissolved in 500mL of molecular grade water
+		- Autoclave at 121ºC for 20 minutes
+		- Store at room temp
+	- To make working 8mM sodium hydroxide:
+		- 8uL 2M NaOH
+		- 1.992mL molecular grade water
+		- Store at room temp
+- TE buffer, pH 8.0 (180uL per sample)
 	- To make stock Tris-HCl:
 		- 12.11g Tris base dissolved in 80mL DI water (use stir bar)
-		- In fume hood, add concentrate HCl until pH reads 8.0
-		- Top up to 100mL with DI and autoclave
+		- In fume hood, add concentrated HCl until pH reads 8.0
+		- Top up to 100mL with DI and autoclave at 121ºC for 20 minutes
 		- Store at room temp
 	- To make working TE buffer: 
 		- 1mL Tris-HCl
-		- 0.2mL of 0.5M EDTA pH 8.0
-		- 98.8mL of DI and autoclave
+		- 0.2mL of 0.5M EDTA pH 8.0 (sterile)
+		- 98.8mL of molecular grade water
 		- Store at room temp 
 ### 0. Prep
 - Bleach and RNAse away all surfaces and anything you'll touch in the fume hood (pipette tips, pipettes, homogenizer, rack, timer, pen, etc.)
@@ -53,36 +61,37 @@ All steps are assuming 50-100mg starting tissue and 1mL Trizol. Change the follo
 - Set minicentrifuge to 4ºC
 - For homogenizing: set up bunsen burner inside fume hood
 - For RNA extraction: set incubator to 55-60ºC
-- Warm 8mM NaOH for DNA resuspension
+- For DNA extraction: put 8mM NaOH in incubator to warm
 ### 1A. Homogenizing samples 
 
-**Perform following procedure in fume hood. Take precautions to avoid RNA contamination.**
+**Perform the following procedure in the fume hood. Take precautions to avoid RNA contamination.**
 
-1. Move samples from RNAlater into new sterile 2mL tube using sterilized/flamed forceps
+1. Move samples from RNAlater into new sterile 2mL tube making sure to sterilize (ethanol-flame) forceps between samples
 	- *Once all samples have been moved, remove bunsen burner from fume hood as Trizol is highly flammable*
-1. Add 1mL Trizol to each sample
-2. Insert probe into Homogenizer 150 making sure it locks into place
-3. Submerge probe in 2mL tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds
+2. Add 1mL Trizol to each sample
+3. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
+4. Submerge probe in 2mL tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds
+	- Keep tubes in cold rack while homogenizing and be careful of spillover
 	- *Never run homogenizer dry*
-4. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 4
-5. Remove probe and put aside to be cleaned later
-6. Repeat steps 3-5 for all samples
+5. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 4
+6. Remove probe and put into glass beaker to be cleaned later
+7. Repeat steps 3-5 for all samples
 
 Due to the Homogenizer 150 getting hot with use and the potential for RNA degradation, do not exceed 10 samples without resting the equipment for 30 minutes. (*untested*)
 ### 1B. Phase separation 
 
-**Perform following procedure in fume hood, except for centrifugation. Take precautions to avoid RNA contamination.**
+**Perform the following procedure in the fume hood, except for centrifugation. Take precautions to avoid RNA contamination.**
 
 1. Incubate samples for 5 minutes at room temp
-2. Add 200uL chloroform and gently invert each sample until thoroughly mixed
+2. Add 200uL chloroform and gently invert each sample until thoroughly mixed (bubblegum pink color)
 3. Incubate samples for 2 minutes at room temperature
 4. Centrifuge samples at 12,000g for 15 minutes at 4ºC
-	- The mixture will separate into a lower red phenol-chloroform phase, a milky interphase, and a colorless upper aqueous phase (~50% of the total volume)
-5. Carefully pipette out the aqueous phase containing the RNA; avoid drawing any of the interphase or organic layer into the pipette as this will cause phenol contamination—slow and steady!
+	- The mixture will separate into a lower red phenol-chloroform organic phase, a milky interphase, and a colorless upper aqueous phase (~50% of the total volume)
+5. Carefully pipette out the aqueous phase containing the RNA; avoid drawing any of the interphase or organic layer into the pipette as this will cause phenol contamination
 	- Tilting the tube at a slight angle is okay, but keeping the tube upright will help prevent the phases from mixing
 	- Try to remove 300-400uL of the aqueous phase
-6. Place the aqueous phase into a new 1.5mL tube and proceed to RNA isolation; keep on ice
-7. Store the interphase and phenol-chloroform phase at 4ºC for DNA isolation on the same day
+6. Place the aqueous phase into a new 1.5mL tube and proceed to RNA isolation
+7. Store the interphase and organic phase at 4ºC for DNA isolation (same day)
 
 ### 2. RNA Isolation
 
@@ -106,63 +115,48 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 **Solubilize the RNA**
 1. Resuspend the RNA pellet in 30µL RNase-free water by pipetting the solution up and down several times
 2. Incubate at 55-60ºC for 10-15 minutes
-3. Long-term storage at -70ºC
-
-**Nanodrop RNA** (*optional*)
-- A260/280 = ~2.0 
-	- If lower, likely presence of protein, phenol, or other contaminants
-- A260/230 = 2.0 - 2.2
-	- If lower, likely presence of Trizol/phenol
-
-See more [here](https://dna.uga.edu/wp-content/uploads/sites/51/2019/02/Note-on-the-260_280-and-260_230-Ratios.pdf) about absorbance ratios
+3. Measure on Nanodrop/Qubit ([calculations spreadsheet](https://docs.google.com/spreadsheets/d/1dncCvx_XR8j56II3qtQBzECOIseynwCOv8T3BreIVWM/edit?usp=sharing))
+	- A260/280 = ~2.0 (if lower, likely presence of DNA, protein, phenol, etc)
+	- A260/230 = 2.0 - 2.2 (if lower, likely presence of Trizol, phenol, etc)
+4. Long-term storage at -70ºC
 
 ### 3. DNA Isolation
 
+**Perform the following procedure in the fume hood, except for centrifugation.**
+
 **Precipitate the DNA**
-4. Remove any remaining aqueous phase using a smaller pipette—this step is critical to limiting DNA contamination, but DO NOT DISTURB THE INTERPHASE
+1. Remove any remaining aqueous phase using a smaller pipette—this step is critical to limiting DNA contamination, but DO NOT DISTURB THE INTERPHASE
 	- If disturbed, consider re-spinning at 12,000g for 5 minutes before trying to remove the aqueous phase again
-5. Add 300uL 100% ethanol, cap the tube and invert several times to mix before pipetting into a new 1.5mL tube
-6. Incubate for 2-3 minutes at room temperature on shaker
-7. Centrifuge at 5,000g for 5 minutes at 4ºC
-8. Remove the phenol-ethanol supernatant, going back in with a smaller pipette tip to remove all excess liquid
+2. Add 300uL 100% ethanol, cap the tube and invert several times to mix before pipetting into a new 1.5mL tube
+3. Incubate for 2-3 minutes at room temperature on shaker
+4. Centrifuge at 5,000g for 5 minutes at 4ºC
+5. Remove the phenol-ethanol supernatant, going back in with a smaller pipette tip to remove all excess liquid
 
 Work can now move to the biosafety cabinet/laminar flow hood
 
 **Wash the DNA**
-9. Add 1mL of sodium citrate/ethanol solution to each sample
-10. Incubate for 30 minutes at room temperature on shaker
+1. Add 1mL of sodium citrate/ethanol solution to each sample
+2. Incubate for 30 minutes at room temperature on shaker
 	- DNA can be kept in sodium citrate/ethanol solution for up to 2 hours
-11. Centrifuge at 5,000g for 5 minutes at 4ºC
-12. Remove and discard supernatant, then repeat wash steps 1-3 again
+3. Centrifuge at 5,000g for 5 minutes at 4ºC
+4. Remove and discard supernatant, then repeat wash steps 1-3 again
 	- It is unlikely that a pellet will be visible so be careful when pipetting
-13. Add 1.5mL 75% ethanol and incubate for 5 minutes at room temperature on shaker
-	- Can store overnight at 4ºC
-14. Centrifuge at 5,000g for 5 minutes at 4ºC
-15. Remove and discard supernatant, going back in with a smaller pipette tip to remove all excess liquid
-16. Air dry the DNA pellet for 10-15 minutes; do not allow the DNA pellet to dry completely.
+	- If a white shard-like precipitate appears continue with protocol; it will get smaller with each wash step
+5. Add 1 mL 75% ethanol and incubate for 5 minutes at room temperature on shaker
+	- Can store overnight at 4ºC (*untested*)
+6. Centrifuge at 5,000g for 5 minutes at 4ºC
+7. Remove and discard supernatant, going back in with a smaller pipette tip to remove all excess liquid
+8. Air dry the DNA pellet for 10-15 minutes; do not allow the DNA pellet to dry completely
 
 **Resuspend the DNA**
-17. Add 20uL 8mM NaOH buffer and pipette up and down until pellet is dissolved, let sit for one minute before quantifying
-18. Measure on Nanodrop/Qubit ([qubit calculations](https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=701799736#gid=701799736))
-19. Add 180uL TE buffer to bring pH down to 7-8 and store in -20ºC
+1. Add 20uL warm 8mM NaOH buffer and pipette up and down until pellet is dissolved, let sit for one minute before quantifying
+2. Measure on Nanodrop/Qubit ([calculations spreadsheet](https://docs.google.com/spreadsheets/d/1dncCvx_XR8j56II3qtQBzECOIseynwCOv8T3BreIVWM/edit?usp=sharing))
+	- A260/280 = ~1.8 (if lower, likely presence of proteins, phenol, etc)
+	- A260/230 = 2.0 - 2.2 (if lower, likely presence of Trizol, phenol, etc)
+3. Add 180uL TE buffer to bring pH down to 7-8 
+4. Long-term storage at -20ºC
 
-20. ~~Centrifuge at 12,000g for 10 minutes at 10ºC to remove any insoluble material~~
-21. ~~Transfer the supernatant containing the DNA to a new 1.5mL tube~~
-22. ~~Long-term storage at -20ºC~~
-
-Trying to avoid this part of the protocol...
-23. <mark style="background: #FFF3A3A6;">Resuspend the DNA 300-600µL of 8mM NaOH at a concentration of 0.2-0.3 µg/µL</mark>
-	- 300-600µL per 50-70mg tissue
-	- 8µL 1M NaOH + 992µL water
-	- Can store overnight at 4ºC
-24. Centrifuge at 12,000g for 10 minutes at 10ºC to remove any insoluble material.
-25. Transfer the supernatant containing the DNA to a new tube. 
-	- The DNA can be stored overnight at 4ºC but for long-term storage at 4ºC or -20ºC adjust to pH 7-8 with HEPES and add 1mM EDTA
-
-**Nanodrop DNA** (*optional*)
-- A260/280 = ~1.8
-	- If lower, likely presence of protein, phenol, or other contaminants
-- A260/230 = 2.0 - 2.2
-	- If lower, likely presence of Trizol/phenol
-
-See more [here](https://dna.uga.edu/wp-content/uploads/sites/51/2019/02/Note-on-the-260_280-and-260_230-Ratios.pdf) about absorbance ratios
+*Optional steps*
+5. Centrifuge at 12,000g for 10 minutes at 10ºC to pellet any insoluble material
+6. Transfer the supernatant containing the DNA to a new 1.5mL tube
+7. Long-term storage at -20ºC
