@@ -1,5 +1,5 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: February 5, 2025 JF
+Last edit: February 24, 2025 JGM
 ### Notes
 All steps are assuming 50-100mg starting tissue and 1mL Trizol. 
 Optimized for working with small samples of oyster tissue. 
@@ -108,7 +108,7 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 3. Remove the supernatant from the tube, leaving only the gel-like RNA pellet
 
 **Wash the RNA**
-1. Add 1mL of 75% ethanol to wash the pellet; vortex sample briefly then centrifuge at 7,500g for 5 minutes at 4ºC
+1. Add 1mL of 100% ethanol to wash the pellet; vortex sample briefly then centrifuge at 7,500g for 5 minutes at 4ºC
 2. Remove and discard the supernatant, going back in with a smaller pipette tip to remove all excess liquid
 3. Air dry the RNA pellet for 5-10 minutes; do not allow the RNA pellet to dry completely 
 
