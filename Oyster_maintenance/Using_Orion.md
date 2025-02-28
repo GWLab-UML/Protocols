@@ -47,3 +47,19 @@ But if you want/need to calibrate it...
 3. Place probe in calibration solution and click Start
 4. Wait for stabilized measurement - make sure the reading is similar to the calibration solution you chose - then click Accept
 
+
+### Troubleshooting
+
+If the temperature or readings say 9999 ...
+- wait a few minutes for Orion to 'warm up' - sometimes this happens when you turn it on and try to calibrate right away
+
+If you try to calibrate a probe and the option you want isn't there or you get an error message...
+- might be on the wrong screen that's not displaying all of the channels/probes
+	- Orion ignores the other channels/probes and won't let you calibrate anything but what the screen is showing
+	- **to fix**: keep clicking the 'channel' button (typically top right button) until you get back to the intended display
+- might be in the wrong mode/units for that probe
+	- for example: salinity is in mS/m instead of psu, DO is in %sat instead of mg/L
+	- **to fix**: click 'setup' (the up arrow of the quad buttons in the center), navigate to the probe/channel with the issues, select 'Mode settings', find the row for 'measurement units' and click 'select', and change to desired units - now calibration should return to normal
+
+
+if none of those work, always a good idea to try turning on/off, checking the battery, unplugging and re-plugging the probe
