@@ -52,6 +52,9 @@ But if you want/need to calibrate it...
 
 If the temperature or readings say 9999 ...
 - wait a few minutes for Orion to 'warm up' - sometimes this happens when you turn it on and try to calibrate right away
+- check connections of the probe to Orion
+- can pull off the end cap of the RDO probe - check that there's not water there and the gold prongs are touching the probe and bent
+- factory reset (setting > diagnostics > factory reset > password is 111111)
 
 If you try to calibrate a probe and the option you want isn't there or you get an error message...
 - might be on the wrong screen that's not displaying all of the channels/probes
