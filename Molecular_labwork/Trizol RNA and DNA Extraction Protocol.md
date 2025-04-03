@@ -1,5 +1,5 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: February 24, 2025 JGM
+Last edit: April 3, 2025 JF
 ### Notes
 All steps are assuming 50-100mg starting tissue and 1mL Trizol. 
 Optimized for working with small samples of oyster tissue. 
@@ -9,16 +9,16 @@ Relevant calculations can be found on [this spreadsheet](https://docs.google.com
 - RNase away
 - RNA-free 2mL tubes (1 per sample)
 - RNA-free 1.5mL tubes (1 per sample)
-- Forceps, bunsen burner, ethanol
+- Forceps, bunsen burner, 100% ethanol
 - Homogenizer 150
 - Sterile plastic homogenizer probes (1 per sample)
-- Trizol
+- 5% bleach
+- Trizol (1mL per sample)
 - Chloroform (200uL per sample)
 - Cold rack
 
 ***RNA Extraction***
 - 100% isopropanol (500uL per sample)
-- 75% ethanol (==make new aliquot every time==, 1mL per sample)
 - Molecular grade water (RNA-free, sterile, 30uL per sample)
 
 ***DNA Extraction***
@@ -35,7 +35,7 @@ Relevant calculations can be found on [this spreadsheet](https://docs.google.com
 		- 10mL 1M sodium citrate solution
 		- 80mL molecular grade water
 		- Store at room temp
-- Sodium hydroxide, 8mM (20uL per sample)
+- Sodium hydroxide, 8mM (10uL per sample)
 	- To make stock 2M sodium hydroxide:
 		- 40g sodium hydroxide dissolved in 500mL of molecular grade water
 		- Autoclave at 121ºC for 20 minutes
@@ -44,7 +44,7 @@ Relevant calculations can be found on [this spreadsheet](https://docs.google.com
 		- 8uL 2M NaOH
 		- 1.992mL molecular grade water
 		- Store at room temp
-- TE buffer, pH 8.0 (180uL per sample)
+- TE buffer, pH 8.0 (100uL per sample)
 	- To make stock Tris-HCl:
 		- 12.11g Tris base dissolved in 80mL DI water (use stir bar)
 		- In fume hood, add concentrated HCl until pH reads 8.0
@@ -56,10 +56,16 @@ Relevant calculations can be found on [this spreadsheet](https://docs.google.com
 		- 98.8mL of molecular grade water
 		- Store at room temp 
 ### 0. Prep
+- Set minicentrifuge to 4ºC
 - Bleach and RNAse away all surfaces and anything you'll touch in the fume hood (pipette tips, pipettes, homogenizer, rack, timer, pen, etc.)
 - Set up liquid and solid hazardous waste buckets inside fume hood
-- Set minicentrifuge to 4ºC
-- For homogenizing: set up bunsen burner inside fume hood
+- For homogenizing inside fume hood
+	- Bunsen burner
+	- 2x forceps
+	- 1x sterile beaker for forceps
+	- 1x sterile beaker for ethanol
+	- 2x beakers for DI
+	- 1x beaker for bleach
 - For RNA extraction: set incubator to 55-60ºC
 - For DNA extraction: put 8mM NaOH in incubator to warm
 ### 1A. Homogenizing samples 
@@ -74,8 +80,9 @@ Relevant calculations can be found on [this spreadsheet](https://docs.google.com
 	- Keep tubes in cold rack while homogenizing and be careful of spillover
 	- *Never run homogenizer dry*
 5. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 4
-6. Remove probe and put into glass beaker to be cleaned later
-7. Repeat steps 3-5 for all samples
+6. Clean probe immediately as follows: first DI bath 10s, bleach 10s, second DI bath 10s
+7. Remove probe and leave in second DI bath
+8. Repeat steps 3-5 for all samples
 
 Due to the Homogenizer 150 getting hot with use and the potential for RNA degradation, do not exceed 10 samples without resting the equipment for 30 minutes. (*untested*)
 ### 1B. Phase separation 
@@ -149,11 +156,11 @@ Work can now move to the biosafety cabinet/laminar flow hood
 8. Air dry the DNA pellet for 10-15 minutes; do not allow the DNA pellet to dry completely
 
 **Resuspend the DNA**
-1. Add 20uL warm 8mM NaOH buffer and pipette up and down until pellet is dissolved, let sit for one minute before quantifying
-2. Measure on Nanodrop/Qubit ([calculations spreadsheet](https://docs.google.com/spreadsheets/d/1dncCvx_XR8j56II3qtQBzECOIseynwCOv8T3BreIVWM/edit?usp=sharing))
+1. Add 10uL warm 8mM NaOH buffer and pipette up and down until pellet is dissolved, let sit for one minute
+2. Add 100uL TE buffer to bring pH down to 7-8 
+3. Measure on Nanodrop/Qubit ([calculations spreadsheet](https://docs.google.com/spreadsheets/d/1dncCvx_XR8j56II3qtQBzECOIseynwCOv8T3BreIVWM/edit?usp=sharing))
 	- A260/280 = ~1.8 (if lower, likely presence of proteins, phenol, etc)
 	- A260/230 = 2.0 - 2.2 (if lower, likely presence of Trizol, phenol, etc)
-3. Add 180uL TE buffer to bring pH down to 7-8 
 4. Long-term storage at -20ºC
 
 *Optional steps*
