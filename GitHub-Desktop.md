@@ -44,3 +44,6 @@ If there's a public repo (like most of the repos on the GW lab page) that you ar
 	1. a pop-up should ask how you plan to use this repo - click 'To contribute to the parent project'
 3. make whatever changes you need 
 4. commit your changes to the main branch of your forked repo using GH desktop
+5. push origin - navigate back to the website version
+6. there should be a box telling you your branch is 1 commit ahead of the parent repo - click contribute > Open pull request
+7. then make a pull request just as you would above!
