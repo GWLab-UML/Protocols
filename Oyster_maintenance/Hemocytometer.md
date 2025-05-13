@@ -24,6 +24,9 @@ A hemocytometer is a specialized slide used for cell counting with a microscope.
 ### Calculations:
 - Concentration, aka viable cells per mL = avg # of cells per square * dilution factor * 10^4
 - Avg # of cells per square = total # of viable cells / # of squares used
-- The dilution factor will be 1 since no dyes are being used
-- 
+- Dilution factor = final volume / initial volume
+
+Use Lugol's iodine for algae cell counts
+- 1 part Lugol's iodine to 10 parts algae
+
 (if counting algae cells for oyster feeding - see the [Algae Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1UBeluqx4SQUdaInXP4of0siFTtXhhd97nKfENCC8lmE/edit?gid=0#gid=0) - just enter the cell count and it auto-calculates concentration)
