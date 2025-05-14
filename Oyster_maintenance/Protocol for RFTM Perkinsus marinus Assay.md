@@ -7,7 +7,8 @@ Materials for Preparing RFTM:
 - FTM powder
 - NaCl
 - DI water
-- chloramphenicol
+- Chloramphenicol
+- Foil
 
 I. Preparing the RFTM
 1. In a 600 mL beaker with a stir bar, combine 14.6 g FTM powder, 10 g NaCl, and 485 mL distilled water
@@ -21,17 +22,23 @@ I. Preparing the RFTM
 Materials needed for RFTM inoculation with oyster tissues
 - RFTM
 - 1.5 mL tubes
+- 1000 uL pipet 
+- 1000 uL pipet tips 
+- Sharpie
 - Dissecting scissors
+- Tweezers
 - Nystatin suspension
 - Oysters 
 
 II. RFTM inoculation with oyster tissues
 
-8. In the biosafety cabinet, aliquot 1 mL of RFTM into labeled 1.5 mL tubes; tubes are labeled by tissue types, such as mantle, gills, heart, and rectum
-9. Gently add 2-4 drops of nystatin suspension to inhibit fungus growth
-10. Obtain Oysters
-11. Under the biosafety cabinet, excise small pieces (3-5 mm) of each oyster's mantle, gill, and heart and inoculate each tissue into each respective 1.5 mL tube
-12. Cap tubes loosely, and incubate for 7 days in the dark at 27° (20°C to 30°C is effective)
+
+8. UV sterilize tweezers and dissecting scissors
+9. In the biosafety cabinet, aliquot 1 mL of RFTM into labeled 1.5 mL tubes; tubes are labeled by tissue types, such as mantle, gills, heart, and rectum
+10. Gently add 2-4 drops of nystatin suspension to inhibit fungus growth
+11. Obtain Oysters
+12. Under the biosafety cabinet, excise small pieces (3-5 mm) of each oyster's mantle, gill, and heart and inoculate each tissue into each respective 1.5 mL tube
+13. Cap tubes loosely, and incubate for 7 days in the dark at 27° (20°C to 30°C is effective)
 
 Materials needed for RFTM assay analysis:
 - Lugol's iodine
