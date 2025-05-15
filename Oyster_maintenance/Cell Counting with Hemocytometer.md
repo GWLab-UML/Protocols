@@ -22,8 +22,22 @@ A hemocytometer is a specialized slide used for cell counting with a microscope.
 - Do the same with the cover slip of the hemocytometer
 
 ### Calculations:
+
+Materials needed for calculations:
+- Hemocytometer
+- 1 mL tube 
+- 20 uL pipet
+- 20 uL pipet tips 
+
+To perform calculations: 
 - Concentration, aka viable cells per mL = avg # of cells per square * dilution factor * 10^4
 - Avg # of cells per square = total # of viable cells / # of squares used
-- The dilution factor will be 1 since no dyes are being used
-- 
+- Dilution factor = final volume / initial volume
+
+Use Lugol's iodine for algae and *Perkinsus* cell counts
+1. Create 30% (v/v) Lugol's iodine solution by mixing 3 parts iodine solution with 7 parts DI water
+2. Label a 1 mL tube "DF 1.1" and the name of the species that is being counted
+3. Start with a dilution factor of 1.1 by adding 2 uL of the 30% (v/v) Lugol's iodine solution to 20 uL of algae in a 1 mL tube. Pipet up and down to mix solution. 
+4. Increase the dilution factor if needed
+
 (if counting algae cells for oyster feeding - see the [Algae Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1UBeluqx4SQUdaInXP4of0siFTtXhhd97nKfENCC8lmE/edit?gid=0#gid=0) - just enter the cell count and it auto-calculates concentration)
