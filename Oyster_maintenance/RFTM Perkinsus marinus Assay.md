@@ -1,4 +1,4 @@
-Materials to autoclave before beginning protocol:
+**Materials to autoclave before beginning protocol** (if not already autoclaved):
 - Glass culturing tubes with covers 
 - 600 mL beaker
 - Small beaker (150 mL should be sufficient)
@@ -6,7 +6,8 @@ Materials to autoclave before beginning protocol:
 - 5 mL glass pipet tip
 - Two stir bars
 
-Materials for Preparing RFTM: 
+## I. Preparing the RFTM
+**Materials:**
 - 1000 mL graduated cylinder
 - 600 mL beaker 
 - Stir bar 
@@ -18,7 +19,7 @@ Materials for Preparing RFTM:
 - Chloramphenicol
 - Foil
 
-I. Preparing the RFTM
+**Protocol:**
 1. Add a stir bar to a 600 mL beaker
 2. Add 14.6 g FTM powder, 10 g NaCl, and 485 mL distilled water to the beaker
 3. Cover the flask with foil, and set heat to 85°C with stirring power at 300-400 rpm until fully dissolved, raise temperature as needed
@@ -28,7 +29,9 @@ I. Preparing the RFTM
 7. Allow RFTM to cool in a sterile environment, like a BSC, once they have cooled to room temp, close the bottle caps tightly
 8. Wrap RFTM in foil or tape to keep in the dark in 4°C fridge (fridge storage allows storage for a year)
 
-Materials needed for RFTM inoculation with oyster tissues
+
+## II. RFTM inoculation with oyster tissues
+**Materials**
 - RFTM
 - Glass culture tubes
 - 25 mL glass pipet tips
@@ -46,39 +49,45 @@ Materials needed for RFTM inoculation with oyster tissues
 - Beaker of 70% ethanol 
 - Bunsen burner
 
-II. RFTM inoculation with oyster tissues
+**Protocol:**
+Wipe down all surfaces with 10% bleach before and after protocol
 
-9. UV sterilize tweezers, dissecting scissors, and empty glass tubes with covers for five minutes
-10. While tools are UV sterilizing, create a nystatin suspension by adding a stir bar, and 7 parts nystatin powder to 10 parts DI water into a small beaker. 
-11. Cover this beaker of nystatin suspension with foil and stir on stir plate until fully dissolved
-12. Label glass tubes with important sample and ID information, such as which oyster the sample is from, what species, what tissue type, etc. 
-13. Obtain oyster and place them in weigh boat on lab bench to reduce mess
-14. Shuck the oyster open
-15. If necessary, discard excess liquid from oyster into a plastic bag with no holes to avoid spilling in the BSC. This and all soft oyster tissue contents will be discarded later. 
-16. If there are not enough tweezers and scissors for each tissue sample, set up bunsen burner and beaker of 70% ethanol on lab bench. 
-17. Using a new pair of tweezers and scissors for each sample, excise tissue samples from oysters and place them into their respective labeled tubes. Ethanol flame tweezers and scissors if necessary. 
-18. Bring tubes containing samples into the BSC 
-19. In the BSC, aliquot 25 mL of RFTM into labeled glass tubes containing tissue samples
-20. Gently add 2-4 drops of nystatin suspension into tubes to inhibit fungus growth. Beaker of Nystatin suspension can be stored in the fridge for future use. 
-21. Wipe surface of BSC with 10% bleach after inoculating is finished
-22. Incubate for 7 days in the dark at 27° (20°C to 30°C is effective) for an RFTM assay analysis
-23. Discard all soft oyster tissue in plastic bag. 
-24. Rinse oyster shells and add them into the bag of oyster shells found at the bottom of the Narwhaal freezer
+1. UV sterilize tweezers, dissecting scissors, and empty glass tubes with covers for five minutes
+2. While tools are UV sterilizing, create a nystatin suspension by adding a stir bar, and 7 parts nystatin powder to 10 parts DI water into a small beaker. 
+3. Cover this beaker of nystatin suspension with foil and stir on stir plate until fully dissolved
+4. Label glass tubes with important sample and ID information, such as where oyster is from, tissue type, etc.
 
-Materials needed for RFTM assay analysis:
+**on bench**
+
+5. Obtain oyster - shuck and dissect in plastic weigh boat on lab bench (to reduce mess)
+	- *do not shuck and dissect oysters in the BSC*
+	- keep sterile between oyster samples/tissues - ethanol flame tweezers/scissors between individuals (have two sets, one working and one cooling down from the flame (in an empty sterile beaker) - *do not dissect with hot tools*)
+   	- If necessary, discard excess liquid from oyster into a plastic bag with no holes. This and all soft oyster tissue contents will be discarded later. Oyster shells can be rinsed with water and kept in 'shell bag' in the bottom of the Narwhal freezer
+6. Place tissue samples into their respective labeled tubes - bring to BSC when done
+
+**in BSC**
+
+7. Aliquot 25 mL of RFTM into labeled glass tubes containing tissue samples
+8. Gently add 2-4 drops of nystatin suspension into tubes to inhibit fungus growth. Beaker of Nystatin suspension can be stored in the fridge for future use. 
+9. Incubate for 7 days in the dark at 27° (20°C to 30°C is effective) for an RFTM assay analysis 
+
+
+## III. RFTM assay analysis
+**Materials:**
 - Lugol's iodine
 - DI water
 - Sterile tweezers
 - Microscope slides
 - Microscope coverslips
 - Pencil
-III. RFTM assay analysis
-23. UV sterilize a pair of tweezers for five minutes
-24. While waiting for tweezers to sterilize, if there is not a 30% (v/v) Lugol's iodine solution already, create 30% (v/v) Lugol's iodine solution by mixing 3 parts iodine solution with 7 parts DI water
-25. Label microscope slides with a pencil. Slides are labeled with important sample and ID information, such as which oyster the sample is from, what species, what tissue type, etc
-26. Add a small pool of 30% (v/v) Lugol's iodine solution to a labeled microscope slide
-27. With sterile tweezers, tease each tissue in the iodine solution apart, add another drop of 30% (v/v) Lugol's iodine solution if needed, and mount a coverslip over the stained tissue
-28. Examine under microscope for spherical, blue-black *Perkinsus* cells with diameters of 10-100 um
-29. Count and determine if there is *Perkinsus* present and how many cells are present
-30. Repeat for each sample and take note of observations
+
+**Protocol:**
+1. UV sterilize a pair of tweezers for five minutes
+2. While waiting for tweezers to sterilize, if there is not a 30% (v/v) Lugol's iodine solution already, create 30% (v/v) Lugol's iodine solution by mixing 3 parts iodine solution with 7 parts DI water
+3. Label microscope slides with a pencil. Slides are labeled with important sample and ID information, such as which oyster the sample is from, what species, what tissue type, etc
+4. Add a small pool of 30% (v/v) Lugol's iodine solution to a labeled microscope slide
+5. With sterile tweezers, tease each tissue in the iodine solution apart, add another drop of 30% (v/v) Lugol's iodine solution if needed, and mount a coverslip over the stained tissue
+6. Examine under microscope for spherical, blue-black *Perkinsus* cells with diameters of 10-100 um
+7. Count and determine if there is *Perkinsus* present and how many cells are present
+8. Repeat for each sample and take note of observations
 	
