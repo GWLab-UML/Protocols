@@ -40,6 +40,7 @@ Outside of hood—
 	- Periodically swirl carboy to help dissolve salt
 
 In the hood—
+
 3. Spray entire hood working surface with 70% ethanol
 4. Spray all materials except liquid algae culture with 70% ethanol before putting them into the hood
 5. Close the hood and turn on the UV light for 5 minutes **DO NOT UV STERILIZE ALGAE**
@@ -54,6 +55,7 @@ In the hood—
 13. Outside of the hood, use the mallet to lightly tap down the rubber stopper to ensure a tight seal
 
 In the oyster room—
+
 13. Place the carboy on the bottom shelf and attach the airline to the air pump system
 14. Make sure the carboy is bubbling and then release the clamp on the exhaust
 
@@ -116,6 +118,7 @@ Outside of hood—
 4. Swirl flask until dissolved
 
 In the hood—
+
 5. Add f/2 media to flask and swirl
 6. Pipette liquid algae culture into flask and swirl
 7. Put in foam stopper and return flask to the bench top, in front of the grow lights
@@ -149,11 +152,13 @@ Outside of hood—
 5. Add remaining DI water to flask, immediately replace tinfoil
 
 In the hood—
+
 6. Add f/2 media to flask and swirl
 7. Pipette or pour liquid algae culture into flask
 8. Secure a piece of parafilm to the top of the flask
 
 In the oyster room near the carboys and grow lights—
+
 9. Use a clean (bleached) airline and connect it to the main air pump
 10. Peel back the parafilm and position the airline into the 2L flask
 11. Secure the airline in place with the parafilm and make sure it is bubbling
@@ -162,7 +167,7 @@ In the oyster room near the carboys and grow lights—
 Keep an eye on the flasks to make sure 1) parafilm remains secure so there is no evaporation, 2)  airline stays in place and continues to bubble, 3) we have a sterile carboy prepared for when the 2L flask becomes sufficiently dense.
 
 # Slant Cultures
-Long-term storage of algae species that don't require regular maintenance; can stay at room temperature for 6-12 months. We want to make sure that only algae (not bacteria) grows so make sure all materials are autoclaved and work is done either over a bunsen burner or in the gray hood. These are our most sterile stocks! **When handling the agar or algae at this stage, work in the gray hood and spray things with 75% ethanol to keep things sterile.
+Long-term storage of algae species that don't require regular maintenance; can stay at room temperature for 6-12 months. We want to make sure that only algae (not bacteria) grows so make sure all materials are autoclaved and work is done either over a bunsen burner or in the gray hood. These are our most sterile stocks! **When handling the agar or algae at this stage, work in the gray hood and spray things with 75% ethanol to keep things sterile.**
 
 ## Making Agar Slants
 Goals: 
@@ -193,6 +198,7 @@ Outside the hood—
 4. Use stir bar to help dissolve agar
 
 In the hood—
+
 5. Add f/2 media 
 6. Cover flask loosely with tinfoil and autoclave for 20 minutes
 7. Once moderately cool, start pipetting 15mL into each test tube, leaving the cap off
@@ -210,6 +216,7 @@ Materials:
 
 Steps:
 In the hood—
+
 1. Uncap glass tube and pipette algae culture on top of the solid agar
 2. Gently scrape the pipette tip across the top of the agar (create more surface area)
 3. Recap glass tube, label appropriately with the date, and replace parafilm
