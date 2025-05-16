@@ -1,6 +1,11 @@
-Last update: May 7, 2025 (Jade Fiorilla)
+Last update: May 16, 2025 (Jade Fiorilla)
 
-Algae - 28psu
+# Our Algae Strains
+*Pavlova pingus*
+*Tetraselmis sueccia*
+Diatom species TBD
+
+Ideal salinity = 28psu
 
 # Carboy Cultures
 Larger volumes of algae to feed out to oysters. Kept constantly bubbling and as sterile as possible since contamination with other algae species OR bacteria is of high concern. As these carboys are actively being used (i.e. algae is being taken out) they will need to be re-bloomed to prevent population crashes and replenish nutrients. 
@@ -31,10 +36,11 @@ Materials:
 Steps:
 Outside of hood—
 1. Measure out Instant Ocean and add to carboy, immediately cover with tinfoil
-2. Put carboy on rolling cart and take to room __ to fill with DI water, immediately replace tinfoil
+2. Put carboy on rolling cart and take to room 601 to fill with DI water, immediately replace tinfoil
 	- Periodically swirl carboy to help dissolve salt
 
 In the hood—
+
 3. Spray entire hood working surface with 70% ethanol
 4. Spray all materials except liquid algae culture with 70% ethanol before putting them into the hood
 5. Close the hood and turn on the UV light for 5 minutes **DO NOT UV STERILIZE ALGAE**
@@ -49,6 +55,7 @@ In the hood—
 13. Outside of the hood, use the mallet to lightly tap down the rubber stopper to ensure a tight seal
 
 In the oyster room—
+
 13. Place the carboy on the bottom shelf and attach the airline to the air pump system
 14. Make sure the carboy is bubbling and then release the clamp on the exhaust
 
@@ -80,7 +87,7 @@ Steps:
 13. Once the carboy is dry, tinfoil the top and autoclave
 
 # Flask Cultures
-Keep more sterile liquid stocks of all algae species in case of carboy contamination or population crash. Should be swirled every day and re-bloomed every week. **When handling the algae at this stage, work in the gray hood and spray things with 75% ethanol to keep things sterile!**
+Keep more sterile liquid stocks of all algae species in case of carboy contamination or population crash. Should be swirled every day and re-bloomed every week. **When handling the algae at this stage, work in the gray hood and spray things with 75% ethanol to keep things sterile. ==IMPORTANT: only open one species of algae at a time when working in the hood to prevent cross-contamination**==
 
 ## Re-bloom Flasks
 Goals: 
@@ -92,11 +99,11 @@ Materials:
 	- 250mL flask, max 50mL volume
 	- 500mL flask, max 250mL volume
 - Instant Ocean
-	- 6.75g per 200mL (or 0.0325g/mL)
+	- 6.50g per 200mL (or 0.0325g/mL)
 - DI water
 - F/2 media, sterile and kept at 4ºC
 	- 250uL per 250mL *total volume* (or 1uL/1mL)
-- 5mL glass serological pipette, autoclaved
+- 25mL glass serological pipette, autoclaved
 - Liquid algae culture
 	- 50mL depending on density
 - Foam stopper, autoclaved
@@ -111,6 +118,7 @@ Outside of hood—
 4. Swirl flask until dissolved
 
 In the hood—
+
 5. Add f/2 media to flask and swirl
 6. Pipette liquid algae culture into flask and swirl
 7. Put in foam stopper and return flask to the bench top, in front of the grow lights
@@ -125,51 +133,94 @@ Goals:
 Materials:
 - 2L flask, autoclaved
 - Instant Ocean
+	- 56.9g per 1750mL (or 0.0325g/mL)
 - DI water
-- 5mL glass serological pipette, autoclaved
-- Liquid algae culture
 - F/2 media, sterile and kept at 4ºC
+	- 2mL per 2L *total volume* (or 1mL/1L)
+- 25mL glass serological pipette, autoclaved
+- Liquid algae culture
+	- 250mL or the whole volume from a dense 500mL flask
 - Air pump and tubing
 
+Steps:
+Outside of hood—
+1. Record how much you plan to grow up in the 2L flask in the [algae flask spreadsheet](https://docs.google.com/spreadsheets/d/1UBeluqx4SQUdaInXP4of0siFTtXhhd97nKfENCC8lmE/edit?usp=sharing) (flask re-blooms tab) and label flasks
+	- Species, date, initials, re-bloom number
+2. Measure out Instant Ocean and add to flask, immediately cover with tinfoil
+3. Add ~400mL DI water to flask, immediately replace tinfoil
+4. Swirl flask until dissolved
+5. Add remaining DI water to flask, immediately replace tinfoil
+
+In the hood—
+
+6. Add f/2 media to flask and swirl
+7. Pipette or pour liquid algae culture into flask
+8. Secure a piece of parafilm to the top of the flask
+
+In the oyster room near the carboys and grow lights—
+
+9. Use a clean (bleached) airline and connect it to the main air pump
+10. Peel back the parafilm and position the airline into the 2L flask
+11. Secure the airline in place with the parafilm and make sure it is bubbling
+	- Algae cultures do not need an airstone
+
+Keep an eye on the flasks to make sure 1) parafilm remains secure so there is no evaporation, 2)  airline stays in place and continues to bubble, 3) we have a sterile carboy prepared for when the 2L flask becomes sufficiently dense.
+
 # Slant Cultures
-Long-term storage of algae species that don't require regular maintenance; can stay at room temperature for 6-12 months. We want to make sure that only algae (not bacteria) grows so make sure all materials are autoclaved and work is done either over a bunsen burner or in the gray hood. These are our most sterile stocks! 
+Long-term storage of algae species that don't require regular maintenance; can stay at room temperature for 6-12 months. We want to make sure that only algae (not bacteria) grows so make sure all materials are autoclaved and work is done either over a bunsen burner or in the gray hood. These are our most sterile stocks! **When handling the agar or algae at this stage, work in the gray hood and spray things with 75% ethanol to keep things sterile.**
 
 ## Making Agar Slants
 Goals: 
 - Create a large agar surface area within a convenient-to-store glass test tube
 
 Materials:
-- Glass tubes with metal caps
-- Instant Ocean + DI water
+- 500mL flask
+- Graduated cylinder
+- Instant Ocean
+	- 0.0325g per 1mL 
+- DI water
 - Bacto Agar
-- F/2 media
+- F/2 media, sterile and kept at 4ºC
+	- 1:1,000 (or 1uL/1mL)
+- 25mL glass serological pipette
+- Glass tubes with metal caps, autoclaved
 
 Master-mix (16 tubes):
-- 10mL media per slant (160mL + 20mL extra = <mark style="background: #FFB8EBA6;">180</mark> mL total, 500mL flask)
-	- ~4.5g Instant Ocean + 180mL DI water to approximate 28ppt
-- 1.5% agar (<mark style="background: #FFB8EBA6;">180</mark> * 0.015 = 2.7g)
-- 1:1,000 f/2 media (<mark style="background: #FFB8EBA6;">180</mark>uL)
+- 15mL saltwater per slant + 20mL extra (15 * 16 + 20 = 260mL)
+- 2% agar (260 * 0.02 = 5.2g)
+- f/2 media (260mL = 260uL)
 
 Steps:
 Outside the hood—
-1. Use stir bar to help dissolve agar
-2. Pipette 10mL of media into each test tube and cover with metal cap
-3. Put a small piece of steam indicator tape on each
-4. In the metal rack, autoclave tubes on liquid setting for 20min
-5. When cool enough to remove, put the rack at 45º angle and allow media to set
-6. Once media is set, wrap where the cap meets the glass tube with a small piece of parafilm and store in 4ºC if not using immediately
+1. Weigh out Instant Ocean and add to flask
+2. Add DI water to flask and swirl until dissolved
+3. Weigh out Bacto Agar and add to flask
+4. Use stir bar to help dissolve agar
 
-## Plating Agar Slants
+In the hood—
+
+5. Add f/2 media 
+6. Cover flask loosely with tinfoil and autoclave for 20 minutes
+7. Once moderately cool, start pipetting 15mL into each test tube, leaving the cap off
+	- Because the agar will start to set as it cools you want to do this when the flask is still relatively hot, so be careful!
+8. After all tubes are filled, make sure to fully eject all remaining media from the serological pipette so nothing gets stuck once the agar sets
+	- If agar does get stuck: fill a 500mL flask with ~200mL water and microwave for 2 minutes, then cautiously (as the water will be very hot) submerge the pipette tip in the and use the pipette gun to expel the softened agar
+9. Now rest the tubes at an almost horizontal angle (~10º) so the agar inside creates a nice gradual slope with lots of surface area
+10. Once the agar is set and all condensation within the tube has evaporated, recap and wrap with a small piece of parafilm
+11. Label the rack and store in 4ºC
+
+## Plating Agar Slants - WIP
 Materials: 
 - Set and cooled agar slants
 - 1mL dense liquid algae, preferably a new starter culture
 
 Steps:
 In the hood—
+
 1. Uncap glass tube and pipette algae culture on top of the solid agar
 2. Gently scrape the pipette tip across the top of the agar (create more surface area)
 3. Recap glass tube, label appropriately with the date, and replace parafilm
 4. Put on bench top in front of the grow lights
 
-## Moving from Slants to Flask
+## Moving from Slants to Flask - WIP
 When a liquid flask needs to be started, or if an existing one crashes, we can go back to our slants and start again with a more sterile culture! 
