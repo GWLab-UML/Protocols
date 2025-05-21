@@ -34,10 +34,24 @@ To perform calculations:
 - Avg # of cells per square = total # of viable cells / # of squares used
 - Dilution factor = final volume / initial volume
 
-Use Lugol's iodine for algae and *Perkinsus* cell counts
-1. Create 30% (v/v) Lugol's iodine solution by mixing 3 parts iodine solution with 7 parts DI water
-2. Label a 1 mL tube "DF 1.1" and the name of the species that is being counted
-3. Start with a dilution factor of 1.1 by adding 2 uL of the 30% (v/v) Lugol's iodine solution to 20 uL of algae in a 1 mL tube. Pipet up and down to mix solution. 
-4. Increase the dilution factor if needed
+### Using Lugol's iodine for algae culturing and *Perkinsus* culturing cell counts:
+
+**Materials:** 
+- Lugol solution
+- DI water
+- 25 conical screw cap tube
+- Masking tape
+- 1 mL tubes
+- 10 uL pipet 
+- 20 uL pipet
+- 10-20 uL pipet tips 
+
+**Protocol:**
+1. If not already made, in a 25 mL conical screw cap tube, create 30% (v/v) Lugol's iodine solution by mixing 3 parts iodine solution with 7 parts DI water
+2. Cover the tube with masking tape to prevent light degradation and store in a place away from direct sunlight
+3. Label a 1 mL tube "DF 1.1" and with the name of the species that is being counted
+4. Start with a dilution factor of 1.1 by adding 2 uL of the 30% (v/v) Lugol's iodine solution to 20 uL of algae in a 1 mL tube. Pipet up and down to mix solution
+5. Pipet 10 uL of the solution into a chamber of the hemocytometer and observe
+6. Increase the dilution factor by creating a new solution in a new tube if needed
 
 (if counting algae cells for oyster feeding - see the [Algae Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1UBeluqx4SQUdaInXP4of0siFTtXhhd97nKfENCC8lmE/edit?gid=0#gid=0) - just enter the cell count and it auto-calculates concentration)

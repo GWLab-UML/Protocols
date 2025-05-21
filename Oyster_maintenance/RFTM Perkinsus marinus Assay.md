@@ -6,7 +6,8 @@ Materials to autoclave before beginning protocol:
 - 5 mL glass pipet tip
 - Two stir bars
 
-Materials for Preparing RFTM: 
+### Preparing RFTM: 
+**Materials:** 
 - 1000 mL graduated cylinder
 - 600 mL beaker 
 - Stir bar 
@@ -18,7 +19,7 @@ Materials for Preparing RFTM:
 - Chloramphenicol
 - Foil
 
-I. Preparing the RFTM
+**Protocol:**
 1. Add a stir bar to a 600 mL beaker
 2. Add 14.6 g FTM powder, 10 g NaCl, and 485 mL distilled water to the beaker
 3. Cover the flask with foil, and set heat to 85°C with stirring power at 300-400 rpm until fully dissolved, raise temperature as needed
@@ -28,7 +29,9 @@ I. Preparing the RFTM
 7. Allow RFTM to cool in a sterile environment, like a BSC, once they have cooled to room temp, close the bottle caps tightly
 8. Wrap RFTM in foil or tape to keep in the dark in 4°C fridge (fridge storage allows storage for a year)
 
-Materials needed for RFTM inoculation with oyster tissues
+### RFTM inoculation with oyster tissues
+
+**Materials:** 
 - RFTM
 - Glass culture tubes
 - 25 mL glass pipet tips
@@ -46,7 +49,7 @@ Materials needed for RFTM inoculation with oyster tissues
 - Beaker of 70% ethanol 
 - Bunsen burner
 
-II. RFTM inoculation with oyster tissues
+**Protocol:**
 
 9. UV sterilize tweezers, dissecting scissors, and empty glass tubes with covers for five minutes
 10. While tools are UV sterilizing, create a nystatin suspension by adding a stir bar, and 7 parts nystatin powder to 10 parts DI water into a small beaker. 
@@ -65,15 +68,19 @@ II. RFTM inoculation with oyster tissues
 23. Discard all soft oyster tissue in plastic bag. 
 24. Rinse oyster shells and add them into the bag of oyster shells found at the bottom of the Narwhaal freezer
 
-Materials needed for RFTM assay analysis:
+### RFTM assay analysis:
+
+**Materials:**
 - Lugol's iodine
 - DI water
 - Sterile tweezers
 - Microscope slides
 - Microscope coverslips
+- Dropper
 - Pencil
-III. RFTM assay analysis
-23. UV sterilize a pair of tweezers for five minutes
+
+**Protocol:**
+23. UV sterilize a pair of tweezers and a dropper for five minutes
 24. While waiting for tweezers to sterilize, if there is not a 30% (v/v) Lugol's iodine solution already, create 30% (v/v) Lugol's iodine solution by mixing 3 parts iodine solution with 7 parts DI water
 25. Label microscope slides with a pencil. Slides are labeled with important sample and ID information, such as which oyster the sample is from, what species, what tissue type, etc
 26. Add a small pool of 30% (v/v) Lugol's iodine solution to a labeled microscope slide
