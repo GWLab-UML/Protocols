@@ -4,7 +4,7 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 - 1000 mL filtration flask 
 - Filtration flask tubing
 
-### Making 1 L of Perkinsus Culturing Media (PCM):
+### I. Making 1 L of Perkinsus Culturing Media (PCM):
 
 **Materials:**
 - DI water
@@ -56,7 +56,7 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 13. Transfer filtered PCM into labeled new sterile 1000 mL glass screw cap bottle
 14. Store sterile PCM in 4°C fridge
 
-### Inoculating Perkinsus strains into PCM:
+### II. Inoculating Perkinsus strains into PCM:
 
 **Materials:**
 - *Perkinsus marinus* strains
