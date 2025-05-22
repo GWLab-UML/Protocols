@@ -75,3 +75,11 @@ Wipe down all surfaces with 10% bleach before and after protocol
 18. Examine under microscope for spherical, blue-black *Perkinsus* cells with diameters of 10-100 um
 19. Count and determine if there is *Perkinsus* present and how many cells are present
 20. Repeat for each sample and take note of observations
+21. Indicate the dermo score on the microscope slide. Refer to the Perkinsus Dermo Score Guide
+	- If there are zero Perkinsus cells found, write a dermo score of (0) on the microscope slide
+	- If there are <10 Perkinsus cells found in the tissue, write a dermo score of (0.5)
+	- If there are 10 < x < 100 Perkinsus cells found in the tissue, write a dermo score of (1)
+	- If there are 100 < x < 200 Perkinsus cells found in the tissue, write a dermo score of (2)
+	- If there are masses of about 50 cells, write a dermo score of (3)
+	- If there is less than half of the tissue that appears blue-black, write a dermo score of (4)
+	- If most tissue appears blue-black, write a dermo score of (5)
