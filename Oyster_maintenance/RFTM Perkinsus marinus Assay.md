@@ -34,8 +34,8 @@
 - RFTM
 - Glass culture tubes
 - 25 mL glass pipet tips
-- Large grey pipet
-- 5 mL glass pipet tip
+- Grey Pipetboy
+- Dropper
 - Sharpie
 - Multiple dissecting scissors
 - Multiple pairs of tweezers 
@@ -43,6 +43,8 @@
 - DI water
 - Small beaker
 - Oysters 
+- Shucking Knife
+- Shucking glove
 - Weigh boats
 - Plastic bag with no holes
 - Beaker of 70% ethanol 
@@ -52,9 +54,21 @@
 Wipe down all surfaces with 10% bleach before and after protocol
 
 9. UV sterilize tweezers, dissecting scissors, and empty glass tubes with covers for five minutes
-10. While tools are UV sterilizing, create a nystatin suspension by adding a stir bar, and 7 parts nystatin powder to 10 parts DI water into a small beaker. 
+10. While tools are UV sterilizing, create a nystatin suspension if not already made by adding a stir bar, and 7 parts nystatin powder to 10 parts DI water into a small beaker. 
 11. Cover this beaker of nystatin suspension with foil and stir on stir plate until fully dissolved
 12. Label glass tubes with important sample and ID information, such as where oyster is from, tissue type, etc.
+13. Obtain oyster and place them in weigh boat on lab bench to reduce mess
+14. Shuck the oyster open
+15. If necessary, discard excess liquid from oyster into a plastic bag with no holes to avoid spilling in the BSC. This and all soft oyster tissue contents will be discarded later. 
+16. Set up bunsen burner and beaker of 70% ethanol on lab bench. 
+17. Ethanol flame tweezers and scissors before excising tissue samples from oysters and placing them in respective tubes.
+18. Bring RFTM, 25 mL glass pipet tips, pipetboy, dropper, nystatin, and tubes containing samples into the BSC 
+19. In the BSC, aliquot ~25 mL of RFTM into labeled glass tubes containing tissue samples
+20. Gently add 2-4 drops of nystatin suspension into tubes to inhibit fungus growth. Beaker of Nystatin suspension can be stored in the fridge for future use. 
+21. Wipe surface of BSC with 10% bleach after inoculating is finished
+22. Incubate for 7 days in the dark at 27° (20°C to 30°C is effective) for an RFTM assay analysis
+23. Discard all soft oyster tissue in plastic bag. 
+24. Rinse oyster shells and add them into the bag of oyster shells found at the bottom of the Narwhaal freezer
 
 ## III. RFTM assay analysis
 **Materials:**
@@ -83,3 +97,4 @@ Wipe down all surfaces with 10% bleach before and after protocol
 	- If there are masses of about 50 cells, write a dermo score of (3)
 	- If there is less than half of the tissue that appears blue-black, write a dermo score of (4)
 	- If most tissue appears blue-black, write a dermo score of (5)
+22. Refer to [[SOP for Disposal of RFTM]] for disposing of RFTM
