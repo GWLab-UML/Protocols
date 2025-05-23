@@ -2,7 +2,7 @@ This protocol uses the Omega Bio-Tek E.Z.N.A. Soil kit. This is the link:
 [https://www.omegabiotek.com/product/soil-dna-extraction-kit-e-z-n-a-soil-dna-kit/?cn-reloaded=1#protocols](https://www.omegabiotek.com/product/soil-dna-extraction-kit-e-z-n-a-soil-dna-kit/?cn-reloaded=1#protocols)
 Otherwise, follow these steps for coral DNA  extraction.
 
-Last edit: CCD Feb 20, 2025 
+Last edit: CCD May 23, 2025 
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#preparation)Preparation
 
@@ -15,11 +15,12 @@ Last edit: CCD Feb 20, 2025
 	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes 
 	- 1 x # of samples in 1.5 mL Eppendorf tubes
 - Wash Hands up to your elbows & mask up!
-- 
+- Bleach all surfaces prior to use (heat sterilization bench, and Bio Safety Cabinet)
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#tissue-lysis)Tissue lysis
 
-1.  Weigh approximately 150 – 250 mg of coral sample in an Eppendorf tube or directly into the disruptor tube. 
+1.  Heat Sterilize your forceps and scissors, wait to cool
+2. Weigh approximately 150 – 250 mg of coral sample in an Eppendorf tube or directly into the disruptor tube. 
 **Only utilize half of each coral sample in your DNA extraction!!**
 1. Crush the coral sample you are using into a tissue slurry (can be done in the tube cap or in the tube with RNA Later)
 2. Weigh your sample and note down how much sample you’ve processed. 
