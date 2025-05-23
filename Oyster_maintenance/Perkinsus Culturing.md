@@ -12,7 +12,7 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 - DME
 - Ham's F12
 - L-glutamine
-- Glycine betaine
+- Glycine betaine or betaine
 - Glucose
 - Sodium bicarbonate
 - Weigh paper/Weigh boat
@@ -22,7 +22,7 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 - 0.22 um filter paper
 - 1000 mL filtration flask
 - Vacuum
-- Large filtration flask tubing
+- Large filtration flask tubing for vacuum
 - Tape
 - Sharpie
 
@@ -40,7 +40,7 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 	1. 1000 mL filtration flask
 	2. 1000 mL glass screw cap bottle of PCM
 	3. Empty 1000 mL glass screw cap bottle 
-	4. Large filtration flask tubing
+	4. Large filtration flask tubing for vacuum
 	5. Glass filter funnel
 	6. Filter base
 	7. Clamp
@@ -64,7 +64,7 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 - 25 cm^2 culture flasks 
 - 1000 uL pipet
 - 1000 uL pipet tips 
-- Large pipet (grey)
+- Grey pipetboy
 - 25 mL pipet tips
 - Sharpie
 
