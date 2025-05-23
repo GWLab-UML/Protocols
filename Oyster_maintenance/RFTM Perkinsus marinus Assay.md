@@ -81,6 +81,7 @@ Wipe down all surfaces with 10% bleach before and after protocol
 - Pencil
 
 **Protocol:**
+
 13. UV sterilize a pair of tweezers and a dropper for five minutes
 14. While waiting for tweezers to sterilize, if there is not a 30% (v/v) Lugol's iodine solution already, create 30% (v/v) Lugol's iodine solution by mixing 3 parts iodine solution with 7 parts DI water
 15. Label microscope slides with a pencil. Slides are labeled with important sample and ID information, such as which oyster the sample is from, what species, what tissue type, etc
