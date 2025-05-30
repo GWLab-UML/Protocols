@@ -16,21 +16,26 @@ A hemocytometer is a specialized slide used for manual cell counting with a micr
 - 10 uL unfiltered pipet tips 
 - 200 uL pipet 
 - 200 uL unfiltered pipet tips 
+- 1.5 mL Eppendorf tubes
 - Algae 
 ### Protocol:
-1. Disinfect the coverslip of the hemocytometer by spraying with 70% ethanol
+1. Disinfect the coverslip of the hemocytometer by spraying with 70% ethanol on both sides
 2. Gently dry with Kimwipe
-3. Fill a small beaker with lab glassware soap and tap water and fill another small beaker with DI water
+3. Fill a small beaker with lab glassware soap and tap water
 4. Without gloves, swish the hemocytometer in the beaker with soap, take it out, and use your fingers to gently rub the two chambers of the hemocytometer. Be sure not to wear gloves when touching the hemocytometer as gloves have a film that can interfere with the cell count 
 5. Repeat swishing the hemocytometer into the soap and gently rubbing the chambers of the hemocytometer with your fingers multiple times, after swishing the hemocytometer in the soap solution one last time, do not touch the surface of the device again as this will leave finger oil droplets that will interfere with the cell count 
 6. Rinse the hemocytometer under DI water
 7. Use Kimwipes to dry the hemocytometer with gentle wiping movements. Make sure you have wiped off all dust and debris by holding the hemocytometer up to a light to see no debris left
-8. Read "Dilutions" below for more information about dilutions and its importance before performing this step. Use Lugol's Iodine to perform a 1:11 dilution of algae by first making Dilution 1, then making Dilution 2. 
+8. If the density of algae in the carboy is visibly extremely low (color of algae is almost clear), pipette 10 uL of the algae into a chamber of the hemocytometer and proceed to step 14. If the algae appears dense under the microscope, proceed to step 9 to perform a dilution to make counting easier
+9. Read "Dilutions" below for more information about dilutions and its importance before performing this step. Use Lugol's Iodine to perform a 1:10 dilution of Lugol's iodine in algae by adding 5 uL of Lugol's iodine to 45 uL of algae in an Eppendorf tube, there is 50 uL total
+10. Pipet 10 uL of this dilution into one chamber of the hemocytometer
+11. If the algae still appears dense under the microscope, proceed to step 12 to perform a different dilution. If the algae is less dense, skip to step 14 to count cells
+12. Read "Dilutions" below for more information about dilutions and its importance before performing this step. Use Lugol's Iodine to perform a 1:11 dilution of algae by first making Dilution 1, then making Dilution 2. Keep in mind that you will be disregarding the dilution created in step 9 as this is a new and separate dilution. 
 	1. To make Dilution 1, create a 1:10 dilution of algae in DI water. Add 5 uL of algae to 45 uL of DI water, there is 50 uL total. This is 1 part algae to 9 parts DI water, there are 10 parts total. This is now your Dilution 1
 	2. To make Dilution 2, create a 1:11 dilution of 100% Lugol's Iodine in Dilution 1. Add 5 uL of Lugols to the 50 uL of Dilution 1, there is 55 uL total. This is 1 part Lugol's to 10 parts Dilution 1, there are 11 parts total. This is now your 1:11 dilution of algae.
 	 NOTE: This is a final 1:11 dilution of algae because there are 5 uL of algae in a total of 55 uL of volume
-9. Pipette 10 uL of algae from the 1:11 dilution of algae into one chamber of the hemocytometer 
-10. Count the sum of cells in the four corner squares. Be sure to count any cells that are on the borders of each of the four squares.
+13. Pipette 10 uL of algae from the 1:11 dilution of algae into one chamber of the hemocytometer 
+14. Count the sum of cells in the four corner squares. Be sure to count any cells that are on the borders of each of the four squares.
 ### Dilutions
 - What is a dilution?
 	- A dilution is adding more solvent to a sample to decrease its concentration. 
