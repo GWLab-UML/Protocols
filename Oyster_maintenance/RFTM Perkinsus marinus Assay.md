@@ -55,7 +55,7 @@
 Wipe down all surfaces with 10% bleach before and after protocol
 
 1. UV sterilize tweezers, dissecting scissors, and empty glass tubes with covers for five minutes
-2. While tools are UV sterilizing, create a nystatin suspension if not already made by adding a stir bar, and 7 parts nystatin powder to 10 parts DI water into a small beaker. 
+2. While tools are UV sterilizing, create a nystatin suspension if not already made by adding a stir bar, and 7 parts (mg) nystatin powder to 10 parts (mL) DI water into a small beaker. 
 3. Cover this beaker of nystatin suspension with foil and stir on stir plate until fully dissolved
 4. Label glass tubes with important sample and ID information, such as where oyster is from, tissue type, etc.
     
