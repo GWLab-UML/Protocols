@@ -22,9 +22,10 @@
 - Foil or masking tape
 
 ### **Protocol:**
+*Wear a face mask when weighing out materials with health hazard warning*
 1. Add a stir bar to a 600 mL beaker
 2. Add 14.6 g FTM powder, 10 g NaCl, and 485 mL distilled water to the beaker
-3. Cover the flask with foil, and set heat to 85°C with stirring power at 300-400 rpm until fully dissolved, raise temperature as needed
+3. Cover the flask with foil, and set heat to 95°C with stirring power at 300-400 rpm until fully dissolved, raise temperature as needed. Stirring may take up to 45 minutes 
 4. Allow to cool briefly before adding 0.25 g chloramphenicol (antibiotic) with stirring, this is now your RFTM
 5. Fill autoclavable screw capped bottles to 75% capacity for room for heated RFTM, keep bottle caps loose for venting. It is best to have multiple bottles of RFTM rather than one bottle in case any contamination occurs in one bottle
 6. Autoclave RFTM at 121°C for 20 minutes
