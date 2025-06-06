@@ -1,7 +1,4 @@
 
-test
-
-adding more
 
 # GitHub Desktop Tutorial
 
