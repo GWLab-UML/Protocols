@@ -55,30 +55,30 @@
 
 Wipe down all surfaces with 10% bleach before and after protocol
 
-1. UV sterilize tweezers, dissecting scissors, and empty glass tubes with covers for five minutes (in prep for dissecting tissue)
-2. While tools are UV sterilizing, create a nystatin suspension by adding 7 parts nystatin powder to 10 parts DI water
-	- Ex: to make 10 mL of nystatin suspension, add 7 g nystatin powder to 10 mL of DI water (should be good for ~10 tubes)
-3. Cover this beaker of nystatin suspension with foil and stir on stir plate until fully dissolved
-4. Add label to nystatin suspension with date and initials. Nystatin suspension can be stored in fridge (4°C) for months. 
-5. Label glass tubes with important sample and ID information, such as where oyster is from, tissue type, etc.
-    
+
+1. UV sterilize tweezers, dissecting scissors, and empty glass tubes with covers for five minutes
+2. While tools are UV sterilizing, create a **nystatin suspension** by mixing 4mg of nystatin powder with 4mL of sterile DI water. (0.1g/100mL). This volume is needed to make 70 RFTM culture tubes (from NOAA protocol). Adjust volumes as needed.
+3. Label glass tubes with important sample and ID information, such as where oyster is from, tissue type, etc.
+
+
 **on bench**
 
-6. Shuck oyster, being careful not to tear/disrupt the tissues. Dissect needed tissues in plastic weigh boat on lab bench (to reduce mess)
+4. Shuck oyster, being careful not to tear/disrupt the tissues. Dissect needed tissues in plastic weigh boat on lab bench (to reduce mess)
 	- *Do not shuck and dissect oysters in the BSC*
 	- Rinse forceps to maintain cleanliness between samples
 	- Place excess tissues and liquid from oyster into a plastic bag to be discarded. Shells can be rinsed with water and kept in 'shell bag' in the bottom of the Narwhal freezer
-7. Place tissue samples into their respective labeled tubes - bring to BSC when done
+5. Place tissue samples into their respective labeled tubes - bring to BSC when done
 
 **in BSC**
 
 Bring RFTM, 25 mL glass pipet tips, pipetboy, dropper, nystatin, and tubes containing samples into the BSC 
 
-7. In the BSC, aliquot ~10 mL of RFTM into labeled glass tubes containing tissue samples
-8. Gently add 2-4 drops of nystatin suspension into tubes to inhibit fungus growth.
-9. Wipe surface of BSC with 10% bleach after inoculating is finished
-10. Incubate for 7 days in the dark at 27° (20°C to 30°C is effective) for an RFTM assay analysis
-11. Discard all soft oyster tissue in plastic bag. 
+6. In the BSC, aliquot ~10 mL of RFTM into labeled glass tubes containing tissue samples
+7. Gently add 2-4 drops of nystatin suspension into tubes to inhibit fungus growth.
+8. Wipe surface of BSC with 10% bleach after inoculating is finished
+9. Incubate for 7 days in the dark at 27° (20°C to 30°C is effective) for an RFTM assay analysis
+10. Discard all soft oyster tissue in plastic bag. 
+
 
 ## III. RFTM assay analysis
 ### **Materials:**
