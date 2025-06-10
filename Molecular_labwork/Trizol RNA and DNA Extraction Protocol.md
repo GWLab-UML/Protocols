@@ -1,5 +1,5 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: May 12, 2025 JF
+Last edit: June 9, 2025 JF
 ### Notes
 This protocol has been updated from the manufacturer's for 500uL of Trizol, so reagent volumes are cut in half. 
 Optimized for working with small samples of oyster tissue. 
@@ -11,7 +11,7 @@ Relevant calculations can be found on [this spreadsheet](https://docs.google.com
 - RNA-free 1.5mL tubes (1 per sample)
 - Forceps, bunsen burner, 100% ethanol
 - Homogenizer 150
-- Sterile plastic homogenizer probes (1 per sample)
+- Autoclaved plastic homogenizer probes (1 per sample)
 - 5% bleach
 - Trizol (500uL per sample)
 - Chloroform (100uL per sample)
@@ -19,8 +19,8 @@ Relevant calculations can be found on [this spreadsheet](https://docs.google.com
 
 ***RNA Extraction***
 - 100% isopropanol (250uL per sample)
-- glycogen (0.5uL per sample)
-- 75% ethanol (500uL per sample)
+- Glycogen (0.5uL per sample)
+- 75% ethanol (1mL per sample)
 - Molecular grade water (RNA-free, sterile, 30uL per sample)
 
 ***DNA Extraction***
@@ -59,6 +59,10 @@ Relevant calculations can be found on [this spreadsheet](https://docs.google.com
 		- Store at room temp 
 ### 0. Prep
 - Set minicentrifuge to 4ºC
+- Label tubes
+	- Example: 2024_Hyp06_Warm06_B71_RNAlater_muscle
+		- Top of tube: HWB71 muscle 
+		- Side of tube: Date, Initials, RNA/DNA, H6-W6-B71 muscle
 - Clean bench with bleach and RNAse away and set up bunsen burner
 	- 2x forceps
 	- 1x sterile beaker for forceps
@@ -78,7 +82,7 @@ Relevant calculations can be found on [this spreadsheet](https://docs.google.com
 
 **Perform the following procedure in the fume hood. Take precautions to avoid RNA contamination.**
 
-1. Add 500uL Trizol to each sample
+1. Using the cold rack, add 500uL Trizol to each sample
 2. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
 3. Submerge probe in 2mL tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds
 	- Keep tubes in cold rack while homogenizing and watch for spillover
@@ -93,9 +97,9 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 
 **Perform the following procedure in the fume hood, except for centrifugation. Take precautions to avoid RNA contamination.**
 
-1. Incubate samples for 5 minutes at room temp
+1. Incubate samples for 5 minutes in the cold rack
 2. Add 100uL chloroform and gently invert each sample until thoroughly mixed (bubblegum pink color)
-3. Incubate samples for 2 minutes at room temperature
+3. Incubate samples for 2 minutes in the cold rack
 4. Centrifuge samples at 12,000g for 15 minutes at 4ºC
 	- The mixture will separate into a lower red phenol-chloroform organic phase, a milky interphase, and a colorless upper aqueous phase (~50% of the total volume)
 5. Carefully pipette out the aqueous phase containing the RNA; avoid drawing any of the interphase or organic layer into the pipette as this will cause phenol contamination
@@ -113,7 +117,7 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 
 **Precipitate the RNA**
 1. Add 0.5uL RNase-free glycogen (want 5-10µg, this is for 20 mg/mL glycogen)
-2. Add 250uL of isopropanol and incubate at 4ºC for 10 minutes
+2. Add 250uL of isopropanol, pipette up and down to mix, and incubate in cold rack for 10 minutes
 3. Centrifuge at 12,000g for 10 minutes at 4ºC
 4. Remove the supernatant from the tube, leaving only the gel-like RNA pellet
 
@@ -142,7 +146,7 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 1. Remove any remaining aqueous phase using a smaller pipette—this step is critical to limiting DNA contamination, but DO NOT DISTURB THE INTERPHASE
 	- If disturbed, consider re-spinning at 12,000g for 5 minutes before trying to remove the aqueous phase again
 2. Add 150uL 100% ethanol, thoroughly mix via pipetting up and down, then move to a new 1.5mL DNA lo-bind tube
-3. Incubate for 2-3 minutes at room temperature on shaker
+3. Briefly vortex each sample before incubating for 2-3 minutes at room temperature on shaker
 4. Centrifuge at 5,000g for 5 minutes at 4ºC
 5. Remove the phenol-ethanol supernatant, going back in with a smaller pipette tip to remove all excess liquid
 
@@ -150,26 +154,30 @@ Work can now move to the biosafety cabinet/laminar flow hood
 
 **Wash the DNA**
 1. Add 500uL of sodium citrate/ethanol solution to each sample
-2. Incubate for 30 minutes at room temperature
-	- DNA can be kept in sodium citrate/ethanol solution for up to 2 hours
+2. Briefly vortex each sample before incubating for 30 minutes at room temperature on shaker
+	- DNA can be kept in sodium citrate/ethanol solution for up to 2 hours (*untested*)
 3. Centrifuge at 5,000g for 5 minutes at 4ºC
 4. Remove and discard supernatant, then repeat wash steps 1-3 again
 	- It is unlikely that a pellet will be visible so be careful when pipetting
 	- If a white shard-like precipitate appears continue with protocol; it will get smaller with each wash step
-5. Add 500uL 75% ethanol and incubate for 5 minutes at room temperature on shaker
+5. Add 500uL 75% ethanol
+6.  Briefly vortex each sample before incubating for 5 minutes at room temperature on shaker
 	- Can store overnight at 4ºC (*untested*)
-6. Centrifuge at 5,000g for 5 minutes at 4ºC
-7. Remove and discard supernatant, going back in with a smaller pipette tip to remove all excess liquid
-8. Air dry the DNA pellet for 10-15 minutes; do not allow the DNA pellet to dry completely
+7. Centrifuge at 5,000g for 5 minutes at 4ºC
+8. Remove and discard supernatant, going back in with a smaller pipette tip to remove all excess liquid
+9. Air dry the DNA pellet for 10-15 minutes; do not allow the DNA pellet to dry completely
 
 **Resuspend the DNA**
-1. Add 15uL warm 8mM NaOH buffer and pipette up and down until pellet is dissolved, let sit for one minute
-2. Put immediately into 4ºC and incubate overnight (at least 3 hours)
-3. Add 150uL TE buffer to bring pH down to 7-8 
-4. Measure on Nanodrop/Qubit ([calculations spreadsheet](https://docs.google.com/spreadsheets/d/1dncCvx_XR8j56II3qtQBzECOIseynwCOv8T3BreIVWM/edit?usp=sharing))
+1. Add 15uL warm 8mM NaOH buffer and pipette up and down
+2.  Briefly vortex each sample followed by a quick spin
+	- If a pellet is still present that is okay
+3. Store at 4ºC to incubate overnight (at least 3 hours)
+	- Do not let the DNA sit in NaOH at room temperature for longer than necessary as this will result in lower yield
+4. Add 150uL TE buffer to bring pH down to 7-8 and briefly vortex
+5. Measure on Nanodrop/Qubit ([calculations spreadsheet](https://docs.google.com/spreadsheets/d/1dncCvx_XR8j56II3qtQBzECOIseynwCOv8T3BreIVWM/edit?usp=sharing))
 	- A260/280 = ~1.8 (if lower, likely presence of proteins, phenol, etc)
 	- A260/230 = 2.0 - 2.2 (if lower, likely presence of Trizol, phenol, etc)
-5. Long-term storage at -20ºC
+6. Long-term storage at -20ºC
 
 *Optional steps*
 5. Centrifuge at 12,000g for 10 minutes at 10ºC to pellet any insoluble material
