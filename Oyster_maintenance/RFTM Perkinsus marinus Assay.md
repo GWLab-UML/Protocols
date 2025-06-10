@@ -62,12 +62,9 @@
 Wipe down all surfaces with 10% bleach before and after protocol
 
 1. UV sterilize tweezers, dissecting scissors, and empty glass tubes with covers for five minutes
-2. While tools are UV sterilizing, create a nystatin suspension by adding a stir bar into a small beaker. Add 7 parts nystatin powder to 10 parts DI water into a small beaker. 
-	- To make 10 mL of nystatin suspension, add 7 g nystatin powder to 10 mL of DI water
-	- Each tube will need ~1 mL of nystatin suspension, so for example 10 mL of nystatin suspension will be good for ~10 tubes 
-3. Cover this beaker of nystatin suspension with foil and stir on stir plate until fully dissolved
-4. Label glass tubes with important sample and ID information, such as where oyster is from, tissue type, etc.
-    
+2. While tools are UV sterilizing, create a **nystatin suspension** by mixing 4mg of nystatin powder with 4mL of sterile DI water. (0.1g/100mL). This volume is needed to make 70 RFTM culture tubes (from NOAA protocol). Adjust volumes as needed.
+3. Label glass tubes with important sample and ID information, such as where oyster is from, tissue type, etc.
+
 **on bench**
 
 5. Obtain oyster - shuck and dissect in plastic weigh boat on lab bench (to reduce mess)
