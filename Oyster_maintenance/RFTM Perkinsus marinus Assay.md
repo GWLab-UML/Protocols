@@ -84,22 +84,23 @@ Bring RFTM, 25 mL glass pipet tips, pipetboy, dropper, nystatin, and tubes conta
 ### **Materials:**
 - Lugol's iodine
 - DI water
-- Sterile tweezers
+- Sterile tweezers (4)
+- Beaker (2)
+- Ethanol lamp
 - Microscope slides
 - Microscope coverslips
 - Dropper
 
 ### **Protocol:**
 
-1. UV sterilize a pair of tweezers and a dropper for five minutes
-2. While waiting for tweezers to sterilize, if there is not a 30% (v/v) Lugol's iodine solution already, create 30% (v/v) Lugol's iodine solution by mixing 3 parts iodine solution with 7 parts DI water
-3. Label microscope slides with a pencil. Slides are labeled with important sample and ID information, such as which oyster the sample is from, what species, what tissue type, etc
-4. Add a small pool of 30% (v/v) Lugol's iodine solution to a labeled microscope slide
-5. With sterile tweezers, tease each tissue in the iodine solution apart, add another drop of 30% (v/v) Lugol's iodine solution if needed, and mount a coverslip over the stained tissue
+1. Ethanol flame 2 pairs of forceps - keep in sterile beaker 
+2. Stain tissue with 30% (v/v) Lugol's iodine solution
+	1. Mix 3 parts iodine solution with 7 parts DI water 
+3. Label microscope slides with a pencil
+4. Add 2 drops of 30% (v/v) Lugol's iodine solution to a labeled microscope slide
+5. With sterile tweezers, tease each tissue in the iodine solution apart, add another 2 drops of 30% (v/v) Lugol's iodine solution and mount a coverslip over the stained tissue
 6. Examine under microscope for spherical, blue-black *Perkinsus* cells with diameters of 10-100 um
-7. Count and determine if there is *Perkinsus* present and how many cells are present
-8. Repeat for each sample and take note of observations
-9. Indicate the dermo score on the microscope slide. Refer to the Perkinsus Dermo Score Guide (GW Lab Google Drive > Labwork > Oysters + Algae) - summarized in table below:
+7. Indicate the dermo score on the microscope slide. Refer to the Perkinsus Dermo Score Guide (GW Lab Google Drive > Labwork > Oysters + Algae) - summarized in table below:
 
 | Observation                       | Dermo Score |
 | --------------------------------- | ----------- |
