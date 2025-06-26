@@ -42,7 +42,7 @@ Last edit: BKS & NJU 6/25/25
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#inhibitor-removal)Inhibitor Removal
 
-11. Transfer up to 600 µL supernatant into a 1.5 mL Lo-Bind Eppendorf tube. *The goal is to collect all the liquid without collecting any beads or debris.* Add 135 µL chilled P2 buffer and 200 µL of resuspended cHTR reagent.
+11. Transfer up to 600 µL supernatant into a 1.5 mL Lo-Bind Eppendorf tube. *The goal is to collect all the liquid without collecting any beads or debris.* Add 200 µL chilled P2 buffer and 300 µL of resuspended cHTR reagent.
 
 _Do not shake the cHTR reagent bottle: this foams it up and barely does anything for the resuspension. Its better to just pipette up and down using 1000uL pipette._
     
@@ -52,7 +52,7 @@ _Do not shake the cHTR reagent bottle: this foams it up and barely does anything
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#binding)Binding
 
-13.  Transfer ~450uL supernatant into 2 new centrifuge tubes each, make sure not to disturb the pellet. Add an equal volume of X1 buffer to each tube (about 450 µL, adjust as needed).
+13.  Transfer ~550uL supernatant into 2 new centrifuge tubes each, make sure not to disturb the pellet. Add an equal volume of X1 buffer to each tube (about 550 µL, adjust according to volume).
     
 14.  Insert a HiBind column into a 2 mL collection tube. Transfer 700 µL of the sample into the column. Centrifuge at 10000 g/rpm for 1 minute at room temperature. Discard the filtrate and reuse the collection tube.
     
