@@ -1,5 +1,5 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: June 9, 2025 JF
+Last edit: June 25, 2025 JM
 ### Notes
 This protocol has been updated from the manufacturer's for 500uL of Trizol, so reagent volumes are cut in half. 
 Optimized for working with small samples of oyster tissue. 
@@ -76,7 +76,7 @@ Relevant calculations can be found on [this spreadsheet](https://docs.google.com
 - For DNA extraction: put 8mM NaOH in incubator to warm
 ### 1A. Homogenizing samples 
 
-**Perform the following steps on the bench with a lit bunsen burner to ensure a sterile field.**
+**Perform the following steps on the bench with a lit bunsen burner to ensure a sterile field. Wear a mask to prevent microbial contamination.**
 
 1. Move samples from RNAlater into new sterile 2mL tube making sure to sterilize (ethanol-flame) forceps between samples
 
@@ -105,6 +105,7 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 5. Carefully pipette out the aqueous phase containing the RNA; avoid drawing any of the interphase or organic layer into the pipette as this will cause phenol contamination
 	- Tilting the tube at a slight angle is okay, but keeping the tube upright will help prevent the phases from mixing
 	- Try to remove 200uL of the aqueous phase
+	- If aqueous layer is slightly pink in color after initial spin, try spinning again for 5 minutes. If the liquid still doesn't clear up, proceed as normal through steps (don't panic! it's still possible to get high quality product)
 6. Place the aqueous phase into a new 1.5mL tube and proceed to RNA isolation
 7. Store the interphase and organic phase at 4ºC for DNA isolation (same day)
 
