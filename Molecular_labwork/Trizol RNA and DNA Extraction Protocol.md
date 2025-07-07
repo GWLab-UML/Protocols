@@ -155,14 +155,14 @@ Work can now move to the biosafety cabinet/laminar flow hood
 
 **Wash the DNA**
 1. Add 500uL of sodium citrate/ethanol solution to each sample
-2. Briefly vortex each sample before incubating for 30 minutes at room temperature on shaker
+2. Flick each sample until pellet is dislodged and suspended in the solution; briefly vortex each sample before incubating for 30 minutes at room temperature on shaker
 	- DNA can be kept in sodium citrate/ethanol solution for up to 2 hours (*untested*)
 3. Centrifuge at 5,000g for 5 minutes at 4ºC
 4. Remove and discard supernatant, then repeat wash steps 1-3 again
 	- It is unlikely that a pellet will be visible so be careful when pipetting
 	- If a white shard-like precipitate appears continue with protocol; it will get smaller with each wash step
 5. Add 500uL 75% ethanol
-6.  Briefly vortex each sample before incubating for 5 minutes at room temperature on shaker
+6.  Flick each sample until pellet is dislodged and suspended in the solution; briefly vortex each sample before incubating for 5 minutes at room temperature on shaker
 	- Can store overnight at 4ºC (*untested*)
 7. Centrifuge at 5,000g for 5 minutes at 4ºC
 8. Remove and discard supernatant, going back in with a smaller pipette tip to remove all excess liquid
