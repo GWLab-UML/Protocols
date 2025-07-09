@@ -57,8 +57,8 @@
 ### **Protocol:**
 
 
-1. Create a **nystatin suspension** by mixing 4mg of nystatin powder with 4mL of sterile DI water. (0.1g/100mL) in a small beaker. Spin on a stirring table with a stir rod. This volume is needed to make 70 RFTM culture tubes (from NOAA protocol). Adjust volumes as needed. 100 mLs of nystatin suspension is enough for 180 culture tubes of RFTM. Store in 4 degree Celsius fridge until use.
-2. Label glass tubes with important sample and ID information, such as where oyster is from, the month and year the sample is put in the tube, the oyster number, etc. You will be adding both tissues (mantle and rectum) to the same tube
+1. Create a **nystatin suspension** by mixing 0.1 g of nystatin powder with 100 mL of sterile DI water in a beaker. Spin on a stirring table with a stir rod. 100 mLs of nystatin suspension is enough for 180 culture tubes of RFTM. Store in 4 degree Celsius fridge until use. Adjust volumes as needed. 
+2. Label glass tubes with important sample and ID information, such as where oyster is from, the month and year the sample is put in the tube, the oyster number, etc. For each individual oyster, add that oyster's mantle and rectum to the assigned tube.
 3. Add ~10 mLs of RFTM to culture tubes using a VMC squeeze bottle filled with RFTM
 4. Cap tubes and store in a 4 degree Celsius fridge until usage
 
@@ -91,7 +91,7 @@ Be sure to wipe down the bench with 10% bleach before beginning protocol
 - Microscope slides
 - Microscope coverslips
 - Dropper
-- Physical RFTM Data Sheet
+
 
 ### **Protocol:**
 
@@ -99,11 +99,11 @@ Be sure to wipe down the bench with 10% bleach before beginning protocol
 2. Make 50% Lugols solution and add to a 50 mL falcon tube. 
  Note: Make sure this falcon tube is wrapped in foil or dark tape as Lugols is light sensitive
 3. Ethanol flame tweezers and place in a sterile beaker to cool
-4. Label microscope slides with a pencil (ex. if analyzing the mantle of oyster 4, label the tube M4)
+4. Label microscope slides with a pencil 
 5. Add 2 drops of 50% (v/v) Lugol's iodine solution to a labeled microscope slide
 6. With sterile tweezers, place tissue in the small puddle of Lugols and tease apart. Don't worry about keeping the tissue intact. Add another 3-5 drops of 50% (v/v) Lugol's solution. Add more as needed to fully stain the tissue. Place a coverslip over the tissue once stained
 7. Examine under microscope for spherical, blue-black *Perkinsus* cells with diameters of 10-100 um. Might appear white with a defined membrane. This is due to those cells not being stained
-8. Indicate the dermo score on your physical data sheet. Refer to the Perkinsus Dermo Score Guide (GW Lab Google Drive > Labwork > Oysters + Algae) - summarized in table below:
+8. Indicate the dermo score. Refer to the Perkinsus Dermo Score Guide (GW Lab Google Drive > Labwork > Oysters + Algae) - summarized in table below:
 
 | Observation                        | Dermo Score |
 | ---------------------------------- | ----------- |
