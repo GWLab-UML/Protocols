@@ -24,7 +24,7 @@ Materials:
 - 1 short piece of airline, bleached
 - 2 small airline clamps, bleached
 - 5 rubber connectors, bleached
-- 15mL DI water
+- 15L DI water
 - 476g Instant Ocean (32.5g/L)
 - 25mL glass serological pipette, autoclaved
 - 2L liquid algae culture
