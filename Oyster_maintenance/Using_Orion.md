@@ -66,3 +66,14 @@ If you try to calibrate a probe and the option you want isn't there or you get a
 
 
 if none of those work, always a good idea to try turning on/off, checking the battery, unplugging and re-plugging the probe
+
+### Changing Batteries :O
+
+If the batteries are looking mighty dry...
+1. Take the big silicone sleeve off orion
+2. Unscrew the 2 screws on the back
+3. Open Battery Compartment
+4. Remove old batteries
+5. Grab batteries from office supplies drawer
+6. Put in fresh clean batteries :P
+7. All done
