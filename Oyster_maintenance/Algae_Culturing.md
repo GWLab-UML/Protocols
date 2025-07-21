@@ -25,7 +25,7 @@ Materials:
 - 2 small airline clamps, bleached
 - 5 rubber connectors, bleached
 - 15L DI water
-- 476g Instant Ocean (32.5g/L)
+- 487g Instant Ocean (32.5g/L)
 - 25mL glass serological pipette, autoclaved
 - 2L liquid algae culture
 - 17mL f/2 media, sterile and kept at 4ºC (1mL/1L *total volume*)
