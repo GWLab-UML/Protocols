@@ -46,7 +46,19 @@ A hemocytometer is a specialized slide used for manual cell counting with a micr
 	- A dilution factor is the number you will use for calculating the concentration of algae cells (cells/mL). To find the dilution factor, divide the total volume by the initial volume. For example, a solution with 55 uL volume total containing 5 uL of algae would have a dilution factor of 55/5 = 11
 - Why do we use Lugol's iodine for counting algae?
 	- Lugol's iodine immobilizes and kills the algae cells, making them still and much easier to count. Lugol's iodine does not allow for you to distinguish between live and dead algae cells, as it will stain both live and dead cells. 
-
+FUN DILUTIONS TO DO
+Dilution of 12
+5 ul Algae
+5 ul lugol
+50 ul DI
+Dilution of 7
+10 Algae
+10 Lugol
+50 DI
+Dilution of 5
+10ul Algae
+10ul Lugol
+30ul DI
 ### Cleaning:
 ***please clean after EACH use, between the use of different species, and between each count***
 1. Fill a small beaker with lab glassware soap and water
