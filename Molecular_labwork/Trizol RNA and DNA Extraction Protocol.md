@@ -1,5 +1,5 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: July 7, 2025 JF
+Last edit: July 23, 2025 JM
 ### Notes
 This protocol has been updated from the manufacturer's for 500uL of Trizol, so reagent volumes are cut in half. 
 Optimized for working with small samples of oyster tissue. 
@@ -115,6 +115,7 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 - Work can move to the biosafety cabinet/laminar flow hood
 - Spray working area with bleach followed by RNase away
 - Change gloves as needed
+- **keep all alcohols on ice throughout RNA isolation**
 
 **Precipitate the RNA**
 1. Add 0.5uL RNase-free glycogen (want 5-10µg, this is for 20 mg/mL glycogen)
