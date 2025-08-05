@@ -1,8 +1,9 @@
+# Histology Slide Prep
 Protocol for oyster histology
 
 *Last updated:* 08/05/2025 by JGM
 
-### Davidson's Fixative
+## Davidson's Fixative
 protocol from NOAA fisheries
 
 *all completed under a chemical fume hood*
@@ -37,7 +38,7 @@ protocol from NOAA fisheries
 	- Tissues are now stable in this condition and can be stored for several months.
 
 
-### Tissue processing & embedding
+## Tissue processing & embedding
 protocol from Sean Driscoll, Fish Lab (UML)
 
 **Notes:**
@@ -78,7 +79,7 @@ protocol from Sean Driscoll, Fish Lab (UML)
 10. 
 
 
-### Sectioning 
+## Sectioning 
 with microtome
 
 **Notes:**
@@ -102,7 +103,7 @@ with microtome
 1. 
 
 
-### Staining - Harris’ Hematoxylin and Eosin2 (HHE2)
+## Staining - Harris’ Hematoxylin and Eosin2 (HHE2)
 *all completed under a chemical fume hood*
 
 protocol is from NOAA fisheries
