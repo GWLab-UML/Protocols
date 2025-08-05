@@ -1,8 +1,10 @@
 Protocol for oyster histology
-*Last updated:* 08/04/2025 by JGM
+
+*Last updated:* 08/05/2025 by JGM
 
 ### Davidson's Fixative
 protocol from NOAA fisheries
+
 *all completed under a chemical fume hood*
 
 **Materials:**
@@ -24,10 +26,10 @@ protocol from NOAA fisheries
 3. When ready to cut oysters, make a working solution of Davidson’s Fixative by adding the following ingredients to a formalin-safe container intended for sample cassettes.
 	- 50mL Glacial Acetic Acid
 	- 450ml of Davidson’s Fixative.
-	> *Note*: For sample sizes of 50 oyster use 630ml of Davidson’s fixative and 70 ml glacial acetic acid.
+	>*Note*: For sample sizes of 50 oyster use 630ml of Davidson’s fixative and 70 ml glacial acetic acid.
 4. Cassettes with tissue sections should be added to the container of Davidson’s Fixative (working solution) under the hood to avoid fume inhalation
 5. After adding all sample cassettes to the fixative, store for 24-48 hrs at 4℃ (standard refrigeration).
-	> *Note:* if the tissue is in the fixative for too long, it becomes brittle
+	>*Note:* if the tissue is in the fixative for too long, it becomes brittle
 6. Post-refrigeration, dispose of the fixative into a designated chemical waste container under the fume hood using the designated Davidison’s Fixative funnel.
 7. Add 70% ethanol to cover cassettes and store at 4℃ (standard refrigeration).
 	- Label the bottle with the sample details, change in media, date, and initials
@@ -57,7 +59,8 @@ protocol from Sean Driscoll, Fish Lab (UML)
 - Parafrost wax
 - Cassettes 
 
-**Protocol:**
+ **Protocol:**
+ 
 **Tissue processing:**
 1. If still in fixative, run through a PBS wash. 
 	1. ==what if stored in EtOH already?== 
@@ -70,28 +73,30 @@ protocol from Sean Driscoll, Fish Lab (UML)
 7. One wash in 50/50 xylene (or substitute) with wax with vacuum on about 30 minutes
 8. Three+ wax washes (need to get the xylene or substitute out) about 30 minutes each (vacuum)
 9. Using heat block, transfer tissues into wax mold and embed
+
 **Embedding** - do this with Stefan the first time - then fill in
 10. 
 
 
 ### Sectioning 
 with microtome
+
 **Notes:**
 - Make sure to get trained by someone in the Steinel lab before using the microtome. Also check-in about availability.
 - If samples tear while cutting, either the paraffin block is too warm or the knife is dull
 
 **Prep:**
 - add 800mL double DI or autoclaved DI water to main water bath and 600mL to the smaller bath on the microtome. Set temperature to ~42ºC. 
-	- *Note:* if using for a few hours, water may start to evaporate. It's a good idea to keep extra water near by to refill water baths.
+	>*Note:* if using for a few hours, water may start to evaporate. It's a good idea to keep extra water near by to refill water baths.
 - precool paraffin blocks to 5ºC before sectioning. afterwards, keep in ice bath.
-	- *Note:* a warm block will not section properly
+	>*Note:* a warm block will not section properly
 - turn on drying rack
 - label slides with proper sample identification prior to mounting
 
 **Materials:**
 - positively charged slides
 - double DI water (or autoclaved DI water)
-	- *Note:* at least 1400mL, but should have extra nearby
+	>*Note:* at least 1400mL, but should have extra nearby
 
 **Protocol:** do this with Stefan the first time - then fill in
 1. 
@@ -99,6 +104,7 @@ with microtome
 
 ### Staining - Harris’ Hematoxylin and Eosin2 (HHE2)
 *all completed under a chemical fume hood*
+
 protocol is from NOAA fisheries
 
 **Materials:**
@@ -141,6 +147,7 @@ protocol is from NOAA fisheries
 | 20   | Differentiate eosin and dehydrate | Xylene             | 5min                           |
 | 21   | Differentiate eosin and dehydrate | Xylene             | 5min                           |
 | 22   | Mount                             | Xylene             | 5min - coverslip with Permount |
+
 **Coverslipping**:
 1. With the frosted, coded side of the slide facing up, take a Kim wipe and remove excess xylene from the front and back of the slides, without touching the tissue sections.
 2. Place one drop of mounting fluid on the tissue on the slide.
