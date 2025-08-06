@@ -16,8 +16,8 @@ Cleaning and Preparation:
 	- If saving the tissue place that into a different bag and have a label to keep track of what the tissue is and the date.
 2. Once cleaned, they can be placed on a tray with a bench pad to keep them dry. When they are placed on the tray, you can continue patting them dry as best as possible. 
 	- You need them as dry as possible so the camera won't pick up on the glare of the water and make a shadow that could be mistaken for a mud blister.
-3. Once cleaned, they can be placed on a tray with a bench pad to keep them dry. When they are placed on the tray, you can continue patting them dry as best as possible. 
-		You need them as dry as possible so the camera won't pick up on the glare of the water and make a shadow that could be mistaken for a mud blister.
+3. Once cleaned, they can be placed on a tray with a bench pad to keep them dry. When they are placed on the tray, you can continue patting them dry as best as possible.-
+	1. You need them as dry as possible so the camera won't pick up on the glare of the water and make a shadow that could be mistaken for a mud blister.
 
 Setup of Camera:
 
@@ -31,11 +31,9 @@ Setup of Camera:
 
 Photographing the shells: 
 
-
 1. Place each shell according to whether it is the top or mantle side of the shell. T for top and B for mantle. Place the label at the bottom of the shells to know what shells are and what number they are. 
 2. Place the ruler at the bottom of the frame to make sure your measurements are accurate when using ImageJ.
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfrW4vXaNiapd_ssKQytWMEFghun1pSJaY95r8yha5zBGV6G1Q-R9JWF8mLrNFk8mCkWG0T6lL71262kJoLIljwQStktAWShwmgRudgC8226jG5Xeqtsba3r_HMofBY2GXWca-_BQ?key=z_G4b9gy-c2edOMeb05JOQ)
-
 
 3. Hold the shell that has the most contrast between the two on the camera, and let the AE/AF lock (iPhone) and take the photo. 
 4. Look at the photo WITHOUT MOVING THE PHONE/ CAMERA! If you move the phone or camera to look at the photo you have to start again and setting it up. Once satisfied, you can flip the shells and take the other side.
@@ -49,7 +47,7 @@ Drying Shells:
 
 Weighing Shells
 
-1. Take predried shells out of whatever container they were placed in
-2. Using a scale, place a weighboat on the scale and zero the scale
+1. Take pre-dried shells out of whatever container they were placed in
+2. Using a scale, place a weigh-boat on the scale and zero the scale
 3. Place the shell on the weigh boat. Record the weight in grams to one decimal place
 
