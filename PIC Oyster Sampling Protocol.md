@@ -12,6 +12,7 @@ Last updated: August 12, 2025 JF
 2. Collect 4x 50mL water microbiome samples (Rep A)
 3. Collect another 4x 50mL water microbiome samples at a different spot (Rep B)
 4. Collect 2x 100mL surface and 2x 100mL subsurface (1-1.5') chlorophyll a samples using amber glass bottles (Rep A)
+	- Keep bottle closed until submerged about elbow-deep, open the bottle to fill with water, recap while still under water at the same depth
 5. Collect another 2x 100mL surface and 2x 100mL subsurface (1-1.5') chlorophyll a samples at a different spot using amber glass bottles (Rep B)
 6. Take 6x haphazardly thrown quadrat pictures of oyster bed
 	- Make sure to keep the camera level and capture the whole quadrat
