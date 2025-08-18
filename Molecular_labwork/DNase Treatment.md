@@ -1,4 +1,4 @@
-- Product: [TURBO DNA-free kit](https://www.thermofisher.com/order/catalog/product/AM1907)
+- Product: [TURBO DNA-free kit](https://www.thermofisher.com/order/catalog/product/AM1907), stored at -20ºC
 - Protocol from ThermoFisher [User Guide](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/1907M_turbodnafree_UG.pdf)
 - *Last Updated: 08/18/2025 by JM*
 
@@ -10,6 +10,7 @@ This treatment removes DNA contamination from RNA and is done before library pre
 #### Prep
 - set incubator to 37ºC
 - UV RNA-free 1.5mL tubes and label
+- thaw DNAse kit
 
 #### Protocol
 1. Add 0.1 volume 10X TURBO DNase buffer and 1uL of TURBO DNase enzyme to the RNA, mix gently
