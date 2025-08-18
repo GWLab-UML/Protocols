@@ -21,7 +21,7 @@ This treatment removes DNA contamination from RNA and is done before library pre
 	>*Note:* The DNase Inactivation Reagent may become difficult to pipette after multiple uses due to depletion of fluid from the interstitial spaces. If this happens, add a volume of Nuclease-free Water (supplied with the kit) equal to approximately 20–25% of the bed volume of the remaining DNase Inactivation Reagent, and vortex thoroughly to recreate a pipettable slurry.
 4. Add resuspended DNase inactivation reagent (2 uL or 0.1 volume, whichever is greater), then mix well
 	>**IMPORTANT!** always use at least 2 uL of DNase inactivation reagent, even if it is more than 0.1 volume
-5. incubate the sample for 5 minutes at room temperature. Flick the tube 2-3 times during the incubation period to keep the DNase inactivation reagent suspended.
+5. Incubate the sample for 5 minutes at room temperature. Flick the tube 2-3 times during the incubation period to keep the DNase inactivation reagent suspended.
 	>*Note:* If room temperature cools below 22–26°C, move the tubes to a heat block or oven to control the temperature. Cold environments can inhibit inactivation of the TURBODNase Enzyme, leaving residual DNase in the RNA sample.
 6. Centrifuge the samples at 10,000g for 1.5 minutes, then carefully transfer the supernatant containing the RNA to a fresh tube. Do not disturb the DNase inactivation reagent pellet.
 
