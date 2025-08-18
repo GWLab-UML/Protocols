@@ -1,5 +1,5 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: August 8, 2025 JF
+Last edit: August 18, 2025 JM
 ### Notes
 This protocol has been updated from the manufacturer's for 500uL of Trizol, so reagent volumes are cut in half. 
 Optimized for working with small samples of oyster tissue. 
@@ -141,6 +141,7 @@ Work can move to the biosafety cabinet/laminar flow hood
 	- A260/230 = 2.0 - 2.2 (if lower, likely presence of Trizol, phenol, etc)
 	- Could also do DNA qubit to double check the majority of your sample isn't contaminated with DNA since Nanodrop won't be able to pick up on this
 5. Long-term storage at -70ºC
+	1. If the downstream application is RNA-seq, treat with [DNase](https://github.com/GWLab-UML/Protocols/blob/5235c06ff8c6466e2f4119e437bf020e83474f65/Molecular_labwork/DNase%20Treatment.md) to remove any potential DNA contamination
 
 ### 3. DNA Isolation
 
