@@ -1,3 +1,4 @@
+# DNase Treatment for RNA
 - Product: [TURBO DNA-free kit](https://www.thermofisher.com/order/catalog/product/AM1907), stored at -20ºC
 - Protocol from ThermoFisher [User Guide](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/1907M_turbodnafree_UG.pdf)
 - *Last Updated: 08/18/2025 by JM*
