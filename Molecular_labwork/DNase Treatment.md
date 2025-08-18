@@ -2,6 +2,8 @@
 - Protocol from ThermoFisher [User Guide](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/1907M_turbodnafree_UG.pdf)
 - *Last Updated: 08/18/2025 by JM*
 
+This treatment removes DNA contamination from RNA and is done before library preparation for RNA-seq.
+
 ## Routine DNase treatment
 *Note:* this protocol is for samples that contain <= 200 ug nucleic acid per uL. Use 1 uL TURBO DNase for up to 10 ug of RNA in a 50 uL reaction. These conditions will remove up to 2 ug of genomic DNA from total RNA in a 50 uL reaction. If there is more RNA (>200 ug nucleic acid per mL) that is severely contaminated with DNA (i.e., >2 ug DNA/50uL), use the **rigorous DNase treatment** (see below)
 
@@ -11,6 +13,7 @@
 
 #### Protocol
 1. Add 0.1 volume 10X TURBO DNase buffer and 1uL of TURBO DNase enzyme to the RNA, mix gently
+	- RNA from [trizol extractions](https://github.com/GWLab-UML/Protocols/blob/1117f48bc9a43a20813e456bc6f4b4356f770a08/Molecular_labwork/Trizol%20RNA%20and%20DNA%20Extraction%20Protocol.md) are 30uL in volume; add 3uL buffer and 1uL enzyme
 2. Incubate at 37ºC for 30 minutes
 3. Resuspend the DNase inactivation reagent by flicking or vortexing the tube before use
 	>*Note:* The DNase Inactivation Reagent may become difficult to pipette after multiple uses due to depletion of fluid from the interstitial spaces. If this happens, add a volume of Nuclease-free Water (supplied with the kit) equal to approximately 20–25% of the bed volume of the remaining DNase Inactivation Reagent, and vortex thoroughly to recreate a pipettable slurry.
