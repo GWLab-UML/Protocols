@@ -39,7 +39,7 @@ protocol from NOAA fisheries
 	- 50mL Glacial Acetic Acid
 	- 450ml of Davidson’s Fixative.
 	>*Note*: For sample sizes of 50 oyster use 630ml of Davidson’s fixative and 70 ml glacial acetic acid.
-4. Add tissue to individual 15mL conical tubes. Add a generous amount (enough to cover the tissue and more) of Davidson's Fixative (working solution) to the tube  under the hood to avoid fume inhalation
+4. Add 10mL of Davidson's Fixative (working solution) to a 15mL conical tube under the hood to avoid fume inhalation. Add tissue section to the tube.
 5. After adding fixative to the tubes, store for 24-48 hrs at 4℃ (standard refrigeration).
 	>*Note:* if the tissue is in the fixative for too long, it becomes brittle
 6. Post-refrigeration, transfer tissue to new conical tubes and dispose of the fixative into a designated chemical waste container under the fume hood using the designated Davidison’s Fixative funnel.
