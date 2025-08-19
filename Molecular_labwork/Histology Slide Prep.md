@@ -1,14 +1,25 @@
 # Histology Slide Prep
 Protocol for oyster histology
 
-*Last updated:* 08/05/2025 by JGM
+*Last updated:* 08/19/2025 by JGM
+
+## Tissue Sectioning
+
+#### Materials:
+- forceps
+- scalpel and blade
+- dissecting scissors
+
+#### Protocol:
+For oysters specifically, following the NOAA oyster processing protocol to use their histological sectioning guidelines (parallel blue lines; see below) - dissect tissue, being careful to keep the piece as one as much as possible
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdVwYzXvJQcBDGj9N4tHwJyRBJxm-Cy9oFTEiHhnSDLI3ma_TKVGfPDzIUTBov4Eth-67h1XE9KzjA8VAaYpk8aWw6UiDZ5NKmt596VRK3Mq1VG8gfw1B5Ch-EyDZml7c-qj5gOhQ?key=asb6yQQFpZeyxOuCxygo6w)**
 
 ## Davidson's Fixative
 protocol from NOAA fisheries
 
 *all completed under a chemical fume hood*
 
-**Materials:**
+#### Materials:
 - Glycerin
 - Formaldehyde
 - 95% EtOH
@@ -17,7 +28,7 @@ protocol from NOAA fisheries
 - Glacial Acetic Acid
 - 15mL conical tubes
 
-**Protocol:**
+#### Protocol:
 1. To create a **stock solution** of Davidson’s Fixative, add the listed ingredients to a prelabeled 1L plastic bottle with a screw cap. This should be done ahead of sampling days.
 	- 100 ml Glycerin
 	- 200ml Formaldehyde
@@ -51,7 +62,7 @@ protocol from Sean Driscoll, Fish Lab (UML)
 - turn on wax machine a few hours before intending to use
 - check with Sean/someone in the Fish lab about availability to use their vacuum oven
 
-**Materials:**
+#### Materials:
 - PBS
 - EtOH dilution series (25%, 50%, 100%)
 - 50/50 xylene or xylene substitute with EtOH
@@ -60,9 +71,9 @@ protocol from Sean Driscoll, Fish Lab (UML)
 - Parafrost wax
 - Cassettes 
 
- **Protocol:**
+#### Protocol:
  
-**Tissue processing:**
+### Tissue processing:
 1. If still in fixative, run through a PBS wash. 
 	1. ==what if stored in EtOH already?== 
 2. Dehydrate embryo in EtOH series washed (25%,50%,100%) and all should be on rocker
@@ -94,12 +105,13 @@ with microtome
 - turn on drying rack
 - label slides with proper sample identification prior to mounting
 
-**Materials:**
+#### Materials:
 - positively charged slides
 - double DI water (or autoclaved DI water)
 	>*Note:* at least 1400mL, but should have extra nearby
 
-**Protocol:** do this with Stefan the first time - then fill in
+#### Protocol:
+do this with Stefan the first time - then fill in
 1. 
 
 
@@ -108,7 +120,7 @@ with microtome
 
 protocol is from NOAA fisheries
 
-**Materials:**
+#### Materials:
 - xylene (or substitute)
 - 100% EtOH
 - 95% EtOH
@@ -119,7 +131,7 @@ protocol is from NOAA fisheries
 - Permount (mounting medium)
 - Staining holder
 
-**Protocol:** 
+#### Protocol:
 > Stefan said we could use the Steinel setup for this - do this with him and then edit protocol as needed
 1. Remove slides from drying rack.
 2. Samples will be hand stained using Harris Hematoxylin and Eosin Y-Phloxine B by moving the staining holder with slides through a series of staining baths using the following procedure:
@@ -149,7 +161,7 @@ protocol is from NOAA fisheries
 | 21   | Differentiate eosin and dehydrate | Xylene             | 5min                           |
 | 22   | Mount                             | Xylene             | 5min - coverslip with Permount |
 
-**Coverslipping**:
+#### Coverslipping:
 1. With the frosted, coded side of the slide facing up, take a Kim wipe and remove excess xylene from the front and back of the slides, without touching the tissue sections.
 2. Place one drop of mounting fluid on the tissue on the slide.
 3. Choose the proper coverslip, place the edge of the cover slip at an angle to the bottom edge of the slide, and gradually lower onto the slide so the mounting fluid flows evenly from bottom to top. Do not drop the cover slip onto the slide to avoid bubbles.
