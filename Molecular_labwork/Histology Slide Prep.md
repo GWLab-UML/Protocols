@@ -42,7 +42,7 @@ protocol from NOAA fisheries
 4. Add 10mL of Davidson's Fixative (working solution) to a 15mL conical tube under the hood to avoid fume inhalation. Add tissue section to the tube.
 5. After adding fixative to the tubes, store for 24-48 hrs at 4℃ (standard refrigeration).
 	>*Note:* if the tissue is in the fixative for too long, it becomes brittle
-6. Post-refrigeration, transfer tissue to new conical tubes and dispose of the fixative into a designated chemical waste container under the fume hood using the designated Davidison’s Fixative funnel.
+6. Post-refrigeration, transfer tissue to new conical tubes and dispose of the fixative into a designated chemical waste container under the fume hood.
 7. Add 70% ethanol to new tubes, transfer tissue and store at 4℃ (standard refrigeration).
 	- Label the bottle with the sample details, change in media, date, and initials
 		- Sample details (type, number), 70% EtOH, MM/DD/YYYY, initials
