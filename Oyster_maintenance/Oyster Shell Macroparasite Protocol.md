@@ -1,3 +1,10 @@
+> Overall feedback (copy and paste this to save if helpful for future reference):
+> - use headers
+> - material lists should be concise and pertinent information only; you can explain more detailed use/function in the actualy steps of the protocol 
+> - be extra specific! for instance, when i tell you to wash something, you often ask "in DI? is tap okay?" so anticipate these questions here
+> - avoid full sentences; if you have helpful tips, put them as a bullet point below the straightforward protocol step to differentiate between black and white this is what you do and what you have learned/tips and tricks or important things to consider
+> - think of all the questions you had and asked me when doing this for the first time (the small ones, like what is imagej and which buttons do i press?) and include the answers here!!! i will be eternally grateful if the lab one day has a new undergrad and this protocol answers all their questions so i don't have to be asked them hahaha
+
 ## 0. Introduction
 ### Mud blister worms—what are they?
 *Polydora websteri* are small marine worms that burrow into the shells of oysters and other bivalves, creating mud-filled blisters. The blisters appear as black shadows or as raised patches of pearlescent new shell as the oyster tries to protect itself from the parasite. The shell can also have yellow bruising around the edges, but it always comes from the edge of the shell inwards. 
