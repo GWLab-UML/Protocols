@@ -6,11 +6,11 @@
 This treatment removes DNA contamination from RNA and is done before library preparation for RNA-seq.
 
 ## Routine DNase treatment
-*Note:* this protocol is for samples that contain <= 200 ug nucleic acid per uL. Use 1 uL TURBO DNase for up to 10 ug of RNA in a 50 uL reaction. These conditions will remove up to 2 ug of genomic DNA from total RNA in a 50 uL reaction. If there is more RNA (>200 ug nucleic acid per mL) that is severely contaminated with DNA (i.e., >2 ug DNA/50uL), use the **rigorous DNase treatment** (see below)
+*Note:* this protocol is for samples that contain <= 200 ug nucleic acid per uL (200,000 ng/uL). Use 1 uL TURBO DNase for up to 10 ug of RNA in a 50 uL reaction. These conditions will remove up to 2 ug of genomic DNA from total RNA in a 50 uL reaction. If there is more RNA (>200 ug nucleic acid per mL) that is severely contaminated with DNA (i.e., >2 ug DNA/50uL (40ng/uL)), use the **rigorous DNase treatment** (see below)
 
 #### Prep
 - set incubator to 37ºC
-- UV RNA-free 1.5mL tubes and label
+- UV PCR strip tubes and RNA-free 1.5mL tubes - label accordingly
 - thaw DNAse kit
 
 #### Protocol
@@ -26,14 +26,14 @@ This treatment removes DNA contamination from RNA and is done before library pre
 6. Centrifuge the samples at 10,000g for 1.5 minutes, then carefully transfer the supernatant containing the RNA to a fresh tube. Do not disturb the DNase inactivation reagent pellet.
 
 ## Rigorous DNase treatment
-*Note:* Sample contains >200 μg nucleic acid per mL or RNA that is severely contaminated with DNA (i.e., >2 μg DNA/50 μL). These sample can be diluted prior to treatment, or if the sample cannot be diluted, simply increase the amount of TURBO DNase Enzyme to 2–3 μL (4–6 U). Increasing the amount of enzyme may successfully remove contaminating DNA from samples containing up to 500 μg/mL nucleic acid in a 10–100 μL reaction. However, the efficacy of treating highly concentrated nucleic acid samples depends on the absolute level of DNA contamination, and residual DNA may or may not be detectable by PCR after 35–40 cycles.
+*Note:* Sample contains >200 μg nucleic acid per mL (200ng/uL) or RNA that is severely contaminated with DNA (i.e., >2 μg DNA/50 μL (40ng/uL)). These sample can be diluted prior to treatment, or if the sample cannot be diluted, simply increase the amount of TURBO DNase Enzyme to 2–3 μL (4–6 U). Increasing the amount of enzyme may successfully remove contaminating DNA from samples containing up to 500 μg/mL nucleic acid in a 10–100 μL reaction. However, the efficacy of treating highly concentrated nucleic acid samples depends on the absolute level of DNA contamination, and residual DNA may or may not be detectable by PCR after 35–40 cycles.
 
 #### Prep
 - set incubator to 37ºC
 - UV RNA-free 1.5mL tubes and label
 
 #### Protocol
-1. Dilute the sample to 10 μg nucleic acid/50 μL of total sample if possible.
+1. Dilute the sample to 10 μg nucleic acid/50 μL (200 ng/uL) of total sample if possible.
 2. Add 0.1 volume 10X TURBO DNase™ Buffer to the RNA, then mix gently.
 3. Add TURBO DNase Enzyme to the RNA, then mix gently.
 	1. Use 1 μL of TURBO DNase™ Enzyme for diluted samples.
