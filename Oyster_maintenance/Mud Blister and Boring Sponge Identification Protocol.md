@@ -1,10 +1,6 @@
 **Note: This protocol should be used after you have taken pictures of the shell's dorsal and Ventral sides. You can have the oysters in front of you to help find all angles when looking for the blisters AND the boring holes! 
 
-Mud Blisters: 
 
-What is it? 
-
-They are small marine worms that burrow into the shells of oysters and other shellfish, creating mud-filled blisters. The blisters appear as black shadows or look like white, raised new shells. They can have yellow bruising around the edges, but it always comes from the edge of the shell inwards. 
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7boVa26S1c_UNQOpkKd995-_6iYUq6ip9TX3HdvuEMKLQVeXaza5DIBrSADuVFqEvPxR6jQRGvr4pBLrmJZrKZ1AFiK-VoUk-orLK6ALmNhEaXTanRKHXv-iIvSMrBd4zMI9c?key=NxgMKdht2JBXN1fmoXucqg)
 
@@ -32,7 +28,6 @@ Boring Sponge: 
 
 What is it?
 
-They are a species of demosponge called *Cliona celata* that burrows into the shells of marine organisms, such as oysters, clams, and corals, as well as other calcium carbonate structures. They ultimately weaken the shells and can eventually kill the host organism. They also play a role in recycling calcium carbonate in the marine environment. The group of bores will be found near or on the umbo and hinge of the oyster shell; they will radiate out from there and can be classified into 3 types of infections: no infection, moderate infection, and heavily infected. 
 
 Graphing and Identifying the Boring Sponge: 
 
