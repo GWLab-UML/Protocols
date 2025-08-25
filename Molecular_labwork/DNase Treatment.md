@@ -34,6 +34,7 @@ This treatment removes DNA contamination from RNA and is done before library pre
 
 #### Protocol
 1. Dilute the sample to 10 μg nucleic acid/50 μL (200 ng/uL) of total sample if possible.
+	1. [dilution calculator](https://docs.google.com/spreadsheets/d/1gbe4WCgUxCHr_a1WV63z3jBjIRU369wQ1G4552Gvhjw/edit?gid=0#gid=0)
 2. Add 0.1 volume 10X TURBO DNase™ Buffer to the RNA, then mix gently.
 3. Add TURBO DNase Enzyme to the RNA, then mix gently.
 	1. Use 1 μL of TURBO DNase™ Enzyme for diluted samples.
