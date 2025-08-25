@@ -73,21 +73,20 @@ protocol from Sean Driscoll, Fish Lab (UML)
 
 #### Protocol:
  
-### Tissue processing:
-1. If still in fixative, run through a PBS wash. 
-	1. ==what if stored in EtOH already?== 
-2. Dehydrate tissue in EtOH series washed (25%,50%,100%) and all should be on rocker
+#### Tissue processing:
+1. Dehydrate tissue in EtOH series washed (95%,100%; assuming tissue is in 70% EtOH already - if not, start with lower concentration of EtOH) and all should be on rocker
 	> *Note:* The older the sample, the longer the wash the better but should be at least 30 minutes each (ideally an hour or more each).
-3. 3 washes in 100% EtOH (about an hour each but can go less) on rocker
-4. Wash 50/50 in xylene** (**VERY TOXIC**) or xylene substitute with EtOH on rocker
-5. 3 washes in xylene or xylene substitute, 30 mins each on rocker
-6. Place tissue in glass dish or some container that will be easiest to manipulate with the wax
-7. 1 wash in 50/50 xylene (or substitute) with wax with vacuum on about 30 minutes
-8. 3+ wax washes (need to get the xylene or substitute out) about 30 minutes each (vacuum)
-9. Using heat block, transfer tissues into wax mold and embed
+2. 3 washes in 100% EtOH (about an hour each but can go less) on rocker
+3. Wash 50/50 in xylene** (**VERY TOXIC**) or xylene substitute with EtOH on rocker
+4. 3 washes in xylene or xylene substitute, 30 mins each on rocker
+5. Place tissue in glass dish or some container that will be easiest to manipulate with the wax
+6. 1 wash in 50/50 xylene (or substitute) with wax with vacuum on about 30 minutes
+7. 3+ wax washes (need to get the xylene or substitute out) about 30 minutes each (vacuum)
+8. Using heat block, transfer tissues into wax mold and embed
 
-**Embedding** - do this with Stefan the first time - then fill in
-10. 
+#### Embedding:
+do this with Stefan the first time - then fill in
+1. 
 
 
 ## Sectioning 
