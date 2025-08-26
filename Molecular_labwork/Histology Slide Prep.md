@@ -27,6 +27,7 @@ protocol from NOAA fisheries
 - DI water
 - Glacial Acetic Acid
 - 15mL conical tubes
+- 70% EtOH
 
 #### Protocol:
 1. To create a **stock solution** of Davidson’s Fixative, add the listed ingredients to a prelabeled 1L plastic bottle with a screw cap. This should be done ahead of sampling days.
@@ -63,17 +64,17 @@ protocol from Sean Driscoll, Fish Lab (UML)
 - check with Sean/someone in the Fish lab about availability to use their vacuum oven
 
 #### Materials:
-- PBS
-- EtOH dilution series (25%, 50%, 100%)
-- 50/50 xylene or xylene substitute with EtOH
+- EtOH (95%, 100%)
+- xylene or xylene substitute
 	- *Note:* xylene is very toxic, so substitute when available
-- 5mL bullet tubes (if larger pieces of tissue, can use 15mL conical tubes)
 - Parafrost wax
 - Cassettes 
 
 #### Protocol:
  
 #### Tissue processing:
+All ethanol washes can be in the same conical tube - dump ethanol between washes.
+
 1. Dehydrate tissue in EtOH series washed (95%,100%; assuming tissue is in 70% EtOH already - if not, start with lower concentration of EtOH) and all should be on rocker
 	> *Note:* The older the sample, the longer the wash the better but should be at least 30 minutes each (ideally an hour or more each).
 2. 3 washes in 100% EtOH (about an hour each but can go less) on rocker
