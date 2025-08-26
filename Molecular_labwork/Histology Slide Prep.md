@@ -1,7 +1,7 @@
 # Histology Slide Prep
 Protocol for oyster histology
 
-*Last updated:* 08/19/2025 by JGM
+*Last updated:* 08/26/2025 by JGM
 
 ## Tissue Sectioning
 
@@ -77,8 +77,9 @@ protocol from Sean Driscoll, Fish Lab (UML)
 1. Dehydrate tissue in EtOH series washed (95%,100%; assuming tissue is in 70% EtOH already - if not, start with lower concentration of EtOH) and all should be on rocker
 	> *Note:* The older the sample, the longer the wash the better but should be at least 30 minutes each (ideally an hour or more each).
 2. 3 washes in 100% EtOH (about an hour each but can go less) on rocker
-3. Wash 50/50 in xylene** (**VERY TOXIC**) or xylene substitute with EtOH on rocker
-4. 3 washes in xylene or xylene substitute, 30 mins each on rocker
+	- tissues can be left in 100% EtOH after the third wash indefinitely
+3. Wash 50/50 in xylene (VERY TOXIC) or xylene substitute with EtOH on rocker
+4. 3 washes in xylene (or substitute), 30 mins each on rocker
 5. Place tissue in glass dish or some container that will be easiest to manipulate with the wax
 6. 1 wash in 50/50 xylene (or substitute) with wax with vacuum on about 30 minutes
 7. 3+ wax washes (need to get the xylene or substitute out) about 30 minutes each (vacuum)
