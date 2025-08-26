@@ -7,33 +7,14 @@
 
 ## 0. Introduction
 ### Mud blister worms—what are they?
-*Polydora websteri* are small marine worms that burrow into the shells of oysters and other bivalves, creating mud-filled blisters. The blisters appear as black shadows or as raised patches of pearlescent new shell as the oyster tries to protect itself from the parasite. The shell can also have yellow bruising around the edges, but it always comes from the edge of the shell inwards. 
-
-> Adding size of worms would be good
-> 
-> Is the yellow bruising related to the worm? If not, write about it below in the protocol when talking about scoring the images; if so, maybe good to cite a source since I don't think this is widely known
-> 
-> Reword the bit about coming from the edge by talking about the worm ecology - does the worm burrow into the top of the shell or the side of the shell? Why? 
-> 
-> Add a sentence about why we might care ecologically, and why the aquaculture industry might care
+*Polydora websteri* are small marine worms that burrow into the shells of oysters and other bivalves, creating mud-filled blisters. The blisters appear as black shadows or as raised patches of pearlescent new shell as the oyster tries to protect itself from the parasite, but it always comes from the edge of the shell inwards creating a U shaped blister. The worm is typically less than 0.75 inches in length and burrows from the opening side of the shell into the main mantle area, Blister worms burrow exclusively into the shell of the oysters because they use it for protective housing, not as a food source. The mud blister worms are researched because of the primary concern is how mud blister worms make oysters and other shellfish less appealing to consumers.
 
 ### Boring sponge—what is it?
-They are a species of demosponge called *Cliona celata* that burrows into the shells of marine organisms such as oysters, clams, and corals, as well as other calcium carbonate structures. As a result of the small circular holes they bore into the oyster shell, the shell is weakened and can eventually kill the host organism. The small circular boring holes typically originate at the umbo and radiate out towards the edge of the oyster shell. 
-
-> To push you, when you write the word "demosponge" do you know what it means? You don't have to explain it here, but I just want to make sure you're using terminology that makes sense to you and isn't just what the internet/encyclopedia says (I have no idea what it being a demosponge means haha)
-> 
-> Does the sponge kill the host, or does the sponge indirectly kill the host due to weakening shell making it susceptible to other pathogens or damage or predation? (I don't think the sponge actually poisons or attacks the oyster tissue but I could be wrong) 
-> 
-> I got rid of the three classifications of infection because 1) we don't use them and 2) they're not super descriptive haha, it's like no infection, sorta infected, and very infected—it's not more intuitive compared to our percent coverage statistic in my opinion
-> 
-> Add a sentence about why we might care ecologically, and why the aquaculture industry might care
+They are a species of demosponge called *Cliona celata* that burrows into the shells of marine organisms such as oysters, clams, and corals, as well as other calcium carbonate structures. As a result of the small circular holes they bore into the oyster shell, weakening them and making them vulnerable to predators or other environmental stressors. With the shell weakened it can can eventually kill the host organism. The small circular boring holes typically originate at the umbo and radiate out towards the edge of the oyster shell. The sponge is studied due to the effect it has on the shell due to the degrading affects on the shell, threatening the oyster industry and the ecosystem of the oyster reef.
 
 ## 1. Taking shell pictures
 
 ### Materials
-- Tray
-
-> With the new protocol do you still need a tray?
 
 - Camera/phone 
 - Tripod
@@ -48,64 +29,29 @@ They are a species of demosponge called *Cliona celata* that burrows into the sh
 
 ### Preparation
 1. Oyster shells must first be cleaned of organic matter and excess tissue using methods such as scrubbing with a stiff brush or steel brush and rinsing with cold tap water
+	- If processing in the lab, it's likely the shells will be frozen and need to be thawed first
+	- If processing in the field, the scrubbing should be done before shucking
 	- If saving the tissue place that into a different bag and have a label to keep track of what the tissue is and the date.
-2. Once cleaned, they can be placed on a tray with a bench pad to keep them dry. When they are placed on the tray, you can continue patting them dry as best as possible. 
-	- You need them as dry as possible so the camera won't pick up on the glare of the water and make a shadow that could be mistaken for a mud blister.
-
-> A simpler alternative for example:
-> 1. Scrub oyster shells in cold tap water with a stiff brush to clean off mud and debris
-> 	- If processing in the lab, it's likely the shells will be frozen and need to be thawed first
-> 	- If processing in the field, the scrubbing should be done before shucking
-> 
-> I would move the patting excess water to the step where you're actually about to take the shell pictures not here where you're just cleaning them
-
-2. Place your tripod over the tray.
-
-> This doesn't make intuitive sense - place the tripod over the tray? Like suspend it? I would just set the whole thing up and take a picture then say in the protocol "set up tripod and tray as shown below" so you don't have to try to describe it (include external light source so again you don't have to describe it)
-
-3. Attach the phone or camera and adjust the tray so that it fills the whole screen
-	- It can help to place something under the tray to move it closer to the lens
-4. Set the zoom to 1.7x  or 1.8x, depending on the shell size
-	1. On an iPhone, the square setting provides precise edges to view the entire tray and can be easier to focus on the shells
-5. Place your R and L labels on either side of the black mat to indicate which valve is which
-
-> Okay now I'm confused haha - are you photographing them on trays or on the cloth? 
-> Steps 3-5 needs to be updated accordingly
-
-6. Place the ruler at the bottom of the cloth and make sure it's captured by the camera
-	- This is important to ensure your measurements are accurate when using ImageJ later 
-
-### Photographing
-1. Place each shell according to whether it is the dorsal side or ventral side of the shell. T for dorsal and B for ventral (you can use whatever you want to represent which shell is what valve). Place the label at the bottom of the shells to know what shells are and what number they are.  This picture will help you identify which side of the shell is which.
-
-> You already said all of this...move the picture to the "preparation" section and call it a day!
-
+2.  Attach the phone or camera and adjust the tray so that it fills the whole screen
+	1. Take your tray and cover it with the cloth and set up the ruler on the end of the cloth. 
+	- It can help to place something under the tray to move it closer to the lens if your tripod is long.
+3. Set the zoom to 2x or 2.2x , depending on the shell size but have enough room to see details but not squish them to close. They shouldn't be touching any other objects on the cloth.
+	1. On an iPhone, the square setting provides precise edges to view the entire tray and can be easier to focus on the shells.
+4. If you chose to use a identification on each side place each shell according to whether it is the dorsal side or ventral side of the shell. Place the label at the bottom of the shells to know what shells are and what number they are.  This picture will help you identify which side of the shell is which.
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfIRyyaFF2TsNt0Va5cO24zqncdlZAq38tVtxfSHE-cThC2JEYWuzctzaTzE2e18Em4FIzJPhnQ0gAj54VxRCBaRCWjmDPBiWOYoo4_5FpfnwcDNe4OmbPBfHLsVyM6SKzbHiuwlw?key=z_G4b9gy-c2edOMeb05JOQ)**
-2. Place the ruler at the bottom of the frame to make sure your measurements are accurate when using ImageJ.
-
-> Already said this too...I also don't think you need this image of the T/B since that is confusing if we are just using R/L (pretend top and bottom don't exist okay, think of how confusing it could be to someone else who is new to this protocol!) I would include this type of picture (retaken with R/L on the different cloth color) and put it right as the first thing of this "photographing" section to be like okay, this is the goal! I would also include an example of an exterior AND interior picture
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfrW4vXaNiapd_ssKQytWMEFghun1pSJaY95r8yha5zBGV6G1Q-R9JWF8mLrNFk8mCkWG0T6lL71262kJoLIljwQStktAWShwmgRudgC8226jG5Xeqtsba3r_HMofBY2GXWca-_BQ?key=z_G4b9gy-c2edOMeb05JOQ)
+### Photographing
 
 1. Pat shells dry to remove any excess water—the glare of the water can cause shadows that will look like mud blisters
 2. Position the shells as seen in the example above
-3. Hold the shell that has the most visual contrast between the two on the camera, and let the AE/AF lock (iPhone) and take the photo. 
-
-> Do you still do this? When you say hold I'm thinking physically hold the shell, but I think you mean touch the touchscreen? If so, I would preface this step by saying "If using an iPhone..."
-
+3. If using a iPhone, Hold the shell on the touch screen that has the most visual contrast between the two on the camera, and let the AE/AF lock (iPhone) and take the photo. 
 4. Check the image one last time without moving the camera/phone and then take the picture
-	- **IMPORTANT!** To save time when analyzing photos, do not move the tripod or zoom in/out between pictures as this will change the scale of the oyster shell!
-
-> Just want to draw your attention to this point - very important if you use the global set measurement function on ImageJ... Hopefully you haven't been moving or zooming in on the shells when you take the picture? 
-
+	- **IMPORTANT!** To save time when analyzing photos, do not move the tripod or zoom in/out between pictures as this will change the scale of the oyster shell! You want the pictures to be uniform and once you like the first picture YOU SHOULD NOT MOVE OR ALTER THE CAMERA. 
 5. Flip over the shells and repeat steps 2-4 so you end up with both exterior and interior photos
-6. Once all shells have been photographed...
+6. Once all shells have been photographed you should upload to a folder and up to wherever you keep the data. Have a back up so you don't have to do this again later. Label accordingly and upload. 
 
-> Add here about how you immediately upload photos to drive! Gotta remember to include all the steps in a protocol, even the less glamorous but arguably most important—all your hard work needs to be backed up somewhere ASAP so you don't have to do it all again haha
-> 
-> You will probably also want to add a step between 5 + 6 about setting up shots to use the macro with (again, I'd just show an example pic and say do this basically)
-
-If processing in the lab, proceed to the drying section. If processing in the field, store the shells in individual ziplock bags, making sure to include the ID label, and store at -20ºC.
+	If processing in the lab: proceed to the drying section. 
+	If processing in the field, store the shells in individual ziplock bags
+		Check to make sure to include the ID label, and store at -20ºC.
 
 ## 2. Drying and weighing
 
@@ -119,23 +65,10 @@ If processing in the lab, proceed to the drying section. If processing in the fi
 ### Drying
 
 1. Place oyster shells with their unique ID labels on a tray
-	- It does not matter if the shells are face up or down!
-
-> If this is wrong correct me, haha, but again, I'm anticipating this to be a question a new user of the protocol would have so best to answer it ahead of time
-
-2. When the tray is completely full (typically around 6-7 oysters), place the shells into a 55-65ºC drying oven in room ??? 
-
-> So I don't think I've been clear enough here - a drying oven is a heated space that has a fan/ventilation to allow things to dry whereas an incubator is typically for cell culture (think algae, bacteria, human cells too) that has water at the bottom to retain moisture
-> 
-> Add room number as this is also helpful information for a newbie to the lab
-
-3. Rinse out the small ziplock bags and air dry them on the drying rack above the sink
-
-> Yes, this is something I forgot to tell you that we should be doing to cut down on plastic waste... As annoying as it is, it's something I also had to do as an undergrad and should at least make you feel better about ~sustainability~
-
+	1. Place top up and all uniform.
+2. When the tray is completely full (typically around 6-7 oysters), place the shells into a 55-65ºC drying oven. (If in Olsen the drying oven is in room 502)
+3. Rinse out the small ziplock bags and air dry them on the drying rack above the sink (To put them back in the same bags when you are done weighing. Also ***Sustainability :)*** )
 4. After 72 hours remove shells from drying oven to immediately weigh
-
-> This is also new but important if we are to reuse ziplock bags! 
 
 ### Weighing
 
@@ -149,27 +82,33 @@ If processing in the lab, proceed to the drying section. If processing in the fi
 ## 3. Photo analysis using ImageJ
 
 ### Preparation
-1. 
-> Add how you re-label photos / organize them on your laptop (do you download them from the drive?)
-
+1. First you should have them relabeled in a folder to make it easy to use imageJ and it will go faster. 
+	1. Each picture should have a label that matches the site, date and number. *2025_August_site_number*
+	2. Have a folder for each site and all the picture, it will make it easy to have backups and they are all in the same place. This folder can be uploaded to the drive or where the data is kept.
 2. Download and open ImageJ
 	- *Recommended:* connect laptop to a second monitor or tablet
-3. With ImageJ open...
-> Add how you add an image to ImageJ (File > Open > ? or do you drag and drop from a desktop folder? Think of all the questions you asked me or had to figure out and try to concisely address them here - as you know, learning a new software can be daunting and this protocol is meant to help!)
+3. With ImageJ open...![[Screenshot 2025-08-25 at 3.57.09 PM 2.png]]
+	(File>Open>Folder>Image)
 
-4. Go draw a line that is one inch on the ruler and then hit “analyze_set scale_known distance:1 ( make sure it changes the unit of length to unit) _global (so you don't have to keep doing this) _ ok.
+4. Go draw a line that is one inch on the ruler and then hit “analyze>set scale>known distance:1 ( make sure it changes the unit of length to unit) _global (so you don't have to keep doing this)>ok. 
+	1. When setting scale you can check the global button BUT all pictures analyzed in this session must have been taken from the same day with the same camera set up and zoom (or else scale will be different!)
+![[Screenshot 2025-08-25 at 4.01.43 PM.png]]
 
-> Like we talked about in person, 1) add a screenshot of the little toolbar and which button you press to draw a line 2) clarify the menus you use by writing the format as Analyze > Set Scale > etc 3) make note of what the user needs to edit "set known distance to 1 and unit of length to inches" 4) add as a separate bullet point under step 4 that you can check the global button BUT all pictures analyzed in this session must have been taken from the same day with the same camera set up and zoom (or else scale will be different!)
+![[Screenshot 2025-08-25 at 4.02.19 PM.png]]
+
 
 ### General measurements
-1. 
-> Add how to measure straight lines for shell height / width (which buttons to draw line, longest/widest point, image example, which buttons to show measurement)
+1. When finding the shell Height and Width you will pick the line tool and start at the tallest point to the umbo on each shell. Then hit M on your keyboard (for measure) and it will pop up with the measurements.
+![[Screenshot 2025-08-25 at 4.07.41 PM.png]]
+	The length you need will be on the far right. (Add measurement to data-sheet and do next shell)
+![[Screenshot 2025-08-25 at 4.08.08 PM.png]]
+	Find the width the same way (find the farthest part and go across and hit M)
+		The measurement will show up after the first measurement if you don't close it out. (Add measurement to data-sheet and do next shell)
 
-2. 
-> Add how to measure the shell area manually 
+2. When Finding the area you will hit the "polygon" tool and trace along the side of the whole oyster and hit M and it will calculate the data like the length and width. The area of the oyster will be under the Area column and add to data sheet then continue to next shell.  
+![[Screenshot 2025-08-25 at 4.09.26 PM.png]]
 
-3. 
-> Mention the existence of the macro and I'll check w Sarah but we can either link Teresa's protocol or put some kind of reference here
+###### Macros 
 
 ### Mud blister worms
 
