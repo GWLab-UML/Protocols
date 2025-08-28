@@ -3,13 +3,9 @@
 
 *Polydora websteri* are small marine worms that burrow into the shells of oysters and other bivalves, creating mud-filled blisters. The blisters appear as black shadows or as raised patches of pearlescent new shell as the oyster tries to protect itself from the parasite, but it always comes from the edge of the shell inwards creating a U shaped blister. The worm is typically less than 0.75 inches in length and burrows from the opening side of the shell into the main mantle area, Blister worms burrow exclusively into the shell of the oysters because they use it for protective housing, not as a food source. The mud blister worms are researched because of the primary concern is how mud blister worms make oysters and other shellfish less appealing to consumers.
 
-  
-
 ### Boring sponge—what is it?
 
 They are a species of demosponge called *Cliona celata* that burrows into the shells of marine organisms such as oysters, clams, and corals, as well as other calcium carbonate structures. As a result of the small circular holes they bore into the oyster shell, weakening them and making them vulnerable to predators or other environmental stressors. With the shell weakened it can can eventually kill the host organism. The small circular boring holes typically originate at the umbo and radiate out towards the edge of the oyster shell. The sponge is studied due to the effect it has on the shell due to the degrading affects on the shell, threatening the oyster industry and the ecosystem of the oyster reef.
-
-  
 
 ## 1. Taking shell pictures
 ### Materials
@@ -74,15 +70,14 @@ They are a species of demosponge called *Cliona celata* that burrows into the sh
 
 3. When the tray is completely full (typically around 6-7 oysters), place the shells into a 55-65ºC drying oven. (If in Olsen the drying oven is in room 502)
 
-4. Rinse out the small ziplock bags and air dry them on the drying rack above the sink (To put them back in the same bags when you are done weighing. Also ***Sustainability :)*** )
+4. Rinse out the small ziplock bags and air dry them on the drying rack above the sink (To put them back in the same bags when you are done weighing. Also ***Sustainability :)*** 
 
 5. After 72 hours remove shells from drying oven to immediately weigh
 
 ### Weighing
   
 1. Place a large weigh boat on the scale and tare the scale
-
-> Do you know which scale Anthony uses? Again, this detail could be helpful to someone! (If you can be extra detailed and try to foresee questions, that will save me from having to answer them in the future haha)
+	1. Using the same scale is ideal to get uniform and most accurate data.  
 
 2. Place both valves of an oyster on the weigh boat and record the ID and weight in grams
 
@@ -142,7 +137,6 @@ The measurement will show up after the first measurement if you don't close it o
 
 The blisters from the Mud blister worms are pockets of mud and debris located on the inside of an oyster's shell, which bores into the shell. The oyster responds to the “irritation” by secreting layers of shell to build a protective barrier around the worm, forming the blister. When looking at this in the sense of data collection, we are only looking at the dark brown or black U-shaped blister on the inside of the shell. There will always be an entrance and exit to these. Not all shells that have “New Shell” will be a blister, so judgment calls are important. 
 
-
 1. Open a new file and picture like when you are finding the shell data. 
     
 2. (File>Open>Folder>Image)
@@ -153,11 +147,11 @@ The blisters from the Mud blister worms are pockets of mud and debris located on
     
 5. Outlined in yellow are blisters that have a confirmed entrance and exit; the yellow bruising can be from poor water quality, marine parasites, or the age of the shell. It isn't a blister and shouldn't be counted. The yellow arrows pointing to the bright white shell are showing new shell formation, but there is no indication of a blister since you can't see under it, and it could be from any other stressor. DO NOT COUNT IT.
     
-6. While the picture has multiple highlights, you can only do one at a time, after each blister hit M and get the measurements, and record the data. 
+6. While the picture has multiple highlights, you can only do one at a time, after each blister hit M (for measurement) and get the measurements, and record the data. 
     
 7.  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDqgeHH-Ks97DxWY9-lc9O7eOcZI7HB5sE3a1VYYLJgsOTuX2KnN5wEPvhAQvZltU7XevFS0mgbzwDCmTxD-FizIBfh6jDckvn1kZQsT6rcYX7PY_xn8Q0E2065H9y3onUI_QMWw?key=JDzKcoJQwuC_JsCdwCkMPw)
 
-4 . While counting the area, you will also need to count how many blisters there are on either shell. Such as the one above on picture 3.a: it has 8 on the right valve and 2 on the left valve. Record the values on your spreadsheet, put a column for
+4 . While counting the area, you will also need to count how many blisters there are on either shell. Such as the one above on picture 7. it has 8 blister on the right valve and 2 on the left valve. Record the values on your spreadsheet, put a column for
 
 1. Number of individual blisters per valve
 
@@ -165,20 +159,18 @@ The blisters from the Mud blister worms are pockets of mud and debris located on
 
 ### Boring sponge
 
-
 1. Open ImageJ, just like graphing the blisters, and ensure the scale is set to one Inch. (see above) All steps are the same 
 
-2. Open the folder where your pictures of the shells are saved and start from the dorsal side. We are focused on the dorsal side because it shows the most damage. Having the hand tool ready to move the image to the desired position, and to move it readily. Look at the shell as a whole and note if there is any crumbling of the shell near the umbo. If there is any shell degradation near the umbo, zoom in and see if there are any small holes associated with it.
+2. Open the folder where your pictures of the shells are saved and start from the dorsal side. We are focused on the dorsal side because it shows the most damage. Having the hand tool ready to move the image to the desired position, and to move it readily. Look at the shell as a whole and note if there is any crumbling of the shell near the umbo. If there is any shell damage near the umbo, zoom in and see if there are any small holes associated with it.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcub5gkeV_JLK2cAWpgz-T9Qai8MR2y1TSwHMoaREk_nxBJzep-F5VV4TnuhPyFRCFDWA7U3X38dwhWQkrm0Flgj1m-Yzu9L0aSskXCXa8C-vdzBVq3Ko9wq5WJxhTKZOyk16sGqA?key=JDzKcoJQwuC_JsCdwCkMPw)
 
 3. It could be small holes, discoloration (yellow or orange), and “honeycomb patterning.” The yellow arrow pointing at the right umbo is damaged, but there are no small holes or crumbling, and it can't be classified as boring sponge. 
 
 4. Use the free-hand tool or, for larger areas, use the polygon tool to map out the entire radius and calculate the area. This should be done for both shells, and then log data in columns labeled:
-
-5.  Total area of all boring sponge per valve
+	1. Total area of all boring sponge per valve
     
-6. The picture below shows the “honeycomb” and yellowing of the sponge on the oyster. The bottom is broken, but it should still be counted because of the damage. 
+5. The picture below shows the “honeycomb” and yellowing of the sponge on the oyster. The bottom is broken, but it should still be counted because of the damage. 
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfTtF2Rv2ZMq7IPykA5F4G6fa_funRkzD0wP4ZfFsNK576R5E3_GMp4k5ajM4ahoj7lwAAjEkOXRCd_k-HubMqrOLBOBcR0r0bkeojvw30eoH2oquDHDMv-1Yyw1QrQWdMtqAd6TA?key=JDzKcoJQwuC_JsCdwCkMPw)
 
