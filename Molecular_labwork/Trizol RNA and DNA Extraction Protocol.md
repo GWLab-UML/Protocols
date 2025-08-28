@@ -1,5 +1,5 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: August 18, 2025 JM
+Last edit: August 28, 2025 JM
 ### Notes
 This protocol has been updated from the manufacturer's for 500uL of Trizol, so reagent volumes are cut in half. 
 Optimized for working with small samples of oyster tissue. 
@@ -17,6 +17,7 @@ Optimized for working with small samples of oyster tissue.
 - Trizol (500uL per sample)
 - Chloroform (100uL per sample)
 - Cold rack
+- Liquid nitrogen
 
 ***RNA Extraction***
 - 100% isopropanol (250uL per sample)
@@ -140,7 +141,8 @@ Work can move to the biosafety cabinet/laminar flow hood
 	- A260/280 = ~2.0 (if lower, likely presence of DNA, protein, phenol, etc)
 	- A260/230 = 2.0 - 2.2 (if lower, likely presence of Trizol, phenol, etc)
 	- Could also do DNA qubit to double check the majority of your sample isn't contaminated with DNA since Nanodrop won't be able to pick up on this
-5. Long-term storage at -70ºC
+5. Flash freeze RNA in liquid nitrogen before moving to -80ºC
+6. Long-term storage at -80ºC
 	1. If the downstream application is RNA-seq, treat with [DNase](https://github.com/GWLab-UML/Protocols/blob/5235c06ff8c6466e2f4119e437bf020e83474f65/Molecular_labwork/DNase%20Treatment.md) to remove any potential DNA contamination
 
 ### 3. DNA Isolation
