@@ -1,9 +1,10 @@
 # DNase Treatment for RNA
 - Product: [TURBO DNA-free kit](https://www.thermofisher.com/order/catalog/product/AM1907), stored at -20ºC
 - Protocol from ThermoFisher [User Guide](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/1907M_turbodnafree_UG.pdf)
-- *Last Updated: 08/18/2025 by JM*
+- *Last Updated: 08/28/2025 by JM*
 
 This treatment removes DNA contamination from RNA and is done before library preparation for RNA-seq.
+>*Note:* high sensitivity DNA qubit can cross react with RNA, leading to overestimation of the DNA concentration. If verifying DNA removal in RNA, use broad range DNA qubit.
 
 ## Routine DNase treatment
 *Note:* this protocol is for samples that contain <= 200 ug nucleic acid per uL (200,000 ng/uL). Use 1 uL TURBO DNase for up to 10 ug of RNA in a 50 uL reaction. These conditions will remove up to 2 ug of genomic DNA from total RNA in a 50 uL reaction. If there is more RNA (>200 ug nucleic acid per mL) that is severely contaminated with DNA (i.e., >2 ug DNA/50uL (40ng/uL)), use the **rigorous DNase treatment** (see below)
