@@ -68,29 +68,46 @@ Materials:
 - 4L plastic algae jug, bleached
 - 4L DI water
 - 130g Instant Ocean (32.5g/L)
-- 5-10mL glass serological pipette, autoclaved
 - 4mL f/2 media, sterile and kept at 4ºC (1mL/1L *total volume*)
-- 3 rubber connectors, bleached
-- Air filter
-
+- 2 longer rubber tubes that have bleach bathed/DI washed and dried.
 Steps: 
 
 Outside of hood—
 1. Measure out Instant Ocean and add to plastic jug, immediately cover with lid
 2. Fill with DI water, immediately replace lid
-3. Swirl jug until dissolved
+3. Swirl jug until dissolved (though its not a full carboy it is easier to swirl halfway and then continue to fill it)
 
 In the hood—
-1. Uncap jug, close the hood, and UV sterilize for 5 minutes
+1. Uncap jug, close the hood, and UV sterilize for 5 minutes (with hoses)
 2. Add f/2 media and screw on lid
+3. You should add the hoses here so it can stay sterile and put tinfoil on the ends. 
 
-In the oyster room—
-1. Connect the carboy siphon tube to one of the tubes coming out of the plastic jug lid using a clean rubber connector
-2. Detach the airline from the stopper of the carboy and attach it to the "inflow" end of the air filter with a clean rubber connector
-3. Attach the other end of the air filter to the plastic jug lid using a clean rubber connector
+**In the oyster room—
+
+(Starting if the car boy is on the second shelf, you need to do the re-bloom on the top shelf, and if on the bottle, then the second shelf is fine because of physics)
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcTr7orECP9Ia3jko4H_3-Pl52kBbjJcLIAQkyCRigSaeJwkCudExjh0OtqdaAYMdMcPiEXOE5A-aEjwoU-WSrF7_sdW9PdG4I6THdKj6sdrKJk6Zk06Q5nQ2HAFUErMz7HX2hJCg?key=JDzKcoJQwuC_JsCdwCkMPw)
+
+
+1. Looking at the large Carboy that needs to be re-bloomed, you have 3 lines off the top.
+- Airline 
+- Siphon
+- Exhaust
+ On your bottle or jug, you have 2….Airline and Siphon.
+  
+- **IMPORTANT !! Whatever you use in this re-blooming NEEDS TO BE CLEAN AND STERILE!! - As in all rubber connections, all tubes, and once you close the Re-bloom bottle in the hood, IT CAN’T BE OPENED!!! 
+
+1.  Close the exhaust line.
+ 
+2.   Detach the airline from the carboy and attach it to the re-bloom bottle (this is now coming directly from the pump). Make sure the tube is long enough if you need to put it on the top shelf, and ensure air is being pushed appropriately
+
+3. Connect the carboy siphon tube to one of the tubes coming out of the plastic jug lid using a clean rubber connector. (This needs to be initially closed so you don't make a mess.) Open the clip TO THE EXHAUST (This is IMPORTANT!! It will back up into the air line coming out of the carboy, and it will leak and ruin the air filter attached to it). Then, to the siphon tube, and there should be a flow of the contents from the bottle to the carboy. 
+
 4. The contents of the plastic jug should now be flowing into the carboy
-	- Elevating the plastic jug will help things move faster (gravity!)
-5. When finished, submerge everything in the 5% bleach bath for 15 minutes followed by the DI bath for 10 minutes, and then air dry before putting all the pieces away
+
+5. Elevating the plastic jug will help things move faster (gravity!)
+
+6. When finished, submerge everything in the 5% bleach bath for 15 minutes, followed by the DI bath for 10 minutes, and then air dry before putting all the pieces away. (Follow directions on the wall above the sink for more in-depth directions)**
 
 **Don't forget to update the [Algae Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1UBeluqx4SQUdaInXP4of0siFTtXhhd97nKfENCC8lmE/edit?usp=sharing)!**
 For the Carboy ID, the letter represents each new carboy made from a flask and the number is the re-bloom count.
