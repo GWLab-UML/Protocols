@@ -68,28 +68,34 @@ protocol from Sean Driscoll, Fish Lab (UML)
 - xylene or xylene substitute
 	- *Note:* xylene is very toxic, so substitute when available
 - Parafrost wax
+- small glass beakers
 - Cassettes 
 
-#### Protocol:
- 
+### Protocol:
 #### Tissue processing:
-All ethanol washes can be in the same conical tube - dump ethanol between washes.
+All ethanol washes can be in the *same* conical tube - dump ethanol between washes.
 
 1. Dehydrate tissue in EtOH series washed (95%,100%; assuming tissue is in 70% EtOH already - if not, start with lower concentration of EtOH) and all should be on rocker
 	> *Note:* The older the sample, the longer the wash the better but should be at least 30 minutes each (ideally an hour or more each).
 2. 3 washes in 100% EtOH (about an hour each but can go less) on rocker
-	- tissues can be left in 100% EtOH after the third wash indefinitely
-3. Wash 50/50 in xylene (VERY TOXIC) or xylene substitute with EtOH on rocker
-4. 3 washes in xylene (or substitute), 30 mins each on rocker
+	>*Note:* Tissues can be left in 100% EtOH after the third wash indefinitely
+3. Wash 50/50 in xylene (VERY TOXIC) or xylene substitute with EtOH on rocker for 1 hour
+4. 3 washes in xylene (or substitute), 30 mins each on rocker (45 mins for larger tissue)
 5. Place tissue in glass dish or some container that will be easiest to manipulate with the wax
-6. 1 wash in 50/50 xylene (or substitute) with wax with vacuum on about 30 minutes
-7. 3+ wax washes (need to get the xylene or substitute out) about 30 minutes each (vacuum)
-8. Using heat block, transfer tissues into wax mold and embed
+	1. small glass beakers
+6. 1 wash in (roughly) 50/50 xylene (or substitute) and wax (enough to thoroughly cover tissue) with vacuum on about 30 minutes (45 mins for larger tissue)
+	1.  turn on vacuum until the gauge reads 20, then turn off 
+7. 3+ wax washes (need to get the xylene or substitute out) about 30 minutes each (vacuum; 45 mins for larger tissue) 
+	1. add enough wax to thoroughly cover the entire tissue
+8. While the tissue is still in warm wax, remove and place tissue into the cassette - then discard the remaining wax
 
 #### Embedding:
-do this with Stefan the first time - then fill in
-1. 
-
+1. Tissues can be kept in the warming compartment while waiting to keep tissues from getting hard due to the wax
+2. Place a metal dish under the wax dispenser - dispense a small amount of wax into the dish (about ¼ of the dish)
+3. Place the tissue into the wax - orient the tissue in the dish
+4. Take off the top of the cassette - fill up the dish the rest of the way with wax and put the cassette bottom on the top of the dish (flat side down) - dispense more wax onto the top part of the cassette 
+5. Move cassettes to the cooling block for ~20 mins, then can be left overnight at room temperature
+	- if not sectioning the next day, cassettes can be stored indefinitely at 4℃ until needed
 
 ## Sectioning 
 with microtome
