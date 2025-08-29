@@ -66,7 +66,7 @@ protocol from Sean Driscoll, Fish Lab (UML)
 #### Materials:
 - EtOH (95%, 100%)
 - xylene or xylene substitute
-	- *Note:* xylene is very toxic, so substitute when available
+	- *Note:* xylene is very toxic, so substitute when available - interchangeable in the protocol
 - Parafrost wax
 - small glass beakers
 - Cassettes 
@@ -79,13 +79,13 @@ All ethanol washes can be in the *same* conical tube - dump ethanol between wash
 	> *Note:* The older the sample, the longer the wash the better but should be at least 30 minutes each (ideally an hour or more each).
 2. 3 washes in 100% EtOH (about an hour each but can go less) on rocker
 	>*Note:* Tissues can be left in 100% EtOH after the third wash indefinitely
-3. Wash 50/50 in xylene (VERY TOXIC) or xylene substitute with EtOH on rocker for 1 hour
-4. 3 washes in xylene (or substitute), 30 mins each on rocker (45 mins for larger tissue)
+3. Wash 50/50 in xylene substitute with EtOH on rocker for 1 hour
+4. 3 washes in xylene substitute, 30 mins each on rocker (45 mins for larger tissue)
 5. Place tissue in glass dish or some container that will be easiest to manipulate with the wax
 	1. small glass beakers
-6. 1 wash in (roughly) 50/50 xylene (or substitute) and wax (enough to thoroughly cover tissue) with vacuum on about 30 minutes (45 mins for larger tissue)
+6. 1 wash in (roughly) 50/50 xylene substitute and wax (enough to thoroughly cover tissue) with vacuum on about 30 minutes (45 mins for larger tissue)
 	1.  turn on vacuum until the gauge reads 20, then turn off 
-7. 3+ wax washes (need to get the xylene or substitute out) about 30 minutes each (vacuum; 45 mins for larger tissue) 
+7. 3+ wax washes (need to get the xylene substitute out) about 30 minutes each (vacuum; 45 mins for larger tissue) 
 	1. add enough wax to thoroughly cover the entire tissue
 8. While the tissue is still in warm wax, remove and place tissue into the cassette - then discard the remaining wax
 
