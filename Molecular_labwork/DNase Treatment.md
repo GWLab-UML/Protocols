@@ -11,7 +11,7 @@ This treatment removes DNA contamination from RNA and is done before library pre
 
 #### Prep
 - set incubator to 37ºC
-- UV PCR strip tubes and RNA-free 1.5mL tubes - label accordingly
+- UV PCR strip tubes and RNA-free 1.5mL tubes (label according to sequencing instructions)
 - thaw DNAse kit
 
 #### Protocol
