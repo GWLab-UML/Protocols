@@ -1,8 +1,9 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: August 28, 2025 JM
+Last edit: September 3, 2025 JM
 ### Notes
-This protocol has been updated from the manufacturer's for 500uL of Trizol, so reagent volumes are cut in half. 
-Optimized for working with small samples of oyster tissue. 
+- This protocol has been updated from the manufacturer's for 500uL of Trizol, so reagent volumes are cut in half. 
+- Optimized for working with small samples of oyster tissue. 
+- ~5 hours from start to DNA in the fridge for incubation
 ### Materials
 ***Homogenizing***
 - RNase away
@@ -12,12 +13,12 @@ Optimized for working with small samples of oyster tissue.
 - Face mask
 - Homogenizer 150
 - Autoclaved plastic homogenizer probes (1 per sample)
-- 5% bleach
+- Soapy water
 - DI water
 - Trizol (500uL per sample)
 - Chloroform (100uL per sample)
 - Cold rack
-- Liquid nitrogen
+- Liquid nitrogen (if not available, can use dry ice and 100% EtOH)
 
 ***RNA Extraction***
 - 100% isopropanol (250uL per sample)
@@ -89,7 +90,7 @@ Optimized for working with small samples of oyster tissue.
 	- Keep tubes in cold rack while homogenizing but be careful of spillover
 	- *Never run homogenizer dry*
 4. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 3
-5. Clean probe immediately as follows: first DI bath 10s, bleach 10s, second DI bath 10s
+5. Clean probe immediately as follows: first DI bath 10s, soapy water 10s, second DI bath 10s
 6. Remove probe and leave in second DI bath
 7. Repeat steps 3-5 for all samples
 
@@ -105,7 +106,7 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 	- The mixture will separate into a lower red phenol-chloroform organic phase, a milky interphase, and a colorless upper aqueous phase (~50% of the total volume)
 5. Carefully pipette out the aqueous phase containing the RNA; avoid drawing any of the interphase or organic layer into the pipette as this will cause phenol contamination
 	- Tilting the tube at a slight angle is okay, but keeping the tube more upright will help prevent the phases from mixing
-	- Try to remove 150-200uL of the aqueous phase
+	- Try to remove 150uL of the aqueous phase - less is more! being greedy = contaminated RNA
 	- If aqueous layer is slightly pink in color after initial spin, try spinning again for 5 minutes; if the liquid still doesn't clear up, proceed as normal through steps (Don't panic! It's still possible to get high quality product)
 6. Place the aqueous phase into pre-labeled 1.5mL tube and proceed to RNA isolation
 7. Store the interphase and organic phase at 4ºC for DNA isolation later
@@ -136,12 +137,14 @@ Work can move to the biosafety cabinet/laminar flow hood
 **Solubilize the RNA**
 1. Resuspend the RNA pellet in 30µL RNase-free water by pipetting the solution up and down several times
 2. Incubate at 55-60ºC for 10-15 minutes
+	- this is a good time to go get liquid nitrogen (or dry ice) to flash freeze the samples
 3. Give each sample a good vortex or flick before proceeding to quantification
 4. Measure on Nanodrop/Qubit ([calculations spreadsheet](https://docs.google.com/spreadsheets/d/1dncCvx_XR8j56II3qtQBzECOIseynwCOv8T3BreIVWM/edit?usp=sharing))
 	- A260/280 = ~2.0 (if lower, likely presence of DNA, protein, phenol, etc)
 	- A260/230 = 2.0 - 2.2 (if lower, likely presence of Trizol, phenol, etc)
 	- Could also do DNA qubit to double check the majority of your sample isn't contaminated with DNA since Nanodrop won't be able to pick up on this
 5. Flash freeze RNA in liquid nitrogen before moving to -80ºC
+	- If liquid nitrogen is not available, RNA can be flash frozen with dry ice and 100% EtOH (be careful to not wipe the sharpie off tubes with the EtOH)
 6. Long-term storage at -80ºC
 	1. If the downstream application is RNA-seq, treat with [DNase](https://github.com/GWLab-UML/Protocols/blob/5235c06ff8c6466e2f4119e437bf020e83474f65/Molecular_labwork/DNase%20Treatment.md) to remove any potential DNA contamination
 
