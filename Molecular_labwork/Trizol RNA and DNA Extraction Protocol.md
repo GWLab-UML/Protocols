@@ -104,7 +104,7 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 1. Incubate samples for 5 minutes in the cold rack
 2. Add 100uL chloroform and gently invert each sample until thoroughly mixed (bubblegum pink color)
 3. Incubate samples for 2 minutes in the cold rack
-4. Centrifuge samples at 12,000g for 15 minutes at 4ºC (Program 4)
+4. Centrifuge samples at 12,000g for 15 minutes at 4ºC
 	- The mixture will separate into a lower red phenol-chloroform organic phase, a milky interphase, and a colorless upper aqueous phase (~50% of the total volume)
 5. While spinning, finish ==cleaning the probes==:
 	- Set some kimwipes out in the hood and UV sterilize them
@@ -128,11 +128,11 @@ Work can move to the biosafety cabinet/laminar flow hood
 **Precipitate the RNA**
 1. Add 0.5uL RNase-free glycogen (want 5-10µg, this is for 20 mg/mL glycogen)
 2. Add 250uL of isopropanol, pipette up and down to mix, and incubate in cold rack for 10 minutes
-3. Centrifuge at 12,000g for 10 minutes at 4ºC (Program 2)
+3. Centrifuge at 12,000g for 10 minutes at 4ºC
 4. Remove the supernatant from the tube, leaving only the gel-like RNA pellet
 
 **Wash the RNA**
-1. Add 500uL of 75% ethanol to wash the pellet; vortex sample briefly then centrifuge at 7,500g for 5 minutes at 4ºC (Program 1)
+1. Add 500uL of 75% ethanol to wash the pellet; vortex sample briefly then centrifuge at 7,500g for 5 minutes at 4ºC 
 	- Really want to make sure the pellet is dislodged from the side of the tube and interacting with ethanol, so flick to dislodge
 	- Rotate the tube to make sure all surfaces are coated in ethanol
 2. Remove and discard the supernatant, going back in with a smaller pipette tip to remove all excess liquid
@@ -164,7 +164,7 @@ Work can move to the biosafety cabinet/laminar flow hood
 	- If significantly disturbed, consider re-spinning at 12,000g for 5 minutes before trying to remove the aqueous phase again
 2. Add 150uL 100% ethanol, thoroughly mix via pipetting up and down, then move to pre-labeled 1.5mL DNA lo-bind tube
 3. Briefly vortex each sample before incubating for 2 minutes at room temperature
-4. Centrifuge at 5,000g for 5 minutes at 4ºC (Program 3)
+4. Centrifuge at 5,000g for 5 minutes at 4ºC
 5. Aspirate out the phenol-ethanol supernatant, going back in with a smaller pipette (P200) tip to remove all excess liquid
 
 Work can now move to the biosafety cabinet/laminar flow hood
@@ -173,7 +173,7 @@ Work can now move to the biosafety cabinet/laminar flow hood
 1. Add 500uL of sodium citrate/ethanol solution to each sample
 2. Flick each sample until pellet is completely dislodged and suspended in the solution; briefly vortex before incubating for 30 minutes at room temperature on shaker
 	- DNA can be kept in sodium citrate/ethanol solution for up to 2 hours (*untested*)
-3. Centrifuge at 5,000g for 5 minutes at 4ºC (Program 3)
+3. Centrifuge at 5,000g for 5 minutes at 4ºC 
 4. Remove and discard supernatant, going back in with a smaller pipette (P200) tip to remove all excess liquid
 	- A pellet may or may not be visible so take care when pipetting
 	- If a white precipitate appears continue with protocol and do not attempt to remove; it will likely get smaller with each wash step
@@ -181,7 +181,7 @@ Work can now move to the biosafety cabinet/laminar flow hood
 	- This is a good time to put an aliquot of 8mM NaOH on the heat block
 6. Add 500uL 75% ethanol
 7. Flick each sample until pellet is dislodged and suspended in the solution; briefly vortex sample before incubating for 2-5 minutes at room temperature
-8. Centrifuge at 5,000g for 5 minutes at 4ºC (Program 3)
+8. Centrifuge at 5,000g for 5 minutes at 4ºC
 9. Remove and discard supernatant, going back in with a smaller pipette tip (P200) to remove all excess liquid
 10. Air dry the DNA pellet for 10-15 minutes; do not allow the DNA pellet to dry completely
 	- Go back in with a smaller pipette tip (P20) to extract any remaining ethanol before resuspension
