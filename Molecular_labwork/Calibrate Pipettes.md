@@ -3,7 +3,7 @@ Last updated: 9/4/2025 JF
 
 Ambient temperature should be between 15-30ºC and constant during testing. 
 ### Materials
-- Enclosed balance that can read to 0.01mg (5 digits)
+- Enclosed balance that can ideally read to 0.01mg (5 digits)
 - Metal weighing tin
 - DI water
 - Pipettes to be tested
@@ -22,13 +22,10 @@ Ambient temperature should be between 15-30ºC and constant during testing.
 	- Pipette plunger should be released in a controlled manner to draw up the liquid slowly
 7. Dispense the liquid into the weigh tin; fully expel liquid and let the tip of the pipette touch the side of the tin to remove any droplets
 8. Record the weight in the datasheet
-	- This tells us the *precision* of the pipette when comparing to the volume it's supposed to be pipetting; 1mL of DI water should weigh 1g
+	- This tells us the *accuracy* of the pipette when comparing to the volume it's supposed to be pipetting; 1mL of DI water should weigh 1g
 9. Repeat steps 6-8 at least 3 times, taring the balance after each reading
-	- This tells us the *accuracy* of the pipette when comparing if the replicates are consistent
+	- This tells us the *precision* of the pipette when comparing if the replicates are consistent
 10. Set the pipette to its minimum volume and repeat steps 6-9
 11. Repeat steps 4-10 for each individual pipette
 
-The datasheet will calculate percent accuracy and percent precision. Values closer to zero mean greater accuracy/precision. Any pipettes that fall outside of the pipette manufacturer's specifications for accuracy and/or precision should be set aside to be calibrated by a technician. 
-
-**Pipette name specifications:**
-**A different pipette name specifications:**
+The datasheet will calculate percent accuracy and standard deviation. 100% accuracy and 0mg standard deviation means the pipette is perfectly calibrated.
