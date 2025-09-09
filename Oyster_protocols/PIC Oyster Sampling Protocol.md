@@ -32,6 +32,7 @@ Last updated: September 8, 2025 JF
 	- Try to keep shadows to a minimum as best as possible
 7. Collect 35 subtidal adult oysters (1.5-3") in mesh bag
 	- Try to gather from all around the bed
+	- Try not to select for oysters that are more easily removed—use the snips to pry off oysters attached to rocks or other oysters
 	- Try not to select for oysters that are more easily removed—use snips to pry off oysters attached to rocks or other oysters
 8. Collect 12 juvenile oysters (<1.5") in small ziplock bag
 	- Can be subtidal or intertidal as we're only looking at genetics not microbiome
@@ -50,7 +51,6 @@ When we are able to be onsite at the farm:
 2. Collect 4x 50mL water microbiome samples (Rep A)
 3. Collect another 4x 50mL water microbiome samples at a different spot (Rep B)
 4. Retrieve 35 farmed adult oysters from cages
-Otherwise, communicate with farmers for a hand-off of water samples and oysters
 **Note**: we are not sampling chlorophyll a or juveniles at the farms
 
 ## Water sample processing
@@ -82,18 +82,19 @@ Otherwise, communicate with farmers for a hand-off of water samples and oysters
 3. Attach 1L vacuum flask to pump and insert glass funnel
 4. Using sterile (ethanol-flamed) forceps, place white filter paper on top of funnel and secure using glass cup and metal clamp
 	- For microbiome water samples, use 0.22um filter paper
-	- For chlorophyll a samples, use 0.7um glass fiber filter paper
-5. Pour one replicate (**total 200mL**) into glass cup and turn on the pump
+	- For chlorophyll a samples, use 0.7um filter paper
+5. Pour one replicate (or total 200mL) into glass cup and turn on the pump
+	- **IMPORTANT**—for chlorophyll a samples, use the graduated cylinder and pour exactly 200mL into the glass cup (and rinse with DI three times between samples)
 6. Once all of the liquid has been captured in the flask, remove the metal clamp and carefully lift off the glass cup
-7. Using a pair of sterile (ethanol-flamed) forceps, carefully fold the filter paper
+7. Using two pairs of sterile (ethanol-flamed) forceps, carefully fold the filter paper
 	- For microbiome water samples, fold in half four times or until it can fit into a labeled 2mL tube of RNAlater—make sure it is fully submerged
 	- For chlorophyll a samples, fold in half once and then carefully wrap in a labeled sleeve of tinfoil
-8. Clean the glass funnel and glass cup between each replicate by rinsing it in ~10% bleach  followed by DI water at least twice
+8. Clean the glass funnel and glass cup between each replicate by rinsing it in ~5% bleach  followed by DI water at least twice
 	- There are two sets of glass funnels and cups so that while one is drying, another can be used to continue processing
 9. Continue steps 1-7 until all water samples have been filtered
 	- **Watch the water level in the vacuum flask**—after 3-4 samples it should be disconnected from the pump and the contents dumped down the sink! 
-10. Return all 2mL microbiome tubes to the correctly labeled freezer box and collect all chlorophyll a tinfoil sleeves into a ziplock bag and put on ice
-11. In the sink, thoroughly rinse out the amber nalgenes used for chlorophyll a, give them a final rinse with DI water, and then let air dry to be used in the field the next day
+10. Return all microbiome 2mL tubes to the correctly labeled freezer box and collect all chlorophyll a tinfoil sleeves into a Ziploc bag and put on ice
+11. In the sink, thoroughly rinse out all the 100mL glass bottles used for chlorophyll a, give them a final rinse with DI water, and then let air dry to be used in the field the next day
 
 ## Oyster sample processing
 ### A. Prep
