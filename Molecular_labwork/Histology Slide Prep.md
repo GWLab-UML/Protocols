@@ -1,14 +1,25 @@
 # Histology Slide Prep
 Protocol for oyster histology
 
-*Last updated:* 08/05/2025 by JGM
+*Last updated:* 08/26/2025 by JGM
+
+## Tissue Sectioning
+
+#### Materials:
+- forceps
+- scalpel and blade
+- dissecting scissors
+
+#### Protocol:
+For oysters specifically, following the NOAA oyster processing protocol to use their histological sectioning guidelines (parallel blue lines; see below) - dissect tissue, being careful to keep the piece as one as much as possible
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdVwYzXvJQcBDGj9N4tHwJyRBJxm-Cy9oFTEiHhnSDLI3ma_TKVGfPDzIUTBov4Eth-67h1XE9KzjA8VAaYpk8aWw6UiDZ5NKmt596VRK3Mq1VG8gfw1B5Ch-EyDZml7c-qj5gOhQ?key=asb6yQQFpZeyxOuCxygo6w)**
 
 ## Davidson's Fixative
 protocol from NOAA fisheries
 
 *all completed under a chemical fume hood*
 
-**Materials:**
+#### Materials:
 - Glycerin
 - Formaldehyde
 - 95% EtOH
@@ -16,8 +27,9 @@ protocol from NOAA fisheries
 - DI water
 - Glacial Acetic Acid
 - 15mL conical tubes
+- 70% EtOH
 
-**Protocol:**
+#### Protocol:
 1. To create a **stock solution** of Davidson’s Fixative, add the listed ingredients to a prelabeled 1L plastic bottle with a screw cap. This should be done ahead of sampling days.
 	- 100 ml Glycerin
 	- 200ml Formaldehyde
@@ -28,10 +40,10 @@ protocol from NOAA fisheries
 	- 50mL Glacial Acetic Acid
 	- 450ml of Davidson’s Fixative.
 	>*Note*: For sample sizes of 50 oyster use 630ml of Davidson’s fixative and 70 ml glacial acetic acid.
-4. Add tissue to individual 15mL conical tubes. Add a generous amount (enough to cover the tissue and more) of Davidson's Fixative (working solution) to the tube  under the hood to avoid fume inhalation
+4. Add 10mL of Davidson's Fixative (working solution) to a 15mL conical tube under the hood to avoid fume inhalation. Add tissue section to the tube.
 5. After adding fixative to the tubes, store for 24-48 hrs at 4℃ (standard refrigeration).
 	>*Note:* if the tissue is in the fixative for too long, it becomes brittle
-6. Post-refrigeration, transfer tissue to new conical tubes and dispose of the fixative into a designated chemical waste container under the fume hood using the designated Davidison’s Fixative funnel.
+6. Post-refrigeration, transfer tissue to new conical tubes and dispose of the fixative into a designated chemical waste container under the fume hood.
 7. Add 70% ethanol to new tubes, transfer tissue and store at 4℃ (standard refrigeration).
 	- Label the bottle with the sample details, change in media, date, and initials
 		- Sample details (type, number), 70% EtOH, MM/DD/YYYY, initials
@@ -51,33 +63,39 @@ protocol from Sean Driscoll, Fish Lab (UML)
 - turn on wax machine a few hours before intending to use
 - check with Sean/someone in the Fish lab about availability to use their vacuum oven
 
-**Materials:**
-- PBS
-- EtOH dilution series (25%, 50%, 100%)
-- 50/50 xylene or xylene substitute with EtOH
-	- *Note:* xylene is very toxic, so substitute when available
-- 5mL bullet tubes (if larger pieces of tissue, can use 15mL conical tubes)
+#### Materials:
+- EtOH (95%, 100%)
+- xylene or xylene substitute
+	- *Note:* xylene is very toxic, so substitute when available - interchangeable in the protocol
 - Parafrost wax
+- small glass beakers
 - Cassettes 
 
- **Protocol:**
- 
-**Tissue processing:**
-1. If still in fixative, run through a PBS wash. 
-	1. ==what if stored in EtOH already?== 
-2. Dehydrate embryo in EtOH series washed (25%,50%,100%) and all should be on rocker
+### Protocol:
+#### Tissue processing:
+All ethanol washes can be in the *same* conical tube - dump ethanol between washes.
+
+1. Dehydrate tissue in EtOH series washed (95%,100%; assuming tissue is in 70% EtOH already - if not, start with lower concentration of EtOH) and all should be on rocker
 	> *Note:* The older the sample, the longer the wash the better but should be at least 30 minutes each (ideally an hour or more each).
-3. Three washes in 100% EtOH (about an hour each but can go less) on rocker
-4. Wash 50/50 in xylene** (**VERY TOXIC**) or xylene substitute with EtOH on rocker
-5. Three washes in xylene or xylene substitute, 30 mins each on rocker
-6. Place tissue in glass dish or some container that will be easiest to manipulate with the wax
-7. One wash in 50/50 xylene (or substitute) with wax with vacuum on about 30 minutes
-8. Three+ wax washes (need to get the xylene or substitute out) about 30 minutes each (vacuum)
-9. Using heat block, transfer tissues into wax mold and embed
+2. 3 washes in 100% EtOH (about an hour each but can go less) on rocker
+	>*Note:* Tissues can be left in 100% EtOH after the third wash indefinitely
+3. Wash 50/50 in xylene substitute with EtOH on rocker for 1 hour
+4. 3 washes in xylene substitute, 30 mins each on rocker (45 mins for larger tissue)
+5. Place tissue in glass dish or some container that will be easiest to manipulate with the wax
+	1. small glass beakers
+6. 1 wash in (roughly) 50/50 xylene substitute and wax (enough to thoroughly cover tissue) with vacuum on about 30 minutes (45 mins for larger tissue)
+	1.  turn on vacuum until the gauge reads 20, then turn off 
+7. 3+ wax washes (need to get the xylene substitute out) about 30 minutes each (vacuum; 45 mins for larger tissue) 
+	1. add enough wax to thoroughly cover the entire tissue
+8. While the tissue is still in warm wax, remove and place tissue into the cassette - then discard the remaining wax
 
-**Embedding** - do this with Stefan the first time - then fill in
-10. 
-
+#### Embedding:
+0. Tissues can be kept in the warming compartment while waiting to keep tissues from getting hard due to the wax
+1. Place a metal dish under the wax dispenser - dispense a small amount of wax into the dish (about ¼ of the dish)
+2. Place the tissue into the wax - orient the tissue in the dish
+3. Take off the top of the cassette - fill up the dish the rest of the way with wax and put the cassette bottom on the top of the dish (flat side down) - dispense more wax onto the top part of the cassette 
+4. Move cassettes to the cooling block for ~20 mins, then can be left overnight at room temperature
+	- if not sectioning the next day, cassettes can be stored indefinitely at 4℃ until needed
 
 ## Sectioning 
 with microtome
@@ -94,12 +112,13 @@ with microtome
 - turn on drying rack
 - label slides with proper sample identification prior to mounting
 
-**Materials:**
+#### Materials:
 - positively charged slides
 - double DI water (or autoclaved DI water)
 	>*Note:* at least 1400mL, but should have extra nearby
 
-**Protocol:** do this with Stefan the first time - then fill in
+#### Protocol:
+do this with Stefan the first time - then fill in
 1. 
 
 
@@ -108,7 +127,7 @@ with microtome
 
 protocol is from NOAA fisheries
 
-**Materials:**
+#### Materials:
 - xylene (or substitute)
 - 100% EtOH
 - 95% EtOH
@@ -119,7 +138,7 @@ protocol is from NOAA fisheries
 - Permount (mounting medium)
 - Staining holder
 
-**Protocol:** 
+#### Protocol:
 > Stefan said we could use the Steinel setup for this - do this with him and then edit protocol as needed
 1. Remove slides from drying rack.
 2. Samples will be hand stained using Harris Hematoxylin and Eosin Y-Phloxine B by moving the staining holder with slides through a series of staining baths using the following procedure:
@@ -149,7 +168,7 @@ protocol is from NOAA fisheries
 | 21   | Differentiate eosin and dehydrate | Xylene             | 5min                           |
 | 22   | Mount                             | Xylene             | 5min - coverslip with Permount |
 
-**Coverslipping**:
+#### Coverslipping:
 1. With the frosted, coded side of the slide facing up, take a Kim wipe and remove excess xylene from the front and back of the slides, without touching the tissue sections.
 2. Place one drop of mounting fluid on the tissue on the slide.
 3. Choose the proper coverslip, place the edge of the cover slip at an angle to the bottom edge of the slide, and gradually lower onto the slide so the mounting fluid flows evenly from bottom to top. Do not drop the cover slip onto the slide to avoid bubbles.
