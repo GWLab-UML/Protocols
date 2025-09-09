@@ -4,6 +4,7 @@ Last updated: September 8, 2025 JF
 - NSW1: 42.727, -70.84711
 - NSW2: 42.75141, -70.83699
 - NSW3: 42.74867, -70.88182
+
 *Farm*
 - NSF1
 - NSF2
