@@ -30,7 +30,7 @@ Last updated: 09/10/2025 by JM
 3. Bring the beaker to a heating stirring table. Set heat to 95℃ and set stirring power to 300-400 rpm until the reagents are fully dissolved. Raise temperature as need, stirring could take up to 45 minutes to dissolve reagents
 4. Fill autoclavable screw capped bottles to ~75% capacity for room for heated RFTM, keep bottle caps loose for venting. 
 5. Autoclave RFTM at 121°C for 20 minutes
-6. Allow to cool before adding 0.25 g chloramphenicol (antibiotic) with stirring, this is now your RFTM
+6. Allow to cool before adding 0.25 g chloramphenicol (antibiotic) with stirring
 7. Close caps tightly and wrap RFTM bottles in foil to keep in the dark at 4°C (can be stored up to a year)
 
 ## II. RFTM inoculation with oyster tissues
@@ -105,7 +105,7 @@ Last updated: 09/10/2025 by JM
 | Mass of ~200-400 *Perkinsus* cells | 3           |
 | < ½ of tissue appears blue-black   | 4           |
 | Most of tissue appears blue-black  | 5           |
-
+9. Slides can be stored in boxes at 4°C or soaked in 5% bleach and washed for reuse.
 
 ## Disposing of RFTM
 1. Add 50 mL of bleach for every 500 mL of RFTM (a final concentration of 10%)
