@@ -31,8 +31,7 @@ Last updated: 09/10/2025 by JM
 4. Fill autoclavable screw capped bottles to ~75% capacity for room for heated RFTM, keep bottle caps loose for venting. 
 5. Autoclave RFTM at 121°C for 20 minutes
 6. Allow to cool before adding 0.25 g chloramphenicol (antibiotic) with stirring, this is now your RFTM
-7. Allow RFTM to cool in a sterile environment, like a BSC or fume hood. Once they have cooled to room temp, close the bottle caps tightly
-8. Wrap RFTM bottles in foil to keep in the dark in a 4°C fridge (fridge storage allows storage for up to a year)
+7. Close caps tightly and wrap RFTM bottles in foil to keep in the dark at 4°C (can be stored up to a year)
 
 ## II. RFTM inoculation with oyster tissues
 ### **Materials**
