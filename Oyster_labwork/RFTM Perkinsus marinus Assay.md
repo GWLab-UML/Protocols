@@ -1,4 +1,4 @@
-# RFTM assay for*Perkinsus marinus*
+# RFTM assay for *Perkinsus marinus*
 Last updated: 09/10/2025 by JM
 
 ### **Materials to autoclave before beginning protocol** (if not already autoclaved):
@@ -25,7 +25,6 @@ Last updated: 09/10/2025 by JM
 - Foil or masking tape
 
 ### **Protocol:**
-*Wear a face mask when weighing out materials with health hazard warning*
 1. Add a stir bar to a 600 mL beaker
 2. Add 14.6 g FTM powder, 10 g NaCl, and 485 mL distilled water to the beaker in the BSC. Use weigh paper when measuring reagents, not a weigh boat
 3. Bring the beaker to a heating stirring table. Set heat to 95℃ and set stirring power to 300-400 rpm until the reagents are fully dissolved. Raise temperature as need, stirring could take up to 45 minutes to dissolve reagents
@@ -65,14 +64,14 @@ Last updated: 09/10/2025 by JM
 	- Store in 4℃ fridge until use. 
 2. Label glass tubes with sample ID
 3. Add ~10 mL of RFTM to culture tubes using a VMC squeeze bottle filled with RFTM
-4. Cap tubes and store in a 4℃ fridge until needed
-5. Shuck oyster, being careful not to tear/disrupt the tissues. Dissect needed tissues in plastic weigh boat on lab bench (to reduce mess)
+	- Tubes can be capped and stored at 4℃ until needed
+4. Shuck oyster, being careful not to tear/disrupt the tissues. Dissect needed tissues in plastic weigh boat on lab bench (to reduce mess).
 	- *Do not shuck and dissect oysters in the BSC*
 	- Ethanol flame forceps and dissecting scissors to sterilize between samples. Allow these to cool before dissecting the next oyster.
 	- Place excess tissues and liquid from oyster into a plastic bag to be discarded. Shells can be rinsed with water and kept in 'shell bag' in the bottom of the Narwhal freezer
-6. Add 2-4 drops of nystatin suspension into the pre-filled RFTM tube using a dropper to inhibit fungus growth
-7. Add dissected tissue(s) to pre-filled and -labeled RFTM tube (mantle and rectum can go in the same tube). 
-8. Incubate for 5-10 days in the dark at 27°C (20°C - 30°C is fine). Then proceed to part 3 below.
+5. Add 2-4 drops of nystatin suspension into the pre-filled RFTM tube using a dropper to inhibit fungus growth
+6. Add dissected tissue(s) to pre-filled and -labeled RFTM tube (mantle and rectum can go in the same tube). 
+7. Incubate for 5-10 days in the dark at 27°C (20°C - 30°C is fine). Then proceed to part 3 below.
 
 
 ## III. RFTM assay
