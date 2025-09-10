@@ -107,5 +107,8 @@ Last updated: 09/10/2025 by JM
 | Most of tissue appears blue-black  | 5           |
 9. Slides can be stored in boxes at 4°C or soaked in 5% bleach and washed for reuse.
 
+#### Taking and uploading slide pictures:
+1. AG edits!
+
 ## Disposing of RFTM
 Add 50 mL of bleach for every 500 mL of RFTM (a final concentration of 10%), dispose into hazardous waste container.
