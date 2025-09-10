@@ -163,8 +163,8 @@ with microtome
 > done in the Steinel lab fume hood - takes roughly an hour
 1. Remove slides from drying rack.
 2. Samples will be hand stained using Hematoxylin and Eosin Y by moving the staining holder with slides through a series of staining baths using the following procedure:
-	>*Note*: only alcohols need to be replaced before each use - everything else is replaced as needed. Eosin Y and hematoxylin are paraffin wrapped after use to preserve and prevent evaporation.
-	>*Note*: For slides under running water, transfer slides to bulkier slide holder and place into a beaker. Run water in the beaker for 15 mins.
+	- Only alcohols need to be replaced before each use - everything else is replaced as needed. Eosin Y and hematoxylin are paraffin wrapped after use to preserve and prevent evaporation.
+	- For slides under running water, transfer slides to bulkier slide holder and place into a beaker. Run water in the beaker for 15 mins.
 
 | Step | Reagent             | Time            |
 | ---- | ------------------- | --------------- |
