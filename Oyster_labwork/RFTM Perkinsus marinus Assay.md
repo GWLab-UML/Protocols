@@ -1,5 +1,5 @@
 # RFTM assay for *Perkinsus marinus*
-Last updated: 09/10/2025 by JM
+Last updated: 09/11/2025 by JM
 
 ### **Materials to autoclave before beginning protocol** (if not already autoclaved):
 - Glass culturing tubes with covers 
@@ -86,8 +86,7 @@ Last updated: 09/10/2025 by JM
 - Dropper
 
 ### **Protocol:**
-1. Make 50% Lugols solution and add to a 50 mL falcon tube. 
-	>*Note*: Make sure falcon tube is wrapped in foil or dark tape as Lugol's is light sensitive
+1. Make 50% Lugols solution and add to amber glass bottle (Lugol's is light sensitive). 
 2. Ethanol flame tweezers and place in a sterile beaker to cool
 3. Label microscope slides with a pencil 
 4. Add 2 drops of 50% (v/v) Lugol's iodine solution to a labeled microscope slide
