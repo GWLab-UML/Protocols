@@ -106,15 +106,15 @@ with microtome
 - Samples in paraffin are good indefinitely and can be sectioned again later
 
 **Prep:**
-- add 800mL double DI or autoclaved DI water to main water bath and 600mL to the smaller bath (water reservoir) on the microtome. Set temperature to ~42ºC. 
+- add 800mL double DI or autoclaved DI water to main water bath and 600mL to the smaller bath (water reservoir) on the microtome. Set temperature to ~42ºC (Takes about 10 minutes). 
 	>*Note:* if using for a few hours, water may start to evaporate. It's a good idea to keep extra water near by to refill water baths.
 - pre-cool paraffin blocks to 5ºC before sectioning. afterwards, keep in ice bath.
 	>*Note:* a warm wax block will not section properly
 - turn on slide warmer (set to 40ºC, setting 4)
 - label slides with proper sample identification prior to mounting
-- make sure water slide is completely wet/evenly distributed (adjust water speed as needed) 
+- make sure water slide is completely wet/evenly distributed (adjust water speed as needed, higher is needed to start and you can use the paintbrush to evenly get the blade wet. Making sure not to touch the blade but have it this fully saturated.) 
 - adjust feed (thickness of slices; ~7 but thicker for fragile tissues) and trim (removing excess wax in front of tissue) with the first dial
-- make sure there is no water gap above the blade when sectioning
+- make sure there is no water gap above the blade when sectioning.
 
 #### Materials:
 - positively charged slides (or any slide)
@@ -124,10 +124,10 @@ with microtome
 
 #### Protocol:
 1. Place cassette into head.
-2. Adjust head so the cassette nearly touches the blade (this can largely be done with the second dial)
+2. Adjust head so the cassette nearly touches the blade (this can largely be done with the second dial, looking above can help determine the angle needed to make it straight)
 3. On the trim setting (first dial), section the wax until the excess is trimmed off and tissue is exposed. 
 4. Switch to the feed setting (first dial) and section.
-5. Once sections are floating in the water bath, position a labelled slide under the tissue in the water. Slowly pull the slide out of the water, making sure the tissue is on the slide. 
+5. Once sections are floating in the water bath, position a labelled slide under the tissue in the water. (Take out any excess wax you don't want and keep the stage clear) Slowly pull the slide out of the water, making sure the tissue is on the slide. 
 	- only leave the slice in the water bath for 30 seconds (the tissue can start to separate)
 	- it's okay if the wax goes off the edge of the slide - it will be cleaned off later
 	- turn the water slide off to allow for grabbing the section easier
@@ -185,6 +185,6 @@ with microtome
 | 15   | xylene sub          | 2 min           |
 | 16   | xylene sub          | 2 min           |
 
-3. Once all staining steps are completed, let the slides air dry for a few minutes. Re-paraffin Eosin Y and hematoxylin containers.
+3. Once all staining steps are completed, let the slides air dry for a few minutes. Re-paraffin Eosin Y and hematoxylin containers. (Make sure to fill out data sheet placed on top of the hood)
 4. Add a drop of xylene substitute mounting medium to cover the tissue on the slide. Add the coverslip, being careful not to create bubbles. Let sit overnight
 5. Slides are ready to be imaged!
