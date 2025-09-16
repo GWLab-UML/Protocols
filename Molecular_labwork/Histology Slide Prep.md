@@ -1,7 +1,7 @@
 # Histology Slide Prep
 Protocol for oyster histology
 
-*Last updated:* 08/26/2025 by JGM
+*Last updated:* 09/10/2025 by JGM
 
 ## Tissue Sectioning
 
@@ -103,75 +103,88 @@ with microtome
 **Notes:**
 - Make sure to get trained by someone in the Steinel lab before using the microtome. Also check-in about availability.
 - If samples tear while cutting, either the paraffin block is too warm or the knife is dull
+- Samples in paraffin are good indefinitely and can be sectioned again later
 
 **Prep:**
-- add 800mL double DI or autoclaved DI water to main water bath and 600mL to the smaller bath on the microtome. Set temperature to ~42ºC. 
+- add 800mL double DI or autoclaved DI water to main water bath and 600mL to the smaller bath (water reservoir) on the microtome. Set temperature to ~42ºC (Takes about 10 minutes). 
 	>*Note:* if using for a few hours, water may start to evaporate. It's a good idea to keep extra water near by to refill water baths.
-- precool paraffin blocks to 5ºC before sectioning. afterwards, keep in ice bath.
-	>*Note:* a warm block will not section properly
-- turn on drying rack
+- pre-cool paraffin blocks to 5ºC before sectioning. afterwards, keep in ice bath.
+	>*Note:* a warm wax block will not section properly
+- turn on slide warmer (set to 40ºC, setting 4)
 - label slides with proper sample identification prior to mounting
+- make sure water slide is completely wet/evenly distributed (adjust water speed as needed, higher is needed to start and you can use the paintbrush to evenly get the blade wet. Making sure not to touch the blade but have it this fully saturated.) 
+- adjust feed (thickness of slices; ~7 but thicker for fragile tissues) and trim (removing excess wax in front of tissue) with the first dial
+- make sure there is no water gap above the blade when sectioning.
 
 #### Materials:
-- positively charged slides
+- positively charged slides (or any slide)
 - double DI water (or autoclaved DI water)
 	>*Note:* at least 1400mL, but should have extra nearby
+- paintbrush
 
 #### Protocol:
-do this with Stefan the first time - then fill in
-1. 
+1. Place cassette into head.
+2. Adjust head so the cassette nearly touches the blade (this can largely be done with the second dial, looking above can help determine the angle needed to make it straight)
+3. On the trim setting (first dial), section the wax until the excess is trimmed off and tissue is exposed. 
+4. Switch to the feed setting (first dial) and section.
+5. Once sections are floating in the water bath, position a labelled slide under the tissue in the water. (Take out any excess wax you don't want and keep the stage clear) Slowly pull the slide out of the water, making sure the tissue is on the slide. 
+	- only leave the slice in the water bath for 30 seconds (the tissue can start to separate)
+	- it's okay if the wax goes off the edge of the slide - it will be cleaned off later
+	- turn the water slide off to allow for grabbing the section easier
+	- multiple sections can be on the same slide 
+6. set slides to dry on the slide drying rack for a few hours/overnight
+	- can be stored long-term in dry, low moisture environment
+7. before starting next sample, move head back and repeat steps above
+
+**to break down microtome:**
+1. Put the head all the way back
+2. Put the blade protector up
+3. Turn water off 
+4. Dispose of water in bath/reservoir - dump into bucket to bring to sink - and dry with paper towels
+5. Turn everything off - unplug cooler
+6. Cover microtome
 
 
-## Staining - Harris’ Hematoxylin and Eosin2 (HHE2)
+## Staining with Mayers Hematoxylin and Eosin Y
 *all completed under a chemical fume hood*
-
-protocol is from NOAA fisheries
-
 #### Materials:
-- xylene (or substitute)
+- xylene substitute
 - 100% EtOH
 - 95% EtOH
-- Harris Hemtoxylin
-- acid EtOH (0.3 HCl in 200mL 70% EtOH)
-- NaHCO2 (5g in 200mL DI water)
-- Eosin Y-Phloxine B
-- Permount (mounting medium)
-- Staining holder
+- distilled water
+- Hemtoxylin
+- Eosin Y
+- Xylene substitute mounting medium
+- slide staining holders
+- coverslips
+- beaker
 
 #### Protocol:
-> Stefan said we could use the Steinel setup for this - do this with him and then edit protocol as needed
+> done in the Steinel lab fume hood - takes roughly an hour
 1. Remove slides from drying rack.
-2. Samples will be hand stained using Harris Hematoxylin and Eosin Y-Phloxine B by moving the staining holder with slides through a series of staining baths using the following procedure:
+2. Samples will be hand stained using Hematoxylin and Eosin Y by moving the staining holder with slides through a series of staining baths using the following procedure:
+	- Only alcohols need to be replaced before each use - everything else is replaced as needed. Eosin Y and hematoxylin are paraffin wrapped after use to preserve and prevent evaporation.
+	- For slides under running water, transfer slides to bulkier slide holder and place into a beaker. Run water in the beaker for 15 mins.
 
-| Step | Action                            | Reagent            | Time                           |
-| ---- | --------------------------------- | ------------------ | ------------------------------ |
-| 1    | Deparaffinize                     | Xylene             | 3min                           |
-| 2    | Deparaffinize                     | Xylene             | 2min                           |
-| 3    | Hydrate                           | 100% EtOH          | 15 dips                        |
-| 4    | Hydrate                           | 100% EtOH          | 15 dips                        |
-| 5    | Hydrate                           | 95% EtOH           | 15 dips                        |
-| 6    | Hydrate                           | 95% EtOH           | 15 dips                        |
-| 7    | Hydrate                           | running tap water  | 3min                           |
-| 8    | Stain                             | Harris Hematoxylin | 8min                           |
-| 9    | Stain                             | running tap water  | 2min                           |
-| 10   | Differentiate Hematoxylin         | acid EtOH          | 1.5min                         |
-| 11   | Differentiate Hematoxylin         | running tap water  | 5min                           |
-| 12   | Blue-ing                          | NaHCO2             | 1.5min                         |
-| 13   | Blue-ing                          | running tap water  | 5min                           |
-| 14   | Counter stain                     | Eosin Y-Phloxine B | 3min                           |
-| 15   | Differentiate eosin and dehydrate | 95% EtOH           | 6 dips                         |
-| 16   | Differentiate eosin and dehydrate | 95% EtOH           | 6 dips                         |
-| 17   | Differentiate eosin and dehydrate | 100% EtOH          | 10 dips                        |
-| 18   | Differentiate eosin and dehydrate | 100% EtOH          | 10 dips                        |
-| 19   | Differentiate eosin and dehydrate | Xylene             | 3min                           |
-| 20   | Differentiate eosin and dehydrate | Xylene             | 5min                           |
-| 21   | Differentiate eosin and dehydrate | Xylene             | 5min                           |
-| 22   | Mount                             | Xylene             | 5min - coverslip with Permount |
+| Step | Reagent             | Time            |
+| ---- | ------------------- | --------------- |
+| 1    | xylene sub          | 2 min           |
+| 2    | xylene sub          | 2 min           |
+| 3    | 100% EtOH           | 2 min           |
+| 4    | 95% EtOH            | 2 min           |
+| 5    | 70% EtOH            | 2 min           |
+| 6    | Mayers hematoxylin  | 1 min (or less) |
+| 7    | running tap water   | 15 min          |
+| 8    | distilled water     | 30 sec          |
+| 9    | 95% EtOH            | 30 sec          |
+| 10   | Eosin Y (alcoholic) | 1 min           |
+| 11   | 95% EtOH            | 2 min           |
+| 12   | 95% EtOH            | 2 min           |
+| 13   | 100% EtOH           | 2 min           |
+| 14   | 100% EtOH           | 2 min           |
+| 15   | xylene sub          | 2 min           |
+| 16   | xylene sub          | 2 min           |
 
-#### Coverslipping:
-1. With the frosted, coded side of the slide facing up, take a Kim wipe and remove excess xylene from the front and back of the slides, without touching the tissue sections.
-2. Place one drop of mounting fluid on the tissue on the slide.
-3. Choose the proper coverslip, place the edge of the cover slip at an angle to the bottom edge of the slide, and gradually lower onto the slide so the mounting fluid flows evenly from bottom to top. Do not drop the cover slip onto the slide to avoid bubbles.
-4. Blot edges of slide on a paper towel and examine for occasional bubbles. If present, gently lead the bubble to the edge, out from under the coverslip using a probe. Proceed with care to avoid damage to the tissue.
-5. Place the slide on a tray with proper labels (code, stain, date) and place in a drying oven set at 38-42℃ for 2-5 days to allow the mounting medium to harden.
-6. After hardening of the medium, clean, touch up labels and file slides. Remove excess mounting medium
+3. Once all staining steps are completed, let the slides air dry for a few minutes. Re-paraffin Eosin Y and hematoxylin containers. (Make sure to fill out data sheet placed on top of the hood)
+4. Add a drop of xylene substitute mounting medium to cover the tissue on the slide. Add the coverslip, being careful not to create bubbles. Let sit overnight
+5. Slides are ready to be imaged!
