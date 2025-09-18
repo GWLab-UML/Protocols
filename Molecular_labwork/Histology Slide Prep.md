@@ -71,7 +71,7 @@ protocol from Sean Driscoll, Fish Lab (UML)
 - small glass beakers
 - Cassettes 
 
-### Protocol:
+#### Protocol:
 #### Tissue processing:
 All ethanol washes can be in the *same* conical tube - dump ethanol between washes.
 
@@ -119,7 +119,7 @@ with microtome
 #### Materials:
 - positively charged slides (or any slide)
 - double DI water (or autoclaved DI water)
-	>*Note:* at least 1400mL, but should have extra nearby
+	- *Note:* at least 1400mL, but should have extra nearby
 - paintbrush
 
 #### Protocol:
@@ -158,33 +158,34 @@ with microtome
 - slide staining holders
 - coverslips
 - beaker
+- parafilm
 
 #### Protocol:
 > done in the Steinel lab fume hood - takes roughly an hour
 1. Remove slides from drying rack.
 2. Samples will be hand stained using Hematoxylin and Eosin Y by moving the staining holder with slides through a series of staining baths using the following procedure:
-	- Only alcohols need to be replaced before each use - everything else is replaced as needed. Eosin Y and hematoxylin are paraffin wrapped after use to preserve and prevent evaporation.
+	- Only alcohols need to be replaced before each use - everything else is replaced as needed. Eosin Y and hematoxylin are parafilm wrapped after use to preserve and prevent evaporation.
 	- For slides under running water, transfer slides to bulkier slide holder and place into a beaker. Run water in the beaker for 15 mins.
 
-| Step | Reagent             | Time            |
-| ---- | ------------------- | --------------- |
-| 1    | xylene sub          | 2 min           |
-| 2    | xylene sub          | 2 min           |
-| 3    | 100% EtOH           | 2 min           |
-| 4    | 95% EtOH            | 2 min           |
-| 5    | 70% EtOH            | 2 min           |
-| 6    | Mayers hematoxylin  | 1 min (or less) |
-| 7    | running tap water   | 15 min          |
-| 8    | distilled water     | 30 sec          |
-| 9    | 95% EtOH            | 30 sec          |
-| 10   | Eosin Y (alcoholic) | 1 min           |
-| 11   | 95% EtOH            | 2 min           |
-| 12   | 95% EtOH            | 2 min           |
-| 13   | 100% EtOH           | 2 min           |
-| 14   | 100% EtOH           | 2 min           |
-| 15   | xylene sub          | 2 min           |
-| 16   | xylene sub          | 2 min           |
+| Step | Reagent             | Time          |
+| ---- | ------------------- | ------------- |
+| 1    | xylene sub          | 2 min         |
+| 2    | xylene sub          | 2 min         |
+| 3    | 100% EtOH           | 2 min         |
+| 4    | 95% EtOH            | 2 min         |
+| 5    | 70% EtOH            | 2 min         |
+| 6    | Mayers hematoxylin  | 30s (or less) |
+| 7    | running tap water   | 15 min        |
+| 8    | distilled water     | 30 sec        |
+| 9    | 95% EtOH            | 30 sec        |
+| 10   | Eosin Y (alcoholic) | 1 min         |
+| 11   | 95% EtOH            | 2 min         |
+| 12   | 95% EtOH            | 2 min         |
+| 13   | 100% EtOH           | 2 min         |
+| 14   | 100% EtOH           | 2 min         |
+| 15   | xylene sub          | 2 min         |
+| 16   | xylene sub          | 2 min         |
 
-3. Once all staining steps are completed, let the slides air dry for a few minutes. Re-paraffin Eosin Y and hematoxylin containers. (Make sure to fill out data sheet placed on top of the hood)
+3. Once all staining steps are completed, let the slides air dry for a few minutes. Re-parafilm Eosin Y and hematoxylin containers. (Make sure to fill out data sheet placed on top of the hood)
 4. Add a drop of xylene substitute mounting medium to cover the tissue on the slide. Add the coverslip, being careful not to create bubbles. Let sit overnight
 5. Slides are ready to be imaged!
