@@ -12,7 +12,7 @@ This treatment removes DNA contamination from RNA and is done before library pre
 #### Prep
 - set incubator to 37ºC
 - UV and label PCR strip tubes and RNA-free 1.5mL tubes 
-	>*Note:* for sequencing, the tube sample name (on top and side of tube) *must* exactly match the spreadsheet sample name - for CE_ORCC, naming convention is Phase1# _ Phase2# _ Tag# (W4_C5_W55)
+	>*Note:* for sequencing, the tube sample name (on top and side of tube) *must* exactly match the spreadsheet sample name - for CE_ORCC, naming convention is Phase1# _ Phase2# _ Tag#_ tissue (W4_C5_W55_gi)
 - thaw DNAse kit
 
 #### Protocol
