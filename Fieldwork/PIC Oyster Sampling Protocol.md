@@ -14,7 +14,7 @@ Last updated: September 8, 2025 JF
 ### A. Prep
 - Orion + pH calibration buffers
 - Soft cooler with ice packs
-- 8x sterile 50mL falcon tubes
+- 8x sterile 50mL falcon tubes (per site)
 - 4x 250mL amber nalgenes
 - ==PVC quadrat==
 - Mesh bag
@@ -44,7 +44,7 @@ Last updated: September 8, 2025 JF
 ### A. Prep
 - Orion + pH calibration buffers
 - Soft cooler with ice packs
-- 8x sterile 50mL falcon tubes
+- 8x sterile 50mL falcon tubes (per site)
 - Mesh bag
 ### B. Field
 When we are able to be onsite at the farm:
@@ -137,7 +137,7 @@ When we are able to be onsite at the farm:
 - 2x beakers (for sterilization)
 - Glass dropper
 - Nystatin suspension
-- ==Sharpie?==
+- Sharpie
 
 *Sexing station*:
 - Electricity outlet
@@ -175,7 +175,7 @@ When we are able to be onsite at the farm:
 ### D. Perkinsus dissection
 1. Using sterile (ethanol-flamed) forceps and dissecting scissors, take a small sample of the oyster mantle and put it into a glass culture tube pre-filled with RFTM
 2. Take an additional clipping of the rectum (1-2cm) and put it in the same tube
-3. ==Label the tube using a sharpie?==
+3. Label the tube with the site, oyster number, and tissue type using a sharpie
 4. Add a 2-3 drops of nystatin suspension
 5. Check off *Perkinsus* tissue types on the data sheet, or make a note if no sample was taken
 ### E. Sexing
