@@ -187,12 +187,14 @@ Work can now move to the biosafety cabinet/laminar flow hood
 	- Go back in with a smaller pipette tip (P20) to extract any remaining ethanol before resuspension
 
 **Resuspend the DNA**
-1. Add 15uL warm 8mM NaOH buffer and pipette up and down
+1. Add 15uL warm 8mM NaOH buffer and pipette up and down 
+	- For smaller tissues/samples with probably lower concentrations, add 10uL of NaOH instead
 2.  Briefly vortex each sample followed by a quick spin
 	- If a white, insoluble pellet is still present that is okay
 3. Store at 4ºC to incubate overnight (at least 3 hours)
 	- Do not let the DNA sit in NaOH at room temperature for longer than necessary as this will result in lower yield
 4. Add 150uL TE buffer to bring pH down to 7-8 and briefly vortex
+	- If 10uL of NaOH was used, add 100uL TE buffer
 5. Measure on Nanodrop/Qubit ([calculations spreadsheet](https://docs.google.com/spreadsheets/d/1dncCvx_XR8j56II3qtQBzECOIseynwCOv8T3BreIVWM/edit?usp=sharing))
 	- A260/280 = ~1.8 (if lower, likely presence of proteins, phenol, etc)
 	- A260/230 = 2.0 - 2.2 (if lower, likely presence of Trizol, phenol, etc)
