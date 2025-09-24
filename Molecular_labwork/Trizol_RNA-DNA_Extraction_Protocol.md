@@ -1,5 +1,5 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: September 3, 2025 JF
+Last edit: September 24, 2025 JM
 ### Notes
 - This protocol has been updated from the manufacturer's for 500uL of Trizol, so reagent volumes are cut in half
 - Optimized for working with small samples of oyster tissue
