@@ -15,7 +15,7 @@ Last updated: September 8, 2025 JF
 - Orion + pH calibration buffers
 - Soft cooler with ice packs
 - 8x sterile 50mL falcon tubes (per site)
-- 4x 250mL amber nalgenes
+- 4x 250mL amber nalgenes (per site)
 - ==PVC quadrat==
 - Mesh bag
 - Metal clippers
@@ -45,14 +45,18 @@ Last updated: September 8, 2025 JF
 - Orion + pH calibration buffers
 - Soft cooler with ice packs
 - 8x sterile 50mL falcon tubes (per site)
+- 4x 250mL amber nalgenes (per site)
 - Mesh bag
 ### B. Field
 When we are able to be onsite at the farm:
 1. Take salinity, pH, temperature, and DO water measurements using Orion
 2. Collect 4x 50mL water microbiome samples (Rep A)
 3. Collect another 4x 50mL water microbiome samples at a different spot (Rep B)
-4. Retrieve 35 farmed adult oysters from cages
-**Note**: we are not sampling chlorophyll a or juveniles at the farms
+4. Collect 200mL surface and 200mL subsurface (6-12" deep) chlorophyll a samples using amber nalgenes (Rep A)
+	- Keep bottle closed until submerged about elbow-deep, open the bottle to fill with water, recap while still under water at the same depth
+5. Collect another set of 200mL surface and 200mL subsurface chlorophyll a samples at a different spot using amber nalgenes (Rep B)
+6. Retrieve 35 farmed adult oysters from cages
+**Note**: we are not sampling juveniles at the farms
 
 ## Water sample processing
 *Wear a mask while working with microbiome samples to prevent contamination*
@@ -61,7 +65,7 @@ When we are able to be onsite at the farm:
 - [Data sheet](https://docs.google.com/spreadsheets/d/13I0BRV_Sp2di8QoYXy5DU7D5cUKiFEtp/edit?usp=sharing&ouid=105440584015869809877&rtpof=true&sd=true)
 - Face mask
 - Vacuum pump + tubing
-- 1L vacuum flask
+- 2x 1L vacuum flask
 - 2x glass funnels 
 - 2x glass cups
 - 2x metal clamps
@@ -94,7 +98,7 @@ When we are able to be onsite at the farm:
 	- There are two sets of glass funnels and cups so that while one is drying, another can be used to continue processing
 9. Continue steps 1-7 until all water samples have been filtered
 	- **Watch the water level in the vacuum flask**—after 3-4 samples it should be disconnected from the pump and the contents dumped down the sink! 
-10. Return all microbiome 2mL tubes to the correctly labeled freezer box and collect all chlorophyll a tinfoil sleeves into a Ziploc bag and put on ice
+10. Return all microbiome 2mL tubes to the correctly labeled freezer box and collect all chlorophyll a tinfoil sleeves into a Ziplock bag and put on ice (long-term storage at -80ºC)
 11. In the sink, thoroughly rinse out all the 100mL glass bottles used for chlorophyll a, give them a final rinse with DI water, and then let air dry to be used in the field the next day
 
 ## Oyster sample processing
