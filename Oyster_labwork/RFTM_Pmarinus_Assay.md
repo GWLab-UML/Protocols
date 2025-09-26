@@ -107,7 +107,15 @@ Last updated: 09/11/2025 by JM
 9. Slides can be stored in boxes at 4°C or soaked in 5% bleach and washed for reuse.
 
 #### Taking and uploading slide pictures:
-1. AG edits!
+
+
+1. Take 3 representative pictures of the tissue 
+	- Ex. 2 pictures of the most densely infected part of the tissue, and if inconsistent infection, 1 less densely infected part of the tissue.
+2. On data sheets, for each oyster and tissue sample label the picture number with their respective tissues.  
+	- Ex. if you took 3 pictures of Oyster 1 Mantle tissue and the picture numbers are 100, 101, and 102, write those numbers on the data sheet. 
+3. Score the tissue based on Dermo Score guide 
+	- Ex. Most of the scoring done is done by estimating since scores like 2 and 3 depend on counts of 100-200 and 200-400 respectively. Estimate based on density of infection in different parts of the tissue.
+4. When uploading the slide pictures attach the storage chip to a port on your computer or on the extension in the lab. Upload the .jpg versions of the pictures to the google drive to a folder for "Month” RFTM pictures. If storage is full, delete .cp3 versions of photos.
 
 ## Disposing of RFTM
 Add 50 mL of bleach for every 500 mL of RFTM (a final concentration of 10%), dispose into hazardous waste container.
