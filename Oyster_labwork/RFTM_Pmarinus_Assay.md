@@ -115,7 +115,7 @@ Last updated: 09/11/2025 by JM
 2. On data sheets, for each oyster and tissue sample label the digital picture number with their respective tissues.  
 	- Ex. if you took 3 pictures of Oyster 1 Mantle tissue and the picture numbers are 100, 101, and 102, write those numbers on the data sheet. 
 3. Score the tissue based on Dermo Score guide 
-	- Ex. Most of the scoring done is done by estimating since scores like 2 and 3 depend on counts of 100-200 and 200-400 respectively. Estimate based on density of infection in different parts of the tissue.
+	- Ex. Most of the scoring is done by estimating since scores like 2 and 3 depend on counts of 100-200 and 200-400 respectively. 
 4. To upload the pictures, insert the SD card to a computer. Upload the .jpg versions of the pictures to respective folder on google drive. If storage is full, delete .cp3 versions of photos. On the SD card, move photos to new folder before starting next set of samples.
 
 ## Disposing of RFTM
