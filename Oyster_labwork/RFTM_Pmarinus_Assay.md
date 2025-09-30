@@ -111,7 +111,8 @@ Last updated: 09/11/2025 by JM
 
 1. Take 3 representative pictures of the tissue 
 	- Ex. 2 pictures of the most densely infected part of the tissue, and if inconsistent infection, 1 less densely infected part of the tissue.
-2. On data sheets, for each oyster and tissue sample label the picture number with their respective tissues.  
+	- NOTE: Before taking pictures make sure the SD card has no pictures on it
+2. On data sheets, for each oyster and tissue sample label the digital picture number with their respective tissues.  
 	- Ex. if you took 3 pictures of Oyster 1 Mantle tissue and the picture numbers are 100, 101, and 102, write those numbers on the data sheet. 
 3. Score the tissue based on Dermo Score guide 
 	- Ex. Most of the scoring done is done by estimating since scores like 2 and 3 depend on counts of 100-200 and 200-400 respectively. Estimate based on density of infection in different parts of the tissue.
