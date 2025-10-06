@@ -43,7 +43,6 @@ copy & paste table off of mm_calculations, note which primer you are using each 
 can use unfiltered pipette tips for this if not doing NGS
 #### II. Gel electrophoresis
 - **always use 1:5 dilution of DNA ladder on every row of gel**
-
 - TBE Buffer 'Recipe' https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/TBE_Buffer_Protocol.md
 
 **Making and setting up a gel:**
@@ -125,7 +124,8 @@ start with the manufacturer protocol using 1.8X-1.0X bead ratio and 10uL-25uL PC
 - ratio of beads will change the size you select for 
  *may need to re-clean samples if gel images show that multiple bands were not removed*
 - 1.0x will get rid of <200 bp dimers, 1.8X will get rid of dimer <100 bp
-![[bead_SizeSelection.png]]
+https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
+![[bead_SizeSelection.png]] 
 
 - **NOTE:** all calculations can be done here https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=1947158502#gid=1947158502
 1.  make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use)
