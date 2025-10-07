@@ -10,15 +10,17 @@ This treatment removes DNA contamination from RNA and is done before library pre
 *Note:* this protocol is for samples that contain <= 200 ug nucleic acid per uL (200,000 ng/uL). Use 1 uL TURBO DNase for up to 10 ug of RNA in a 50 uL reaction. These conditions will remove up to 2 ug of genomic DNA from total RNA in a 50 uL reaction. If there is more RNA (>200 ug nucleic acid per mL) that is severely contaminated with DNA (i.e., >2 ug DNA/50uL (40ng/uL)), use the **rigorous DNase treatment** (see below)
 
 #### Prep
-- set incubator to 37ºC
 - UV and label PCR strip tubes and RNA-free 1.5mL tubes 
 	>*Note:* for sequencing, the tube sample name (on top and side of tube) *must* exactly match the spreadsheet sample name - for CE_ORCC, naming convention is Phase1# _ Phase2# _ Tag#_ tissue (W4_C5_W55_gi)
 - thaw DNAse kit
+- make sure centrifuge is at room temperature
 
 #### Protocol
 1. Dilute samples to 100ng/uL if possible.
 2. Add 0.1 volume 10X TURBO DNase buffer and 1uL of TURBO DNase enzyme to the RNA, mix gently
+	- for CE_ORCC samples - we're working with 20uL, so add 2uL buffer
 3. Incubate at 37ºC for 30 minutes
+	- _Note from JGM: I've been using the incubation setting on the thermocycler_
 4. Resuspend the DNase inactivation reagent by flicking or vortexing the tube before use
 	>*Note:* The DNase Inactivation Reagent may become difficult to pipette after multiple uses due to depletion of fluid from the interstitial spaces. If this happens, add a volume of Nuclease-free Water (supplied with the kit) equal to approximately 20–25% of the bed volume of the remaining DNase Inactivation Reagent, and vortex thoroughly to recreate a pipettable slurry.
 5. Add resuspended DNase inactivation reagent (2 uL or 0.1 volume, whichever is greater), then mix well
@@ -33,9 +35,9 @@ This treatment removes DNA contamination from RNA and is done before library pre
 *Note:* Sample contains >200 μg nucleic acid per mL (200ng/uL) or RNA that is severely contaminated with DNA (i.e., >2 μg DNA/50 μL (40ng/uL)). These sample can be diluted prior to treatment, or if the sample cannot be diluted, simply increase the amount of TURBO DNase Enzyme to 2–3 μL (4–6 U). Increasing the amount of enzyme may successfully remove contaminating DNA from samples containing up to 500 μg/mL nucleic acid in a 10–100 μL reaction. However, the efficacy of treating highly concentrated nucleic acid samples depends on the absolute level of DNA contamination, and residual DNA may or may not be detectable by PCR after 35–40 cycles.
 
 #### Prep
-- set incubator to 37ºC
 - UV strip tubes and RNA-free 1.5mL tubes and label
 - thaw DNase kit
+- make sure centrifuge is at room temperature
 
 #### Protocol
 1. Dilute the sample to 100ng/uL if possible
@@ -47,6 +49,7 @@ This treatment removes DNA contamination from RNA and is done before library pre
 	2. Use 2–3 μL (4–6 U) of TURBO DNase™ Enzyme for samples that cannot be diluted.
 		(*Optional*) DNase treatment can be enhanced by performing a two-step incubation. To perform two-step incubation, add half the amount of TURBO DNase™ Enzyme to the sample.
 4. Incubate samples at 37°C for 20–30 minutes.
+	- _Note from JGM: I've been using the incubation setting on the thermocycler_
 		(*Optional*) If performing two-step incubation, incubate at 37°C for 30 minutes, then add the remaining half of the TURBO DNase Enzyme from the previous step, and incubate for another 30 minutes.
 5. Resuspend the DNase Inactivation Reagent by flicking or vortexing the tube before use.
 	>*Note:* The DNase Inactivation Reagent may become difficult to pipette after multiple uses due to depletion of fluid from the interstitial spaces. If this happens, add a volume of Nuclease-free Water (supplied with the kit) equal to approximately 20–25% of the bed volume of the remaining DNase Inactivation Reagent, and vortex thoroughly to recreate a pipettable slurry.
