@@ -156,7 +156,7 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 7. Dispense **180 uL of 80% ethanol** to each well of the reaction plate and incubate for **1 min** at room temperature.  Aspirate out the ethanol and discard.  Repeat for a total of two washes.  It is important to perform these steps with the reaction plate on a 96 well Magnetic Plate. Do not disturb the settled Magnetic beads. 
 	1. Remove all of the ethanol from the bottom of the well to avoid ethanol carryover. **Bump pipette tip up to 200 uL, may need to use p20 multichannel** 
 	2. NOTE: A 5 min air dry at room temperature is recommended for the evaporation of the remaining traces of ethanol. **Do not overdry the beads** (the layer of settled beads appears cracked) as this will significantly decrease elution efficiency.
-8. Take off the plate from the Magnetic plate, add 40 uL of elution buffer (Reagent grade water, TRIS-HCl pH 8.0, or TE buffer) to each well of the reaction plate and pipette mix 5 times. 
+8. Take off the plate from the Magnetic plate, add equal amount of original volume or less of elution buffer (Reagent grade water, TRIS-HCl pH 8.0, or TE buffer) to each well of the reaction plate and pipette mix 5 times. 
 	1. mix until homogeneous and there are no beads on tube wall
 9. Incubate at room temperature for 10 minutes. 
 10. Place the plate on a magnetic separation device to magnetize the CleanNGS particles. Incubate at room temperature until the CleanNGS particles are completely cleared from solution. 
