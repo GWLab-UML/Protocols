@@ -2,7 +2,7 @@
 
 **NOTE**: all calculations can be done here: https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=909202954#gid=909202954
 
-last updated Oct 6, 2025 CCD
+last updated Oct 17, 2025 CCD
 
 #### I. PCR
 - **Repeat 3x for all samples that are to be included in the metabarcode library**
