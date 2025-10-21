@@ -1,4 +1,4 @@
-Last updated: October 17, 2025 JF
+Last updated: October 21, 2025 JF
 ## Sites
 *Wild*
 - NSW1: 42.727, -70.84711
@@ -124,7 +124,6 @@ Last updated: October 17, 2025 JF
 
 ![Tray_setup.jpg](https://image2url.com/images/1760732670978-ec4b6c2c-6753-4733-9177-ae4a0051b1ed.jpg)
 	 *Note that one side of the rack is NSW1_3 and NSW_4 while the other side is NSF1_3 and NSF1_4*
-
 
 *Shucking station*:
 - Sturdy bench top/table
