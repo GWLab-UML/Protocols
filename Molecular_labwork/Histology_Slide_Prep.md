@@ -78,7 +78,7 @@ All ethanol washes can be in the *same* conical tube - dump ethanol between wash
 1. Dehydrate tissue in EtOH series washed (95%,100%; assuming tissue is in 70% EtOH already - if not, start with lower concentration of EtOH) and all should be on rocker
 	> *Note:* The older the sample, the longer the wash the better but should be at least 30 minutes each (ideally an hour or more each).
 2. 3 washes in 100% EtOH (about an hour each but can go less) on rocker
-	>*Note:* Tissues can be left in 100% EtOH after the third wash indefinitely
+	>*Note:* Tissues can be left in 100% EtOH after the third wash indefinitely in 4℃
 3. Wash 50/50 in xylene substitute with EtOH on rocker for 1 hour
 4. 3 washes in xylene substitute, 30 mins each on rocker (45 mins for larger tissue)
 5. Place tissue in glass dish or some container that will be easiest to manipulate with the wax
