@@ -78,11 +78,14 @@ All ethanol washes can be in the *same* conical tube - dump ethanol between wash
 1. Dehydrate tissue in EtOH series washed (95%,100%; assuming tissue is in 70% EtOH already - if not, start with lower concentration of EtOH) and all should be on rocker
 	> *Note:* The older the sample, the longer the wash the better but should be at least 30 minutes each (ideally an hour or more each).
 2. 3 washes in 100% EtOH (about an hour each but can go less) on rocker
-	>*Note:* Tissues can be left in 100% EtOH after the third wash indefinitely in 4℃
+	>*Note:* Tissues can be left in 100% EtOH after the third wash indefinitely in 4℃. ****This is a good stoping point if you need to leave for the day or weekend!***
 3. Wash 50/50 in xylene substitute with EtOH on rocker for 1 hour
 4. 3 washes in xylene substitute, 30 mins each on rocker (45 mins for larger tissue)
 5. Place tissue in glass dish or some container that will be easiest to manipulate with the wax
 	1. small glass beakers
+	2. Bring tweezers
+	3. Gloves 
+	4. P1000 and tips
 6. 1 wash in (roughly) 50/50 xylene substitute and wax (enough to thoroughly cover tissue) with vacuum on about 30 minutes (45 mins for larger tissue)
 	1.  turn on vacuum until the gauge reads 20, then turn off 
 7. 3+ wax washes (need to get the xylene substitute out) about 30 minutes each (vacuum; 45 mins for larger tissue) 
@@ -93,7 +96,7 @@ All ethanol washes can be in the *same* conical tube - dump ethanol between wash
 0. Tissues can be kept in the warming compartment while waiting to keep tissues from getting hard due to the wax
 1. Place a metal dish under the wax dispenser - dispense a small amount of wax into the dish (about ¼ of the dish)
 2. Place the tissue into the wax - orient the tissue in the dish
-3. Take off the top of the cassette - fill up the dish the rest of the way with wax and put the cassette bottom on the top of the dish (flat side down) - dispense more wax onto the top part of the cassette 
+3. Take off the top of the cassette - fill up the dish the rest of the way with wax and put the cassette bottom on the top of the dish (flat side down) - dispense more wax onto the top part of the cassette. When adding the cassettes on top there shouldn't wax that if you push it down the wax comes out the sides. It should be seated and then add the wax on top. (The wax will fall though the holes and make it possible to get it out without the top snapping off)
 4. Move cassettes to the cooling block for ~20 mins, then can be left overnight at room temperature
 	- if not sectioning the next day, cassettes can be stored indefinitely at 4℃ until needed
 
