@@ -96,8 +96,9 @@ All ethanol washes can be in the *same* conical tube - dump ethanol between wash
 0. Tissues can be kept in the warming compartment while waiting to keep tissues from getting hard due to the wax
 1. Place a metal dish under the wax dispenser - dispense a small amount of wax into the dish (about ¼ of the dish)
 2. Place the tissue into the wax - orient the tissue in the dish
-3. Take off the top of the cassette - fill up the dish the rest of the way with wax and put the cassette bottom on the top of the dish (flat side down) - dispense more wax onto the top part of the cassette. When adding the cassettes on top there shouldn't wax that if you push it down the wax comes out the sides. It should be seated and then add the wax on top. (The wax will fall though the holes and make it possible to get it out without the top snapping off)
-4. Move cassettes to the cooling block for ~20 mins, then can be left overnight at room temperature
+3. Take off the top of the cassette - fill up the dish the rest of the way with wax and put the cassette bottom on the top of the dish (flat side down) - dispense more wax onto the top part of the cassette. (The wax will fall though the holes and make it possible to get it out without the top snapping off) DO NOT OVER FILL! 
+4. *Note*: When adding the cassettes on top, the wax shouldn't be high enough that when you seat the cassette on top wax will squish around the sides of the cassette. It should be just seated on top. If it is too high the wax covers the contact points and it will be hard to get out of the tray and the cassette will snap off.
+5. Move cassettes to the cooling block for ~20 mins, then can be left overnight at room temperature
 	- if not sectioning the next day, cassettes can be stored indefinitely at 4℃ until needed
 
 ## Sectioning 
