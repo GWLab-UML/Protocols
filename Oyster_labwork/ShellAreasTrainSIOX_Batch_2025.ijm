@@ -1,4 +1,5 @@
-//ShellAreasTrainSIOXBatch.ijm, September, 2025
+//ShellAreasTrainSIOXBatch.ijm
+//October, 2025
 //Teresa Vaillancourt
 
 //Citation:
