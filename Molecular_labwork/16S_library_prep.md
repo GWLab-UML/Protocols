@@ -33,12 +33,13 @@ copy & paste table off of mm_calculations, note which primer you are using each 
 3. Pipette 1uL of DNA into each replicate tube
 	1. use new pipette tip for each replicate
 4. Run thermocycler program:
-	1. 95C for 10 mins
+	1. 98C for 30 seconds
 	2. **28 cycles** (reduced from 30 cycles to) of:  
-		1. 95C for 15 seconds
-		2. 50C for 1 minute
-		3. 72C for 1 minute
-	3. 72C for 10 mins (extension)
+		1. 98C for 10 seconds
+		2. 50C for 30 seconds
+		3. 72C for 20 seconds
+	3. 72C for 2 mins (extension)
+	4. 12C forever
 ### **ALL POST-PCR DONE IN OLS614 (aka the rest of this protocol)**
 can use unfiltered pipette tips for this if not doing NGS
 #### II. Gel electrophoresis
