@@ -1,4 +1,4 @@
-Last updated: October 21, 2025 JF
+Last updated: October 24, 2025 JF
 ## Sites
 *Wild*
 - NSW1: 42.727, -70.84711
@@ -123,7 +123,7 @@ Last updated: October 21, 2025 JF
 - 2x [data sheets](https://docs.google.com/spreadsheets/d/13I0BRV_Sp2di8QoYXy5DU7D5cUKiFEtp/edit?usp=sharing&ouid=105440584015869809877&rtpof=true&sd=true)
 
 ![Tray_setup.jpg](https://image2url.com/images/1760732670978-ec4b6c2c-6753-4733-9177-ae4a0051b1ed.jpg)
-	 *Note that one side of the rack is NSW1_3 and NSW_4 while the other side is NSF1_3 and NSF1_4*
+	 *Note that one side of the rack is NSW1_3 and NSW_4 while the other side is NSF1_3 and NSF1_4; we typically work through all wild oysters first, flip the tube rack around, and then proceed with the farmed.*
 
 *Shucking station*:
 - Sturdy bench top/table

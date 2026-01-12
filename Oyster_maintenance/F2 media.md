@@ -43,8 +43,8 @@
 
 ### F2 recipe
 - 995mL artificial saltwater, 28psu
-	- 995mL DI water
-	- __ Instant Ocean
+	- 1L DI water
+	- 32g Instant Ocean
 - 1mL NaNO3 stock
 - 1mL NaH2PO4 stock
 - 1mL NaSiO3 stock
