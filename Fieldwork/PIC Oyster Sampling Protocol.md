@@ -9,7 +9,7 @@ Last updated: January 22, 2026 JF
 - NSF1
 - NSF2
 
-==links to packing list and labels==
+[Packing list](https://docs.google.com/spreadsheets/d/1tGDbw1admvV_yctT7mlous_CQCnmNomD2bHoB7p0f3w/edit?usp=sharing)
 
 ## Wild oyster sampling
 *All water chemistry and samples should be taken adjacent to the oyster bed and done first, prior to oyster collection, to avoid disturbing the water column. Everything should be stored and transported in a cold cooler.*
@@ -177,8 +177,8 @@ Last updated: January 22, 2026 JF
 
 *Shell station:* ==picture==
 - Tripod with phone attachment
-- Paper towels
-- Marine canvas + scale
+- Microfiber towel
+- Marine canvas + 1-inch scale
 - Small ziplock bags
 - 5x extra large ziplock bags (one per site)
 ### B. Shucking and tissue pictures
@@ -214,6 +214,7 @@ Last updated: January 22, 2026 JF
 	- NR stands for non-reproductive if there are no gametes present
 5. Rinse scalpel, slide, and coverslip in soapy water and dry with a microfiber cloth
 6. Store tissue-filled RNAlater tubes in labeled freezer box and record the box number at the bottom of the data sheet
+	1. ==Best way to clean them?==
 ### F. Tissue storage
 1. Using a blunt scalpel, scrape off the remaining oyster tissue, including the abductor muscle, into a mini ziplock bag
 	- Make sure to check both the right and left shell
