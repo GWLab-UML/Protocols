@@ -190,6 +190,6 @@ with microtome
 | 15   | xylene sub          | 2 min         |
 | 16   | xylene sub          | 2 min         |
 
-3. Once all staining steps are completed, let the slides air dry for a few minutes. Place hematoxylin and EosinY into a labeled storage container and bring back down to the lab. (Good for about 3-4 uses and they are kept with the ethanol cabinet) (Make sure to fill out data sheet placed on top of the hood)
+3. Once all staining steps are completed, let the slides air dry for a few minutes. Place hematoxylin and EosinY into a labeled storage container and bring back down to the lab. (Good for about 115 slides and they are kept with the ethanol cabinet) (Make sure to fill out data sheet placed on top of the hood)
 4. Add a drop of xylene substitute mounting medium to cover the tissue on the slide. Add the coverslip, being careful not to create bubbles. Let sit overnight
 5. Slides are ready to be imaged!
