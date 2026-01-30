@@ -129,7 +129,7 @@ with microtome
 #### Protocol:
 1. Place cassette into head.
 2. Adjust head so the cassette nearly touches the blade (this can largely be done with the second dial, looking above can help determine the angle needed to make it straight)
-3. On the trim setting (first dial), section the wax until the excess is trimmed off and tissue is exposed. 
+3. On the trim setting (first dial, hit it twice to change from feed), section the wax until the excess is trimmed off and tissue is exposed. 
 4. Switch to the feed setting (first dial) and section.
 5. Once sections are floating in the water bath, position a labelled slide under the tissue in the water. (Take out any excess wax you don't want and keep the stage clear) Slowly pull the slide out of the water, making sure the tissue is on the slide. 
 	- only leave the slice in the water bath for 30 seconds (the tissue can start to separate)
@@ -168,7 +168,7 @@ with microtome
 > done in the Steinel lab fume hood - takes roughly an hour
 1. Remove slides from drying rack.
 2. Samples will be hand stained using Hematoxylin and Eosin Y by moving the staining holder with slides through a series of staining baths using the following procedure:
-	- Only alcohols need to be replaced before each use - everything else is replaced as needed. Eosin Y and hematoxylin are parafilm wrapped after use to preserve and prevent evaporation.
+	- Only alcohols need to be replaced before each use - everything else is replaced as needed. Eosin Y and hematoxylin are parafilm wrapped after use to preserve and prevent evaporation. Since we are using the Steinel labs set up, bring all needed steps upstairs and replace before you start. Brining a waste container is smart so we don't use their containers. 
 	- For slides under running water, transfer slides to bulkier slide holder and place into a beaker. Run water in the beaker for 15 mins.
 
 | Step | Reagent             | Time          |
@@ -190,6 +190,6 @@ with microtome
 | 15   | xylene sub          | 2 min         |
 | 16   | xylene sub          | 2 min         |
 
-3. Once all staining steps are completed, let the slides air dry for a few minutes. Re-parafilm Eosin Y and hematoxylin containers. (Make sure to fill out data sheet placed on top of the hood)
+3. Once all staining steps are completed, let the slides air dry for a few minutes. Place hematoxylin and EosinY into a labeled storage container and bring back down to the lab. (Good for about 3-4 uses and they are kept with the ethanol cabinet) (Make sure to fill out data sheet placed on top of the hood)
 4. Add a drop of xylene substitute mounting medium to cover the tissue on the slide. Add the coverslip, being careful not to create bubbles. Let sit overnight
 5. Slides are ready to be imaged!
