@@ -169,7 +169,7 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 2. Run a gel with select samples to confirm bead size selection worked 
 #### VIII. Sequencing Prep
 1. Assess need for Gel Extraction
-	1. If need gel extraction refer to [[Qiagen Gel Extraction]]	
+	1. If need gel extraction refer to [[Qiagen_gel_extraction]]	
 	2. If no need, skip to step 2
 2. Qubit each indexed sample
 3. Pool all indexed samples according to final concentration
