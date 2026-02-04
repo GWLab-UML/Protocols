@@ -1,6 +1,7 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
 Last edit: September 24, 2025 JM
 ### Notes
+- Use to isolate both DNA and RNA from the same sample
 - This protocol has been updated from the manufacturer's for 500uL of Trizol, so reagent volumes are cut in half
 - Optimized for working with small samples of oyster tissue
 - ~5 hours from start to DNA in the fridge for incubation

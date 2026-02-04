@@ -13,16 +13,16 @@
 ### Pre-oven
 1. If frozen, take tissue/shell out of freezer to thaw. Save plastic bags to be washed and reused. Shells can be patted dry with a towel or rag if needed. 
 
-#### for tissue:
+#### For tissue:
 1. Number individual tins. It's a good idea to 'etch' the number onto the tin for longevity/in case the sharpie wears off.
 2. Weigh each tin on the analytical balance. Record empty tin weight in grams.
 3. Place each tissue into a numbered tin. Record which oyster samples are in which numbered tins.
 
-#### for shells:
+#### For shells:
 1. Place each shell face up onto a tray with the oyster sample label beneath.
 2. Once a tray is full, **TAKE A PICTURE** of the tray (in case the tray spills, you can use the picture to assign samples to shells again)
 
-#### clean-up:
+#### Clean-up:
 1. For shells, rinse used plastic bags with water and air dry on the bench.
 2. For tissue, throw out used plastic bags and labels
 
