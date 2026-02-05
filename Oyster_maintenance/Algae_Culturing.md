@@ -1,9 +1,9 @@
 Last update: Feb 4, 2026 (Jade Fiorilla)
 
 # Our Algae Strains
-*Pavlova pingus*
+==*Pavlova pingus*
 *Tetraselmis sueccia*
-Diatom species TBD
+Diatom species TBD==
 
 Ideal salinity = 28psu
 
@@ -39,7 +39,7 @@ Outside of hood—
 In the hood—
 1. Spray entire hood working surface with 70% ethanol
 2. Spray all materials except liquid algae culture with 70% ethanol before putting them into the hood
-3. Close the hood and turn on the UV light for 5 minutes **DO NOT UV STERILIZE ALGAE**
+3. Close the hood and turn on the UV light for 5 minutes **DO NOT UV ALGAE**
 4. Pipette f/2 media into carboy
 5. Pour liquid algae culture into carboy
 6. Attach serological pipettes to the bottom of the rubber stopper using rubber connectors, one is for air and one is for siphoning
@@ -69,32 +69,38 @@ Materials:
 - 130g Instant Ocean (32.5g/L)
 - 4mL f/2 media, sterile and kept at 4ºC (1mL/1L *total volume*)
 - 2 longer pieces of tubing, bleached
+- Rubber connector
 
-**IMPORTANT !! Whatever materials used in re-blooming must be clean and sterile !!** Additionally, the Re-bloom jug cannot be opened outside of the hood to prevent bacteria contamination
+**IMPORTANT !! Whatever materials used in re-blooming must be clean and sterile !!** Additionally, the re-bloom jug cannot be opened outside of the hood to prevent bacteria contamination
 
 Steps: 
 Outside of hood—
-1. Measure out Instant Ocean and add to plastic jug, immediately cover with lid
+1. Measure out Instant Ocean and add to jug, immediately cover with lid
 2. Fill with DI water, immediately replace lid
-3. Swirl jug until dissolved (though its not a full carboy it is easier to swirl halfway and then continue to fill it)
+	1. Periodically swirl jug to help dissolve salt
 
 In the hood—
-1. Uncap jug, close the hood, and UV sterilize for 5 minutes (with hoses)
+1. Uncap jug, close the hood, and UV sterilize for 5 minutes (with tubing)
 2. Add f/2 media and screw on lid
-3. You should add the hoses here so it can stay sterile and put tinfoil on the ends. 
+3. Attach tubing and put tinfoil on the ends to keep sterile ==(tubing into the jug right?)==
 
 In the oyster room—
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcTr7orECP9Ia3jko4H_3-Pl52kBbjJcLIAQkyCRigSaeJwkCudExjh0OtqdaAYMdMcPiEXOE5A-aEjwoU-WSrF7_sdW9PdG4I6THdKj6sdrKJk6Zk06Q5nQ2HAFUErMz7HX2hJCg?key=JDzKcoJQwuC_JsCdwCkMPw)
 
-Looking at the large Carboy that needs to be re-bloomed, you have three lines coming off the top: airline, siphon, and exhaust. On the bottle or jug, you have two: airline and siphon. If starting a carboy on the second shelf, you need to do the re-bloom on the top shelf, and if it's on the bottom then the second shelf is fine because physics.
+Looking at the carboy that needs to be re-bloomed, you have three lines coming off the top: airline, siphon, and exhaust. On the re-bloom jug, you have two: airline and siphon. If starting a carboy on the second shelf you need to do the re-bloom on top of the shelf, but if the carboy is on the bottom then the second shelf is fine because physics.
 
-1.  Close the exhaust line.
-2.   Detach the airline from the carboy and attach it to the re-bloom bottle (this is now coming directly from the pump). Make sure the tube is long enough if you need to put it on the top shelf, and ensure air is being pushed appropriately
-3. Connect the carboy siphon tube to one of the tubes coming out of the plastic jug lid using a clean rubber connector. (This needs to be initially closed so you don't make a mess.) Open the clip TO THE EXHAUST (This is IMPORTANT!! It will back up into the air line coming out of the carboy, and it will leak and ruin the air filter attached to it). Then, to the siphon tube, and there should be a flow of the contents from the bottle to the carboy. 
-4. The contents of the plastic jug should now be flowing into the carboy
-5. Elevating the plastic jug will help things move faster (gravity!)
-6. When finished, submerge everything in the 5% bleach bath for 15 minutes, followed by the DI bath for 10 minutes, and then air dry before putting all the pieces away. (Follow directions on the wall above the sink for more in-depth directions)**
+1.  Close the exhaust line
+2.  Detach the airline from the carboy and attach it to the re-bloom jug—the air should now be bubbling the jug
+	- Make sure the tubing is long enough so there are no kinks in the line
+3. Connect the carboy siphon to the remaining tube coming out of the jug using a ==clean rubber connector==
+	- ==This needs to be initially closed so you don't make a mess== 
+4. Open the clip to the exhaust coming out of the carboy
+	- This is IMPORTANT!! Otherwise algae will back up into the air line coming out of the carboy and it will ruin the air filter
+5. Open the siphon tube—the contents of the jug should now be flowing into the carboy
+	- Elevating the plastic jug will help things move faster (gravity!)
+6. Once the jug is empty, rinse everything in the sink and then submerge  in the 5% bleach bath for 15 minutes, followed by the DI bath for 10 minutes, and then air dry before putting all the pieces away. 
+	- More detailed instructions are taped to the wall above the sink in 618
 
 **Don't forget to update the [Algae Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1UBeluqx4SQUdaInXP4of0siFTtXhhd97nKfENCC8lmE/edit?usp=sharing)!**
 For the Carboy ID, the letter represents each new carboy made from a flask and the number is the re-bloom count.
@@ -127,7 +133,7 @@ Steps:
 13. Once the carboy is dry, tinfoil the top and autoclave
 
 # Flask Cultures
-Keep more sterile liquid stocks of all algae species in case of carboy contamination or population crash. Should be swirled every day and re-bloomed every week. There should only be one flask per species, unless planning to re-bloom a carboy in the next week. In that case, a second flask should be made prior to [Moving from Flasks to Carboy](#Moving%20from%20Flasks%20to%20Carboy).
+Keep more sterile liquid stocks of all algae species in case of carboy contamination or population crash. Should be swirled every day and re-bloomed every week. There should only be one flask per species, unless planning to re-bloom a carboy in the next week. In that case, a second flask should be made in anticipation of [Moving from Flasks to Carboy](#Moving%20from%20Flasks%20to%20Carboy).
 
 **When handling the algae at this stage, work in the gray hood and spray things with 75% ethanol to keep things sterile. ==IMPORTANT: only open one species of algae at a time when working in the hood to prevent cross-contamination**==
 
@@ -227,7 +233,6 @@ Materials for making the plates:
 - F/2 media (140mL = 140uL)
 
 Steps for making the plates:
-
 Outside the hood—
 1. Weigh out Instant Ocean and add to flask
 2. Add DI water to flask and swirl until dissolved
@@ -250,14 +255,13 @@ Materials for streaking the plates:
 - Small aliquot of algae from liquid culture (<1mL)
 
 Steps for streaking the plates:
-
 In the hood—
-1. UV sterilize all the agar plates for 5 minutes
-    **DO NOT UV STERILIZE ALGAE**
+1. UV sterilize all the agar plates for 5 minutes - **DO NOT UV ALGAE**
 2. Using unfiltered 200mL pipette tips, pipette 40uL of algae onto the plate closer to the edge rather than in the middle
 3. With the same pipette tip, gently streak that droplet across the plate
 4. Repeat for each plate, changing tips between each plate
 5. Parafilm the plates and put them in the incubator 
+
 ## Making and Streaking Agar Slants
 Goals: 
 - Create a large agar surface area within a convenient-to-store glass test tube
@@ -280,7 +284,6 @@ Materials for making the tubes:
 - F/2 media (260mL = 260uL)
 
 Steps for making the tubes:
-
 Outside the hood—
 1. Weigh out Instant Ocean and add to flask
 2. Add DI water to flask and swirl until dissolved
@@ -303,7 +306,6 @@ Materials for streaking slants:
 - Agar plates with algae colonies visible
 
 Steps:
-
 In the hood—
 1. UV sterilize all the agar slants (caps removed) for 5 minutes
     **DO NOT UV STERILIZE ALGAE**
@@ -325,7 +327,6 @@ Materials:
 - Foam stopper, autoclaved
 
 Steps:
-
 Outside of hood—
 1. Measure out Instant Ocean and add to flask, immediately cover with tinfoil
 2. Add DI water to flask, immediately replace tinfoil
@@ -338,7 +339,7 @@ In the hood—
 4. Add the 1mL of algae into the 250mL flask
 5. Put in foam stopper and return flask to the shaker in 505
 
-Once this smaller flask is dense, plan to grow the algae up in a 500mL flask as described in the "Re-bloom Flasks" section of the protocol with these volumes:
+Once this smaller flask is dense, plan to grow the algae up in a 500mL flask as described in the [Re-bloom Flasks](#Re-bloom%20Flasks) section of the protocol with these volumes:
 - 200mL DI water
 - 6.5g Instant Ocean
 - 250uL f/2 media

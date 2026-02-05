@@ -1,6 +1,3 @@
-# Histology Slide Prep
-Protocol for oyster histology
-
 *Last updated:* 09/10/2025 by JGM
 
 ## Tissue Sectioning
