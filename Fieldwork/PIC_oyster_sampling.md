@@ -208,7 +208,7 @@ Last updated: January 22, 2026 JF
 >for more details, see [full histology protocol](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md)
 0. Before processing begins, create a working solution of Davidson's Fixative by adding 50mL glacial acetic acid to 450mL of Davidson's Fixative. Add ~10mL of working solution to each 15mL canonical tube. **This must be done (preferably) in a fume hood or in a well-ventilated space such as outdoors.**
 > bring extra tubes/fixative to sample extra oysters that appear diseased
-1. Using a sharp scalpel or dissecting scissors, remove a cross-section of oyster tissue that includes most of the tissue types (gill, mantle, gut, gonad, etc.), along the blue lines in the image below. ![histology sectioning guide of oyster tissue, cut along blue lines](image.png)
+1. Using a sharp scalpel or dissecting scissors, remove a cross-section of oyster tissue that includes most of the tissue types (gill, mantle, gut, gonad, etc.), along the blue lines in the image below.![[image.png]]
 2. Place tissue in the corresponding labeled canonical tube with working solution of Davidson's Fixative (fixative + glacial acetic acid). Ensure tissue is fully submerged in liquid. 
 3. At the end of the day, store tubes of tissue in 4℃. **Tissue will need to be transferred to 70% EtOH within 24-48 hours** but can then be stored at 4℃ for several months.
 ### F. Sexing and tissue storage
