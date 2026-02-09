@@ -204,7 +204,14 @@ Last updated: January 22, 2026 JF
 3. Label the tube with the oyster number using sharpie
 4. Add a 2-3 drops of nystatin suspension
 5. Check off *Perkinsus* tissue types on the data sheet, or make a note if no sample was taken
-### E. Sexing and tissue storage
+### E. Histology sampling
+>for more details, see [full histology protocol](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md)
+0. Before processing begins, create a working solution of Davidson's Fixative by adding 50mL glacial acetic acid to 450mL of Davidson's Fixative. Add ~10mL of working solution to each 15mL canonical tube. **This must be done (preferably) in a fume hood or in a well-ventilated space such as outdoors.**
+> bring extra tubes/fixative to sample extra oysters that appear diseased
+1. Using a sharp scalpel or dissecting scissors, remove a cross-section of oyster tissue that includes most of the tissue types (gill, mantle, gut, gonad, etc.), along the blue lines in the image below. ![histology sectioning guide of oyster tissue, cut along blue lines](image.png)
+2. Place tissue in the corresponding labeled canonical tube with working solution of Davidson's Fixative (fixative + glacial acetic acid). Ensure tissue is fully submerged in liquid. 
+3. At the end of the day, store tubes of tissue in 4℃. **Tissue will need to be transferred to 70% EtOH within 24-48 hours** but can then be stored at 4℃ for several months.
+### F. Sexing and tissue storage
 1. Using a sharp scalpel, insert the blade into the oyster gonad
 	- Typically creamy in color ==picture==
 2. Smear the gametes onto a microscope slide and gently put on a coverslip
@@ -215,13 +222,13 @@ Last updated: January 22, 2026 JF
 5. Rinse scalpel, slide, and coverslip in soapy water and dry with a microfiber cloth
 6. Store tissue-filled RNAlater tubes in labeled freezer box and record the box number at the bottom of the data sheet
 	1. ==Best way to clean them?==
-### F. Tissue storage
+### G. Tissue storage
 1. Using a blunt scalpel, scrape off the remaining oyster tissue, including the abductor muscle, into a mini ziplock bag
 	- Make sure to check both the right and left shell
 2. Put one of the UW paper labels into the mini ziplock bag and then seal carefully
 3. Check off "Freeze tissue" on the data sheet
 4. Collect all oyster tissue from one site in a large ziplock bag and label (date + site) with a sharpie
-### G. Shell pictures and storage
+### H. Shell pictures and storage
 1. Pat the shells dry
 2. Place shells on the marine canvas in the marked positions with the UW paper label 
 3. Take a picture of both the interior and exterior
@@ -231,5 +238,4 @@ Last updated: January 22, 2026 JF
 7. Rinse empty weigh boats in the sink and let dry upside down on the tray
 8. Upload all photos to the appropriate folder in the lab google drive before leaving
 
-==histology steps==
 ==more discrete cleaning steps?==
