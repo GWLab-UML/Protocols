@@ -83,11 +83,15 @@ They are a species of demosponge called *Cliona celata* that burrows into the sh
 
 2. Download and open ImageJ
 	- *Recommended:* connect laptop to a second monitor or tablet
-3. With ImageJ open, click File > Open > Folder > Image![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcrW3rRxNKFWLtoGZpAADOW4BNtGp022thDMxbdMuHe83UPsgS0dSgldhpkWekgNEh9kVBfF4DnfUtfeykMKNv1NZ1-4D-48RTIrsDVpCkjvNuyMVyN_PbwcnRu7j_lfRQDGSdGtw?key=JDzKcoJQwuC_JsCdwCkMPw)
+3. With ImageJ open, click File > Open > Folder > Image!
+4. You can open the whole folder or do a "quick look".
+5.
+(https://lh7-rt.googleusercontent.com/docsz/AD_4nXcrW3rRxNKFWLtoGZpAADOW4BNtGp022thDMxbdMuHe83UPsgS0dSgldhpkWekgNEh9kVBfF4DnfUtfeykMKNv1NZ1-4D-48RTIrsDVpCkjvNuyMVyN_PbwcnRu7j_lfRQDGSdGtw?key=JDzKcoJQwuC_JsCdwCkMPw)
+
 
 > Do you open a whole folder or do you have to select the images within the folder? 
 
-4. Using the line tool, draw a line that is one inch on the ruler and then click Analyze > Set Scale and change the following settings:
+6. Using the line tool, draw a line that is one inch on the ruler and then click Analyze > Set Scale and change the following settings:
 	- Known distance: 1
 	- Unit of length: inch
 	- **Important!** Only check the "Global" box if all photos were taken on the same day with the same camera set up 
