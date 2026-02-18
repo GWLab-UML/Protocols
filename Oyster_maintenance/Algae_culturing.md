@@ -24,7 +24,7 @@ Materials:
 - 1 short piece of airline, bleached
 - 2 small airline clamps, bleached
 - 5 rubber connectors, bleached
-- 15L DI water
+- 15L DI Water
 - 487g Instant Ocean (32.5g/L)
 - 25mL glass serological pipette, autoclaved
 - 2L liquid algae culture
@@ -64,8 +64,11 @@ Goals:
 - Keep the stock as sterile as possible to prevent bacteria contamination (which leads to algae die-off as a result of competition for resources)
 
 Materials:
-- 4L plastic algae jug, bleached
-- 4L DI water
+- 4L plastic algae jug, autoclaved
+- 5L Glass Jug, autoclaved
+- Their respective caps with holes for airlines (There should be one of each for each type in the lab)
+- Two normal caps (optional) (if you like to shake things)
+- 9L DI water
 - 130g Instant Ocean (32.5g/L)
 - 4mL f/2 media, sterile and kept at 4ºC (1mL/1L *total volume*)
 - 2 longer pieces of tubing, bleached
@@ -76,7 +79,7 @@ Steps:
 Outside of hood—
 1. Measure out Instant Ocean and add to plastic jug, immediately cover with lid
 2. Fill with DI water, immediately replace lid
-3. Swirl jug until dissolved (though its not a full carboy it is easier to swirl halfway and then continue to fill it)
+3. Swirl (or shake with closed cap) jug until dissolved (though its not a full carboy it is easier to swirl halfway and then continue to fill it)
 
 In the hood—
 1. Uncap jug, close the hood, and UV sterilize for 5 minutes (with hoses)
@@ -94,7 +97,13 @@ Looking at the large Carboy that needs to be re-bloomed, you have three lines co
 3. Connect the carboy siphon tube to one of the tubes coming out of the plastic jug lid using a clean rubber connector. (This needs to be initially closed so you don't make a mess.) Open the clip TO THE EXHAUST (This is IMPORTANT!! It will back up into the air line coming out of the carboy, and it will leak and ruin the air filter attached to it). Then, to the siphon tube, and there should be a flow of the contents from the bottle to the carboy. 
 4. The contents of the plastic jug should now be flowing into the carboy
 5. Elevating the plastic jug will help things move faster (gravity!)
-6. When finished, submerge everything in the 5% bleach bath for 15 minutes, followed by the DI bath for 10 minutes, and then air dry before putting all the pieces away. (Follow directions on the wall above the sink for more in-depth directions)**
+6. When done, disconnect the jug tubes, starting with the airline to the jug to prevent a spill
+7. Repeat with glass jug
+7. Disconnect the jug tubes again, put in bleach bath for 15 minutes
+8. Reconnect carboy airline to carboy
+9. Rinse out jugs with soap and water
+10. Take out the tubes from bleach bath, rinse off or put in DI bath.
+11. All done :)
 
 **Don't forget to update the [Algae Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1UBeluqx4SQUdaInXP4of0siFTtXhhd97nKfENCC8lmE/edit?usp=sharing)!**
 For the Carboy ID, the letter represents each new carboy made from a flask and the number is the re-bloom count.
@@ -138,18 +147,17 @@ Goals:
 
 Materials:
 - Flask, autoclaved
-	- 250mL flask, max 50mL volume
-	- 500mL flask, max 250mL volume
+	- 500mL flasks
 - Instant Ocean
-	- 4.88g per 150mL (or 0.0325g/mL)
+	- 3.25g per 100mL (or 0.0325g/mL)
 - DI water
 - F/2 media, sterile and kept at 4ºC
-	- 250uL per 250mL *total volume* (or 1uL/1mL)
+	- 200uL per 200mL *total volume* (or 1uL/1mL)
 - 25mL glass serological pipette, autoclaved
 - Liquid algae culture
 	- 100mL depending on density
 - Foam stopper, autoclaved
-
+FOR 500 ML FLASKS DO 100 ML ALGAE AND 100 ML SALTWATER! DO NOT SPLIT TOO LOOSEY GOOSEY!
 Steps:
 Outside of hood—
 1. Record how much you plan to split in the [Algae Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1UBeluqx4SQUdaInXP4of0siFTtXhhd97nKfENCC8lmE/edit?usp=sharing) (flask re-blooms tab) and label flasks
