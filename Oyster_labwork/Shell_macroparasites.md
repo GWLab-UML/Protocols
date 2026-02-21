@@ -84,9 +84,9 @@ They are a species of demosponge called *Cliona celata* that burrows into the sh
 2. Download and open ImageJ
 	- *Recommended:* connect laptop to a second monitor or tablet
 3. With ImageJ open, click File > Open > Folder > Image
-![](../Images/Opening%20Images_ImageJ.png)
+![](../Images/ImageJ_open_images.png)
 4. Once you have the you have the folder open you can switch to the next picture easily by going to File_Open Next
-![](../Images/Opening%20next_ImageJ.png)
+![](../Images/ImageJ_open_next.png)
 ****
 4. Using the line tool, draw a line that is one inch on the ruler and then click Analyze > Set Scale and change the following settings:
 	- Known distance: 1
@@ -97,11 +97,11 @@ They are a species of demosponge called *Cliona celata* that burrows into the sh
 
 ### General measurements!
 1. Use the line tool to draw the max **shell height**, then hit M on your keyboard a window will pop up with the measurements 
-![](../Images/Length_ImageJ.png)
+![](../Images/ImageJ_length.png)
 2. Record this data and then using the same tool, draw the max **shell width** and record that measurement as well****
-![](../Images/Width_ImageJ.png)
+![](../Images/ImageJ_width.png)
 3. When finding the **shell area** you will use the polygon tool to trace along the outside edge of the whole oyster shell and then hit M and it will calculate the measurement like the length and width
-![[../Images/Area_ImageJ.png]]
+![[../Images/ImageJ_area.png]]
 
 
 #### Macros 
@@ -110,20 +110,20 @@ They are a species of demosponge called *Cliona celata* that burrows into the sh
 ### Mud blister worms
 #### Identification
 The blisters from the Mud blister worms are pockets of mud and debris located on the inside of an oyster's shell, which bores into the shell. The oyster responds to the “irritation” by secreting layers of shell to build a protective barrier around the worm, forming the blister. When looking at this in the sense of data collection, we are only looking at the dark brown or black U-shaped blister on the inside of the shell. There will always be an entrance and exit to these. Not all shells that have “new shell” will be a blister, so judgment calls are important. 
-![[../Images/Showing Blisters_ImageJ.png]]
+![[../Images/MudBlisters2.png]]
 	Outlined in yellow are dark blisters that have a confirmed entrance and exit. The yellow arrows do indicate a blister but there is noentrance or exsit which indicates that its an old blister and is not to be counted. We are only intrested in active infestation. The red a
 #### Measurement
 1. Working only with the interior shell photos, when you identify a blister, use the freehand tool to trace the whole perimeter and then hit M to measure the area. When having a big blister it is easier to use the polygon tool and when its smaller its easier to use the free hand because of the small size. 
-![[../Images/Area of blister_ImageJ.png]]
+![[../Images/MudBlister1.png]]
 2. Record how many blisters there are on either shell; in this example the right valve has 8 and the left valve has 2
 
 ### Boring sponge
 #### Identification
 Focus first on the left valve, as this shell often shows the most damage. If there is any crumbling of the shell near the umbo, zoom in and see if there are any small holes associated with it. Use the hand tool to help move the image around when zoomed in. Tell-tale signs of boring sponge are circular holes, discoloration (yellow or orange), and “honeycomb” patterns, which are more prominent on the interior photos. 
-![[../Images/Honeycomb_ImageJ.png]]
-![](../Images/Sponge%20area_imageJ.png)
+![[../Images/BoringSponge2.png]]
+![](../Images/BoringSponge3.png)
 The yellow arrow pointing to the umbo on the left valve is damaged and shows a dark orange area which is a part of the boring sponge. The other yellow arrow pointing to the fringe has no holes which is why it isn't counted in the area. 
-![[../Images/Example honeycomb.png]]
+![[../Images/BoringSponge1.png]]
 	Note the “honeycomb” pattern, this is a heavy infestation. 
 
 
