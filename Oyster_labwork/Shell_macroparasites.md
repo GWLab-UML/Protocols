@@ -83,62 +83,53 @@ They are a species of demosponge called *Cliona celata* that burrows into the sh
 
 2. Download and open ImageJ
 	- *Recommended:* connect laptop to a second monitor or tablet
-3. With ImageJ open, click File > Open > Folder > Image![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcrW3rRxNKFWLtoGZpAADOW4BNtGp022thDMxbdMuHe83UPsgS0dSgldhpkWekgNEh9kVBfF4DnfUtfeykMKNv1NZ1-4D-48RTIrsDVpCkjvNuyMVyN_PbwcnRu7j_lfRQDGSdGtw?key=JDzKcoJQwuC_JsCdwCkMPw)
-
-> Do you open a whole folder or do you have to select the images within the folder? 
-
+3. With ImageJ open, click File > Open > Folder > Image
+![](../Images/Opening%20Images_ImageJ.png)
+4. Once you have the you have the folder open you can switch to the next picture easily by going to File_Open Next
+![](../Images/Opening%20next_ImageJ.png)
+****
 4. Using the line tool, draw a line that is one inch on the ruler and then click Analyze > Set Scale and change the following settings:
 	- Known distance: 1
 	- Unit of length: inch
 	- **Important!** Only check the "Global" box if all photos were taken on the same day with the same camera set up 
-	![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfWuPI7-7GWhiRRFOYpMWZewSX4FBHmcbu0Wn1lHzEDgRBwm9LjX-WWQRsPvmF8cY6a1sZAbT6yRy0B3CqDFmxd4aohbw317sbNR0i-UA0vB3pwhvMRgZYFivkRo86engAHAs6k?key=JDzKcoJQwuC_JsCdwCkMPw)
+	![](../Images/Setscale_ImageJ%201.png)
 
-> Can you 1) circle the straight line tool and 2) use a photo where you have the right "unit of length" text to avoid confusion - seems anal but trust me, any conflicts like this will brew unnecessary confusion 
-> 	I know you circled it in the photo for general measurements, but this setting scale uses the tool first
-> Also, should change protocol to be in centimeters 
 
-### General measurements
-1. Use the line tool to draw the max **shell height**, then hit M on your keyboard a window will pop up with the measurements![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXchSNrq1-Bo9pi22D4i-S3fneV1vuGio122D9MPI9hrVzyXYiizYjTmq90ekIruzMrem4oh_437Y0AOIlnSxaeFRoowXadGcbidUtHgAlZT0ZJ9L1Y7tItBJFynntidkQWKxgDSWw?key=JDzKcoJQwuC_JsCdwCkMPw)
-
-2. Record this data and then using the same tool, draw the max **shell width** and record that measurement as well![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfPmTA8VdajFhT-3bUM_T2mVKpsz-6LUW-PhO7nI_dyvI9qch0RccsnCYpwwVPSKwSCRLM0kZwy7KEe6aQuvAuc_8UxU6cxxw_RaxupFWYuawDvkwHjoq1Oa86iv8MagcXJO_-h?key=JDzKcoJQwuC_JsCdwCkMPw)
-
+### General measurements!
+1. Use the line tool to draw the max **shell height**, then hit M on your keyboard a window will pop up with the measurements 
+![](../Images/Length_ImageJ.png)
+2. Record this data and then using the same tool, draw the max **shell width** and record that measurement as well****
+![](../Images/Width_ImageJ.png)
 3. When finding the **shell area** you will use the polygon tool to trace along the outside edge of the whole oyster shell and then hit M and it will calculate the measurement like the length and width
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcIF9rs6iXvycb_jo8yjalzcK8WlKBVZc1_QyYTP2ULLRO0lDQmGm7fQ-0erTIRzD0ZNFZawWN6c4imjxac_l_6wCt-tJIKdU04ex_lIxsL6ozXZ80__eoUmn89jvVMQp2aT2IhEA?key=JDzKcoJQwuC_JsCdwCkMPw)
+![[../Images/Area_ImageJ.png]]
 
-4. Click next and repeat for all of the shells in the opened folder
 
-> Is there a way you go to the next photo?  
 #### Macros 
 
   
-
 ### Mud blister worms
 #### Identification
 The blisters from the Mud blister worms are pockets of mud and debris located on the inside of an oyster's shell, which bores into the shell. The oyster responds to the “irritation” by secreting layers of shell to build a protective barrier around the worm, forming the blister. When looking at this in the sense of data collection, we are only looking at the dark brown or black U-shaped blister on the inside of the shell. There will always be an entrance and exit to these. Not all shells that have “new shell” will be a blister, so judgment calls are important. 
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfIk0QRDPN30hZAgq8j8nZ3DLySq0ZPmhv5B0Goyl3y9CwWEEzw3FG95Vtzapm5Vhw798_zs-00BBUShm2Qkt8FKMhRPQ5rn3lx6_dCa7rDrYQWh_pLIpdcR6MDiqXq7CAJhoDSNQ?key=JDzKcoJQwuC_JsCdwCkMPw)
-	Outlined in yellow are dark blisters that have a confirmed entrance and exit. The yellow bruising can be from poor water quality, marine parasites, or the age of the shell; it isn't a blister and shouldn't be counted. The yellow arrows pointing to the bright white shell are showing new shell formation, but there is no indication of a blister and it could be from any other stressor—do not count either.
+![[../Images/Showing Blisters_ImageJ.png]]
+	Outlined in yellow are dark blisters that have a confirmed entrance and exit. The yellow arrows do indicate a blister but there is noentrance or exsit which indicates that its an old blister and is not to be counted. We are only intrested in active infestation. The red a
 #### Measurement
-1. Working only with the interior shell photos, when you identify a blister, use the freehand tool to trace the whole perimeter and then hit M to measure the area![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDqgeHH-Ks97DxWY9-lc9O7eOcZI7HB5sE3a1VYYLJgsOTuX2KnN5wEPvhAQvZltU7XevFS0mgbzwDCmTxD-FizIBfh6jDckvn1kZQsT6rcYX7PY_xn8Q0E2065H9y3onUI_QMWw?key=JDzKcoJQwuC_JsCdwCkMPw)
-> Do you prefer the freehand tool to the polygon? I found that the polygon offered me more precision since the freehand you have to smoothly trace all in one go, right? It's okay if you use the freehand, just make sure you're confident in the results and you're not just using it because it's faster! 
-
+1. Working only with the interior shell photos, when you identify a blister, use the freehand tool to trace the whole perimeter and then hit M to measure the area. When having a big blister it is easier to use the polygon tool and when its smaller its easier to use the free hand because of the small size. 
+![[../Images/Area of blister_ImageJ.png]]
 2. Record how many blisters there are on either shell; in this example the right valve has 8 and the left valve has 2
 
 ### Boring sponge
 #### Identification
 Focus first on the left valve, as this shell often shows the most damage. If there is any crumbling of the shell near the umbo, zoom in and see if there are any small holes associated with it. Use the hand tool to help move the image around when zoomed in. Tell-tale signs of boring sponge are circular holes, discoloration (yellow or orange), and “honeycomb” patterns, which are more prominent on the interior photos. 
+![[../Images/Honeycomb_ImageJ.png]]
+![](../Images/Sponge%20area_imageJ.png)
+The yellow arrow pointing to the umbo on the left valve is damaged and shows a dark orange area which is a part of the boring sponge. The other yellow arrow pointing to the fringe has no holes which is why it isn't counted in the area. 
+![[../Images/Example honeycomb.png]]
+	Note the “honeycomb” pattern, this is a heavy infestation. 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcub5gkeV_JLK2cAWpgz-T9Qai8MR2y1TSwHMoaREk_nxBJzep-F5VV4TnuhPyFRCFDWA7U3X38dwhWQkrm0Flgj1m-Yzu9L0aSskXCXa8C-vdzBVq3Ko9wq5WJxhTKZOyk16sGqA?key=JDzKcoJQwuC_JsCdwCkMPw)
-	The yellow arrow pointing to the umbo on the left valve is damaged, but there are no small holes or crumbling so we don't count it as boring sponge. 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfTtF2Rv2ZMq7IPykA5F4G6fa_funRkzD0wP4ZfFsNK576R5E3_GMp4k5ajM4ahoj7lwAAjEkOXRCd_k-HubMqrOLBOBcR0r0bkeojvw30eoH2oquDHDMv-1Yyw1QrQWdMtqAd6TA?key=JDzKcoJQwuC_JsCdwCkMPw)
-	Note the “honeycomb” pattern and yellow discoloration of the sponge. The umbo is broken, but should still be counted because of the damage. 
 
-> Can you be more specific why this damage is counted but the scars on the first picture aren't? Also, maybe zoom in on one of these images in ImageJ (like you describe doing) to show more clearly the holes and/or honeycomb you are talking about
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQSsmaet4PtoSqDUcxICp2XAyQUsJy59tiGIE-N7f1Utq-ge4sS4tMVrl5SMyMbMHSqcZA4u7JRgAQOfp9Fa9sZ7aoEXrKU01hDNvRz_c5VfG7Yi9-E-Yv90WvghEOB-DmGhtCRA?key=NxgMKdht2JBXN1fmoXucqg)
 #### Measurement
-1. Working only with the exterior shell photos, use the freehand tool or, for larger areas, use the polygon tool to trace the entire perimeter of boring sponge and then hit M to measure the area
+1. Working only with the exterior shell photos, use the freehand tool or, for larger areas, use the polygon tool to trace the entire perimeter of boring sponge and then hit M to measure the area. You can use the free hand or the polygon tool to measure the area for the boring sponge.
+2. Add all collected data to the data sheet and upload to github.
 
-> I'm just curious - why this distinction between the freehand and polygon tool here?
 
 
