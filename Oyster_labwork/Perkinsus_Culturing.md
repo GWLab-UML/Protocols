@@ -74,7 +74,7 @@ Day 1:
 From paper: Dungan, Reece 2006
 
 ## II. RFTM Inoculation and Incubation
-*(untested protocol as suggested by Dr. José A. Fernández Robledo from Bigelow)*
+*(the rest of this Perkinsus culturing protocol is an untested protocol as suggested by Dr. José A. Fernández Robledo from Bigelow)*
 
 Day 2:
 **Materials for RFTM inoculation and incubation:**
@@ -142,7 +142,6 @@ Day 10:
 - Plastic bag
 - 12 well-plates
 ### Protocol for transferring tissue from RFTM to PCM:
-**Day 3**
 1. Weigh out antibiotics and measure PCM as above into an autoclaved 100 mL screw cap bottle
 2. Stir with a stir bar and stir plate if necessary
 3. Label the tubes based on tissue type and the oyster's site name/if it is wild or farmed. Label one tube "C" which will contain only PCM and act as a control
@@ -158,10 +157,27 @@ Day 10:
 13. Carefully remove the probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, run the homogenizer again
 14. Clean probe immediately in DI bath for 10s
 15. Repeat steps 11-13 for all tubes
-16. Label the bottom of 12-well plates (label the three wells of the first column)
-17. Once homogenized, move the contents of each tube into their respective well of a 12-well plate 
-18. Perform a serial dilution into 
-19. Incubate these at 27°C (this may take 10-14 days)
+16. Once homogenized, load the contents of each tube into wells of a 12-well plate to perform a serial dilution for removing debris
+17. Incubate 12-well plates at 27°C (this may take 10-14 days)
+
+Day 11: 
+18. Check on the well plates after 24 hours 
+19. Repeat every day/whenever you are in the lab
+
+
+(Gauthier and Vasta 1995)
+## IV. Transferring to Culture Flasks
+### Materials for Transferring to Culture Flasks 
+- 100 mL bottle of PCM with antibiotics
+- 25 cm^2 Culture Flasks
+### Protocol for Transferring to Culture Flasks
+1. When the cell density in the well plates is 10^6, proceed with these steps 
+2. In the BSC, bring the 100 mL bottle of PCM with antibiotics and 25 cm^2 culture flasks
+3. Pipette 18 mL of PCM into each 25 cm^2 culture flask. If flasks are tissue-treated, keep the flask upright with the cap at the top to avoid cell adhesion. 
+4. Label each 25 cm^2 culture flask with tissue information and "P1" for first passage
+5. Inoculate the contents of the 12-well plates into the 25 cm^2 culture flasks
+
+
 
 
 
