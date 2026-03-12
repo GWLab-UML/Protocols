@@ -116,7 +116,9 @@ RFTM Assay Analysis of Tissue
 
 
 ## III. Transferring Tissue from RFTM to PCM
-### **Materials for transferring tissue from RFTM to PCM:**
+
+Day 10:
+### Materials for transferring tissue from RFTM to PCM:
 - Small empty beaker (for discarding RFTM)
 - Autoclaved 100 mL screw cap bottle (for storing PCM with antibiotics)
 - 100 mL Perkinsus Culturing Media (PCM) with antibiotics (this includes extra PCM)
@@ -139,7 +141,7 @@ RFTM Assay Analysis of Tissue
 - 25 cm^2 Culture Flask
 ### Protocol for transferring tissue from RFTM to PCM:
 **Day 3**
-1. If PCM with antibiotics has not been made already, weigh out antibiotics and measure PCM as above into an autoclaved 100 mL screw cap bottle
+1. Weigh out antibiotics and measure PCM as above into an autoclaved 100 mL screw cap bottle
 2. Stir with a stir bar and stir plate if necessary
 3. Label seven 5 mL tubes: "M", "M1", "M2", "R", "R1", "R2", and "C" for "control"
 4. In BSC, bring the 100 mL bottle of PCM and the labeled 5 mL tubes. Pipette 2 mL of PCM into each labeled 5 mL tube (this is to keep the main 100 mL bottle of PCM sterile)
