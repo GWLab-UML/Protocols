@@ -139,26 +139,29 @@ Day 10:
 - Culture flasks 
 - 100 mL bottle of PCM with antibiotics
 - 25 cm^2 Culture Flask
+- Plastic bag
+- 12 well-plates
 ### Protocol for transferring tissue from RFTM to PCM:
 **Day 3**
 1. Weigh out antibiotics and measure PCM as above into an autoclaved 100 mL screw cap bottle
 2. Stir with a stir bar and stir plate if necessary
-3. Label seven 5 mL tubes: "M", "M1", "M2", "R", "R1", "R2", and "C" for "control"
-4. In BSC, bring the 100 mL bottle of PCM and the labeled 5 mL tubes. Pipette 2 mL of PCM into each labeled 5 mL tube (this is to keep the main 100 mL bottle of PCM sterile)
-5. Take out two tubes of RFTM-inoculated tissue from the incubator: one with mantle and one with rectum 
-6. On a lab bench, discard RFTM from the tubes into a beaker
-7. Bring the 5 mL tubes containing PCM, "M" and "R" from the BSC. 
-8. Ethanol-flame sterilize tweezers/forceps to perform a sterile transfer of tissue from the RFTM tubes into the tubes containing 2 mL PCM with antibiotics 
-9. In fume hood, bring homogenizer, homogenizer probes, beaker of DI water, and the two tubes of tissue in PCM 
-10. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
-11. Submerge probe in RFTM tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 3 clicks to the right, hold for 10 seconds - _Never run homogenizer dry_
-12. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, run homogenizer again
-13. Clean probe immediately in DI bath for 10s
-14.  Repeat steps 10-13 for all tubes
-15. Inoculate 0.5 mL of "M" with disturbed oyster tissue into "M1", and 0.5 mL into "M2"
-16. Inoculate 0.5 mL of "R" with disturbed oyster tissue into "R1", and 0.5 mL into "R2"
-17. "C" does not contain any tissue, only containing PCM
-18. Incubate these four new tubes and the fifth tube (the control) at 27°C (this may take 10-14 days)
+3. Label the tubes based on tissue type and the oyster's site name/if it is wild or farmed. Label one tube "C" which will contain only PCM and act as a control
+4. In BSC, bring the 100 mL bottle of PCM and the labeled 5 mL tubes. Pipette 2 mL of PCM into each labeled 5 mL tube 
+5. Take out tubes of RFTM-inoculated tissue from the incubator. Place tubes that contain tissue with P. marinus on the lab bench
+6. Discard all tubes of tissue of oysters that did not contain P. marinus. Discard the RFTM into a beaker. Discard the oyster tissue into a plastic bag.
+7. For tubes containing tissue with P. marinus, on a lab bench, discard RFTM from the tubes into a beaker
+8. Bring the labeled tubes containing PCM from the BSC
+9. Ethanol-flame sterilize tweezers/forceps to perform a sterile transfer of tissue from the RFTM tubes into the tubes of 2 mL PCM with antibiotics 
+10. In the fume hood, bring the homogenizer, homogenizer probes, beaker of DI water, and the tubes of tissue in PCM 
+11. Insert sterile plastic probe into Homogenizer 150, making sure it locks into place
+12. Submerge probe in PCM tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 3 clicks to the right, hold for 10 seconds - _Never run homogenizer dry_
+13. Carefully remove the probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, run the homogenizer again
+14. Clean probe immediately in DI bath for 10s
+15. Repeat steps 11-13 for all tubes
+16. Label the bottom of 12-well plates (label the three wells of the first column)
+17. Once homogenized, move the contents of each tube into their respective well of a 12-well plate 
+18. Perform a serial dilution into 
+19. Incubate these at 27°C (this may take 10-14 days)
 
 
 
