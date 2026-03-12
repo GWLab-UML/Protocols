@@ -1,6 +1,6 @@
 Abbreviations: Perkinsus Culturing Media - PCM
 
-Materials to autoclave before beginning protocol, if not autoclaved already:
+Day 0: Materials to autoclave before beginning protocol, if not autoclaved already:
 - Two 1000 mL autoclavable glass screw cap bottles or larger (for making PCM) 
 - Vacuum filtration apparatus 
 	- glass filter funnel
@@ -20,6 +20,7 @@ Materials to make, if not made already:
 
 ****If using obtained Perkinsus strains, skip to step 
 
+Day 1:
 **Materials:**
 - DI water
 - Instant Ocean 
@@ -73,7 +74,9 @@ Materials to make, if not made already:
 From paper: Dungan, Reece 2006
 
 ## II. RFTM Inoculation and Incubation
+*(untested protocol as suggested by Dr. José A. Fernández Robledo from Bigelow)*
 
+Day 2:
 **Materials for RFTM inoculation and incubation:**
 - 3-4 oysters 
 - Tray and paper towel for dissection 
@@ -94,7 +97,6 @@ From paper: Dungan, Reece 2006
 - Stir bar
 - Foil
 ### Protocol for RFTM inoculation and incubation: 
-**Day 1**
 1. Obtain eight tubes per oyster
 2. For each oyster, label eight 5 mL tubes: two "M" for mantle tissue from the oyster, two "R" for rectum, two "G" for gill, and two "L" for muscle. Label the tubes according to whether the oyster is wild or farmed, and which site they came from. 
 3. Weigh out antibiotics and measure RFTM as above into an autoclaved 100 mL screw cap bottle. Cover the bottle of RFTM w/antibiotics with foil and store in the 4°C fridge for future use.
@@ -104,9 +106,57 @@ From paper: Dungan, Reece 2006
 7. On a tray and paper towel, shuck an oyster and perform a sterile dissection of an oyster by dissecting a large piece of the mantle, rectum, gill, and muscle tissue. Cut each tissue type in half and inoculate into their respective labeled tubes
 8. Repeat step 7 for each oyster
 9. You should now have two tubes of RFTM w/antibiotics for each tissue for every oyster. One of these tubes will be used for incubating and staining with iodine to determine if the oyster has P. marinus. The other of these tubes will be used for incubating and homogenizing in PCM if the oyster has P. marinus
-10. Incubate the two tubes that will be used for culturing for 2 days (48h) at 27°C, leave two tubes that will be used for iodine staining to incubate for 7 days. If using the same incubator that uses LED lights for algae plates, cover the tubes with foil, as RFTM is light-sensitive. 
+10. Incubate the tubes at 27°C
+
+Day 9: 
+RFTM Assay Analysis of Tissue
+***Goal**: We're aiming to determine if the oyster from which we took tissue samples to inoculate in PCM contains any Perkinsus. Performing an RFTM Assay Analysis will help us gauge the intensity of any Perkinsus infection this oyster may have had, or if it had any Perkinsus at all.*
+11. After seven days, take one tube from each tissue of every oyster for iodine staining. If using the same incubator that uses LED lights for algae plates, cover the tubes with foil, as RFTM is light-sensitive. 
+12. Determine and note which oysters have P. marinus (refer to RFTM_Pmarinus_Assay) that will be transferred into PCM
 
 
+## III. Transferring Tissue from RFTM to PCM
+### **Materials for transferring tissue from RFTM to PCM:**
+- Small empty beaker (for discarding RFTM)
+- Autoclaved 100 mL screw cap bottle (for storing PCM with antibiotics)
+- 100 mL Perkinsus Culturing Media (PCM) with antibiotics (this includes extra PCM)
+	- 5 mg nystatin 
+	- 500 mg chloramphenicol
+	- 2 mL of pen/strep
+	- 98 mL PCM
+- Ethanol lamp 
+- Beaker of 100% ethanol 
+- Empty beaker (for storing hot tools)
+- Tweezers/forceps (for transferring tissue from RFTM to PCM)
+- 10 mL glass pipette tips
+### Materials for Homogenizing Tissue: 
+- Homogenizer
+- Autoclaved homogenizer probes 
+- Beaker of DI water 
+- PCM-inoculated tissue in tubes (in incubator)
+- Culture flasks 
+- 100 mL bottle of PCM with antibiotics
+- 25 cm^2 Culture Flask
+### Protocol for transferring tissue from RFTM to PCM:
+**Day 3**
+1. If PCM with antibiotics has not been made already, weigh out antibiotics and measure PCM as above into an autoclaved 100 mL screw cap bottle
+2. Stir with a stir bar and stir plate if necessary
+3. Label seven 5 mL tubes: "M", "M1", "M2", "R", "R1", "R2", and "C" for "control"
+4. In BSC, bring the 100 mL bottle of PCM and the labeled 5 mL tubes. Pipette 2 mL of PCM into each labeled 5 mL tube (this is to keep the main 100 mL bottle of PCM sterile)
+5. Take out two tubes of RFTM-inoculated tissue from the incubator: one with mantle and one with rectum 
+6. On a lab bench, discard RFTM from the tubes into a beaker
+7. Bring the 5 mL tubes containing PCM, "M" and "R" from the BSC. 
+8. Ethanol-flame sterilize tweezers/forceps to perform a sterile transfer of tissue from the RFTM tubes into the tubes containing 2 mL PCM with antibiotics 
+9. In fume hood, bring homogenizer, homogenizer probes, beaker of DI water, and the two tubes of tissue in PCM 
+10. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
+11. Submerge probe in RFTM tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 3 clicks to the right, hold for 10 seconds - _Never run homogenizer dry_
+12. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, run homogenizer again
+13. Clean probe immediately in DI bath for 10s
+14.  Repeat steps 10-13 for all tubes
+15. Inoculate 0.5 mL of "M" with disturbed oyster tissue into "M1", and 0.5 mL into "M2"
+16. Inoculate 0.5 mL of "R" with disturbed oyster tissue into "R1", and 0.5 mL into "R2"
+17. "C" does not contain any tissue, only containing PCM
+18. Incubate these four new tubes and the fifth tube (the control) at 27°C (this may take 10-14 days)
 
 
 
