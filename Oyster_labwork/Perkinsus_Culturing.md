@@ -1,21 +1,34 @@
+Abbreviations: Perkinsus Culturing Media - PCM
 
 Materials to autoclave before beginning protocol, if not autoclaved already:
-- Two 1000 mL autoclavable glass screw cap bottles or larger 
-- Vacuum filtration apparatus (glass filter funnel, filter base, clamp)
+- Two 1000 mL autoclavable glass screw cap bottles or larger (for making PCM) 
+- Vacuum filtration apparatus 
+	- glass filter funnel
+	- filter base
+	- clamp
 - 1000 mL filtration flask 
 - Filtration flask tubing
+- Full rack of 5 mL glass tubes with covers 
+- Two 100 mL screw cap bottles (one for RFTM with antibiotics and one for PCM with antibiotics)
+- 10 mL glass pipette tips 
+- Three stir bars 
+- Homogenizer probes (for homogenizing tissue after inoculating it in PCM)
 
+Materials to make, if not made already:
+- RFTM (4°C fridge)(refer to RFTM_Pmarinus_Assay in GW Lab Protocols > Oyster_Labwork > RFTM_Pmarinus_Assay)
 ## I. Making 1 L of Perkinsus Culturing Media (PCM):
+
+****If using obtained Perkinsus strains, skip to step 
 
 **Materials:**
 - DI water
 - Instant Ocean 
-- DME
-- Ham's F12
-- L-glutamine
-- Glycine betaine or betaine
-- Glucose
-- Sodium bicarbonate
+- DME (4° C fridge)
+- Ham's F12 (4° C fridge)
+- L-glutamine (Room temperature)
+- Glycine betaine or betaine (4° C fridge)
+- Glucose (Room temperature)
+- Sodium bicarbonate (Room temperature)
 - Weigh paper/Weigh boat
 - Spatula
 - Two 1000 mL glass screw cap bottles or larger
@@ -28,7 +41,7 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 - Sharpie
 
 **Protocol:** 
-1. Make 16 g/L saltwater with instant ocean by adding 16 g of instant ocean to 1000 mL of DI water in 1000 mL glass screw cap bottle 
+1. Make 16 g/L saltwater with Instant Ocean by adding 16 g of Instant Ocean to 1000 mL of DI water in an autoclaved 1000 mL glass screw cap bottle 
 2. To the 16 g/L saltwater in the 1000 mL glass screw cap bottle, add:
 	- 4.2 g/L DME (4° C fridge)
 	- 5.4 g/L Ham's F12  (4° C fridge)
@@ -37,7 +50,7 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 	- 0.5 g/L glucose (Room temp)
 	- 0.65 g/L Sodium bicarbonate (Room temp)
 3. This is now your PCM
-4. Set up vacuum filtration apparatus in the BSC by spraying each of the following with ethanol before bringing into BSC
+4. Set up the vacuum filtration apparatus in the BSC by spraying each of the following with ethanol before bringing them into BSC
 	1. 1000 mL filtration flask
 	2. 1000 mL glass screw cap bottle of PCM
 	3. Empty 1000 mL glass screw cap bottle 
@@ -46,91 +59,52 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 	6. Filter base
 	7. Clamp
 	8. Box of 0.22 um filter paper
-5. Set up vacuum on table outside of BSC
-6. Place filter base into filtration flask 
-7. Connect tubing into side arm of filtration flask 
-8. Place a 0.22 um filter paper onto top of filter base
-9. Place glass filter funnel on filter base
-10. Use clamp to secure filter base and filter funnel
-11. Turn on vacuum. Make sure it is vacuuming air out of the filtration flask
-12. Filter PCM by pouring it into filter funnel slowly, making sure to not overflow the filter funnel
-13. Transfer filtered PCM into labeled new sterile 1000 mL glass screw cap bottle
-14. Store sterile PCM in 4°C fridge
+5. Set up the vacuum on the table outside of the BSC
+6. Place the filter base into the filtration flask 
+7. Connect tubing into the side arm of the filtration flask 
+8. Place a 0.22 um filter paper onto the top of filter base
+9. Place the glass filter funnel on the filter base
+10. Use the clamp to secure the filter base and the filter funnel
+11. Turn on the vacuum. Make sure it is vacuuming air out of the filtration flask
+12. Filter PCM by pouring it into the filter funnel slowly, making sure not to overflow the filter funnel
+13. Transfer filtered PCM into a new, labeled sterile 1000 mL glass screw cap bottle
+14. Store sterile PCM in the 4°C fridge
 
-****If using obtained Perkinsus strains, skip to step III., if homogenizing oyster tissue for Perkinsus, proceed to step II.****
+From paper: Dungan, Reece 2006
 
-## II. Homogenizing oyster tissue for inoculation:
-### Materials: 
-*Reagents needed:*
-- PCM (500 uL per sample)
+## II. RFTM Inoculation and Incubation
 
-*Other materials:* 
-- Oyster(s)
-- Shucking knife
-- Shucking glove 
-- Plastic weigh boat or tray
-- Two pairs of tweezers
-- Two pairs of dissecting scissors 
-- Beaker of ethanol (for ethanol flaming)
-- Bunsen burner (for ethanol flaming)
-- Beaker (for storing cooled down tools during ethanol flaming)
-- Plastic bag with no holes 
-- 1000 uL pipet
-- Pipet tips
-- Labeled 2 mL tubes (for oyster tissue)
-- Tube rack 
-- Ice for tube rack 
-- Homogenizer 150
-- Plastic probe
-- DI bath in beakers
-### Protocol: 
-**Perform the following steps on the bench with a lit bunsen burner to ensure a sterile field.**
-1. UV sterilize all 2 mL tubes
-2. Label different corners of the plastic weigh boat with tissue type for keeping track of excised tissue.
-3. Obtain oyster - shuck and dissect mantle and rectum in plastic weigh boat on lab bench (to reduce mess)
-	- Keep sterile between oyster samples/tissues - ethanol flame tweezers/scissors between individuals (have two sets, one working and one cooling down from the flame (in an empty sterile beaker) - *do not dissect with hot tools*)
-4. If necessary, discard excess liquid from oyster into a plastic bag with no holes. This and all leftover soft oyster tissue contents will be discarded later. Oyster shells can be rinsed with water and kept in 'shell bag' in the bottom of the Narwhal freezer
-5. Place samples of oyster tissue into new labeled UV sterilized 2 mL tubes, making sure to sterilize (ethanol-flame) tweezer between samples
-
-**Perform the following procedure in the fume hood. Take precautions to avoid contamination.**
-6. Into the fume hood, bring PCM, 1000 uL pipet, pipet tips, tubes with oyster tissue, Homogenizer 150, plastic probe, and DI bath. 
-7. Add 500uL-1mL of PCM to each sample
-8. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
-9. Submerge probe in 2mL tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds
-    - _Never run homogenizer dry_
-10. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 8
-11. Clean probe immediately as follows: DI bath 10s
-12. Repeat steps 9-11 for all samples
-
-Due to the Homogenizer 150 getting hot with use and the potential for degradation, do not exceed 10 samples without resting the equipment for 30 minutes. (_untested_)
-
-
-
-
-## III. Inoculating Homogenized Oyster Tissue/Perkinsus strains into PCM:
-
-### Materials:
-- Homogenized oyster tissue/Perkinsus strains
-- PCM
-- 25 cm^2 culture flasks 
-- 1000 uL pipet
-- 1000 uL pipet tips 
-- Grey pipetboy 
-- 25 mL pipet tips
-- Sharpie
-
-### Protocol:
-
-1. This initial inoculation will be P1. 
-2. In the BSC, pipet 20 mL of PCM into each 25 cm^2 culture flask. If flasks are tissue treated, keep flask upright with cap of flask being at the top to avoid cells adhering
-3. Label each 25 cm^2 flask with strain name (if there is one) and passage number (P1)
-4. Pipet 500 uL of Perkinsus strain into each labeled 25 cm^2 flask
-5. Keep inoculated flasks in 28°C incubator for eight days 
-6. After one day of incubation, take a 20 uL sample from each strain to perform a cell count using the hemocytometer and note cell density. 
-7. If cell density is 10^6 cells/mL, create P2 (refer to step 9). If cell density is less than 10^6 cells/mL, allow for cells to incubate for another day and repeat step 6 until cell density reaches 10^6 cells/mL
-8. Record how many days are between passages and record the density of cells 
-9. To split the flask for P2, pellet cells via centrifuge, aspirate out the old media, and resuspend pelleted cells in a new flask containing fresh media
-
+**Materials for RFTM inoculation and incubation:**
+- 3-4 oysters 
+- Tray and paper towel for dissection 
+- Dissecting scissors 
+- Forceps 
+- Tweezer 
+- Beaker of 100% ethanol 
+- Ethanol lamp 
+- Empty beaker (for storing hot tools)
+- Full rack of autoclaved 5 mL tubes (for RFTM)
+- Autoclaved 100 mL screw cap bottle (for storing RFTM with antibiotics)
+- Autoclaved 10 mL glass pipet tips 
+- 100 mL RFTM with antibiotics (this includes extra RFTM)
+	- 5 mg nystatin
+	- 500 mg chloramphenicol
+	- 2 mL of pen/strap
+	- 98 mL RFTM
+- Stir bar
+- Foil
+### Protocol for RFTM inoculation and incubation: 
+**Day 1**
+1. Obtain eight tubes per oyster
+2. For each oyster, label eight 5 mL tubes: two "M" for mantle tissue from the oyster, two "R" for rectum, two "G" for gill, and two "L" for muscle. Label the tubes according to whether the oyster is wild or farmed, and which site they came from. 
+3. Weigh out antibiotics and measure RFTM as above into an autoclaved 100 mL screw cap bottle. Cover the bottle of RFTM w/antibiotics with foil and store in the 4°C fridge for future use.
+4. Stir with a sterile stir bar and stir plate if necessary
+5. In BSC, fill each labeled tube with enough RFTM for the tissue to be submerged using a glass pipette tip
+6. Set up an ethanol flaming station and sterilize forceps, tweezers, and dissecting scissors
+7. On a tray and paper towel, shuck an oyster and perform a sterile dissection of an oyster by dissecting a large piece of the mantle, rectum, gill, and muscle tissue. Cut each tissue type in half and inoculate into their respective labeled tubes
+8. Repeat step 7 for each oyster
+9. You should now have two tubes of RFTM w/antibiotics for each tissue for every oyster. One of these tubes will be used for incubating and staining with iodine to determine if the oyster has P. marinus. The other of these tubes will be used for incubating and homogenizing in PCM if the oyster has P. marinus
+10. Incubate the two tubes that will be used for culturing for 2 days (48h) at 27°C, leave two tubes that will be used for iodine staining to incubate for 7 days. If using the same incubator that uses LED lights for algae plates, cover the tubes with foil, as RFTM is light-sensitive. 
 
 
 
