@@ -3,7 +3,7 @@
 **Abbreviations:** 
 - PCM = Perkinsus Culturing Media 
 	- abPCM = PCM + antibiotics (pen/strep)
-- RFTM = ==Ray's...==
+- RFTM = ==Ray's Fluid Thioglycollate Medium==
 	- abRFTM = RFTM + antibiotics (pen/strep)
 
 **Notes:**
@@ -30,13 +30,14 @@ If starting with cells that have already been isolated in culture and just want 
 - Glycine betaine or betaine (4° C fridge)
 - Glucose (RT)
 - Sodium bicarbonate (RT)
-- Weigh paper/Weigh boat ==which one would you recommend for the volumes you are weighing?==
+- Weigh paper
 - Spatula
 - Two 1000 mL glass screw cap bottles - *autoclaved*
 - Vacuum filtration rig (funnel, base, clamp) - *autoclaved*
 - 1000 mL vacuum flask
 - 0.22 um filter paper
 - Vacuum pump and tubing
+- Tweezers
 
 **Protocol:** 
 1. Make 16 g/L saltwater with Instant Ocean by adding 16 g of Instant Ocean to 1000 mL of DI water in sterile glass screw cap bottle—swirl until fully dissolved 
@@ -57,7 +58,7 @@ If starting with cells that have already been isolated in culture and just want 
 4. Set up the vacuum pump on the table outside of the BSC
 5. Connect one end of the tubing to the side arm of the flask and the other to the pump
 6. Firmly insert the filter base into the filtration flask 
-7. Place a 0.22 um filter paper onto the top of filter base ==are you going to do this with your hands? i think you're missing a material/step!==
+7. Place a 0.22 um filter paper onto the top of the filter base with tweezers
 8. Carefully put the filter funnel on top of the filter base, sandwiching the filter paper, and use the clamp to secure
 9. Turn on the vacuum pump
 10. Filter saltwater mixture by pouring it into the filter funnel slowly, making sure not to overflow the filter funnel
@@ -68,12 +69,16 @@ If starting with cells that have already been isolated in culture and just want 
 *(testing in progress)*
 #### Day 0: autoclave necessary materials
 
-- __ 5 mL glass tubes with covers ==explicit number of tubes - explain logic of knowing how many tubes to prepare; need to consider enough tubes for abRFTM incubation as well as abPCM inoculation + control!==
+- 5 mL glass tubes with covers per oyster 
+	- Eight tubes per oyster: four abRFTM tubes and four abPCM for the four tissue types that will be dissected)
+	- One control tube
+	(e.g., If shucking three oysters, you will need 25 tubes ((3 oysters x 8 tubes) + 1 control tube)
 - 100 mL amber screw cap bottle (for abRFTM) 
 - 100mL glass screw cap bottle (for abPCM)
 - 10 mL glass serological pipettes 
 - Stir bars
-- Homogenizer probes, ==how many per oyster?==
+- Homogenizer probes
+	- One per oyster
 
 **Additionally, [make RFTM](RFTM.md#I.%20Preparing%20the%20RFTM) if necessary** - need 100mL (check in 4°C fridge)
 
