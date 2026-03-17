@@ -70,7 +70,7 @@ If starting with cells that have already been isolated in culture and just want 
 #### Day 0: autoclave necessary materials
 
 - 5 mL glass tubes with covers per oyster 
-	- Eight tubes per oyster: four abRFTM tubes and four abPCM for the four tissue types that will be dissected)
+	- Eight tubes per oyster: four abRFTM tubes for the four tissue types and four abPCM for the four tissue types)
 	- One control tube
 	(e.g., If shucking three oysters, you will need 25 tubes ((3 oysters x 8 tubes) + 1 control tube)
 - 100 mL amber screw cap bottle (for abRFTM) 
@@ -88,12 +88,11 @@ Note: homogenizer probes can be autoclaved a maximum of 7 times, or until they d
 
 **Materials:**
 
-- __ 5 mL tubes with covers ==update w number== - *autoclaved*
+- Eight per oyster + one 5 mL tubes with covers - *autoclaved*
 - 100 mL amber screw cap bottle - *autoclaved*
 - 10 mL glass serological pipettes - *autoclaved*
 - 98 mL RFTM (4ºC)
 - 5 mg nystatin ==(4ºC??)==
-- 500 mg chloramphenicol ==(4ºC??) RFTM already has chloramphenicol - do we really add more?==
 - 2 mL of penicillin/streptomycin (aliquoted, -20ºC) 
 - Bunsen burner
 - Dissecting scissors 
