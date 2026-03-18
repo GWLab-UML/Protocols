@@ -220,15 +220,16 @@ Things you will need: 
 - Camera stand
 - Plastic bags
 - Pencil/ Sharpie
-- Ruler
-**(insert picture set up)
-
+- Ruler    
+![](../Images/Shell%20picture%20set%20up.jpeg)
+(example set up of shell station)
 1. Place the blue tray down on the bench and cover it with the underwater canvas. It is easier to tape it onto the back so it doesn't slip. 
 2. Place the camera stand to the left or right of the tray, with the camera facing over the middle of the tray. (Once this is in place, it cannot move because it will change!) 
 3. Set up the ring light so it illuminates the tray but doesn't cast any Shadows this might take a couple tries to figure out what works best and where you can get it to stay (I found it easy to put it on top and have something heavy go over the legs of the ring stand. this created the least amount of Shadows which will interfere with the macros.) 
 4. Once I set it up, don't move any part. The waterproofing canvas is used so it doesn't create any dark wet spots from the oysters. Throughout the process of taking pictures, the oysters will still be wet, and you will have to dry off and wipe down the canvas because it will get dirty.
-5. When you feel comfortable with the setup, place your paper Dot with 1 cm written on the dot with the line. This will allow you to set your scale when taking pictures. **(Insert picture)**  
-6. Looking at your frame of reference through the camera, place a small Sharpie mark on the left side. About halfway down, stagger the right Sharpie Mark a little bit farther down so they are not directly next to each other. This will obviously differ with different shells; some might be larger, and some might be smaller, but with the Sharpie mark on the canvas, it should be covered by a shell, so the macro doesn't pick up the line.
+5. When you feel comfortable with the setup, place your paper Dot with 1 cm written on the dot with the line. This will allow you to set your scale when taking pictures. 
+![](../Images/Blank%20shell%20set%20up%201.jpeg)
+6. Looking at your frame of reference through the camera, place a small Sharpie mark on the left side. About halfway down, stagger the right Sharpie Mark a little bit farther down so they are not directly next to each other. This will obviously differ with different shells; some might be larger, and some might besmaller, but with the Sharpie mark on the canvas, it should be covered by a shell, so the macro doesn't pick up the line.
 ![](../Images/Set%20up%20of%20oyster%20pictures.jpeg)
 
 7. When you have the shells on your placement, make sure they are not touching the label orany other surface on the underwater canvas; they should be free-floating, touching nothing else, with no Shadow from the Ring light.  
@@ -240,5 +241,5 @@ Exterior shell picture example.
 9. Put the right and left shell into the same small ziplock bag with the UW paper label
 10. When the pictures have been taken, place both the shelves and the underwater paper label in a small plastic bag, then place the bag in the larger label bag for that site.
 11. Fill in initials on data sheet and place to the side. 
-12. Rinse empty weigh boats in the sink and let dry upside down on the tray
+12. Rinse empty weigh boats in the sink and let dry upside down on the tray.
  
