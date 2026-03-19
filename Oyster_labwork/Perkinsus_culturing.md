@@ -3,15 +3,15 @@
 **Abbreviations:** 
 - PCM = Perkinsus Culturing Media 
 	- abPCM = PCM + antibiotics (pen/strep)
-- RFTM = ==Ray's Fluid Thioglycollate Medium==
+- RFTM = Ray's Fluid Thioglycollate Medium
 	- abRFTM = RFTM + antibiotics (pen/strep)
 
 **Notes:**
 If starting with cells that have already been isolated in culture and just want to keep them alive, skip to [IV. Passaging](Perkinsus_culturing.md#IV.%20Passaging) 
 
 **Sources:**
-- Dungan and Reece 2006
-- Gauthier and Vasta 1995
+- Dungan and Reece, 2006
+- Gauthier and Vasta, 1995
 
 ## I. Preparing stock culturing media
 #### Day 0: autoclave necessary materials
@@ -69,16 +69,14 @@ If starting with cells that have already been isolated in culture and just want 
 *(testing in progress)*
 #### Day 0: autoclave necessary materials
 
-- 5 mL glass tubes with covers per oyster 
-	- Eight tubes per oyster: four abRFTM tubes for the four tissue types and four abPCM for the four tissue types)
-	- One control tube
-	(e.g., If shucking three oysters, you will need 25 tubes ((3 oysters x 8 tubes) + 1 control tube)
+- 8x 5 mL glass tubes with covers per oyster, +1 for a negative control
+	- Four abRFTM tubes and four abPCM tubes
+	- Example: if shucking three oysters, you will need 25 tubes (3 oysters x 8 tubes + 1 control)
 - 100 mL amber screw cap bottle (for abRFTM) 
 - 100mL glass screw cap bottle (for abPCM)
 - 10 mL glass serological pipettes 
 - Stir bars
-- Homogenizer probes
-	- One per oyster
+- 1x homogenizer probe per oyster
 
 **Additionally, [make RFTM](RFTM.md#I.%20Preparing%20the%20RFTM) if necessary** - need 100mL (check in 4°C fridge)
 
@@ -135,7 +133,6 @@ Retrieve one tube of each tissue type per oyster and perform [RFTM assay](RFTM.m
 - 10 mL glass serological pipettes - *autoclaved*
 - 98 mL PCM
 - 5 mg nystatin ==do we need this? i think it's an antifungal and the antibiotics should be enough? if keeping, add storage temp==
-- 500 mg chloramphenicol ==ditto - except this is an antibiotic, but pen/strep should be enough - don't need to add to the abPCM so delete!==
 - 2 mL of penicillin/streptomycin (aliquoted, -20ºC) 
 - Bunsen burner
 - Forceps  
