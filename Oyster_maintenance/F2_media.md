@@ -38,8 +38,8 @@
 |       | Chemical       | Location | Amount |
 | ----- | -------------- | -------- | ------ |
 | **1** | Thiamine       |          | 100mg  |
-|       | Biotin (stock) | 4ºC      | 1mL    |
-|       | B12 (stock)    | 4ºC      | 1mL    |
+|       | Biotin (stock) | 4ºC      | 500uL  |
+|       | B12 (stock)    | 4ºC      | 500uL  |
 
 ### F2 recipe
 - 995mL artificial saltwater, 28psu
