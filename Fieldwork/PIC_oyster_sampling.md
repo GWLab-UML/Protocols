@@ -248,7 +248,7 @@ Last updated: January 22, 2026 JF
 
 9. When the pictures have been taken, place both the shelves and the underwater paper label in a small plastic bag, then place the bag in the larger label bag for that site.
 10. Fill in initials on data sheet and place to the side.
-11. Rinse empty weigh boats in the sink and let dry upside down on the tray.
+11. Once all pictures are taken or if you have down time between receiving the shells, rinse empty weigh boats in the sink and let dry upside down on the tray.
 12. Upload all photos to the appropriate folder in the lab google drive before leaving
 
 ==more discrete cleaning steps?==
