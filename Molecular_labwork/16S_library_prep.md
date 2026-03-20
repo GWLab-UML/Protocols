@@ -120,6 +120,7 @@ perform steps as above with one addition:
 - **1uL product used to load gel to check indexing**
 
 #### **VI. Purification with ampure beads**
+https://www.bulldog-bio.com/wp-content/uploads/2025/08/CleanNGS-User-Manual-Version-9.pdf
 obtain, label, and cross-link new strip tubes
 start with the manufacturer protocol using 1.8X-1.0X bead ratio and 10uL-25uL PCR product
 - ratio of beads will change the size you select for 
