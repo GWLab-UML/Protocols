@@ -31,7 +31,7 @@ for microbiome or chlorophyll A
 2. Using sterile (ethanol-flamed) forceps, place white filter paper on top of funnel and secure using glass cup and metal clamp
 	- For microbiome water samples, use 0.22um filter paper
 	- For chlorophyll a samples, use 0.7um filter paper
-3. Pour 200mL of replicate water sample into glass cup and turn on the pump
+3. Pour 200mL of water sample into glass cup and turn on the pump
 4. Once all of the liquid has filtered into the flask, remove the metal clamp and carefully lift off the glass cup
 5. Using two pairs of sterile (ethanol-flamed) forceps, carefully fold the filter paper
 	- For **microbiome water samples**, cut in half with sterile scissors, then fold in half until it can fit into a labeled 2mL tube of RNAlater—make sure it is fully submerged
