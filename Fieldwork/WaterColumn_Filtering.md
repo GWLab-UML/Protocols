@@ -5,7 +5,7 @@ for microbiome or chlorophyll A
 ## Materials
 *Wear a mask while working with microbiome samples to prevent contamination*
 - Face mask
-- Pre-labeled RNAlater tubes (microbiome samples)
+- Pre-labeled RNAlater tubes (microbiome samples; 1mL of RNAlater)
 #### *Vacuum setup*
 - Vacuum pump + tubing
 - 2x 1L vacuum flask
