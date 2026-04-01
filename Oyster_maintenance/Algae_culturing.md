@@ -157,7 +157,9 @@ Materials:
 - Liquid algae culture
 	- 100mL depending on density
 - Foam stopper, autoclaved
-FOR 500 ML FLASKS DO 100 ML ALGAE AND 100 ML SALTWATER! DO NOT SPLIT TOO LOOSEY GOOSEY!
+
+FOR 500 ML FLASKS DO 100 ML ALGAE AND 100 ML SALTWATER! DO NOT SPLIT TOO LOOSEY GOOSEY! -JS
+
 Steps:
 Outside of hood—
 1. Record how much you plan to split in the [Algae Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1UBeluqx4SQUdaInXP4of0siFTtXhhd97nKfENCC8lmE/edit?usp=sharing) (flask re-blooms tab) and label flasks
