@@ -55,10 +55,9 @@ Last update: April 1, 2026 JF
 
 ==*Use 5mL media per 1L salt water, or 500uL media per 100mL salt water*==
 ### References
-| [https://utex.org/products/f-2-medium?variant=31722216915034](https://utex.org/products/f-2-medium?variant=31722216915034)                                           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [https://wordpress.clarku.edu/debrobertson/laboratory-protocols/f2-culture-media/](https://wordpress.clarku.edu/debrobertson/laboratory-protocols/f2-culture-media/) |
-| [https://ncma.bigelow.org/PDF%20Files/NCMA%20algal%20medium%20f_2.pdf](https://ncma.bigelow.org/PDF%20Files/NCMA%20algal%20medium%20f_2.pdf)                         |
+- [https://utex.org/products/f-2-medium?variant=31722216915034](https://utex.org/products/f-2-medium?variant=31722216915034)
+- [https://wordpress.clarku.edu/debrobertson/laboratory-protocols/f2-culture-media/](https://wordpress.clarku.edu/debrobertson/laboratory-protocols/f2-culture-media/)
+- [https://ncma.bigelow.org/PDF%20Files/NCMA%20algal%20medium%20f_2.pdf](https://ncma.bigelow.org/PDF%20Files/NCMA%20algal%20medium%20f_2.pdf)
 
 ### Chemical order list
 Supplier: Fisher-Scientific
