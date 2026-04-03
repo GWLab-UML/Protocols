@@ -55,10 +55,9 @@ Last update: April 1, 2026 JF
 
 ==*Use 5mL media per 1L salt water, or 500uL media per 100mL salt water*==
 ### References
-| [https://utex.org/products/f-2-medium?variant=31722216915034](https://utex.org/products/f-2-medium?variant=31722216915034)                                           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [https://wordpress.clarku.edu/debrobertson/laboratory-protocols/f2-culture-media/](https://wordpress.clarku.edu/debrobertson/laboratory-protocols/f2-culture-media/) |
-| [https://ncma.bigelow.org/PDF%20Files/NCMA%20algal%20medium%20f_2.pdf](https://ncma.bigelow.org/PDF%20Files/NCMA%20algal%20medium%20f_2.pdf)                         |
+- [https://utex.org/products/f-2-medium?variant=31722216915034](https://utex.org/products/f-2-medium?variant=31722216915034)
+- [https://wordpress.clarku.edu/debrobertson/laboratory-protocols/f2-culture-media/](https://wordpress.clarku.edu/debrobertson/laboratory-protocols/f2-culture-media/)
+- [https://ncma.bigelow.org/PDF%20Files/NCMA%20algal%20medium%20f_2.pdf](https://ncma.bigelow.org/PDF%20Files/NCMA%20algal%20medium%20f_2.pdf)
 
 ### Chemical order list
 Supplier: Fisher-Scientific
@@ -80,3 +79,4 @@ Last ordered: October 10, 2025
 | Biotin         | 1g     | AC230090010      |
 | Vitamin B12    | 1g     | C04491G          |
 
+Store-bought media we have used in the past: [Algae Research Supply](https://algaeresearchsupply.com/products/algae-nutrient-media-f-2-grows-50-l-of-culture?_pos=2&_sid=ada99458e&_ss=r&variant=13987962884)
