@@ -102,7 +102,8 @@ All ethanol washes can be in the *same* conical tube - dump ethanol between wash
 	- if not sectioning the next day, cassettes can be stored indefinitely at 4℃ until needed
 
 ## Sectioning 
-with microtome( ADD PICTURE)
+with microtome in room 614
+![](../Images/Microtome_front.jpeg)
 
 **Notes:**
 - Make sure to get trained by someone in the Steinel lab before using the microtome. Also check-in about availability.
@@ -129,6 +130,9 @@ with microtome( ADD PICTURE)
 #### Protocol:
 1. Place cassette into head.
 2. Adjust head so the cassette nearly touches the blade (this can largely be done with the second dial, looking above can help determine the angle needed to make it straight)
+
+![](../Images/Trim%20slice%20knobs.jpeg)
+
 3. On the trim setting (first dial, hit it twice to change from feed), section the wax until the excess is trimmed off and tissue is exposed. 
 4. Switch to the feed setting (first dial) and section.
 5. Once sections are floating in the water bath, position a labelled slide under the tissue in the water. (Take out any excess wax you don't want and keep the stage clear) Slowly pull the slide out of the water, making sure the tissue is on the slide. 
