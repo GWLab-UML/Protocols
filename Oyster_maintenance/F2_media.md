@@ -79,3 +79,4 @@ Last ordered: October 10, 2025
 | Biotin         | 1g     | AC230090010      |
 | Vitamin B12    | 1g     | C04491G          |
 
+Store-bought media we have used in the past: [Algae Research Supply](https://algaeresearchsupply.com/products/algae-nutrient-media-f-2-grows-50-l-of-culture?_pos=2&_sid=ada99458e&_ss=r&variant=13987962884)
