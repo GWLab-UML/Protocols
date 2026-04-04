@@ -102,7 +102,8 @@ All ethanol washes can be in the *same* conical tube - dump ethanol between wash
 	- if not sectioning the next day, cassettes can be stored indefinitely at 4℃ until needed
 
 ## Sectioning 
-with microtome
+with microtome in room 614
+![](../Images/Microtome_front.jpeg)
 
 **Notes:**
 - Make sure to get trained by someone in the Steinel lab before using the microtome. Also check-in about availability.
@@ -129,6 +130,9 @@ with microtome
 #### Protocol:
 1. Place cassette into head.
 2. Adjust head so the cassette nearly touches the blade (this can largely be done with the second dial, looking above can help determine the angle needed to make it straight)
+
+![](../Images/Trim%20slice%20knobs.jpeg)
+
 3. On the trim setting (first dial, hit it twice to change from feed), section the wax until the excess is trimmed off and tissue is exposed. 
 4. Switch to the feed setting (first dial) and section.
 5. Once sections are floating in the water bath, position a labelled slide under the tissue in the water. (Take out any excess wax you don't want and keep the stage clear) Slowly pull the slide out of the water, making sure the tissue is on the slide. 
@@ -168,7 +172,7 @@ with microtome
 > done in the Steinel lab fume hood - takes roughly an hour
 1. Remove slides from drying rack.
 2. Samples will be hand stained using Hematoxylin and Eosin Y by moving the staining holder with slides through a series of staining baths using the following procedure:
-	- Only alcohols need to be replaced before each use - everything else is replaced as needed. Eosin Y and hematoxylin are parafilm wrapped after use to preserve and prevent evaporation. Since we are using the Steinel labs set up, bring all needed materials upstairs and replace before you start. Bringing a waste container is smart so we don't use their containers. 
+	- Since we are using the Steinel labs set up, bring all needed materials upstairs and replace before you start. Bringing a waste container is smart so we don't use their containers. The stains can be reused up to 100 slides, Keep track on the bottle how many slides have been stained with them. the old stain is kept in the ethanol cabinet. 
 	- For slides under running water, transfer slides to bulkier slide holder and place into a beaker. Run water in the beaker for 15 mins.
 
 | Step | Reagent             | Time          |
@@ -190,6 +194,11 @@ with microtome
 | 15   | xylene sub          | 2 min         |
 | 16   | xylene sub          | 2 min         |
 
-3. Once all staining steps are completed, let the slides air dry for a few minutes. Place hematoxylin and EosinY into a labeled storage container and bring back down to the lab. (Good for about 115 slides and they are kept with the ethanol cabinet) (Make sure to fill out data sheet placed on top of the hood)
+3. Once all staining steps are completed, let the slides air dry for a few minutes. Place hematoxylin and EosinY into a labeled storage container and bring back down to the lab. (Make sure to fill out data sheet placed on top of the hood)
 4. Add a drop of xylene substitute mounting medium to cover the tissue on the slide. Add the coverslip, being careful not to create bubbles. Let sit overnight
 5. Slides are ready to be imaged!
+
+## Slide Images
+
+This will be done in the Steinel Lab as well in the back room, there is a sign up sheet excel and should be filled out before hand. (We are using their machine and should be considerate) 
+
