@@ -51,7 +51,7 @@ Last update: April 1, 2026 JF
 | **2** | NaH2PO4 stock           | 4ºC      | 20mL   |
 | **3** | NaSiO3 stock            | 4ºC      | 20mL   |
 | **4** | Trace metals master mix | 4ºC      | 20mL   |
-| **5** | Vitamins master mix     | 4ºC      | 2mL    |
+| **5** | Vitamins master mix     | 4ºC      | 10mL   |
 
 ==*Use 5mL media per 1L salt water, or 500uL media per 100mL salt water*==
 ### References

@@ -24,7 +24,7 @@ Island Creek contact: Hannah Pearson (pearson@islandcreekoysters.com)
 
 *March 26, 2026:*
 - Pavlova pingus
-- Tetraselmis chuii
+- Tetraselmis sueccica
 - Chaetoceros neogracile (diatom)
 
 # Bleach Baths
