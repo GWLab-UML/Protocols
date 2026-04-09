@@ -1,7 +1,15 @@
 # Histology Slide Prep
 Protocol for oyster histology
 
-*Last updated:* 09/10/2025 by JGM
+*Last updated:* 04/09/2026 by MC
+
+## Protocol Contents:
+- [Tissue Sectioning](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md#tissue-sectioning)
+- [Davidson's Fixative](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md#davidsons-fixative)
+- [Tissue Processing & Embedding](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md#tissue-processing--embedding)
+- [Sectioning](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md#sectioning)
+- [Staining with Mayers Hematoxylin and Eosin Y](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md#staining-with-mayers-hematoxylin-and-eosin-y)
+- [Slide Imaging](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md#slide-imaging)
 
 ## Tissue Sectioning
 
@@ -50,7 +58,7 @@ protocol from NOAA fisheries
 	- Tissues are now stable in this condition and can be stored for several months.
 
 
-## Tissue processing & embedding
+## Tissue Processing & Embedding
 protocol from Sean Driscoll, Fish Lab (UML)
 
 **Notes:**
@@ -198,7 +206,7 @@ with microtome in room 614
 4. Add a drop of xylene substitute mounting medium to cover the tissue on the slide. Add the coverslip, being careful not to create bubbles. Let sit overnight
 5. Slides are ready to be imaged!
 
-## Imaging Slides
+## Slide Imaging
 
 This is done in the back room of the Steinel Lab. Sign-up to use the imager is required ahead of time (on an excel file from the Steinel Lab). All users should be trained by the Steinel Lab prior to use.
 
