@@ -198,41 +198,45 @@ with microtome in room 614
 4. Add a drop of xylene substitute mounting medium to cover the tissue on the slide. Add the coverslip, being careful not to create bubbles. Let sit overnight
 5. Slides are ready to be imaged!
 
-## Slide Images
+## Imaging Slides
 
-This will be done in the Steinel Lab as well in the back room, there is a sign up sheet excel and should be filled out before hand. (We are using their machine and should be considerate) 
+This is done in the back room of the Steinel Lab. Sign-up to use the imager is required ahead of time (on an excel file from the Steinel Lab). All users should be trained by the Steinel Lab prior to use.
+
+Remember to **bring a flashdrive** to the Steinel Lab to save images to.
+
+**Leica DM6 B** microscope in 605
 ![](../Images/Microscope_front.jpeg)
-Leica DM6 B microscope in 605
 
-1.     Turn on computer (left hand side)
+
+1. Turn on computer (left hand side)
 ![](../Images/Microscope_tower.jpeg)
-2.     Turn on microscope (larger unit on right hand side) ****needs to be done in this order****
-3.     Login to computer- password: !Admin12345
-4.     Open LASX software
-	Click “OK” on any LASX prompted popups
-	Update popups can be “X”d out of if they pop up
-5.     Change “User settings” to “Basic BF color”
-	  BF stands for bright field
-6.     On left hand side of microscope: there is a “rod” on the upper left hand corner
-		pull out to the second stop
+2. Turn on microscope (larger unit on right hand side) 
+#### the following needs to be done in this order:
+3. Login to computer- password: !Admin12345
+4. Open LASX software
+	- Click “OK” on any LASX prompted popups
+	- Update popups can be “X”d out of if they pop up
+5. Change “User settings” to “Basic BF color”
+	- BF stands for bright field
+6. On left hand side of microscope, there is a “rod” on the upper left hand corner
+	- pull out to the second stop
 		![](../Images/Microscope_side.jpeg)
-7.     Mount slide, then click “live” (bottom left hand side)
-	a.     If the image appears yellow, move the rod back to the first stop, move the slide to a blank area. Right click on the image, then select “white balance”. Move rod back out to second stop
-8.     Adjust focus and brightness (brightness controls on left hand side under “illumination settings”)
-	a.     For best results for BF images: make sure TL-Fld. and aperture are at the highest setting; only adjust intensity
-		b.  Change magnification: under “Magn. Camera” settings, click on different magnification and the microscope will adjust manually
-		c.  May need to adjust brightness at different objective
-		**Highest is 40x; anything above this needs oil**!!!
-9.     Click “single image” to take picture
-10.  To view images taken, click on “open project” on the upper left hand side
-	a.     You can rename images manually (easier to export them so they don't save over each other with the same name)
-		b.     Optional: Click on “project settings” at the bottom of the open projects screen, then check box “user defined image name”: this will name all files in the same project with the same name ( can adjust as needed when moving to different samples)
-11.  To take more images, move back to “acquisition”; remember to click the “live” button again
-12.  Export images (You need to bring your own flash-drive!)
-	a.     If all saved under on project, right click on the briefcase icon>export image>pick file destination>save (Can also include scale bar if desired)
-		b.     If under multiple projects: same steps as above, just need to do them for individual projects
-			c.     Optional (but recommended as backup): save entire LIF file> click “save” icon>pick file destination
-13.  To shut down: 
+7. Mount slide, then click “live” (bottom left hand side)
+	- If the image appears yellow, move the rod back to the first stop, move the slide to a blank area. Right click on the image then select “white balance”. Move rod back out to second stop
+8. Adjust focus and brightness (brightness controls on left hand side under “illumination settings”)
+	- For best results for BF images, **make sure TL-Fld. and aperture are at the highest setting**; only adjust intensity
+	- Change magnification: under “Magn. Camera” settings, click on different magnification and the microscope will adjust manually
+	- May need to adjust brightness at different objective - **Highest is 40x; anything above this needs oil**!!!
+9. Click “single image” to take picture
+10. To view images taken, click on “open project” on the upper left hand side
+	- You can rename images manually (easier to export them so they don't save over each other with the same name)
+	- Optional: Click on “project settings” at the bottom of the open projects screen, then check box “user defined image name”: this will name all files in the same project with the same name (can adjust as needed when moving to different samples)
+11. To take more images, move back to “acquisition”; remember to click the “live” button again
+12. Export images (bring your own flash-drive!)
+	- If all saved under on project, right click on the briefcase icon > export image > pick file destination > save (Can also include scale bar if desired)
+	- If under multiple projects: same steps as above, just need to do them for individual projects
+	- Optional (but recommended as backup): save entire LIF file > click “save” icon > pick file destination
+13. To shut down: 
 	- Position objective back to 2.5x 
 	- Close LASX software 
 	- Turn off microscope  
