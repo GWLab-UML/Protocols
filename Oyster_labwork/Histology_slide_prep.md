@@ -1,7 +1,15 @@
 # Histology Slide Prep
 Protocol for oyster histology
 
-*Last updated:* 09/10/2025 by JGM
+*Last updated:* 04/09/2026 by MC
+
+## Protocol Contents:
+- [Tissue Sectioning](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md#tissue-sectioning)
+- [Davidson's Fixative](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md#davidsons-fixative)
+- [Tissue Processing & Embedding](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md#tissue-processing--embedding)
+- [Sectioning](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md#sectioning)
+- [Staining with Mayers Hematoxylin and Eosin Y](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md#staining-with-mayers-hematoxylin-and-eosin-y)
+- [Slide Imaging](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_labwork/Histology_slide_prep.md#slide-imaging)
 
 ## Tissue Sectioning
 
@@ -50,7 +58,7 @@ protocol from NOAA fisheries
 	- Tissues are now stable in this condition and can be stored for several months.
 
 
-## Tissue processing & embedding
+## Tissue Processing & Embedding
 protocol from Sean Driscoll, Fish Lab (UML)
 
 **Notes:**
@@ -102,7 +110,8 @@ All ethanol washes can be in the *same* conical tube - dump ethanol between wash
 	- if not sectioning the next day, cassettes can be stored indefinitely at 4℃ until needed
 
 ## Sectioning 
-with microtome
+with microtome in room 614
+![](../Images/Microtome_front.jpeg)
 
 **Notes:**
 - Make sure to get trained by someone in the Steinel lab before using the microtome. Also check-in about availability.
@@ -129,6 +138,9 @@ with microtome
 #### Protocol:
 1. Place cassette into head.
 2. Adjust head so the cassette nearly touches the blade (this can largely be done with the second dial, looking above can help determine the angle needed to make it straight)
+
+![](../Images/Trim%20slice%20knobs.jpeg)
+
 3. On the trim setting (first dial, hit it twice to change from feed), section the wax until the excess is trimmed off and tissue is exposed. 
 4. Switch to the feed setting (first dial) and section.
 5. Once sections are floating in the water bath, position a labelled slide under the tissue in the water. (Take out any excess wax you don't want and keep the stage clear) Slowly pull the slide out of the water, making sure the tissue is on the slide. 
@@ -168,7 +180,7 @@ with microtome
 > done in the Steinel lab fume hood - takes roughly an hour
 1. Remove slides from drying rack.
 2. Samples will be hand stained using Hematoxylin and Eosin Y by moving the staining holder with slides through a series of staining baths using the following procedure:
-	- Only alcohols need to be replaced before each use - everything else is replaced as needed. Eosin Y and hematoxylin are parafilm wrapped after use to preserve and prevent evaporation. Since we are using the Steinel labs set up, bring all needed materials upstairs and replace before you start. Bringing a waste container is smart so we don't use their containers. 
+	- Since we are using the Steinel labs set up, bring all needed materials upstairs and replace before you start. Bringing a waste container is smart so we don't use their containers. The stains can be reused up to 100 slides, Keep track on the bottle how many slides have been stained with them. the old stain is kept in the ethanol cabinet. 
 	- For slides under running water, transfer slides to bulkier slide holder and place into a beaker. Run water in the beaker for 15 mins.
 
 | Step | Reagent             | Time          |
@@ -190,6 +202,52 @@ with microtome
 | 15   | xylene sub          | 2 min         |
 | 16   | xylene sub          | 2 min         |
 
-3. Once all staining steps are completed, let the slides air dry for a few minutes. Place hematoxylin and EosinY into a labeled storage container and bring back down to the lab. (Good for about 115 slides and they are kept with the ethanol cabinet) (Make sure to fill out data sheet placed on top of the hood)
+3. Once all staining steps are completed, let the slides air dry for a few minutes. Place hematoxylin and EosinY into a labeled storage container and bring back down to the lab. (Make sure to fill out data sheet placed on top of the hood)
 4. Add a drop of xylene substitute mounting medium to cover the tissue on the slide. Add the coverslip, being careful not to create bubbles. Let sit overnight
 5. Slides are ready to be imaged!
+
+## Slide Imaging
+
+This is done in the back room of the Steinel Lab. Sign-up to use the imager is required ahead of time (on an excel file from the Steinel Lab). All users should be trained by the Steinel Lab prior to use.
+
+Remember to **bring a flashdrive** to the Steinel Lab to save images to.
+
+**Leica DM6 B** microscope in 605
+![](../Images/Microscope_front.jpeg)
+
+
+1. Turn on computer (left hand side)
+![](../Images/Microscope_tower.jpeg)
+2. Turn on microscope (larger unit on right hand side) 
+#### the following needs to be done in this order:
+3. Login to computer- password: !Admin12345
+4. Open LASX software
+	- Click “OK” on any LASX prompted popups
+	- Update popups can be “X”d out of if they pop up
+5. Change “User settings” to “Basic BF color”
+	- BF stands for bright field
+6. On left hand side of microscope, there is a “rod” on the upper left hand corner
+	- pull out to the second stop
+		![](../Images/Microscope_side.jpeg)
+7. Mount slide, then click “live” (bottom left hand side)
+	- If the image appears yellow, move the rod back to the first stop, move the slide to a blank area. Right click on the image then select “white balance”. Move rod back out to second stop
+8. Adjust focus and brightness (brightness controls on left hand side under “illumination settings”)
+	- For best results for BF images, **make sure TL-Fld. and aperture are at the highest setting**; only adjust intensity
+	- Change magnification: under “Magn. Camera” settings, click on different magnification and the microscope will adjust manually
+	- May need to adjust brightness at different objective - **Highest is 40x; anything above this needs oil**!!!
+9. Click “single image” to take picture
+10. To view images taken, click on “open project” on the upper left hand side
+	- You can rename images manually (easier to export them so they don't save over each other with the same name)
+	- Optional: Click on “project settings” at the bottom of the open projects screen, then check box “user defined image name”: this will name all files in the same project with the same name (can adjust as needed when moving to different samples)
+11. To take more images, move back to “acquisition”; remember to click the “live” button again
+12. Export images (bring your own flash-drive!)
+	- If all saved under on project, right click on the briefcase icon > export image > pick file destination > save (Can also include scale bar if desired)
+	- If under multiple projects: same steps as above, just need to do them for individual projects
+	- Optional (but recommended as backup): save entire LIF file > click “save” icon > pick file destination
+13. To shut down: 
+	- Position objective back to 2.5x 
+	- Close LASX software 
+	- Turn off microscope  
+	- Turn off computer 
+	- Move rods back to original position 
+	- Cover microscope
