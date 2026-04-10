@@ -207,6 +207,7 @@ Leica DM6 B microscope in 605
 1.     Turn on computer (left hand side)
 ![](../Images/Microscope_tower.jpeg)
 2.     Turn on microscope (larger unit on right hand side) ****needs to be done in this order****
+![](../Images/Bright%20field%20and%20scope%20control.jpeg)
 3.     Login to computer- password: !Admin12345
 4.     Open LASX software
 	Click “OK” on any LASX prompted popups
@@ -217,8 +218,8 @@ Leica DM6 B microscope in 605
 		pull out to the second stop
 		![](../Images/Microscope_side.jpeg)
 7.     Mount slide, then click “live” (bottom left hand side)
-	a.     If the image appears yellow, move the rod back to the first stop, move the slide to a blank area. Right click on the image, then select “white balance”. Move rod back out to second stop
-8.     Adjust focus and brightness (brightness controls on left hand side under “illumination settings”)
+	a.     If the image appears yellow, move the rod back to the first stop, move the slide to a blank area. Right click on the image, then select “white balance”. Move rod back out to second stop. (if done on not the first stop correctly you will over saturate and it will be yellow)
+8.     Adjust focus and brightness (brightness controls on left hand side under “illumination settings”) (Turn the apperture all the way )
 	a.     For best results for BF images: make sure TL-Fld. and aperture are at the highest setting; only adjust intensity
 		b.  Change magnification: under “Magn. Camera” settings, click on different magnification and the microscope will adjust manually
 		c.  May need to adjust brightness at different objective
@@ -230,7 +231,7 @@ Leica DM6 B microscope in 605
 11.  To take more images, move back to “acquisition”; remember to click the “live” button again
 12.  Export images (You need to bring your own flash-drive!)
 	a.     If all saved under on project, right click on the briefcase icon>export image>pick file destination>save (Can also include scale bar if desired)
-		b.     If under multiple projects: same steps as above, just need to do them for individual projects
+		b.     If under multiple projects: same steps as above, just need to do them for individual projects! **(if this isn't done properly you will have to open the stack in FIJI)**
 			c.     Optional (but recommended as backup): save entire LIF file> click “save” icon>pick file destination
 13.  To shut down: 
 	- Position objective back to 2.5x 
@@ -239,3 +240,13 @@ Leica DM6 B microscope in 605
 	- Turn off computer 
 	- Move rods back to original position 
 	- Cover microscope
+ 
+ # Slide Imaging continued... 
+ How to take pictures and save projects using the microscope.
+ 
+ 1. White balance and get the microscope ready to take pictures, following the protocol above. Go to the project tabs and create a tab for each slide. You can save multiple pictures under each project. When saving, they will all be under that one project. (One project per slide)  
+2. Start at the far right part of the tissue and section the tissue into 4 quadrants. (A,B,C,D)(Writing this down in a notebook works well, so you can keep track of the sections)  
+3.  Go to 2.5x and take pictures in the 4 quadrats. Label the photos as you go under the project tab. Label them as Labelname_magnification_number
+4. Once you have completed all the pictures in 2.5x continue to 5x, labeling the same way but changing the magnification. 
+5. While you are looking around at the tissue and you have the 2.5x and 5x pictures, go around and find signs of Perkinsus and other diseases the oyster can have, or anything you don't know what it is. **Label them accordingly to keep uniformity.****
+
