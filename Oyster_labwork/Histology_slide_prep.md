@@ -240,13 +240,7 @@ Leica DM6 B microscope in 605
 	- Turn off computer 
 	- Move rods back to original position 
 	- Cover microscope
-<<<<<<< Updated upstream
- 
  # Slide Imaging continued... 
-=======
-
-# Slide Imaging continued... 
->>>>>>> Stashed changes
  How to take pictures and save projects using the microscope.
  
  1. White balance and get the microscope ready to take pictures, following the protocol above. Go to the project tabs and create a tab for each slide. You can save multiple pictures under each project. When saving, they will all be under that one project. (One project per slide)  
@@ -254,7 +248,4 @@ Leica DM6 B microscope in 605
 3.  Go to 2.5x and take pictures in the 4 quadrats. Label the photos as you go under the project tab. Label them as Labelname_magnification_number
 4. Once you have completed all the pictures in 2.5x continue to 5x, labeling the same way but changing the magnification. 
 5. While you are looking around at the tissue and you have the 2.5x and 5x pictures, go around and find signs of Perkinsus and other diseases the oyster can have, or anything you don't know what it is. **Label them accordingly to keep uniformity.****
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
