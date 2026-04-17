@@ -1,3 +1,4 @@
+Last update: April 1, 2026 JF
 ### Stock solutions
 1. Weigh out chemical
 2. Add chemical to specified volume of DI water, using stir bar to help dissolve
@@ -22,12 +23,12 @@
 |       | Chemical       | Location | Amount        |
 | ----- | -------------- | -------- | ------------- |
 | **1** | ZnSO4          |          | 23mg          |
-|       | MnSO4          |          | 152mg         |
-|       | Na2MoO4        |          | 7.3mg         |
-|       | CoSO4          |          | 14mg          |
-|       | CuCl2          |          | 6.8mg         |
-|       | Fe(NH4)2(SO4)2 |          | 4600mg (4.6g) |
-|       | Na2EDTA        |          | 4400mg (4.4g) |
+| **2**     | MnSO4          |          | 152mg         |
+| **3**     | Na2MoO4        |          | 7.3mg         |
+| **4**     | CoSO4          |          | 14mg          |
+| **5**     | CuCl2          |          | 6.8mg         |
+| **6**     | Fe(NH4)2(SO4)2 |          | 4600mg (4.6g) |
+| **7**     | Na2EDTA        |          | 4400mg (4.4g) |
 ### Vitamins master mix
 1. In 450mL DI water add thiamine and stir until dissolved
 2. Add biotin and B12 stock solutions as specified 
@@ -38,26 +39,25 @@
 |       | Chemical       | Location | Amount |
 | ----- | -------------- | -------- | ------ |
 | **1** | Thiamine       |          | 100mg  |
-|       | Biotin (stock) | 4ºC      | 1mL    |
-|       | B12 (stock)    | 4ºC      | 1mL    |
+| **2** | Biotin (stock) | 4ºC      | 500uL  |
+| **3** | B12 (stock)    | 4ºC      | 500uL  |
 
-### F2 recipe
-- 995mL artificial saltwater, 28psu
-	- 1L DI water
-	- 32g Instant Ocean
-- 1mL NaNO3 stock
-- 1mL NaH2PO4 stock
-- 1mL NaSiO3 stock
-- 1mL trace metals master mix 
-- 0.5mL vitamins master mix
+### F2 media
+**Working in the BSC**, mix media in a sterile 100mL glass bottle.  Store at 4ºC and only open in the BSC—it can be autoclaved later if there's any suspicion of bacterial contamination. 
 
-In an autoclaved 1L flask, dissolve Instant Ocean in DI water. Using sterile technique (work in the hood!) add components. With a 25mL serological pipette, gently pipette up and down to mix. Aliquot into 50mL tubes and store at 4ºC. 
+|       | Solution                | Location | Amount |
+| ----- | ----------------------- | -------- | ------ |
+| **1** | NaNO3 stock             | 4ºC      | 20mL   |
+| **2** | NaH2PO4 stock           | 4ºC      | 20mL   |
+| **3** | NaSiO3 stock            | 4ºC      | 20mL   |
+| **4** | Trace metals master mix | 4ºC      | 20mL   |
+| **5** | Vitamins master mix     | 4ºC      | 10mL   |
 
+==*Use 5mL media per 1L salt water, or 500uL media per 100mL salt water*==
 ### References
-| [https://utex.org/products/f-2-medium?variant=31722216915034](https://utex.org/products/f-2-medium?variant=31722216915034)                                           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [https://wordpress.clarku.edu/debrobertson/laboratory-protocols/f2-culture-media/](https://wordpress.clarku.edu/debrobertson/laboratory-protocols/f2-culture-media/) |
-| [https://ncma.bigelow.org/PDF%20Files/NCMA%20algal%20medium%20f_2.pdf](https://ncma.bigelow.org/PDF%20Files/NCMA%20algal%20medium%20f_2.pdf)                         |
+- [https://utex.org/products/f-2-medium?variant=31722216915034](https://utex.org/products/f-2-medium?variant=31722216915034)
+- [https://wordpress.clarku.edu/debrobertson/laboratory-protocols/f2-culture-media/](https://wordpress.clarku.edu/debrobertson/laboratory-protocols/f2-culture-media/)
+- [https://ncma.bigelow.org/PDF%20Files/NCMA%20algal%20medium%20f_2.pdf](https://ncma.bigelow.org/PDF%20Files/NCMA%20algal%20medium%20f_2.pdf)
 
 ### Chemical order list
 Supplier: Fisher-Scientific
@@ -79,3 +79,4 @@ Last ordered: October 10, 2025
 | Biotin         | 1g     | AC230090010      |
 | Vitamin B12    | 1g     | C04491G          |
 
+Store-bought media we have used in the past: [Algae Research Supply](https://algaeresearchsupply.com/products/algae-nutrient-media-f-2-grows-50-l-of-culture?_pos=2&_sid=ada99458e&_ss=r&variant=13987962884)
