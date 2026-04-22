@@ -251,3 +251,12 @@ Remember to **bring a flashdrive** to the Steinel Lab to save images to.
 	- Turn off computer 
 	- Move rods back to original position 
 	- Cover microscope
+
+
+## Taking and saving slide pictures
+1. Go to the project tabs and create a tab for each slide. You can save multiple pictures under each project. When saving, they will all be under that one project. (One project per slide)  
+2. Start at the far right part of the tissue and visually section the tissue into 4 quadrants (A,B,C,D).
+	- Writing this down in a notebook works well, so you can keep track of the sections
+4. Go to 2.5x and take pictures in the 4 quadrats. Label the photos as you go under the project tab, following this convention: **SampleName_SectionLetter_magnification_number**
+5. Once you have captured all the pictures in 2.5x continue to 5x, labeling the same way but changing the magnification. 
+6. While you are looking around at the tissue and you have the 2.5x and 5x pictures, go around and find signs of Perkinsus and other diseases the oyster can have, or anything you don't know what it is. **Label them accordingly to keep uniformity.**
