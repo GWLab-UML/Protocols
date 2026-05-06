@@ -67,7 +67,7 @@ _Do not shake the cHTR reagent bottle: this foams it up and barely does anything
     
 17.  Add 700 µL DNA wash buffer to the column. Centrifuge at 10000 g/rpm for 1 minute at room temperature. Discard filtrate.
     
-18.  Repeat step 14.
+18.  Repeat step 17.
     
 19.  Centrifuge the column without loading it with anything for 2 minutes at maximum speed at room temperature.
 
