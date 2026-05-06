@@ -2,7 +2,8 @@ This protocol uses the Omega Bio-Tek E.Z.N.A. Soil kit. This is the link:
 [https://www.omegabiotek.com/product/soil-dna-extraction-kit-e-z-n-a-soil-dna-kit/?cn-reloaded=1#protocols](https://www.omegabiotek.com/product/soil-dna-extraction-kit-e-z-n-a-soil-dna-kit/?cn-reloaded=1#protocols)
 Otherwise, follow these steps for coral DNA  extraction.
 
-Last edit: BKS & NJU 6/25/25
+Last edit: NJU & BC & SC 5/6/26
+Previous edit: BKS & NJU 6/25/25
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#preparation)Preparation
 
@@ -12,8 +13,10 @@ Last edit: BKS & NJU 6/25/25
 - Make sure your P2 buffer and cHTR reagent are chilled
 - Make sure HBC buffer and wash buffer are correctly diluted with appropriate chemicals
 - UV Sterilize 
-	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes 
-	- 2 x # of samples in 1.5 mL Eppendorf tubes
+	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes
+	- 1 x # of samples in 2 mL cryovials (or 2 x 1.5 mL Eppendorf tubes)
+	- 1 x # of samples in Disruptor tubes
+	- 1 x # of samples in HiBind column plus collector tube
 - Wash Hands up to your elbows & mask up!
 - Bleach all surfaces prior to use (heat sterilization bench, and Bio Safety Cabinet)
 - Thaw coral samples on ice
@@ -42,7 +45,7 @@ Last edit: BKS & NJU 6/25/25
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#inhibitor-removal)Inhibitor Removal
 
-11. Transfer up to 600 µL supernatant into a 1.5 mL Lo-Bind Eppendorf tube. *The goal is to collect all the liquid without collecting any beads or debris.* Add 200 µL chilled P2 buffer and 300 µL of resuspended cHTR reagent.
+11. Transfer up to 600 µL supernatant into a 1.5 mL Lo-Bind Eppendorf tube (transfer 500 µL supernatant, then use P20 and transfer in increments of 20 µL) *The goal is to collect all the liquid without collecting any beads or debris.* Add 200 µL chilled P2 buffer and 300 µL of resuspended cHTR reagent.
 
 _Do not shake the cHTR reagent bottle: this foams it up and barely does anything for the resuspension. Its better to just pipette up and down using 1000uL pipette._
     
@@ -52,11 +55,11 @@ _Do not shake the cHTR reagent bottle: this foams it up and barely does anything
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#binding)Binding
 
-13.  Transfer ~550uL supernatant into 2 new centrifuge tubes each, make sure not to disturb the pellet. Add an equal volume of X1 buffer to each tube (about 550 µL, adjust according to volume).
+13.  Transfer ~550uL supernatant into 2 new centrifuge tubes each (or all supernatant to a 2 mL cryovial), make sure not to disturb the pellet. Add an equal volume of X1 buffer to each tube (about 550 µL, adjust according to volume).
     
 14.  Insert a HiBind column into a 2 mL collection tube. Transfer 700 µL of the sample into the column. Centrifuge at 10000 g/rpm for 1 minute at room temperature. Discard the filtrate and reuse the collection tube.
     
-15.  Repeat step 11 until all filtrate (from both sample tubes) has passed through.
+15.  Repeat step 14 until all filtrate (from both sample tubes) has passed through.
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#washing)Washing
 
