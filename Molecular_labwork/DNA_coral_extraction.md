@@ -29,7 +29,7 @@ Previous edit: BKS & NJU 6/25/25
 
 3. Weigh your sample in the disruptor tube and note how much sample you’ve processed. Aim for 150 – 250 mg of coral sample (but it may depend on how much skeleton is in your sample).
 
-4. Add 725 µL of SLX-Mlus buffer to the disruptor tube. Vortex at top speed until the coral skeleton is virtually bare (usually 15 minutes, but may be longer depending on how crushed the sample is).
+4. Add 725 µL of SLX-Mlus buffer to the disruptor tube. Vortex at top speed (using the BenchMixer V2) until the coral skeleton is virtually bare (usually 15 minutes, but may be longer depending on how crushed the sample is).
     
 5.  Centrifuge shortly to remove droplets from the lid.
     
@@ -49,7 +49,7 @@ Previous edit: BKS & NJU 6/25/25
 
 _Do not shake the cHTR reagent bottle: this foams it up and barely does anything for the resuspension. Its better to just pipette up and down using 1000uL pipette._
     
-12.  Centrifuge at 10000 g/rpm for 1:30 minute at room temperature.
+12.  Centrifuge at 10000 g/rpm for 2 minute at room temperature.
 
 *If the pellet has not fully settled out of the supernatant, you may recentrifuge at the same setting. **Be sure to balance out the centrifuge if you are doing this!***
 
@@ -63,11 +63,11 @@ _Do not shake the cHTR reagent bottle: this foams it up and barely does anything
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#washing)Washing
 
-16.  Add 500 µL of HBC buffer to the column. Centrifuge at 10000 rpm/g for 1 minute at room temperature. Discard filtrate.
+16.  Add 500 µL of HBC buffer to the column. Centrifuge at 10000 g/rpm for 1 minute at room temperature. Discard filtrate.
     
-17.  Add 700 µL DNA wash buffer to the column. Centrifuge at 10000 rpm/g for 1 minute at room temperature. Discard filtrate.
+17.  Add 700 µL DNA wash buffer to the column. Centrifuge at 10000 g/rpm for 1 minute at room temperature. Discard filtrate.
     
-18.  Repeat step 14.
+18.  Repeat step 17.
     
 19.  Centrifuge the column without loading it with anything for 2 minutes at maximum speed at room temperature.
 
