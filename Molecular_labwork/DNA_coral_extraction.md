@@ -49,7 +49,7 @@ Previous edit: BKS & NJU 6/25/25
 
 _Do not shake the cHTR reagent bottle: this foams it up and barely does anything for the resuspension. Its better to just pipette up and down using 1000uL pipette._
     
-12.  Centrifuge at 10000 g/rpm for 1:30 minute at room temperature.
+12.  Centrifuge at 10000 g/rpm for 2 minute at room temperature.
 
 *If the pellet has not fully settled out of the supernatant, you may recentrifuge at the same setting. **Be sure to balance out the centrifuge if you are doing this!***
 
