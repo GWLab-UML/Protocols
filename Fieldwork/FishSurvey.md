@@ -1,5 +1,5 @@
 # Fish Surveys
-Last updated: JS 3/11/2026
+Last updated: *JS 3/11/2026*
 
 ## Downloading videos
 These video files can be very large, and thus to process them we store them on an external hard drive named “Shuckira”. 
@@ -23,7 +23,7 @@ MonthYear_Site_Location_Replicate
 |           | NSF1 | M (mudflat)          |           |
 |           | NSW2 | C (farm cage)        |           |
 |           | NSF2 | UC (farm undercage)  |           |
-|           | NSW3 |                      |           |
+|           | NSW3 | RO (rock)            |           |
 
 ## Scoring videos
 **Required application:** VLC media player
