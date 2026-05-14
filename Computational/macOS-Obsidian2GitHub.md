@@ -16,7 +16,7 @@ adapted from [The Easiest Way to Setup Obsidian Git (to backup notes)](https://f
 3. Navigate to the path of where you stored the repository - once in the folder, click 'Open'
 	- **Note**: only open *one repository per vault* - having nested repositories within one vault makes things really complicated quickly
 
-see below [to set up automatic backups to GitHub](https://github.com/GWLab-UML/Protocols/blob/main/Computational/Obsidian2GitHub-tutorial.md#To-set-up-automatic-backups-to-GitHub)
+see below [to set up automatic backups to GitHub]([https://github.com/GWLab-UML/Protocols/blob/main/Computational/Obsidian2GitHub-tutorial.md#To-set-up-automatic-backups-to-GitHub](https://github.com/GWLab-UML/Protocols/blob/main/Computational/macOS-Obsidian2GitHub.md#to-set-up-automatic-backups-to-github))
 
 ## via command line 
 #### in GitHub 
