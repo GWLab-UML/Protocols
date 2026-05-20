@@ -1,10 +1,8 @@
-![[DO_Sensor_Box.png]]
+![[../Images/DO_Sensor_Box.png]]
 
-![[Dual_Adapter_Box.png]]
+![[../Images/Dual_Adapter_Box.png]]
 
-![[HOBO_MX801_Logger_Box.png]]
-
-
+![[../Images/HOBO_MX801_Logger_Box.png]]
 
 **Step 1: Follow the two guides below to setup the hobo logger and to calibrate the sensor which must be done before assembling the dual adapter**
 
