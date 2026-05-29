@@ -34,6 +34,11 @@ for one stand:
 9. Ziptie a water bottle or gallon jug to the end of the thicker rope
 10. Ziptie a rubber band to the thick rope at the top - the rubberband can be fed through the middle of the coiled rope and looped around the top of the stand to keep the line contained and organized
 
+**finished product:**
+![](../../Images/IMG_4762%20(1).jpg)
+#### note:
+if there's problems with the stands falling over, fishing weight can be added to the vertical stand or dive weights can be ziptied to the bottom
+
 ## Deployment Setup
 #### Materials:
 >list of materials with links to what we bought - can be found on the inventory sheet
