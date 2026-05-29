@@ -182,7 +182,7 @@ Last updated: January 22, 2026 JF
 - Small ziplock bags
 - 5x extra large ziplock bags (one per site)
 
-![](../Images/ShellPhotoStation.jpeg)
+![](../../Images/ShellPhotoStation.jpeg)
 ### B. Shucking and tissue pictures
 1. Scrub all oysters in the sink to remove excess mud
 2. Spray working area with bleach
@@ -237,14 +237,14 @@ Last updated: January 22, 2026 JF
 3. Set up the ring light so it illuminates the tray but doesn't cast any Shadows this might take a couple tries to figure out what works best and where you can get it to stay (I found it easy to put it on top and have something heavy go over the legs of the ring stand. this created the least amount of Shadows which will interfere with the macros.
 4. Once I set it up, don't move any part. The waterproofing canvas is used so it doesn't create any dark wet spots from the oysters. Throughout the process of taking pictures, the oysters will still be wet, and you will have to dry off and wipe down the canvas because it will get dirty.
 5. When you feel comfortable with the setup, place your paper Dot with 1 cm written on the dot with the line. This will allow you to set your scale when analyzing pictures.
-   ![](../Images/ShellPhotoStation2.jpeg)
+   ![](../../Images/ShellPhotoStation2.jpeg)
 
 6. Looking at your frame of reference through the camera, place a small Sharpie mark on the left side. About halfway down, stagger the right Sharpie Mark a little bit farther down so they are not directly next to each other. This will obviously differ with different shells; some might be larger, and some might be smaller, but with the Sharpie mark on the canvas, it should be covered by a shell, so the macro doesn't pick up the line. When placing your shells on the canvas the fringe will be placed over the sharpie mark. (The shells will differ in size but having that original starting point will be helpful for uniformity)
-   ![](../Images/ShellPhotoStation3.jpeg)
+   ![](../../Images/ShellPhotoStation3.jpeg)
 
 7. When you have the shells on your placement, make sure they are not touching the label or any other surface on the underwater canvas; they should be free-floating, touching nothing else, with no Shadow from the Ring light. Make sure all components are in the picture, including the size dot, both shells and UW label!!)
 8. Take a picture of both the interior and exterior of the shells
-   ![](../Images/ShellPhotoStation4.jpeg)
+   ![](../../Images/ShellPhotoStation4.jpeg)
 
 9. When the pictures have been taken, place both the shelves and the underwater paper label in a small plastic bag, then place the bag in the larger label bag for that site.
 10. Fill in initials on data sheet and place to the side.
