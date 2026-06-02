@@ -42,6 +42,21 @@
 		2. Navigate to section with camera icon (red)
 		3. Go to page 1 
 		4. Select image quality 
+## Uploading Photos
+1. Take SD card out of the camera 
+	- Compartment located on the right side of the camera 
+	- Gently press on the SD card to unlock it from its slot
+2. Insert SD card into the card reader 
+	- Image on the card reader demonstrates the correct way to insert the SD card 
+3. Plug the card reader into the computer 
+4. Open File Explorer 
+5. Path to the photos folder is "E:\DCIM\100CANON"
+	- Path can be entered into address bar 
+	- Or navigated to manually:
+		1. Open the drive labeled "EOS_DIGITAL (E:)"
+		2. Open "DCIM" folder 
+		3. Open "100CANON" folder
+- When ready to remove the SD card, close all related folders, right click on the "EOS_DIGITAL (E:)" drive and select eject, and then remove the SD card from the reader
 ## Setup for Oyster Shell Pictures
 - Camera: 
 	- Mode = Manual 
