@@ -1,5 +1,5 @@
 # Video Scoring
-Last updated: *JM 5/29/2026*
+Last updated: *JM 6/8/2026*
 
 **Required application:** VLC media player
 ### Scoring Resources:
@@ -8,6 +8,16 @@ Last updated: *JM 5/29/2026*
      - Use "*A Practical Guide to the Marine Animals of Northeastern North America*", it is the best one
      - also *Atlantic Seashore*
 ### Protocol:
+#### trim videos:
+To ensure consistency for scoring across sites, videos need to be trimmed so that scoring occurs 2 hours before and after the approximate peak high tide. (**always keep the originals!**)
+1. Consult the video metadata (for PIC, see [here](https://github.com/GWLab-UML/PIC/blob/main/VideoSurveys/video_metaData.csv)) - the approx. high tide time should be recorded
+2. Find the deployment time from the video metadata 
+3. Determine when peak high tide occurs in the video
+	- Ex: if high tide was 12:45pm, then 2 hours before would be 10:45am. If the GoPro was deployed at 8:55am, then the video should be trimmed (and not scored until) 1 hour and 50 mins into recording
+		- or in the case of GoPro which splits videos into 1 hour and 21 min videos - skip the first video and start scoring ~30 mins into the second video
+4. Trim 2 hours before and after - save as a different video from the original
+
+#### score videos:
 1. open the video in VLC media player
 2. if the video is a time lapse: click Playback > Speed > Slower until the video slows to around 0.33x or 0.25x 
     - if the video is at regular speed, ignore
