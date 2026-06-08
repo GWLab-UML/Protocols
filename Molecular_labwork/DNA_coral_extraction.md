@@ -73,7 +73,7 @@ _Do not shake the cHTR reagent bottle: this foams it up and barely does anything
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#elution)Elution
 
-20.  Transfer the column to a clean empty Lo-Bind Eppendorf tube. Add 50 µL elution buffer, heated to 70˚C. Incubate for 10 minutes at room temperature. Centrifuge at maximum speed for 1 minute.
+20.  Transfer the column to a clean empty Lo-Bind Eppendorf tube. Add 50 µL elution buffer, heated to 70˚C. Incubate for 10 minutes at room temperature. Centrifuge at maximum speed for 1 minute. **Make sure not to through out filtrate!**
     
 21.  Keep the column in the same eppendorf tube and add 25 µL elution buffer, heated to 70 ˚C. Incubate at room temperature for 10 minutes. Centrifuge at maximum speed for 1 minute.
     
