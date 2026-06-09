@@ -2,7 +2,7 @@
 
 **NOTE**: all calculations can be done here: https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=909202954#gid=909202954
 
-last updated Mar 24, 2026 CCD
+last updated Jun 9, 2026 CCD
 
 #### I. PCR
 - **Repeat 3x for all samples that are to be included in the metabarcode library**
@@ -72,9 +72,9 @@ can use unfiltered pipette tips for this if not doing NGS
 	- check to make sure bands aren't running off the gel
 11. turn off electric current *then* remove lid
 12. take picture of gel and save in lab notebook
-	- *do not look at the blue-green led with your eyes*
-	- turn lights off in room, put gel on the glass and lift the cover (45 degrees) so that there is no reflection from the gel, take photo parallel to gel 
-	- editing: crop to be centered, brightness -100
+	- *do not look at the blue-green light directly*
+	- place box with an amber pane over gel imager and take photo parallel to gel. 
+	- editing: crop to be centered, ensure photo is in focus
 13. in some cases may run for longer to get more separation in bands 
 14. you may reuse gels up to 3 times, if so break the gel up into a glass container that can be covered and store at 2-8 °C
 
@@ -123,10 +123,10 @@ perform steps as above with additions:
 #### **VI. Purification with ampure beads**
 https://www.bulldog-bio.com/wp-content/uploads/2025/08/CleanNGS-User-Manual-Version-9.pdf
 obtain, label, and cross-link new strip tubes
-start with the manufacturer protocol using 1.8X-1.0X bead ratio and 10uL-25uL PCR product
+start with the manufacturer protocol using 1.8X-0.8X bead ratio and 10uL-25uL PCR product
 - ratio of beads will change the size you select for 
  *may need to re-clean samples if gel images show that multiple bands were not removed*
-- 1.0x will get rid of <200 bp dimers, 1.8X will get rid of dimer <100 bp
+- 0.8x will get rid of <350 bp dimers, 1.8X will get rid of dimer <100 bp
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
 ![[bead_SizeSelection.png]] 
 
