@@ -239,12 +239,13 @@ Remember to **bring a flashdrive** to the Steinel Lab to save images to.
 10. To view images taken, click on “open project” on the upper left hand side
 	- You can rename images manually (easier to export them so they don't save over each other with the same name)
 	- Optional: Click on “project settings” at the bottom of the open projects screen, then check box “user defined image name”: this will name all files in the same project with the same name (can adjust as needed when moving to different samples)
-11. To take more images, move back to “acquisition”; remember to click the “live” button again
-12. Export images (bring your own flash-drive!)
+	- When exporting images bring your own flash-drive! 
 	- If all saved under on project, right click on the briefcase icon > export image > pick file destination > save (Can also include scale bar if desired)
 	- If under multiple projects: same steps as above, just need to do them for individual projects
 	- Optional (but recommended as backup): save entire LIF file > click “save” icon > pick file destination
-13. To shut down: 
+	- Save all images to the flash drive and all meta data.
+11. To take more images, move back to “acquisition”; remember to click the “live” button again
+12. To shut down: 
 	- Position objective back to 2.5x 
 	- Close LASX software 
 	- Turn off microscope  
