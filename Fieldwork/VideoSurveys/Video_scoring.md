@@ -1,31 +1,6 @@
-# Fish Surveys
-Last updated: *JS 3/11/2026*
+# Video Scoring
+Last updated: *JM 6/8/2026*
 
-## Downloading videos
-These video files can be very large, and thus to process them we store them on an external hard drive named “Shuckira”. 
-
-1. Take SD card out of camera and into a card reader
-2. Connect to the hard drive on the computer
-3. Drag video files into proper folder on Shuckira and make sure they upload to the hard drive
-4. Once videos are uploaded, the SD card is stored in the SD card holder
-5. Video meta data and SD card location should be entered into a meta date csv like [video_metaData.csv](https://github.com/GWLab-UML/PIC/blob/main/VideoSurveys/video_metaData.csv)
-
-### Labeling in "Shuckira"
-Project > Year > Site > Sampling Month
-
-### Naming video files
-MonthYear_Site_Location_Replicate
-
-
-| MonthYear | Site | Location             | Replicate |
-| --------- | ---- | -------------------- | --------- |
-| MMYYYY    | NSW1 | R (wild oyster reef) |           |
-|           | NSF1 | M (mudflat)          |           |
-|           | NSW2 | C (farm cage)        |           |
-|           | NSF2 | UC (farm undercage)  |           |
-|           | NSW3 | RO (rock)            |           |
-
-## Scoring videos
 **Required application:** VLC media player
 ### Scoring Resources:
 - [Jake Skehan's Creature List](https://docs.google.com/document/d/1mGe1ZErjJXUO5QToPPNwz8OGaflYRuxrhi9M1aFfPkc/edit?tab=t.0)
@@ -33,10 +8,20 @@ MonthYear_Site_Location_Replicate
      - Use "*A Practical Guide to the Marine Animals of Northeastern North America*", it is the best one
      - also *Atlantic Seashore*
 ### Protocol:
+#### trim videos:
+To ensure consistency for scoring across sites, videos need to be trimmed so that scoring occurs 2 hours before and after the approximate peak high tide. (**always keep the originals!**)
+1. Consult the video metadata (for PIC, see [here](https://github.com/GWLab-UML/PIC/blob/main/VideoSurveys/video_metaData.csv)) - the approx. high tide time should be recorded
+2. Find the deployment time from the video metadata 
+3. Determine when peak high tide occurs in the video
+	- Ex: if high tide was 12:45pm, then 2 hours before would be 10:45am. If the GoPro was deployed at 8:55am, then the video should be trimmed (and not scored until) 1 hour and 50 mins into recording
+		- or in the case of GoPro which splits videos into 1 hour and 21 min videos - skip the first video and start scoring ~30 mins into the second video
+4. Trim 2 hours before and after - save as a different video from the original
+
+#### score videos:
 1. open the video in VLC media player
 2. if the video is a time lapse: click Playback > Speed > Slower until the video slows to around 0.33x or 0.25x 
     - if the video is at regular speed, ignore
-3. Click on Tools - in the pop-up window click Video Effects and check the Image Adjust box. Adjust the hue slider until the green tint of the video is gone. ![[../Images/Screenshot 2026-05-08 at 5.53.58 PM.png]]
+3. Click on Tools - in the pop-up window click Video Effects and check the Image Adjust box. Adjust the hue slider until the green tint of the video is gone. ![[../../Images/Screenshot 2026-05-08 at 5.53.58 PM.png]]
 4. Play the video - wait a few seconds for the camera to settle and video to become clear
 5. When something comes into the video frame, pause the video and record the observation in a spreadsheet (for PIC, use [video_scoreData.csv](https://github.com/GWLab-UML/PIC/blob/main/VideoSurveys/video_scoreData.csv))
 	- For most things, you will want to count critters individually, as not everything that comes onto the screen in a group will get off at the same time (so make separate entries)
