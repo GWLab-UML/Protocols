@@ -34,7 +34,7 @@ conda create -n r_env -c conda-forge r-base r-irkernel jupyter
 conda activate r_env
 ```
 3. Open a jupyter notebook and select the irkernel in the upper righthand corner
-4. but if the kernel doesn't show up in the jupyter notebook, just run ```
+4. but if the kernel doesn't show up in the jupyter notebook, just run 
 ```
 install.packages("IRkernel")` in R
 ```
