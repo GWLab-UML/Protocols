@@ -26,7 +26,7 @@ You can run `jupyter notebook` in bash to open jupyter notebook on your browser,
 (with Anaconda)
 1. Run 
 ```
-module load conda/latest` in terminal
+module load conda/latest in terminal
 ```
 1. Create a new environment:
 ```
@@ -34,7 +34,7 @@ conda create -n r_env -c conda-forge r-base r-irkernel jupyter
 conda activate r_env
 ```
 3. Open a jupyter notebook and select the irkernel in the upper righthand corner
-4. but if the kernel doesn't show up in the jupyter notebook, just run 
+4. but if the kernel doesn't show up in the jupyter notebook, just run this in R:
 ```
-install.packages("IRkernel")` in R
+install.packages("IRkernel")
 ```
