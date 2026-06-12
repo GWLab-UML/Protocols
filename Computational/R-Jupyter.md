@@ -1,4 +1,6 @@
 # R in Jupyter Notebooks
+>*last updated: JGM 6/12/2026*
+
 This protocol allows you to run R in jupyter notebooks, which is better than using Rmd or R scripts because you can see code outputs on GitHub.
 
 ## For Macs:
@@ -20,7 +22,7 @@ and enter `1` to select the 0-Cloud CRAN mirror
 IRkernel::installspec()
 ```
 
-You can run `jupyter notebook` in bash to open jupyter notebook on your browser, or open the locally downloaded app. Once you open a notebook, select the R kernel in the upper righthand corner.
+You can run `jupyter notebook` in bash (run `q()` then `n` to discard workspace to return to bash) to open jupyter notebook on your browser, or open the locally downloaded app. Once you open a notebook, select the R kernel in the upper righthand corner.
 
 ### On Unity:
 (with Anaconda)
