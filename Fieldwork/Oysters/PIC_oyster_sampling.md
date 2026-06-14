@@ -122,16 +122,15 @@ Last updated: June 11, 2026 JF
 ## Oyster sample processing
 ### A. Prep
 *Each blue cafeteria tray will have*:
-- 2x tube racks
-- 4x sets of labeled RNAlater tubes
-	- 5 tubes per set (gill, mantle, gonad, stomach, digestive gland)
-- 4x [UW paper labels](https://docs.google.com/spreadsheets/d/1cYQu1dHV_njcggn0pRF1gVAQaA6P1JMU/edit?usp=sharing&ouid=105440584015869809877&rtpof=true&sd=true) in duplicate—one to ID tissue, one to ID shells
 - 2x weigh boats
 - 1x [data sheets](https://docs.google.com/spreadsheets/d/13I0BRV_Sp2di8QoYXy5DU7D5cUKiFEtp/edit?usp=sharing&ouid=105440584015869809877&rtpof=true&sd=true)
-	- ==any recommendations?==
+- 1x tube racks
+- 4x sets of labeled RNAlater tubes
+	- 5 tubes per set (gill, mantle, gonad, shell, digestive gland)
+- [UW paper labels](https://docs.google.com/spreadsheets/d/1cYQu1dHV_njcggn0pRF1gVAQaA6P1JMU/edit?usp=sharing&ouid=105440584015869809877&rtpof=true&sd=true) in duplicate—one to ID tissue, one to ID shells
 
 ![Tray_setup.jpg](https://image2url.com/images/1760732670978-ec4b6c2c-6753-4733-9177-ae4a0051b1ed.jpg)
-	 *Note that one side of the rack is NSW1_3 and NSW1_4 while the other side is NSF1_3 and NSF1_4; we typically work through all wild oysters first, flip the tube rack around, rinse the weigh boats, and then proceed to the farmed with a new data sheet.*
+	 *Note that one side of the rack is NSW1_3 and NSW1_4 while the other side is NSF1_3 and NSF1_4; we typically work through all wild oysters first, flip the tube rack around, rinse the weigh boats, and then move on to farmed oysters using a new data sheet.*
 
 *Shucking station*: ==picture==
 - Sturdy bench top/table
@@ -177,30 +176,28 @@ Last updated: June 11, 2026 JF
 - Blunt scalpel
 - 5x large ziplock bags (one per site)
 
-*Shell station:* 
+*Shell station:* ==picture==
 - Tripod with phone attachment
 - Microfiber towel
 - Marine canvas + 1-inch scale
 - Small ziplock bags
 - 5x extra large ziplock bags (one per site)
-
-![](../../Images/ShellPhotoStation.jpeg)
 ### B. Shucking and tissue pictures
 1. Scrub all oysters in the sink to remove excess mud
 2. Spray working area with bleach
-3. Using sterile (ethanol-flamed) shucking knives, shuck oyster and arrange face-up on a weigh boat
-4. Repeat step 2 with a second oyster
-5. Take a photo of the tray ==example picture==
-6. Fill in site, date, oyster_num, and initials on the data sheet
+3. Fill in site, date, oyster_num, and initials on the data sheet
+4. Using sterile (ethanol-flamed) shucking knives, shuck oyster and arrange face-up on a weigh boat
+5. Repeat step 2 with a second oyster
+6. Take a photo of the tray ==example picture==
 7. Upload all photos to the appropriate folder in the lab google drive before leaving
 ### C. Tissue dissection
 1. Using sterile (ethanol-flamed) forceps and dissecting scissors, take a small sample of the oyster mantle and put into appropriate RNAlater tube
-2. Repeat step 1, taking samples of gill, gonad, stomach contents, and digestive gland
+2. Repeat step 1, taking samples of gill, gonad, shell, and digestive gland
 	- Gonad appears as a creamy organ often lying above the digestive gland ==picture==
-	- Stomach is sampled by gently expressing the stomach contents from the rectum using sterile forceps and then pipetting the contents into the RNAlater tube ==picture==
+	- Inner shell is sampled using sterile swab
 	- Digestive gland is the often brown textured tissue—try to minimize the amount of stomach included in the sample by trimming off any attached pale tissue ==picture==
-3. Check off tissue types on the data sheet, or make a note if no sample was taken
-	- Remove any unused tubes from the rack
+3. Check off tissue types on the data sheet or make a note if no sample was taken
+	- *Important—remove any tubes left empty from the rack*
 ### D. Perkinsus dissection
 1. Using sterile (ethanol-flamed) forceps and dissecting scissors, take a small sample of the oyster mantle and put it into a glass culture tube pre-filled with RFTM
 	- Try to take a piece of mantle that includes some of the black fringe to easily distinguish  between tissue types later post-incubation
@@ -223,9 +220,8 @@ Last updated: June 11, 2026 JF
 4. Write on the data sheet M / F / H / NR
 	- H stands for hermaphrodite, meaning both eggs and sperm are present
 	- NR stands for non-reproductive if there are no gametes present
-5. Rinse scalpel, slide, and coverslip in soapy water and dry with a microfiber cloth
+5. Rinse scalpel, slide, and coverslip in water and dry with a microfiber cloth
 6. Store tissue-filled RNAlater tubes in labeled freezer box and record the box number at the bottom of the data sheet
-	1. ==Best way to clean them?==
 ### G. Tissue storage
 1. Using a blunt scalpel, scrape off the remaining oyster tissue, including the abductor muscle, into a mini ziplock bag
 	- Make sure to check both the right and left shell
@@ -233,7 +229,6 @@ Last updated: June 11, 2026 JF
 3. Check off "Freeze tissue" on the data sheet
 4. Collect all oyster tissue from one site in a large ziplock bag and label (date + site) with a sharpie
 ### H. Shell pictures and storage
-
 1. Place the blue tray down on the bench and cover it with the underwater canvas. It is easier to tape it onto the back so it doesn't slip.
 2. Place the camera stand to the left or right of the tray, with the camera facing over the middle of the tray.
 3. Set up the ring light so it illuminates the tray but doesn't cast any Shadows this might take a couple tries to figure out what works best and where you can get it to stay (I found it easy to put it on top and have something heavy go over the legs of the ring stand. this created the least amount of Shadows which will interfere with the macros.
