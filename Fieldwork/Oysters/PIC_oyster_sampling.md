@@ -255,3 +255,7 @@ Last updated: June 11, 2026 JF
 12. Upload all photos to the appropriate folder in the lab google drive before leaving
 
 ==more discrete cleaning steps?==
+
+### Notes
+- PIC 2025 dissection included stomach contents which was replaced by shell swabs in 2026
+	- Stomach is sampled by gently expressing the stomach contents from the rectum using sterile forceps and then pipetting the contents into the RNAlater tube
