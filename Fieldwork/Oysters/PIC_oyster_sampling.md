@@ -87,7 +87,7 @@ Last updated: June 11, 2026 JF
 - Microfiber cloths
 - DI squirt bottle
 
-==include picture of setup==
+![](../../Images/filtering_station.jpg)
 
 ### B. Filter
 *Microbiome samples—**remember to wear a mask while working to prevent contamination***
@@ -143,7 +143,7 @@ Last updated: June 11, 2026 JF
 - 2x black shucking knives
 - 2x 500mL beakers (for sterilization)
 
-*Dissection station (2):* ==picture==
+*Dissection station (2):*
 - Face masks
 - Ethanol lamp + lighter
 - 4x forceps
@@ -152,7 +152,9 @@ Last updated: June 11, 2026 JF
 - 200uL pipette + filtered tips
 - Small tri-corner beaker (for waste)
 
-*Perkinsus station:* ==picture==
+![](../../Images/dissection_station.jpg)
+
+*Perkinsus station:*
 - Sterile glass culture tubes + RFTM
 	- Best to be pre-labeled and grouped by site in different racks
 - Ethanol lamp + lighter
@@ -163,13 +165,17 @@ Last updated: June 11, 2026 JF
 - Nystatin suspension
 - Sharpie
 
-*Sexing station*: ==picture==
+![](../../Images/RFTM_station.jpg)
+
+*Sexing station*: 
 - Electricity outlet
 - Microscope
 - Slides + coverslips
 - Scalpel
 - Small tri-corner beaker (for cleaning)
 - Microfiber towel
+
+![](../../Images/sexing_station.jpg)
 
 *Tissue station:* ==picture==
 - Mini ziplock bags
