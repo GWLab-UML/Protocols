@@ -23,25 +23,27 @@ Previous edit: BKS & NJU 6/25/25
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#tissue-lysis)Tissue lysis
 
-1. Heat Sterilize your forceps and scissors, wait to cool
+1. Put on your mask!
 
-2. Collect at most **HALF** of each coral sample. In the RNAlater tube, try to cut the sample into small pieces, then transfer to cap of disruptor tube and crush with tweezers to make a tissue slurry.
+2. Heat Sterilize your forceps and scissors, wait to cool
 
-3. Weigh your sample in the disruptor tube and note how much sample you’ve processed. Aim for 150 – 250 mg of coral sample (but it may depend on how much skeleton is in your sample).
+3. Collect at most **HALF** of each coral sample. In the RNAlater tube, try to cut the sample into small pieces, then transfer to cap of disruptor tube and crush with tweezers to make a tissue slurry.
 
-4. Add 725 µL of SLX-Mlus buffer to the disruptor tube. Vortex at top speed (using the BenchMixer V2) until the coral skeleton is virtually bare (usually 15 minutes, but may be longer depending on how crushed the sample is).
+4. Weigh your sample in the disruptor tube and note how much sample you’ve processed. Aim for 150 – 250 mg of coral sample (but it may depend on how much skeleton is in your sample).
+
+5. Add 725 µL of SLX-Mlus buffer to the disruptor tube. Vortex at top speed (using the BenchMixer V2) until the coral skeleton is virtually bare (usually 15 minutes, but may be longer depending on how crushed the sample is).
     
-5.  Centrifuge shortly to remove droplets from the lid.
+6.  Centrifuge shortly to remove droplets from the lid.
     
-6.  Add 72 µL DS buffer to each sample. Incubate at 70 degrees for 5 minutes.
+7.  Add 72 µL DS buffer to each sample. Incubate at 70 degrees for 5 minutes.
     
-7.  Vortex samples briefly.
+8.  Vortex samples briefly.
     
-8.  Incubate for another 5 minutes at 70 degrees.
+9.  Incubate for another 5 minutes at 70 degrees.
     
-9.  Add 3 µL RNAse and incubate for 2-3 minutes at 37 ˚C.
+10.  Add 3 µL RNAse and incubate for 2-3 minutes at 37 ˚C.
     
-10.  Centrifuge at 10000 g/rpm for 5 minutes at room temperature.
+11.  Centrifuge at 10000 g/rpm for 5 minutes at room temperature.
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#inhibitor-removal)Inhibitor Removal
 
@@ -73,7 +75,7 @@ _Do not shake the cHTR reagent bottle: this foams it up and barely does anything
 
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#elution)Elution
 
-20.  Transfer the column to a clean empty Lo-Bind Eppendorf tube. Add 50 µL elution buffer, heated to 70˚C. Incubate for 10 minutes at room temperature. Centrifuge at maximum speed for 1 minute.
+20.  Transfer the column to a clean empty Lo-Bind Eppendorf tube. Add 50 µL elution buffer, heated to 70˚C. Incubate for 10 minutes at room temperature. Centrifuge at maximum speed for 1 minute. **Make sure not to throw out filtrate- this is your DNA!**
     
 21.  Keep the column in the same eppendorf tube and add 25 µL elution buffer, heated to 70 ˚C. Incubate at room temperature for 10 minutes. Centrifuge at maximum speed for 1 minute.
     
