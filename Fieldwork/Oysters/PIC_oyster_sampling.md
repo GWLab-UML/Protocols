@@ -1,4 +1,4 @@
-Last updated: January 22, 2026 JF
+Last updated: June 11, 2026 JF
 ## Sites
 *Wild*
 - NSW1: 42.727, -70.84711 (Rowley River)
@@ -18,9 +18,10 @@ Last updated: January 22, 2026 JF
 	- Bring extra DI water to rinse probe
 	- Bring extra electrode storage solution
 - Soft cooler with ice packs
-- 2x sterile 250mL nalgenes (per site) - ==to buy==
+- 2x sterile 250mL nalgenes (per site)
 - 4x 250mL amber nalgenes (per site)
-- ==PVC quadrat==
+- 0.25m^2 quadrat
+- 10m transect tape
 - Mesh bag
 - Small ziplock bag
 - Metal clippers
@@ -28,18 +29,17 @@ Last updated: January 22, 2026 JF
 - Sharpie
 ### B. Field
 1. Take salinity, pH, temperature, and DO water measurements using Orion
-2. Collect 200mL water microbiome sample in sterile nalgene (Rep A)
-3. Collect another 200mL water microbiome sample in sterile nalgene at a different location relative to the oyster bed (Rep B)
-4. Collect 200mL surface and 200mL subsurface (6-12" deep) chlorophyll a samples using amber nalgenes (Rep A)
+2. Collect 200mL water microbiome sample in sterile nalgene
+3. Collect another 200mL water microbiome sample in sterile nalgene at a different location relative to the oyster bed
+4. Collect 200mL surface and 200mL subsurface (6-12" deep) chlorophyll a samples using amber nalgenes 
 	- Keep bottle closed until submerged about elbow-deep, open the bottle to fill with water, recap while still under water at the same depth
-5. Collect another set of 200mL surface and 200mL subsurface chlorophyll a samples at a different location relative to the oyster bed using amber nalgenes (Rep B)
-6. Take 6x haphazardly thrown quadrat pictures of oyster bed
+5. Collect another set of 200mL surface and 200mL subsurface chlorophyll a samples at a different location relative to the oyster bed using amber nalgenes 
+6. Set up 10m transect tape and take pictures using quadrat every 0.5m 
 	- Make sure to keep the camera level and capture the whole quadrat
-	- Try to keep shadows to a minimum
-7. Collect 30 subtidal adult oysters (==1.5-3"==) in mesh bag
+7. Collect 15 subtidal adult oysters between 1.5-2" in length and 15 subtidal adult oysters between 2.5-3" in length
 	- Gather from all around the bed
 	- Try not to select for oysters that are more easily removed—use the snips to pry off oysters attached to rocks or other oysters
-8. Collect 10 subtidal juvenile oysters (==<1.5"==) in small ziplock bag
+8. Collect 10 subtidal juvenile oysters <1.5" in small ziplock bag
 
 ## Farmed oyster sampling
 *Coordinate with farmers ahead of time—text a reminder a week or so in advance. Everything should be stored and transported in a cold cooler.*
@@ -48,24 +48,21 @@ Last updated: January 22, 2026 JF
 	- Bring extra DI water to rinse probe
 	- Bring extra electrode storage solution
 - Soft cooler with ice packs
-- 2x sterile 250mL nalgenes (per site) - ==to buy==
+- 2x sterile 250mL nalgenes (per site)
 - 4x 250mL amber nalgenes (per site)
 - Mesh bag
 ### B. Field
 1. Take salinity, pH, temperature, and DO water measurements using Orion
-2. Collect 200mL water microbiome sample in sterile nalgene (Rep A)
-3. Collect another 200mL water microbiome sample in sterile nalgene at different spot (Rep B)
-4. Collect 200mL surface and 200mL subsurface (6-12" deep) chlorophyll a samples using amber nalgenes (Rep A)
+2. Collect 200mL water microbiome sample in sterile nalgene
+3. Collect another 200mL water microbiome sample in sterile nalgene at different spot
+4. Collect 200mL surface and 200mL subsurface (6-12" deep) chlorophyll a samples using amber nalgenes
 	- Keep bottle closed until submerged about elbow-deep, open the bottle to fill with water, recap while still under water at the same depth
-5. Collect another set of 200mL surface and 200mL subsurface chlorophyll a samples at different spot using amber nalgenes (Rep B)
+5. Collect another set of 200mL surface and 200mL subsurface chlorophyll a samples at different spot using amber nalgenes
 6. Retrieve 35 farmed adult oysters from cages
 
 **Note**: we are not sampling juveniles at the farms
 
 ## Water sample processing
-*Wear a mask while working with microbiome samples to prevent contamination*
-
-==ask morgan for review==
 ### A. Prep
 - [Data sheet](https://docs.google.com/spreadsheets/d/13I0BRV_Sp2di8QoYXy5DU7D5cUKiFEtp/edit?usp=sharing&ouid=105440584015869809877&rtpof=true&sd=true)
 - Face mask
@@ -77,59 +74,63 @@ Last updated: January 22, 2026 JF
 - 2x glass funnels 
 - 2x glass cups
 - 2x metal clamps
-==*Salinity check*== - necessary? not if we take water chemistry at farms/have sensors deployed
-- Refractometer
-- DI squirt bottle
-- Kimwipes
-- 200uL pipette + autoclaved tips
-- Small tri-corner beaker (for waste)
 *Filtering*
 - 0.22um filters 
 - 0.7um GF filters
 - Ethanol lamp + lighter
-- 2x forceps
+- 4x forceps
 - 2x beakers (for sterilization)
-==*Cleaning*==
+*Cleaning*
 - 2x large tri-corner beakers
 - Bleach
 - DI water
 - Microfiber cloths
+- DI squirt bottle
 
-==include picture of setup==
+![](../../Images/filtering_station.jpg)
 
-### B. Filter 
-1. Using a sterile pipette tip and the refractometer, measure and record salinity of replicate on data sheet
-	- Start with microbiome samples, then proceed to chlorophyll a 
-2. Rinse refractometer with DI water and dry with a kimwipe
-3. Attach 1L vacuum flask to pump and insert glass funnel
-4. Using sterile (ethanol-flamed) forceps, place white filter paper on top of funnel and secure using glass cup and metal clamp
-	- For microbiome water samples, use 0.22um filter paper
-	- For chlorophyll a samples, use 0.7um filter paper
-5. Pour 200mL of replicate into glass cup and turn on the pump
-6. Once all of the liquid has filtered into the flask, remove the metal clamp and carefully lift off the glass cup
-7. Using two pairs of sterile (ethanol-flamed) forceps, carefully fold the filter paper
-	- For microbiome water samples, fold in half four times or until it can fit into a labeled 2mL tube of RNAlater—make sure it is fully submerged
-	- For chlorophyll a samples, fold in half once and then carefully wrap in a labeled sleeve of tinfoil
-8. Clean the glass funnel and glass cup between each replicate by rinsing it in 5-10% bleach  followed by DI water at least twice
+### B. Filter
+*Microbiome samples—**remember to wear a mask while working to prevent contamination***
+1. Attach 1L vacuum flask to pump and insert glass funnel
+2. Using sterile (ethanol-flamed) forceps, place white 0.22um filter paper on top of funnel and secure using glass cup and metal clamp
+3. Pour 200mL of sample into glass cup and turn on the pump
+4. Once all of the liquid has filtered into the flask, remove the metal clamp and carefully lift off the glass cup
+5. Using two pairs of sterile (ethanol-flamed) forceps, carefully fold the filter paper in half four times or until it can fit into a labeled 2mL tube of RNAlater—make sure it is fully submerged
+6. Fill out printed data sheet and store in labeled freezer box
+	- This box should stay at room temperature
+7. Clean the glass funnel and glass cup between each sample by rinsing it in 5-10% bleach  followed by two DI water rinses 
 	- There are two sets of glass funnels and cups so that while one is drying, another can be used to continue processing
-9. Repeat steps 1-7 until all water samples have been filtered
-	- **Watch the water level in the vacuum flask**—after 3-4 samples it should be disconnected from the pump and the contents dumped down the sink! 
-10. Return all microbiome 2mL tubes to the correctly labeled freezer box and collect all chlorophyll a tinfoil sleeves into a Ziplock bag and put on ice (long-term storage at -80ºC)
-11. Thoroughly rinse all the nalgenes in the sink, give them a final rinse with DI water, and then let air dry
+8. Repeat steps 1-7 until all water microbiome samples have been filtered
+	- Watch the water level in the vacuum flask—after 3-4 samples it should be disconnected from the pump and the contents dumped down the sink! 
+9. Thoroughly rinse all the nalgenes in the sink with soap and water, then let air dry
+	- Once dried they can be packed away to take back to lab
+
+*Chlorophyll samples, using PIE LTER filtration rig*
+1. Ensure all plastic funnels are firmly inserted into the filtration rig and screw on four plastic cups to the filtration rig
+2. Making sure all of the red valves are open (parallel), turn on the pump and rinse each cup with a DI squirt bottle, then turn off the pump and remove the cups
+3. Using tweezers place white 0.7um GF filter paper on each funnel and screw the plastic cup back on, making extra sure it locks into place to prevent leakage
+4. Pour 200mL of sample into each cup and turn on the pump
+	- The cups may filter at different rates; if one finishes close the red valve (perpendicular) to shut off suction to that cup
+5. Once all of the liquid has been filtered, unscrew the funnels
+6. Using two pairs of forceps, carefully fold the filter paper in half once and then wrap it in a labeled sleeve of tinfoil
+7. Fill out printed data sheet and store in labeled freezer box
+	- This box should be stored on ice once all samples have been processed for the day
+8. Repeat steps 1-7 until all chlorophyll samples have been filtered
+9. Thoroughly rinse all the nalgenes in the sink with soap and water, then let air dry
+	- Once dried they can be packed away to take back to lab
 
 ## Oyster sample processing
 ### A. Prep
 *Each blue cafeteria tray will have*:
-- 2x tube racks
-- 4x sets of labeled RNAlater tubes
-	- 5 tubes per set (gill, mantle, gonad, stomach, digestive gland)
-- 4x [UW paper labels](https://docs.google.com/spreadsheets/d/1cYQu1dHV_njcggn0pRF1gVAQaA6P1JMU/edit?usp=sharing&ouid=105440584015869809877&rtpof=true&sd=true) in duplicate—one to ID tissue, one to ID shells
 - 2x weigh boats
 - 1x [data sheets](https://docs.google.com/spreadsheets/d/13I0BRV_Sp2di8QoYXy5DU7D5cUKiFEtp/edit?usp=sharing&ouid=105440584015869809877&rtpof=true&sd=true)
-	- ==any recommendations?==
+- 1x tube racks
+- 4x sets of labeled RNAlater tubes
+	- 5 tubes per set (gill, mantle, gonad, shell, digestive gland)
+- [UW paper labels](https://docs.google.com/spreadsheets/d/1cYQu1dHV_njcggn0pRF1gVAQaA6P1JMU/edit?usp=sharing&ouid=105440584015869809877&rtpof=true&sd=true) in duplicate—one to ID tissue, one to ID shells
 
 ![Tray_setup.jpg](https://image2url.com/images/1760732670978-ec4b6c2c-6753-4733-9177-ae4a0051b1ed.jpg)
-	 *Note that one side of the rack is NSW1_3 and NSW1_4 while the other side is NSF1_3 and NSF1_4; we typically work through all wild oysters first, flip the tube rack around, rinse the weigh boats, and then proceed to the farmed with a new data sheet.*
+	 *Note that one side of the rack is NSW1_3 and NSW1_4 while the other side is NSF1_3 and NSF1_4; we typically work through all wild oysters first, flip the tube rack around, rinse the weigh boats, and then move on to farmed oysters using a new data sheet.*
 
 *Shucking station*: ==picture==
 - Sturdy bench top/table
@@ -142,7 +143,7 @@ Last updated: January 22, 2026 JF
 - 2x black shucking knives
 - 2x 500mL beakers (for sterilization)
 
-*Dissection station (2):* ==picture==
+*Dissection station (2):*
 - Face masks
 - Ethanol lamp + lighter
 - 4x forceps
@@ -151,9 +152,11 @@ Last updated: January 22, 2026 JF
 - 200uL pipette + filtered tips
 - Small tri-corner beaker (for waste)
 
-*Perkinsus station:* ==picture==
+![](../../Images/dissection_station.jpg)
+
+*Perkinsus station:*
 - Sterile glass culture tubes + RFTM
-	- Best to be pre-labelled and grouped by site in different racks
+	- Best to be pre-labeled and grouped by site in different racks
 - Ethanol lamp + lighter
 - 2x forceps
 - 2x dissecting scissors
@@ -162,7 +165,9 @@ Last updated: January 22, 2026 JF
 - Nystatin suspension
 - Sharpie
 
-*Sexing station*: ==picture==
+![](../../Images/RFTM_station.jpg)
+
+*Sexing station*: 
 - Electricity outlet
 - Microscope
 - Slides + coverslips
@@ -170,35 +175,35 @@ Last updated: January 22, 2026 JF
 - Small tri-corner beaker (for cleaning)
 - Microfiber towel
 
+![](../../Images/sexing_station.jpg)
+
 *Tissue station:* ==picture==
 - Mini ziplock bags
 - Blunt scalpel
 - 5x large ziplock bags (one per site)
 
-*Shell station:* 
+*Shell station:* ==picture==
 - Tripod with phone attachment
 - Microfiber towel
 - Marine canvas + 1-inch scale
 - Small ziplock bags
 - 5x extra large ziplock bags (one per site)
-
-![](../../Images/ShellPhotoStation.jpeg)
 ### B. Shucking and tissue pictures
 1. Scrub all oysters in the sink to remove excess mud
 2. Spray working area with bleach
-3. Using sterile (ethanol-flamed) shucking knives, shuck oyster and arrange face-up on a weigh boat
-4. Repeat step 2 with a second oyster
-5. Take a photo of the tray ==example picture==
-6. Fill in site, date, oyster_num, and initials on the data sheet
+3. Fill in site, date, oyster_num, and initials on the data sheet
+4. Using sterile (ethanol-flamed) shucking knives, shuck oyster and arrange face-up on a weigh boat
+5. Repeat step 2 with a second oyster
+6. Take a photo of the tray ==example picture==
 7. Upload all photos to the appropriate folder in the lab google drive before leaving
 ### C. Tissue dissection
 1. Using sterile (ethanol-flamed) forceps and dissecting scissors, take a small sample of the oyster mantle and put into appropriate RNAlater tube
-2. Repeat step 1, taking samples of gill, gonad, stomach contents, and digestive gland
+2. Repeat step 1, taking samples of gill, gonad, shell, and digestive gland
 	- Gonad appears as a creamy organ often lying above the digestive gland ==picture==
-	- Stomach is sampled by gently expressing the stomach contents from the rectum using sterile forceps and then pipetting the contents into the RNAlater tube ==picture==
+	- Inner shell is sampled using sterile swab
 	- Digestive gland is the often brown textured tissue—try to minimize the amount of stomach included in the sample by trimming off any attached pale tissue ==picture==
-3. Check off tissue types on the data sheet, or make a note if no sample was taken
-	- Remove any unused tubes from the rack
+3. Check off tissue types on the data sheet or make a note if no sample was taken
+	- *Important—remove any tubes left empty from the rack*
 ### D. Perkinsus dissection
 1. Using sterile (ethanol-flamed) forceps and dissecting scissors, take a small sample of the oyster mantle and put it into a glass culture tube pre-filled with RFTM
 	- Try to take a piece of mantle that includes some of the black fringe to easily distinguish  between tissue types later post-incubation
@@ -221,9 +226,8 @@ Last updated: January 22, 2026 JF
 4. Write on the data sheet M / F / H / NR
 	- H stands for hermaphrodite, meaning both eggs and sperm are present
 	- NR stands for non-reproductive if there are no gametes present
-5. Rinse scalpel, slide, and coverslip in soapy water and dry with a microfiber cloth
+5. Rinse scalpel, slide, and coverslip in water and dry with a microfiber cloth
 6. Store tissue-filled RNAlater tubes in labeled freezer box and record the box number at the bottom of the data sheet
-	1. ==Best way to clean them?==
 ### G. Tissue storage
 1. Using a blunt scalpel, scrape off the remaining oyster tissue, including the abductor muscle, into a mini ziplock bag
 	- Make sure to check both the right and left shell
@@ -231,7 +235,6 @@ Last updated: January 22, 2026 JF
 3. Check off "Freeze tissue" on the data sheet
 4. Collect all oyster tissue from one site in a large ziplock bag and label (date + site) with a sharpie
 ### H. Shell pictures and storage
-
 1. Place the blue tray down on the bench and cover it with the underwater canvas. It is easier to tape it onto the back so it doesn't slip.
 2. Place the camera stand to the left or right of the tray, with the camera facing over the middle of the tray.
 3. Set up the ring light so it illuminates the tray but doesn't cast any Shadows this might take a couple tries to figure out what works best and where you can get it to stay (I found it easy to put it on top and have something heavy go over the legs of the ring stand. this created the least amount of Shadows which will interfere with the macros.
@@ -252,3 +255,7 @@ Last updated: January 22, 2026 JF
 12. Upload all photos to the appropriate folder in the lab google drive before leaving
 
 ==more discrete cleaning steps?==
+
+### Notes
+- PIC 2025 dissection included stomach contents which was replaced by shell swabs in 2026
+	- Stomach is sampled by gently expressing the stomach contents from the rectum using sterile forceps and then pipetting the contents into the RNAlater tube
