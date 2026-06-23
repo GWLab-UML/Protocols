@@ -1,6 +1,7 @@
-\*Last update: March 16, 2026 (JK + JF)*
+\*Last update: June 22, 2026 JF*
 
-**Abbreviations:** 
+### Notes
+**Abbreviations** 
 - PCM = Perkinsus Culturing Media 
 	- abPCM = PCM + antibiotics (pen/strep)
 - RFTM = Ray's Fluid Thioglycollate Medium
@@ -11,7 +12,7 @@ If starting with cells that have already been isolated in culture and just want 
 
 **Sources:**
 - Dungan and Reece, 2006
-- Gauthier and Vasta, 1995
+- Gauthier and Vasta, 1993
 
 ## I. Preparing stock culturing media
 #### Day 0: autoclave necessary materials
@@ -192,3 +193,18 @@ Return well plate to incubator and check again in another week to reassess—if 
 ## III. Serial dilutions
 ## IV. Passaging 
 ## V. Freezing and thawing cells
+
+**Materials:**
+- 10% DMSO (room temp)
+- 50% FBS (-20ºC)
+- 40% DME:Ham's F12 1:2 (4ºC)
+
+**Protocol:**
+*For 50mL*
+- 5mL DMSO
+- 25mL FBS
+- 20mL DME:Ham's F12 1:2
+	- 20ppt / 35psu
+
+Isopropanol freezing method
+
