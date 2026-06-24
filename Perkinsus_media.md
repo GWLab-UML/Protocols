@@ -1,7 +1,13 @@
 Last update: June 23, 2026 JF
-# Media
 
-## Culturing Media
+#### Table of contents:
+- [Culturing media](#Culturing%20media)
+- [Freezing media](#Freezing%20media)
+
+#### Related protocols:
+- [Cell_counting](Oyster_maintenance/Cell_counting.md)
+
+# Culturing media
 Based off of [Liu et al. 2023](https://doi.org/10.1017/S0031182023000768)
 - No serum
 - No antibiotics
@@ -49,7 +55,8 @@ Steps:
 - Add 2% (v/v) antibiotics before in smaller batches before use
 - Alternative culturing media DME:Ham's F-12 + 5% FBS
 
-## Freezing media
+
+# Freezing media
 Ratio is 10% DMSO, 50% FBS, and 40% culturing media (from José)
 
 Materials:
@@ -74,3 +81,73 @@ Steps:
 7. Add solution to the filter cup and switch the vacuum pump on
 8. Once the whole solution has gone through, pour the filtered culturing media into a labeled, sterile glass bottle
 9. Store sterile freezing media at 4°C 
+
+
+# Passaging cells
+If using an already prepared aliquot of culturing media with antibiotics, skip to warming the aliquot on a heating block set to 37ºC (step 5)
+
+Materials:
+- 50mL aliquot of culturing media with antibiotics (4ºC, 15mL per flask)
+- 1mL aliquot of penicillin/streptomycin (-20ºC)
+- T25 suspension flask (1 per strain)
+
+Steps:
+1. Thaw an aliquot of antibiotics at room temperature 
+2. In the gray BSC, use an autoclaved serological pipette to aliquot culturing media into a 50mL tube
+3. Once thawed, vortex the antibiotics until any precipitates are fully dissolved—briefly spin the tube using a minicentrifuge before adding to the aliquot of culturing media 
+4. Invert 50mL tube multiple times to mix
+5. Store at 4ºC or put on heating block set to 37ºC to warm before use
+6. Once the media is warm (~30 minutes) add 15mL to each new T25 flask and label each flasks with the strain, date, passage number, and your initials
+7. In the old T25 flask, gently pipette the cells up and down until they are fully resuspended
+8. Take 1mL of the resuspended cells and slowly add them into the T25 flask with new media
+	- This volume of resuspended cells can vary depending on how many cells we want to seed per flask or well
+9. Once finished passaging, consolidate the remaining cells to be discarded into one T25 flask and add a splash of bleach over the sink—swirl before running water and pouring down the drain
+10. The newly passaged cells can return to the bench top or incubator
+
+#### Notes
+If the cells need to be seeded at a specific number (ie. 2 million per 15mL media) additional steps should be taken to count the cells. 
+
+
+# Freezing cells
+Materials: 
+- 1.5mL tubes
+- 150mL beaker
+- 2mL cryo-vials
+- 50mL freezing media aliquot (4ºC, 1mL per cryo-vial)
+- 2 styrofoam tube racks
+
+Steps: 
+1. Gently pipette the cells to be frozen up and down until they are fully resuspended in their culturing media
+2. Aliquot 0.5-1mL of the resuspended cells into a labeled 1.5mL tube
+	- This volume of resuspended cells can vary depending on how many cells you want to freeze per vial 
+3. Repeat steps 1-2 for all cell cultures to be frozen, then centrifuge tubes at 200g for 5 minutes 
+4. Label each cryo-vial with the strain, date, passage number, and your initials
+5. After centrifuging, aspirate out the old culturing media into a waste beaker being careful not to disturb the cell pellet
+6. Individually resuspend the cell pellets in 1mL of cold freezing media and transfer the homogeneous mixture into the appropriate cryo-vial
+7. Nestle each tube into a cavity of a styrofoam tube rack and seal the cover with a piece of tape
+8. Put in the -80ºC for 24-48 hours to slowly freeze, and then transfer the frozen tubes into a freezer box for long-term storage
+9. To dispose of the waste media, add a splash of bleach to the beaker over the sink—swirl before running water and pouring down the drain
+
+#### Notes
+If the cells need to be frozen at a specific number (ie. 2 million per cryo-vial) additional steps should be taken to count the cells. 
+
+# Thawing cells
+Materials:
+- 50mL aliquot of culturing media with antibiotics (4ºC, 15mL per flask)
+	- See [passaging cells](#Passaging%20cells) steps 1-4
+- 15mL tube
+- 50mL aliquot of culturing media (4ºC, 10mL per tube)
+- T25 suspension flask 
+- 150mL beaker
+
+Steps:
+1. Set heat block to 37ºC and warm a 50mL aliquot of culturing media with antibiotics
+2. Set water bath to 28ºC and let cryo-vial sit until thawed
+	- **Important!** Prolonged exposure to DMSO is toxic to the cells, so keep a close eye on them and proceed as soon as the cells are thawed
+3. While cells are thawing, add 10mL of culturing media (no antibiotics) into a 15mL tube
+4. Once thawed, gently pipette the cells up and down twice before transferring into the 15mL tube
+5. Mix by inverting the tube a few times and then centrifuge at 200g for 5 minutes
+6. Using the warm culturing media with antibiotics, add 14mL to each new T25 flask and label each flasks with the strain, date, passage number, and your initials
+7. After centrifuging, aspirate out the supernatant media into a waste beaker being careful not to disturb the cell pellet
+8. Resuspend the cells in 1mL of warm culturing media with antibiotics, then slowly add them into the T25 flask
+9. To dispose of the waste media, add a splash of bleach to the beaker over the sink—swirl before running water and pouring down the drain
