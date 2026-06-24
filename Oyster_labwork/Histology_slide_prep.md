@@ -258,9 +258,4 @@ Remember to **bring a flashdrive** to the Steinel Lab to save images to.
 	- Turn off computer 
 	- Move rods back to original position 
 	- Cover microscope
-<<<<<<< Updated upstream
 18. Upload pictures directly to the drive using the lab computer or your personal computer. Label accordingly and in the correct folders. Example NewEngland Oysters- Summer2025 fieldwork-Histology- Sept 2025- "NSF2-2_SectionA_5x". All pictures should be labeled to show what section they are and what site.
-
-=======
-14. Upload pictures directly to the drive using the lab computer or your personal computer. Label accordingly and in the correct folders. Example NewEngland Oysters- Summer2025 fieldwork-Histology- Sept 2025- "NSF2-2_SectionA_5x". All pictures should be labeled to show what section they are and what site.
->>>>>>> Stashed changes
