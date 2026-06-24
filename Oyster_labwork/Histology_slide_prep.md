@@ -236,7 +236,13 @@ Remember to **bring a flashdrive** to the Steinel Lab to save images to.
 	- Change magnification: under “Magn. Camera” settings, click on different magnification and the microscope will adjust manually
 	- May need to adjust brightness at different objective - **Highest is 40x; anything above this needs oil**!!!
 9. Click “single image” to take picture
-10. To view images taken, click on “open project” on the upper left hand side
+10.  Go to the project tabs and create a tab for each slide. You can save multiple pictures under each project. When saving, they will all be under that one project. (One project per slide)  
+11. Start at the far right part of the tissue and visually section the tissue into 4 quadrants (A,B,C,D).
+	- Writing this down in a notebook works well, so you can keep track of the sections
+12. Go to 2.5x and take pictures in the 4 quadrats. Label the photos as you go under the project tab, following this convention: **SampleName_SectionLetter_magnification_number**
+13. Once you have captured all the pictures in 2.5x continue to 5x, labeling the same way but changing the magnification. 
+14. While you are looking around at the tissue and you have the 2.5x and 5x pictures, go around and find signs of Perkinsus and other diseases the oyster can have, or anything you don't know what it is. **Label them accordingly to keep uniformity.**
+15. To view images taken, click on “open project” on the upper left hand side
 	- You can rename images manually (easier to export them so they don't save over each other with the same name)
 	- Optional: Click on “project settings” at the bottom of the open projects screen, then check box “user defined image name”: this will name all files in the same project with the same name (can adjust as needed when moving to different samples)
 	- When exporting images bring your own flash-drive! 
@@ -244,20 +250,13 @@ Remember to **bring a flashdrive** to the Steinel Lab to save images to.
 	- If under multiple projects: same steps as above, just need to do them for individual projects
 	- Optional (but recommended as backup): save entire LIF file > click “save” icon > pick file destination
 	- Save all images to the flash drive and all meta data.
-11. To take more images, move back to “acquisition”; remember to click the “live” button again
-12. To shut down: 
+16. To take more images, move back to “acquisition”; remember to click the “live” button again
+17. To shut down: 
 	- Position objective back to 2.5x 
 	- Close LASX software 
 	- Turn off microscope  
 	- Turn off computer 
 	- Move rods back to original position 
 	- Cover microscope
+18. Upload pictures directly to the drive using the lab computer or your personal computer. Label accordingly and in the correct folders. Example NewEngland Oysters- Summer2025 fieldwork-Histology- Sept 2025- "NSF2-2_SectionA_5x". All pictures should be labeled to show what section they are and what site.
 
-
-## Taking and saving slide pictures
-1. Go to the project tabs and create a tab for each slide. You can save multiple pictures under each project. When saving, they will all be under that one project. (One project per slide)  
-2. Start at the far right part of the tissue and visually section the tissue into 4 quadrants (A,B,C,D).
-	- Writing this down in a notebook works well, so you can keep track of the sections
-4. Go to 2.5x and take pictures in the 4 quadrats. Label the photos as you go under the project tab, following this convention: **SampleName_SectionLetter_magnification_number**
-5. Once you have captured all the pictures in 2.5x continue to 5x, labeling the same way but changing the magnification. 
-6. While you are looking around at the tissue and you have the 2.5x and 5x pictures, go around and find signs of Perkinsus and other diseases the oyster can have, or anything you don't know what it is. **Label them accordingly to keep uniformity.**
