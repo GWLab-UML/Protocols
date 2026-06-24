@@ -252,7 +252,7 @@ Materials:
 - Graduated cylinder
 - 140mL DI water
 	- 20mL per plate: 20 * (6 plates + 1 extra) = 140mL
-- 0.46g Instant Ocean (3.25g/L)
+- 0.46g Instant Ocean (32.5g/L)
 - 2.8g Bacto agar
 	- 2% agar: 140mL * 0.02 = 2.8g
 - 700uL F/2 media, sterile and kept at 4ºC (5mL/1L *total volume*)
@@ -316,7 +316,7 @@ Materials:
 - Graduated cylinder
 - 140mL DI water
 	- 20mL per tube: 20 * (12 tubes + 1 extra) = 260mL
-- 0.85g Instant Ocean (3.25g/L)
+- 0.85g Instant Ocean (32.5g/L)
 - 5.2g Bacto agar
 	- 2% agar: 260mL * 0.02 = 5.2g
 - 1.3mL F/2 media, sterile and kept at 4ºC (5mL/1L *total volume*)
@@ -369,7 +369,7 @@ Goals:
 Materials:
 - 250mL flask, autoclaved
 - 50mL DI water
-- 1.63g Instant Ocean (3.25g/L)
+- 1.63g Instant Ocean (32.5g/L)
 - 250uL F/2 media, sterile and kept at 4ºC (5mL/1L *total volume*)
 	- Store-bought F/2 media is used at different concentration (1mL/1L)
 - Slant with visible algae colonies and no obvious bacteria growth
