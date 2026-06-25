@@ -20,5 +20,20 @@ Note: Follow the guide below guide after calibration of the sensors, which is do
 Note: When the tapered collars are used, you ==MUST== use the tapered collar that comes with the HOBO Logger, not the tapered collar that comes with the dual adapter, or else you will not be able to turn on the logger.
 [HOBO Two-Sensor Adapter (W-ADAPT-2) User Guide](https://www.onsetcomp.com/sites/default/files/2024-08/28835-A%20MX800%20Series%20Two-Sensor%20Adapter.pdf)
 
+#### MX801 logger specs
+- 1.5 year battery lifespan with 5 minute logging intervals
 
+#### Conductivity sensor specs
+- Temperature drift <0.1ºC per year
+- Recommends calibrating in the lab
 
+#### DO sensor specs
+- Accuracy maintained for 2 years aside from the effects of fouling (replace cap after 2 years)
+	- Recommend before a new deployment or install a new DO sensor
+- Temperature drift <0.1ºC per year
+
+#### pH sensor specs
+- Electrode minimum life span 6 months ([link to replacement](https://www.onsetcomp.com/products/accessories/mx2500-electrode), $139)
+
+#### Depth sensor specs
+- Drift <0.5% per year
