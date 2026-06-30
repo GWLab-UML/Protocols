@@ -16,20 +16,25 @@ A hemocytometer is a specialized slide used for manual cell counting with a micr
 - Algae
 
 ### Protocol:
-1. Inside the gray bio safety cabinet, pipette 10uL of algae into a 1.5mL Eppendorf tube, then bring to the samples to the microscope
-2. Disinfect the coverslip of the hemocytometer by spraying with 70% ethanol on both sides
-3. Rinse the hemocytometer under DI water
-4. Use Kimwipes to dry the hemocytometer and coverslip with gentle wiping movements. Make sure you have wiped off all dust and debris by holding the hemocytometer up to a light to see no debris left
-5. If the density of the algae in the carboy is visibly extremely low (color of algae is almost clear), pipette 10uL of the algae into a chamber of the hemocytometer. 
-	- If the algae appears sparse (sum of less than 100 cells in the four corner squares), proceed to step 10.
+1. Inside the gray bio safety cabinet, pipette 10uL of algae into a 1.5mL Eppendorf tube, then bring the samples to the microscope.
+2. Disinfect the coverslip of the hemocytometer by spraying with 70% ethanol on both sides.
+3. Rinse the hemocytometer under DI water.
+4. Use Kimwipes to dry the hemocytometer and coverslip with gentle wiping movements. Make sure you have wiped off all dust and debris by holding the hemocytometer up to a light to see no debris left.
+5. If the density of the algae in the flask or carboy that is being counted is visibly extremely low (color of algae is almost clear), pipette 10uL of the algae into a chamber of the hemocytometer. 
+	- If the algae appears sparse (sum of less than 100 cells in the four corner squares), proceed to step 9.
 	- If the algae appears dense (sum of more than 100 cells in the four corner squares), proceed to step 7 to perform a dilution. 
-6. Read "Dilutions" below for more information about dilutions and its importance before performing the next step
-7. Make a dilution on a piece of parafilm using the 50% Lugol's solution 
-	- The required dilution varies based on algae species (the below dilutions usually work best during the middle stages of the re-bloom cycle, but can be altered based on the algae's density at the time)
-		- Tetraselmis s. = 1:2 
-		- Chaet. n. = 1:10
-		- Pavlova p. = 1:20
-8. Pipette 10uL of the diluted algae into one chamber of the hemocytometer 
+6. Read "Dilutions" below for more information about dilutions and its importance before performing the next step.
+7. Make a dilution on a piece of parafilm using the 50% Lugol's solution.
+	- The required dilution varies based on algae species and its density. Some examples of dilutions that work well during the different stages of a re-bloom cycle are listed below (these are just estimates and can be altered to best accommodate the density of the algae at the time).
+		- Early stages (~first 1/3 of the cycle):
+			- Tetraselmis s. = 1:0.5
+			- Chaet. n. = 1:5
+			- Pavlova p. = 1:15
+		- Middle to late stages (~last 2/3 of the cycle):
+			- Tetraselmis s. = 1:2 
+			- Chaet. n. = 1:10
+			- Pavlova p. = 1:20
+8. Pipette 10uL of the diluted algae into one chamber of the hemocytometer.
 9. Look at the hemocytometer under the microscope and count the sum of cells in the four corner squares. Be sure to count any cells that are on the borders of each of the four squares. 
 
 ### Dilutions
