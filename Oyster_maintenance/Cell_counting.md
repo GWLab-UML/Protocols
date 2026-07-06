@@ -16,7 +16,7 @@ A hemocytometer is a specialized slide used for manual cell counting with a micr
 - Algae
 
 ### Protocol:
-1. Inside the gray bio safety cabinet, pipette 10uL of algae into a 1.5mL Eppendorf tube, then bring the samples to the microscope.
+1. Inside the gray bio safety cabinet swirl the flask to ensure a homogenous mixture before pipetting 10uL of algae into a 1.5mL Eppendorf tube, then bring the samples to the microscope.
 2. Disinfect the coverslip of the hemocytometer by spraying with 70% ethanol on both sides.
 3. Rinse the hemocytometer under DI water.
 4. Use Kimwipes to dry the hemocytometer and coverslip with gentle wiping movements. Make sure you have wiped off all dust and debris by holding the hemocytometer up to a light to see no debris left.
