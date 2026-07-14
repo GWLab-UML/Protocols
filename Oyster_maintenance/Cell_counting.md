@@ -36,10 +36,9 @@ A hemocytometer is a specialized slide used for manual cell counting with a micr
 			- Pavlova p. = 1:20
 8. Pipette 10uL of the diluted algae into one chamber of the hemocytometer.
 9. Look at the hemocytometer under the microscope and count the sum of cells in the four corner squares. Be sure to count any cells that are on the borders of each of the four squares. 
-	- The first image below shows what the hemocytometer looks like under the microscope, with the 4 corner squares that need to be counted outlined in red.
-	- ![447](../Images/Hemocytometer%20under%20microscope.png)
+	- The first image below shows what the hemocytometer looks like under the microscope, with the 4 corner squares that need to be counted outlined in red. ![638](../Images/Hemocytometer%20under%20microscope.png)
 	- The second image shows a close up of one of the quadrants, with a Tetraselmis s. cell circled in red.
-	- ![446](../Images/Hemocytometer%20quadrant%20with%20algae.png)
+	   ![633](../Images/Hemocytometer%20quadrant%20with%20algae.png)
 
 ### Dilutions
 - What is a dilution?
@@ -54,7 +53,7 @@ A hemocytometer is a specialized slide used for manual cell counting with a micr
 	- Lugol's iodine immobilizes and kills the algae cells, making them still and much easier to count. Lugol's iodine does not allow for you to distinguish between live and dead algae cells, as it will stain both live and dead cells. 
 
 ### Cleaning:
-***please clean after EACH use, between the use of different species, and between each count***
+***Please clean after EACH use, between the use of different species, and between each count***
 1. Using a Kimwipe, wipe any algae off of the hemocytometer and its coverslip
 2. Disinfect the coverslip of the hemocytometer by spraying with 70% ethanol on both sides 
 3. Rinse the hemocytometer under DI water 
