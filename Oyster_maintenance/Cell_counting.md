@@ -36,6 +36,10 @@ A hemocytometer is a specialized slide used for manual cell counting with a micr
 			- Pavlova p. = 1:20
 8. Pipette 10uL of the diluted algae into one chamber of the hemocytometer.
 9. Look at the hemocytometer under the microscope and count the sum of cells in the four corner squares. Be sure to count any cells that are on the borders of each of the four squares. 
+	- The first image below shows what the hemocytometer looks like under the microscope, with the 4 corner squares that need to be counted outlined in red.
+	- ![447](../Images/Hemocytometer%20under%20microscope.png)
+	- The second image shows a close up of one of the quadrants, with a Tetraselmis s. cell circled in red.
+	- ![446](../Images/Hemocytometer%20quadrant%20with%20algae.png)
 
 ### Dilutions
 - What is a dilution?
