@@ -1,5 +1,5 @@
 **Teresa Vaillancourt 2025** (her original protocol and documentation can be found [here](https://drive.google.com/drive/folders/1MsG1CK8_EYU03sJPXVaZvV-XPU_0N3Mi?usp=share_link))
-Last updated: January 14, 2026 - JF
+Last updated: July 14, 2026 - JF
 ### Download software
 1. Download the FIJI version of ImageJ (https://imagej.net/software/fiji/downloads)
 2. Open the zip file and move the Fiji folder to your desktop
@@ -20,7 +20,8 @@ Last updated: January 14, 2026 - JF
 	- The shell photos must be properly labelled on the Google Drive before downloading
 	![](../Images/Macro4.png)
 3. Open the zip file and transfer all of the shell photos into your new `Shell_processing` folder
-	![](../Images/Macro4.png)
+	![](../Images/Macro5.png)
+	- On a Mac you can just double click the zipped file, but on a PC you will have to right click and select "Extract"
 4. Delete all the photos of the inside of the shell; we want use the exterior of the shell for measurements
 	- If using a Mac, you can hold the command key to select more than one photo at a time
 
@@ -28,7 +29,6 @@ Last updated: January 14, 2026 - JF
 
 6. Open FIJI and click File > Import > Image Sequence...
 7. In the pop-up window, set the directory to the `Shell_processing` folder, the count to the number of photos to be analyzed within the folder, and the scale to 50%
-	![](../Images/Macro5.png)
 	- This import may take around 30 seconds so be patient! There is also a progress bar at the bottom of the FIJI toolbox![](../Images/Macro7.png)
 	- Once complete, the images are now in a "stack" that you can scroll through with your mouse—this format will allow you to perform batch operations
 8. Adjust photos as needed: 
@@ -78,11 +78,11 @@ Last updated: January 14, 2026 - JF
 		- Best to check by the umbo, but also the fringe!
 		![](../Images/Macro20.png)
 	- If area is overestimated by the mask (i.e. a juvenile is stuck on one of the shells and extends beyond the adult shell) you should also measure that estimated area to subtract from the total shell area later
-7. Next, using the wand tool click on one of the calibration dots. Once outlined in yellow, double click the wand tool on the FIJI toolbox and use the tolerance scroll bar to further finesse the outline. Measure this selection (`Command+m`)
+7. Next, double click the wand tool and set the tolerance to 100, then click on one of the calibration dots. Once outlined in yellow, double click the wand tool again and adjust the tolerance up or down to further finesse the outline. Measure this selection (`Command+m`)
 	![](../Images/Macro21.png)
 8. Once all extra measurements have been made, click OK to create a .csv file with the results and a .txt file with the parameters used. The macro will automatically do this, and save it in the `Shell_processing` folder
 	- If the macro window has disappeared (this is what I mean when I said it's finicky) you can still save the results window with all of your measurements—to interpret:
 		- Feret = Length (in px)
 		- MinFeret = Width (in px)
 
-And voila! Now all of the raw shell measurements are in a handy .csv file that can be further analyzed. I would recommend keeping all of the .tif files and moving them to a more permanent folder either on Google Drive or GitHub. The Combined Stack .tif may be helpful when interpreting the data, especially when reconciling any missing or overestimated shell areas. Otherwise, the individual .jpeg images should be deleted to make room for a new batch
+And voila! Now all of the raw shell measurements are in a handy .csv file that can be further analyzed. **I would recommend keeping all of the .tif files and moving them to a more permanent folder either on Google Drive or GitHub.** The Combined Stack .tif will be helpful when interpreting the data, especially when reconciling any missing or overestimated shell areas. Otherwise, the individual .jpeg images should be deleted from the `Shell_processing` folder to make room for a new batch. 
