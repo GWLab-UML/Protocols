@@ -3,7 +3,7 @@ Last update: April 3, 2026 JF
 # Algae Basics
 Ideal culturing salinity = 28 psu
 [F2_media](F2_media.md) protocol
-[Cell_counting](Cell_counting.md) protocol
+[Algae_cell_counting](Algae_cell_counting.md) protocol
 
 #### Protocol Contents: 
 - [Bleach Baths](https://github.com/GWLab-UML/Protocols/blob/main/Oyster_maintenance/Algae_culturing.md#bleach-baths)
