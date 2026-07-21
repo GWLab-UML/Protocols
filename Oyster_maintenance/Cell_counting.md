@@ -1,8 +1,22 @@
-# Using the hemocytometer
+Last update: July 21, 2026 AR
+*[Skip to counting algae protocol](#Counting%20Algae%20Cells)*
 
+# Hemocytometer
 A hemocytometer is a specialized slide used for manual cell counting with a microscope. There are two chambers in a hemocytometer, each containing a small 3x3 grid etched onto its surface. Here, you'll find instructions on how to use and clean one, how to calculate a cell concentration, and how to perform dilutions. We have used cell counting for algae cells and for *Perkinsus* cells. 
 
-## Counting Algae Cells 
+# Dilutions
+- What is a dilution?
+	- A dilution is adding more solvent to a sample to decrease its concentration. 
+- Why are dilutions important?
+	- Dilutions are important because they generally make cell counts more accurate. When diluting the cells, there are less cells to count which allow for a more accurate count. There may be miscounts when the algae is too dense because there are many to count and there may be some overlapping algae that make it difficult to count. 
+- How is a dilution written?
+	- We will write our dilutions using the fraction notion, NOT the ratio notion. Think of a 1:10 dilution as the fraction 1/10. A 1:10 dilution would be 1 part of the original solution (algae) diluted with 9 parts of solvent (DI water), resulting in a total of 10 parts
+- What is a dilution factor? How to calculate a dilution factor?
+	- A dilution factor is the number you will use for calculating the concentration of algae cells (cells/mL). To find the dilution factor, divide the total volume by the initial volume. For example, a solution with 55 uL volume total containing 5 uL of algae would have a dilution factor of 55/5 = 11
+- Why do we use Lugol's iodine for counting algae?
+	- Lugol's iodine immobilizes and kills the algae cells, making them still and much easier to count. Lugol's iodine does not allow for you to distinguish between live and dead algae cells, as it will stain both live and dead cells. 
+
+# Counting Algae Cells 
 ### Materials: 
 - 70% ethanol bottle 
 - Hemocytometer 
@@ -36,20 +50,11 @@ A hemocytometer is a specialized slide used for manual cell counting with a micr
 			- Pavlova p. = 1:20
 8. Pipette 10uL of the diluted algae into one chamber of the hemocytometer.
 9. Look at the hemocytometer under the microscope and count the sum of cells in the four corner squares. Be sure to count any cells that are on the borders of each of the four squares. 
-	- The first image below shows what the hemocytometer looks like under the microscope, with the 4 corner squares that need to be counted outlined in red. ![422](../Images/Hemocytometer%20quadrant%20with%20algae%201.png)
-	- The second image shows a close up of one of the quadrants, with a Tetraselmis s. cell circled in red. ![471](../Images/Hemocytometer%20under%20microscope.webp)
-
-### Dilutions
-- What is a dilution?
-	- A dilution is adding more solvent to a sample to decrease its concentration. 
-- Why are dilutions important?
-	- Dilutions are important because they generally make cell counts more accurate. When diluting the cells, there are less cells to count which allow for a more accurate count. There may be miscounts when the algae is too dense because there are many to count and there may be some overlapping algae that make it difficult to count. 
-- How is a dilution written?
-	- We will write our dilutions using the fraction notion, NOT the ratio notion. Think of a 1:10 dilution as the fraction 1/10. A 1:10 dilution would be 1 part of the original solution (algae) diluted with 9 parts of solvent (DI water), resulting in a total of 10 parts
-- What is a dilution factor? How to calculate a dilution factor?
-	- A dilution factor is the number you will use for calculating the concentration of algae cells (cells/mL). To find the dilution factor, divide the total volume by the initial volume. For example, a solution with 55 uL volume total containing 5 uL of algae would have a dilution factor of 55/5 = 11
-- Why do we use Lugol's iodine for counting algae?
-	- Lugol's iodine immobilizes and kills the algae cells, making them still and much easier to count. Lugol's iodine does not allow for you to distinguish between live and dead algae cells, as it will stain both live and dead cells. 
+	- The first image below shows what the hemocytometer looks like under the microscope, with the 4 corner squares that need to be counted outlined in red. 
+	  ![471](../Images/Hemocytometer%20under%20microscope.webp)
+	
+	- The second image below shows a close up of one of the quadrants, with a Tetraselmis s. cell circled in red. 
+	  ![457](../Images/Hemocytometer%20quadrant%20with%20algae%201.png)
 
 ### Cleaning:
 ***Please clean after EACH use, between the use of different species, and between each count***
@@ -60,19 +65,14 @@ A hemocytometer is a specialized slide used for manual cell counting with a micr
 5. Safely store the hemocytometer and cover slip back in its box
 
 ### Calculations:
-
-To perform calculations: 
-
 Concentration in cells per mL = avg # of cells per square * dilution factor * 10^4
 - To find the avg # of cells per square, do sum of cells / # of squares used
 - To find the dilution factor, do the final volume / initial volume
 
-(if counting algae cells for oyster feeding - see the [Algae Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1UBeluqx4SQUdaInXP4of0siFTtXhhd97nKfENCC8lmE/edit?gid=0#gid=0) - just enter the cell count and it auto-calculates concentration)
+(If counting algae cells for oyster feeding see the [Algae Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1UBeluqx4SQUdaInXP4of0siFTtXhhd97nKfENCC8lmE/edit?gid=0#gid=0) - just enter the cell count and it auto-calculates concentration using the formula above)
 
-
-## Counting *Perkinsus* Cells
-
-### Materials:
+# Counting *Perkinsus* Cells
+Materials:
 - Lugol solution
 - DI water
 - 25 conical screw cap tube
