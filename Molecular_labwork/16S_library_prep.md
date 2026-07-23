@@ -1,84 +1,99 @@
-**NOTE**: adapted from: [SOP_MDE_Metabarcoding Standard Genetic Methods (November2021).pdf](https://github.com/SERCCoastalDisease/Protocols/blob/main/SOP_MDE_Metabarcoding%20Standard%20Genetic%20Methods%20(November2021).pdf)
+Adapted from: [SOP_MDE_Metabarcoding Standard Genetic Methods (November2021).pdf](https://github.com/SERCCoastalDisease/Protocols/blob/main/SOP_MDE_Metabarcoding%20Standard%20Genetic%20Methods%20(November2021).pdf)
 
-**NOTE**: all calculations can be done here: https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=909202954#gid=909202954
+Reagent calculation spreadsheet: [mm_calculations](https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=909202954#gid=909202954)
 
-last updated Jun 9, 2026 CCD
+==**All steps after the first PCR must be done in the post-PCR room (614)==**
 
-#### I. PCR
-- **Repeat 3x for all samples that are to be included in the metabarcode library**
-- *always include water (negative control - indication of no contamination) and very dilute positive controls (1-5ng of DNA) in every experiment*
-- **Mix the following agents via vortex:** Buffer, MgCl2, primers
-- **DO NOT vortex:** BSA or Hot Start Polymerase
-	-  Polymerase should *never* be left at room temperature - **stays in freezer or in freezer box**
-- use aliquoted reagents (limits contamination)
-- **all PCR prep is done in the biosafety cabinet in the lab***
+Last updated: July 23, 2026 JF
 
-copy & paste table off of mm_calculations, note which primer you are using each day (0N,1N...)
+## I. First PCR
+### Notes
+- All of the following first PCR protocol should be done in a BSC in 504
+- Repeat each sample in triplicate (3x)
+- Always include water (negative control) in every run
+- Use aliquoted primers, water, and dNTPs (limits contamination)
+- **DO NOT** vortex albumin or hot start polymerase
+	-  *DNA polymerase should never be left at room temperature - stays in freezer or in freezer box*
+- Use the [mm_calculations](https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=909202954#gid=909202954) spreadsheet, and copy the final table into your lab notebook
+- Make sure to note which primer you are using each day (0N, 1N, 2N, 3N)
 
-| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 5% | Triplicate (uL) + 5% |
-| --------------- | --------------------- | -------------------------- | -------------------- |
-| Buffer          | 5                     | 0                          | 0                    |
-| dNTP (10mM)     | 0.5                   | 0                          | 0                    |
-| F Primer (10uM) | 1                     | 0                          | 0                    |
-| R Primer (10uM) | 1                     | 0                          | 0                    |
-| DNA             | 1                     | 0                          | 0                    |
-| Polymerase      | 0.25                  | 0                          | 0                    |
-| Water           | 16                    | 0                          | 0                    |
-| Albumin         | 0.25                  | 0                          | 0                    |
-| Total           | 25                    | 0                          | 0                    |
-*adapted from Sarah's evernote 02/02/21 16S*
+### 0. Prep
+- Thaw reaction buffer, dNTPs, primers, and DNA samples
+	- Once thawed, vortex and quickly spin these down
+- Number each DNA sample sequentially in your lab notebook—this is how the PCR tubes will be identified
+- Bleach the BSC workspace, pipettes, and tube racks
+- UV-sterilize open 8-strip PCR tubes, water aliquot, and 1.5mL master mix tube
+	- **DO NOT** expose primers or DNA to the UV light
 
-1. Create master mix for each sample
-2. Pipette 24uL of master mix into each replicate tube (3 replicates per sample)
+### 1. Protocol
+1. Create master mix, adding appropriate volumes of each reagent in this order: buffer, dNTPs, forward primer, reverse primer, albumin, DNA polymerase, and water
+	- Make sure to thoroughly mix by pipetting up and down after each addition
+2. Pipette 24uL of master mix into each PCR tube (remember - 3 replicates per sample)
 3. Pipette 1uL of DNA into each replicate tube
-	1. use new pipette tip for each replicate
-4. Run thermocycler program:
-	1. 98C for 30 seconds
-	2. **28 cycles** (reduced from 30 cycles to) of:  
-		1. 98C for 10 seconds
-		2. 50C for 30 seconds
-		3. 72C for 20 seconds
-	3. 72C for 2 mins (extension)
-	4. 12C forever
-### **ALL POST-PCR DONE IN OLS614 (aka the rest of this protocol)**
-can use unfiltered pipette tips for this if not doing NGS
-#### II. Gel electrophoresis
-- **always use 1:5 dilution of DNA ladder on every row of gel**
-- TBE Buffer 'Recipe' https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/TBE_Buffer_Protocol.md
+	- Use a new pipette tip for each replicate
+4. Once DNA has been added to all tubes, double check the lids are all tightly closed and quickly spin these down
+5. Run thermocycler program
+	- **16S:**
+		1. 98ºC for 30 seconds
+		2. 28 cycles (reduced from 30 cycles) of:  
+			1. 98ºC for 10 seconds
+			2. 50ºC for 30 seconds
+			3. 72ºC for 20 seconds
+		3. 72ºC for 2 mins (extension)
+		4. 12ºC forever
+	- **16S Touchdown:**
+		1. 98ºC for 30s
+		2. 98ºC for 10s 
+		3. 62ºC for 30s ** -0.5ºC every cycle
+		4. 72ºC for 20s 
+		5. GOTO step 2 (x10)
+		6. 98ºC for 10s 
+		7. 57ºC for 30s 
+		8. 72ºC for 20s 
+		9. GOTO step 6 (x20)
+		10. 72ºC for 20s
+		11. Hold 12ºC
 
-**Making and setting up a gel:**
-1. calculating gel density:
+
+## II. Gel electrophoresis
+### Notes
+- **DO NOT** open PCR tubes in 504—move to 614
+- Can use unfiltered pipette tips for this if not doing NGS
+- Always use 1:5 dilution of 100bp DNA ladder on every row of gel
+- The protocol to make more TBE buffer is [here](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/TBE_Buffer_Protocol.md)
+
+### 0. Prep
+1. Calculate gel density:
 	- % = weight (g) / volume (mL)
-2. mix agar and fresh 1X TBE buffer to generate a 1.5% agarose gel that will be large enough for gel mold
-3. melt mixture (on hot plate with stir bar or microwave) until mixture has big bubbles and there's no floaters
-	-  **add GelRed to gel once cool** (if you don't, you won't see your bands!!)
-4. Add the appropriate gel comb 
-	- pour gel into the middle of mold and wait for even dispersion
-	- enough gel to see that ALL combs are in it, not too thick
-5. let gel cool- wells will break if not cooled down enough
-	- 20 mins to be safe
-	- during this time set up for loading gel (step 6)
-6. Sample Prep
-	- cut enough parafilm for all samples + ladders
-	- pipette up 20uL of loading dye and place ~20 1uL dots of loading dye on the parafilm for each well
-7. **turn rig so DNA will move towards the positive electrode** run towards red!
-	1. add used 1x TBE buffer for running gels
-8. load 2uL of diluted DNA ladder at beginning or end (or both if large rig) of the gel, and on each row
-	1. mix with a dot of loading dye from parafilm
-9. load 1uL PCR product 
-	1. after mixing with loading dye from parafilm
-10. put cover on and turn on electric current - **run 110 volts for minimum of 35 mins**
-	- time length depends on the size of gel 35-90 mins 
-	- check to make sure bands aren't running off the gel
-11. turn off electric current *then* remove lid
-12. take picture of gel and save in lab notebook
-	- *do not look at the blue-green light directly*
-	- place box with an amber pane over gel imager and take photo parallel to gel. 
-	- editing: crop to be centered, ensure photo is in focus
-13. in some cases may run for longer to get more separation in bands 
-14. you may reuse gels up to 3 times, if so break the gel up into a glass container that can be covered and store at 2-8 °C
+2. Mix agar and fresh 1X TBE buffer to create 50-150mL of ==1.5% agarose gel== (the volume will depend on what size gel you are trying to make)
+3. Melt the agarose gel in the microwave, taking it out periodically to swirl
+	-  There should be no cloudiness to the melted gel—it should be ultra clear
+4. Add 1uL GelRed per 50mL and swirl the flask to mix
+5. Add the appropriate gel comb to the rig and pour the melted gel into the middle and wait for even dispersion
+	- You just need enough gel to see that all combs are submerged, doesn't need to be thick
+	- If there are bubbles, use a pipette tip to gently move them out of the way
+6. Let the gel set for 20-30 minutes, the wells will break if not cooled down enough
 
-#### III. PCR Pooling
+### 1. Protocol
+1. Once the gel has set, remove the gel comb and turn the rig so DNA will move towards the positive electrode—DNA runs towards red!
+2. Add 1x TBE running buffer to the rig until the gel is fully submerged and there is a thin layer of buffer over the top of the gel
+3. Cut enough parafilm for all samples + ladders
+4. Pipette up 8uL of loading dye and place 8 ~1uL dots of loading dye on the parafilm
+	- This volume can vary, but keep in mind the dye does dry up
+5. Mix 2uL of diluted DNA ladder with a dot of loading dye and pipette into the first well of each row
+6. Mix 1uL PCR product with a dot of loading dye and pipette into the next well
+	- **Important:** write down the order you are loading your samples in your lab notebook
+7. Once all samples have been loaded, put cover on and set the electric current to ==110 volts for minimum of 35 mins==
+	- The amount of time depends on the size of gel, can range from 35-90 mins 
+	- If unsure, check periodically to make sure the bands aren't running off the gel
+8. Turn off the electric current *then* remove lid
+9. Take picture of gel in the imager and save an annotated version in your lab notebook
+	- Do not look at the blue-green light directly
+	- Ensure photo is in focus, can be cropped later
+	- In some cases you may need to run the gel longer to get more separation in bands 
+10. You can reuse gels up to 3 times, so break the gel up into a glass flask that can be covered, labeled, and stored at 4°C
+
+## III. PCR Pooling
 1. using gel images - compare relative brightness of each band for sample replication across all 3 replicates
 2. based on comparison - write out required volume to be pooled from each replicate
 	 - band brightness generally has 3 levels: bright, faint, absent
