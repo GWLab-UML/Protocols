@@ -1,12 +1,10 @@
 <u>Biobox Protocol</u>
 
-**Overview:** The bioboxes and associated environmental parameter measurements allow us to investigate how reef structural characteristics and environmental drivers influence the diversity, composition, and abundance of reef-associated faunal communities.
+## Overview:
+The bioboxes and associated environmental parameter measurements allow us to investigate how reef structural characteristics and environmental drivers influence the diversity, composition, and abundance of reef-associated faunal communities.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-***Deployment:***
-
-\*if we decide to participate in marine geo collab use [these data sheets](https://smithsonian.figshare.com/articles/online_resource/MarineGEO_Oyster_Reef_Habitat_Monitoring_Protocol/14714328?file=63997888) instead for transects/rugosity/ point intercept and read [this protocol](https://smithsonian.figshare.com/articles/online_resource/MarineGEO_Oyster_Reef_Habitat_Monitoring_Protocol/14714328?file=63989578) as well
+## Deployment:
+>*if we decide to participate in marine geo collab use [these data sheets](https://smithsonian.figshare.com/articles/online_resource/MarineGEO_Oyster_Reef_Habitat_Monitoring_Protocol/14714328?file=63997888) instead for transects/rugosity/ point intercept and read [this protocol](https://smithsonian.figshare.com/articles/online_resource/MarineGEO_Oyster_Reef_Habitat_Monitoring_Protocol/14714328?file=63989578) as well
 
 Plan to deploy bioboxes on the lowest tide of June. One site per day. Bioboxes should be deployed in triplicate at each site, at the same relative tidal height, roughly 3m apart. Within the habitat, oysters should be excavated, and bio-boxes placed into the substrate so that the top of the box is mostly level with the substrate. Fill the bio-box with the excavated oysters such that it resembles the density of the oysters in the surrounding habitat.
 
@@ -16,7 +14,7 @@ Plan to deploy bioboxes on the lowest tide of June. One site per day. Bioboxes s
 |**Prep/Bring:**  |[Packing list](https://docs.google.com/spreadsheets/d/1NEiLnoZBNE9a9Xso_CNzmHq-RsiU96dFqjNtYJVxbC8/edit?gid=188906768#gid=188906768)      |
 
 
-<u>**Our three established sites:**</u>
+### **Our three established sites:**
 
 Here are the sites, GPS location of previous bioboxes and reefs and parking etc on a map: [https://maps.app.goo.gl/eUh7fYdza9QcSRhU7](https://maps.app.goo.gl/eUh7fYdza9QcSRhU7)
 
@@ -28,7 +26,7 @@ NSW3: Parker River \~ 1 hour after Plum Island South
 
 \*normally meet at parking \~45mins before Plum Island South low tide.
 
-**What you'll do:**
+### **What you'll do:**
 
 1\. At each site, record **site metadata** and measure environmental conditions (**Salinity, water temp, DO, pH**).
 
@@ -101,7 +99,7 @@ Note the label zip tied to the right side.
 
 10\. Take a data sheet photo
 
-<u>**Deployment Data Management**</u>
+### **Deployment Data Management**
 
 
 |Data Generated|Location|Path|Notes|
@@ -114,7 +112,7 @@ Note the label zip tied to the right side.
 | **ENVLogger info** | Github | MegaMetaData\> LoggerTracker.csv  |  |
  
 
-***Retrieval:***
+### ***Retrieval:***
 
 Two months after deployment, on the lowest tide of August, plan to retrieve the bioboxes!
 
@@ -122,7 +120,7 @@ Two months after deployment, on the lowest tide of August, plan to retrieve the 
 | --- | --- |
 |   **Prep/Bring:**   | [Packing list](https://docs.google.com/spreadsheets/d/1FG0SdEHlbd-jxLbGdDDC7tWhm_0DgvNg7F9ZzEwyX9M/edit?gid=1283800924#gid=1283800924)                            |
 
-***Biobox Collection:***
+#### ***Biobox Collection:***
 
 -   Take environmental measurements. Record on **Retrieval Metadata Fieldsheet**
 
@@ -132,7 +130,7 @@ Two months after deployment, on the lowest tide of August, plan to retrieve the 
 
 -   Assign individuals to each taxonomic group: oysters, other bivalves, crabs, worms, snails, shrimp, arthropods/isopods, sessile organisms attached to other organisms, etc.
 
-***Mobile and Sessile Fauna (+ Bivalve weight):***
+#### ***Mobile and Sessile Fauna (+ Bivalve weight):***
 
 Weigh an empty bucket and note weight on **BioBox Retrieval Fieldsheet : Bivalve Height**
 
@@ -150,7 +148,7 @@ Weigh an empty bucket and note weight on **BioBox Retrieval Fieldsheet : Bivalve
 
 4.  Get **Bivalve Weight.** Weigh bucket with all bivalves. Record on **BioBox Retrieval Fieldsheet : Bivalve Height+Weight .**
 
-***Bivalve height + density:***
+#### ***Bivalve height + density:***
 
 1.  Randomly select **50 live oysters and** up to **25** **other live bivalves** over 15mm from each biobox. Measure the height of each of these bivalves. (See figure 3.) Record on **BioBox Retrieval Fieldsheet : Bivalve Height+Weight.**
 
@@ -160,7 +158,7 @@ Weigh an empty bucket and note weight on **BioBox Retrieval Fieldsheet : Bivalve
 
 Figure 3. Shows how we measure for oysters vs. clams.
 
-<u>**Retrieval Data Management**</u>
+### **Retrieval Data Management**
 
 |Data Generated|Location|Path|Notes|
 | --- | --- | --- | --- |
