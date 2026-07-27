@@ -43,9 +43,9 @@ NSW3: Parker River \~ 1 hour after Plum Island South
     -   Measure **Cluster height (cm)** (Figure2.)
         -   Height of the tallest cluster from the rugosity measurement Measure perpendicular to the substrate.. For bed- or reef-forming oysters, measure from the sediment to the top of the cluster. For encrusting oysters measure from the hard substrate the oysters are growing on to the top of the oyster cluster.
 
-![](images/unnamed-02.png){width="281"}
+![](images/unnamed-01.png)
 
-![](images/unnamed-03.png)
+![](images/unnamed.png)
 
 3\. Take a reef photo(s) to document the site before deployment and after deployment.
 
@@ -84,6 +84,7 @@ NSW3: Parker River \~ 1 hour after Plum Island South
 |                                                |
 | **DMF Permit \#**                              |
 +:==============================================:+
+|                                                |
 +------------------------------------------------+
 
 \*We may or may not have a permit number when you are ready to deploy - of not- no worries, leave it off
@@ -92,7 +93,7 @@ NSW3: Parker River \~ 1 hour after Plum Island South
 
 -   Excavate the area where you want to place the biobox using a trowel/claw and gloved hands. Place excavated material into the box. Nestle the box into the reef such that it is level with the rest of the reef. Density in the box should match surroundings.
 
-![Mudcreek Biobox Summer 25' as it is being deployed. Note the label zip tied to the right side.](images/unnamed-01.jpg){width="287"} ![](images/unnamed.jpg){width="335"}
+![Mudcreek Biobox Summer 25' as it is being deployed. Note the label zip tied to the right side.](images/unnamed.jpg){width="333"} ![](images/unnamed-02.jpg){width="348"}
 
 Left: Mudcreek Biobox Summer 25' as it is being deployed. Right: Rowley River Biobox, Summer 25'
 
@@ -117,7 +118,7 @@ Note the label zip tied to the right side.
 +------------------------------------------------------+--------------+--------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
 | Data generated                                       | Location     | Path                                                                                                                                 | Notes                       |
 +======================================================+==============+======================================================================================================================================+=============================+
-| **Data sheet photo**                                 | Google drive | [[HERE]{.underline}](http%20s://drive.google.com/%20drive/folders/1TqxBFG%20NZ4bEK4HiyzwmULYHz_XX%20T6Hw1?usp=drive_link)            | Relabel with \              |
+| **Data sheet photo**                                 | Google drive | [[HERE]{.underline}](http%20s://drive.google.com/%20drive/folders/1TqxBFG%20NZ4bEK4HiyzwmULYHz_XX%20T6Hw1?usp=drive_link)            | Relabel with\               |
 |                                                      |              |                                                                                                                                      | "site \_date_datasheet"     |
 +------------------------------------------------------+--------------+--------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
 | **Reef and biobox photos**                           | Google drive | **NSW1\>** [[HERE]{.underline}](http%20s://drive.google.com/%20drive/folders/1n-Fe0-%20dufJFdRI5VgMi54nYODHL%20vJX4M?usp=drive_link) | Make subfolder with mm_yyyy |
@@ -186,7 +187,7 @@ Weigh an empty bucket and note weight on **BioBox Retrieval Fieldsheet : Bivalve
 
 2.  Count and tally all remaining oysters. Separately Count and tally all remaining bivalves.
 
-![](images/unnamed.png)
+![](images/unnamed-03.png)
 
 Figure 3. Shows how we measure for oysters vs. clams.
 
