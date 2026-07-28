@@ -29,7 +29,8 @@ Last updated: July 23, 2026 JF
 1. Create master mix, adding appropriate volumes of each reagent in this order: buffer, dNTPs, forward primer, reverse primer, albumin, DNA polymerase, and water
 	- Make sure to thoroughly mix by pipetting up and down after each addition
 2. Pipette 24uL of master mix into each PCR tube (remember - 3 replicates per sample)
-3. Pipette 1uL of DNA into each replicate tube
+	- If planning on using more than 1uL DNA, adjust this volume of master mix such that total PCR reaction volume is 25uL 
+3. Pipette appropriate amount of DNA into each replicate tube
 	- Use a new pipette tip for each replicate
 4. Once DNA has been added to all tubes, double check the lids are all tightly closed and quickly spin these down
 5. Run thermocycler program
@@ -58,7 +59,8 @@ Last updated: July 23, 2026 JF
 ## II. Gel electrophoresis
 ### Notes
 - **DO NOT** open PCR tubes in 504—move to 614
-- Can use unfiltered pipette tips for this if not doing NGS
+- All following steps in library prep can be done in the BSC, but doesn't need to be
+	- Since the sample-associated bacteria has been amplified, the risk of environmental contamination impacting sequencing results is low
 - Always use 1:5 dilution of 100bp DNA ladder on every row of gel
 - The protocol to make more TBE buffer is [here](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/TBE_Buffer_Protocol.md)
 
@@ -104,7 +106,7 @@ Last updated: July 23, 2026 JF
 		1. Ex. R1 = faint (5uL), R2 = absent (10uL), R3 = absent (10uL)
 3. obtain, label, cross-link new strip tubes (or plate) - appropriate volumes from all 3 replicates are put in the same tube
 
-#### IV. Indexing PCR 
+### IV. Indexing PCR 
 - each sample is indexed with a unique combination of i5 and i7 primers 
 
 1. using HotStart reagents for this protocol using the following combination of reagents:
@@ -128,14 +130,14 @@ Last updated: July 23, 2026 JF
 	*repeat 2-4 for 7 cycles (# of cycles varies depending on input)*
 	5. 72 for 2 min
 
-#### V. Gel electrophoresis
+### V. Gel electrophoresis
 perform steps as above with additions:
 - for each row in the gel, **include both a ladder and a non-indexed control**
 - pre- and post-indexed samples should be different sizes
 - **1uL product used to load gel to check indexing**
 *You can run this gel at 120 V for 35-40 min*
 
-#### **VI. Purification with ampure beads**
+### **VI. Purification with ampure beads**
 https://www.bulldog-bio.com/wp-content/uploads/2025/08/CleanNGS-User-Manual-Version-9.pdf
 obtain, label, and cross-link new strip tubes
 start with the manufacturer protocol using 1.8X-0.8X bead ratio and 10uL-25uL PCR product
@@ -181,11 +183,11 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 11. Transfer the cleared supernatant containing purified DNA and/or RNA to a new (RNase-free) 96-well microplate and seal with non-permeable sealing film. 
 12. Store the plate at 2-8°C if storage is only for a few days. For long-term storage, samples should be kept at -20°C.
 
-#### VII. Gel Electrophoresis 
+### VII. Gel Electrophoresis 
 1. Refer to steps II and V
 2. Run a gel with select samples to confirm bead size selection worked 
 3. Can run this gel at 120 V for 35-40 min
-#### VIII. Sequencing Prep
+### VIII. Sequencing Prep
 1. Assess need for Gel Extraction
 	1. If need gel extraction refer to [[Qiagen_gel_extraction]]	
 	2. If no need, skip to step 2
