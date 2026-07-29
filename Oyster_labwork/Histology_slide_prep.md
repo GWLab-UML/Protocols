@@ -160,7 +160,10 @@ with microtome in room 614
 5. Turn everything off - unplug cooler
 6. Cover microtome
 
-
+**Storing slides:** 
+1. After letting the slides dry and stay out over night the slides can be moved to one of the slide boxes (found in the histology drawer) 
+2. The slides can be unstained for up to 2 weeks if kept in a dry, low moisture area. (try to stain within a few days)
+3. ***Once stained***, update the histology tracker and store the slides indefinitely in the histology drawer. 
 ## Staining with Mayers Hematoxylin and Eosin Y
 *all completed under a chemical fume hood*
 #### Materials:
