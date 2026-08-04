@@ -34,6 +34,9 @@ To use, just turn on, wait ~5 minutes for things to warm up - then stick the pro
 
 After measurements are done, replace the probe in the storage bottle by *screwing the cap back on - DO NOT PUSH INTO THE BOTTLE*, again it can damage the membrane
 
+
+**Cleaning**: Soak the probe in 75% EtOH for 5 mins, and then soak for another 5-10 mins in DI water.
+
 ### III. Salinity/Conductivity
 
 **Storage**: There's no specific instructions for storage of this probe, it is used and kept as is
@@ -50,13 +53,13 @@ But if you want/need to calibrate it...
 
 ### Troubleshooting
 
-If the temperature or readings say 9999 ...
+#### If the temperature or readings say 9999 ...
 - wait a few minutes for Orion to 'warm up' - sometimes this happens when you turn it on and try to calibrate right away
 - check connections of the probe to Orion
 - can pull off the end cap of the RDO probe - check that there's not water there and the gold prongs are touching the probe and bent
 - factory reset (setting > diagnostics > factory reset > password is 111111)
 
-If you try to calibrate a probe and the option you want isn't there or you get an error message...
+#### If you try to calibrate a probe and the option you want isn't there or you get an error message...
 - might be on the wrong screen that's not displaying all of the channels/probes
 	- Orion ignores the other channels/probes and won't let you calibrate anything but what the screen is showing
 	- **to fix**: keep clicking the 'channel' button (typically top right button) until you get back to the intended display
@@ -69,7 +72,7 @@ if none of those work, always a good idea to try turning on/off, checking the ba
 
 ### Changing Batteries :O
 
-If the batteries are looking mighty dry...
+#### If the batteries are looking mighty dry...
 1. Take the big silicone sleeve off orion
 2. Unscrew the 2 screws on the back
 3. Open Battery Compartment
