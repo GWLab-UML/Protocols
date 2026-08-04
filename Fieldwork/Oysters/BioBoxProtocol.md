@@ -3,6 +3,11 @@
 ## Overview:
 The bioboxes and associated environmental parameter measurements allow us to investigate how reef structural characteristics and environmental drivers influence the diversity, composition, and abundance of reef-associated faunal communities.
 
+## Quick Links:
+- [Deployment](https://github.com/GWLab-UML/Protocols/blob/main/Fieldwork/Oysters/BioBoxProtocol.md#deployment)
+	- [Deployment Data Management](https://github.com/GWLab-UML/Protocols/blob/main/Fieldwork/Oysters/BioBoxProtocol.md#deployment-data-management)
+- [Retrieval](https://github.com/GWLab-UML/Protocols/blob/main/Fieldwork/Oysters/BioBoxProtocol.md#retrieval)
+	- [Retrieval Data Management](https://github.com/GWLab-UML/Protocols/blob/main/Fieldwork/Oysters/BioBoxProtocol.md#retrieval-data-management)
 ## Deployment:
 >*if we decide to participate in marine geo collab use [these data sheets](https://smithsonian.figshare.com/articles/online_resource/MarineGEO_Oyster_Reef_Habitat_Monitoring_Protocol/14714328?file=63997888) instead for transects/rugosity/ point intercept and read [this protocol](https://smithsonian.figshare.com/articles/online_resource/MarineGEO_Oyster_Reef_Habitat_Monitoring_Protocol/14714328?file=63989578) as well
 
@@ -85,7 +90,7 @@ Top: Mudcreek Biobox Summer 25' as it is being deployed. Bottom: Rowley River Bi
 | **Rugosity** | Github | PIC\> Biobox /biobox_rugosity.csv |  |
 | **ENVLogger info** | Github | MegaMetaData\> LoggerTracker.csv  |  |
  
-### ***Retrieval***:
+## Retrieval:
 
 Two months after deployment, on the lowest tide of August, plan to retrieve the bioboxes!
 
