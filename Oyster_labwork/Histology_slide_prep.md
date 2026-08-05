@@ -149,7 +149,7 @@ with microtome in room 614
 	- turn the water slide off to allow for grabbing the section easier
 	- multiple sections can be on the same slide 
 6. set slides to dry on the slide drying rack for a few hours/overnight
-	- can be stored long-term in dry, low moisture environment
+	- can be stored long-term in dry, low moisture environment (slides can be unstained for up to 2 weeks, but try to stain within a few days)
 7. before starting next sample, move head back and repeat steps above
 
 **to break down microtome:**
