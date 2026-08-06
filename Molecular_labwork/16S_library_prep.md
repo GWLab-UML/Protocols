@@ -222,7 +222,7 @@ Store the plate at 4°C; for long-term storage, samples should be kept at -20°C
 
 ## VII. Sequencing Prep
 ### Protocol
-1. Qubit each indexed and cleaned sample
+1. [Qubit](https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=701799736#gid=701799736) each indexed and cleaned sample
 2. Check the library requirements provided by the sequencing company
 3. [Calculate molarity](https://labtestacademy.com/genomic-dna-library/): concentration (ng/μl) × 10⁶ / (660 g/mol × Library Size (bp))
 	- Need to send the same amount of DNA (ng) per sample, so volumes will vary
