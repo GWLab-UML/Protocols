@@ -18,7 +18,7 @@ Input DNA *must* be fragmented to 350 bp and between 0.1-200ng. If DNA is alread
 
 ## Fragmentation & EM-seq Library Prep
 Enzymatic fragmentation is an alternative to mechanical shearing. This protocol is used in combination with the NEBNext EM-seq v2 Kit (and so the downstream steps will differ from the EM-seq protocol on its own without enzymatic shearing)
-### Materials
+### All Materials
 - [NEBNext UltraShear](https://www.neb.com/en-us/products/m7634nebnext-ultrashear)
 	- UltraShear Reaction Buffer (white; thawed and kept on ice)
 	- UltraShear (white; kept on ice)
@@ -67,6 +67,13 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 >based on the [NEB UltraShear and EM-seq protocol](https://www.neb.com/en-us/-/media/nebus/files/manuals/manualm7634.pdf?rev=7e58b7e989804f8da0100e31cd67f610&sc_lang=en-us&hash=6C7399AC792D964A3282BF545880A584#page=7)
 
 ### DNA Preparation and Fragmentation
+#### Materials until next stopping point
+- sample DNA
+- control DNA(unmethylated lambda and CpG methylated pUC19)
+- PCR tubes
+- UltraShear Reaction Buffer
+- UltraShear
+#### Protocol
 1. Determine the amount of sample and control DNA to use based on desired sequencing depths:
 >the dilutions are useful to perform a QC of conversion estimates - the dilutions below will provide sufficient coverage of controls for libraries sequenced to 10M paired reads and above; if the sequencing depth will be lower than 10M PE, then dilution of controls will need to be optimized
 
@@ -85,7 +92,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 | Diluted control DNA CpG methylated pUC19 (lilac) | 1 uL      |
 | **total volume**                                 | **26 uL** |
 3. Ensure that the white NEBNext UltraShear Reaction Buffer is completely thawed and quickly vortex to mix. Place on ice until use. 
-4. Vortext the white NEBNext UltraShear for 5-10 seconds prior to use and place on ice.
+4. Vortex the white NEBNext UltraShear for 5-10 seconds prior to use and place on ice.
 5. Add the following components to a 0.2 mL thin wall PCR tube on ice:
 
 | Component                                  | Volume per library |
@@ -96,15 +103,23 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 | **total volume**                           | **44 uL**          |
 >a master mix can be prepared by combining the UltraShear Reaction Buffer and UltraShear on ice. Vortex the master mix 5-10 seconds and briefly spin in a microcentrifuge. Use master mix immediately
 
-6. Vortex the reaction fofr 5-10 seconds and briefly spin down
+6. Vortex the reaction for 5-10 seconds and briefly spin down
 7. In a preheated thermal cycler, run the following program:
 	- 25-35 minutes at 37°C
 	- 15 minutes at 65°C
 	- Hold at 4°C
 	>if working with fragmented/degraded DNA with low integrity, fragment with UltraShear for less time (5-15 minutes at 37°C)
-8. This is a safe stopping point! Samples can be stored overnight at -20°C
+8. This is a ==**safe stopping point**==! Samples can be stored overnight at -20°C
 
 ### End Prep of Fragmented DNA
+#### Materials until next stopping point
+- fragmented DNA
+- 500 mM DTT (from UltraShear kit)
+- Ultra II End Prep Enzyme Mix (from EM-seq kit)
+- EM-seq Adaptor
+- Ligation Enhancer
+- Ultra II Ligation Master Mix
+#### Protocol
 1. On ice, mix the following components in a sterile nuclease-free PCR tube:
 	>***Note***: the Ultra II End Prep Reaction Buffer and the DTT from the EM-seq v2 Kit are *not* used in this protocol. These reagents come from UltraShear 
 
@@ -143,6 +158,15 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 4. This is a ==**safe stopping point**==! Samples can be stored overnight at -20°C.
 
 ### Clean-Up of Adaptor Ligated DNA
+#### Materials until next stopping point
+- sample DNA from above
+- Sample purification beads
+- 80% fresh ethanol (enough for 2 washes)
+- magnetic stand
+- Elution buffer
+- new PCR tubes
+- Carrier DNA (if <10 ng DNA input)
+#### Protocol
 1. Vortex sample purification beads to resuspend
 2. Add 93 uL (1.1X ratio) or resuspended sample purification beads to each sample. Mix well by pipetting up and down at least 10 times. Be careful to expel all of the liquid out of the tip during the last mix.
 3. Incubate samples on bench top for at least 5 minutes at room temperature.
@@ -166,6 +190,18 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 10. This is a ==**safe stopping point**==! Samples can be stored overnight at -20°C.
 
 ### Protection of 5mC and 5hmC
+#### Materials until next stopping point
+- TET2 Reaction Buffer
+- TET2 Reaction Buffer Supplement
+- T4-BGT
+- T4-BGT Dilutent
+- UDP-Glucose
+- DTT
+- TET2
+- Diluted Fe(II) Solution
+- Stop Reagent
+- Nuclease-free water
+#### Protocol
 1. Prepare TET2 Buffer. Use Option A if you have # E8015S/#E8015G (24 reactions/G size) and Option B if you have # E8015L(96 reactions).
 	- **Note**: The TET2 Reaction Buffer Supplement is lyophilized. Centrifuge before use to ensure it is at the bottom of the tube.
 	- **Option A:** Add 100 μl of TET2 Reaction Buffer (yellow) to one tube of TET2 Reaction Buffer Supplement (yellow) and mix well (for the 24-reaction/G size kit). Write date on tube.
@@ -217,6 +253,13 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 11. This is a ==**safe stopping point**==! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer.
 
 ### Clean-Up of Protected DNA
+#### Materials until next stopping point
+- Sample purification beads
+- magnetic stand
+- 80% fresh ethanol (enough for two washes)
+- Elution buffer
+- new PCR tubes
+#### Protocol
 1. Vortex NEBNext Sample Purification Beads to resuspend
 2. Add 50 μl (1X ratio) of resuspended NEBNext Sample Purification Beads to each sample. Mix well by pipetting up and down at least 10 times. Be careful to expel all of the liquid out of the tip during the last mix.
 3. Incubate samples on bench top for at least 5 minutes at room temperature
@@ -234,6 +277,14 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 
 ### Denaturation of DNA
 >all sample input ranges (0.1-200 ng) follow the same denaturation and deamination conditions
+#### Materials until next stopping point
+- Formamide
+- pre-chilled metal cooling block or ice
+- Nuclease-free water
+- Deamination reaction buffer
+- recombinant albumin
+- APOBEC
+#### Protocol
 #### with Formamide
 >see online protocol for sodium hydroxide option
 1. Pre-heat thermal cycle to 85°C **with the heated lid set to at least 105°C**
@@ -270,6 +321,10 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 >**Note**: The samples move directly into PCR with no bead clean up
 
 ### PCR Amplification
+#### Materials until next stopping point
+- NEBNext LV UDI Primer Pair
+- Q5U Master Mix
+#### Protocol
 1. On ice, add the following components to the deaminated DNA from the section above:
 
 | Component                           | Volume    |
@@ -300,7 +355,13 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 4. This is a ==**safe stopping point**==! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer
 
 ### Clean-Up of Amplified Libraries
->**Caution**: The Sample Purification Beads behave differently during the post-PCR clean-up. After the bead washes, do not over drythe beads as they become very difficult to resuspend.
+#### Materials until next stopping point
+- Sample purification beads
+- 80% fresh ethanol
+- 1X TE (10 mM Tris-HCl pH 8.0, 1mM EDTA)
+- new PCR tubes
+#### Protocol
+>**Caution**: The Sample Purification Beads behave differently during the post-PCR clean-up. After the bead washes, do not over dry the beads as they become very difficult to resuspend.
 1. Vortex NEBNext Sample Purification Beads to resuspend.
 2. Add 72 μl (0.8X ratio) of resuspended NEBNext Sample Purification Beads to each sample. Mix well by pipetting up and downat least 10 times. Be careful to expel all of the liquid out of the tip during the last mix.
 3. Incubate samples on bench top for at least 5 minutes at room temperature.
