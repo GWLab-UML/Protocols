@@ -49,6 +49,11 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 - [NEBNext LV UDI Primer Pair](https://www.neb.com/en-us/products/e3400-nebnext-lv-unique-dual-index-primers-set-1)
 - 0.1-200 ng of sample DNA
 - 1X TE (10 mM Tris pH 8.0, 1mM EDTA)
+	- add 800mL DI water to a beaker 
+	- add 1.21 g Tris Base to the beaker and dissolve
+	- add 372 mg EDTA and dissolve (may take some time)
+	- measure pH and adjust to 8.0 using HCl
+	- transfer to 1L capped bottle, bring the final volume to 1L with DI water
 - Formamide
 - Nuclease-free water
 - 80% ethanol (made fresh each time)
