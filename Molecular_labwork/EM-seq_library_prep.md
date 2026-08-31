@@ -4,7 +4,17 @@
 Input DNA *must* be fragmented to 350 bp and between 0.1-200ng. If DNA is already fragmented, proceed to the NEBNext EM-seq kit. If DNA needs to be fragmented, proceed to the first section.
 
 ## Protocol Overview
-- 
+1. [DNA Preparation and Fragmentation](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/EM-seq_library_prep.md#dna-preparation-and-fragmentation)
+2. [End Prep of Fragmented DNA](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/EM-seq_library_prep.md#end-prep-of-fragmented-dna)
+3. [Ligation of EM-seq Adaptor](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/EM-seq_library_prep.md#ligation-of-em-seq-adaptor)
+4. [Clean-Up of Adaptor Ligated DNA](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/EM-seq_library_prep.md#clean-up-of-adaptor-ligated-dna)
+5. [Protection of 5mC and 5hmC](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/EM-seq_library_prep.md#protection-of-5mc-and-5hmc)
+6. [Clean-Up of Protected DNA](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/EM-seq_library_prep.md#clean-up-of-protected-dna)
+7. [Denaturation of DNA](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/EM-seq_library_prep.md#denaturation-of-dna)
+8. [Deamination of Cytosines](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/EM-seq_library_prep.md#deamination-of-cytocines)
+9. [PCR Amplification](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/EM-seq_library_prep.md#pcr-amplification)
+10. [Clean-Up of Amplified Libraries](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/EM-seq_library_prep.md#clean-up-of-amplified-libraries)
+11. [Library Quantification and Sequencing](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/EM-seq_library_prep.md#library-quantification-and-sequencing)
 
 ## Fragmentation & EM-seq Library Prep
 Enzymatic fragmentation is an alternative to mechanical shearing. This protocol is used in combination with the NEBNext EM-seq v2 Kit (and so the downstream steps will differ from the EM-seq protocol on its own without enzymatic shearing)
@@ -48,9 +58,10 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 1. Grab ice to store reagents on
 2. Preheat thermal cycler (with heated lid) to 75°C
 
-### Protocol
+## Protocol
 >based on the [NEB UltraShear and EM-seq protocol](https://www.neb.com/en-us/-/media/nebus/files/manuals/manualm7634.pdf?rev=7e58b7e989804f8da0100e31cd67f610&sc_lang=en-us&hash=6C7399AC792D964A3282BF545880A584#page=7)
-#### DNA Preparation and Fragmentation
+
+### DNA Preparation and Fragmentation
 1. Determine the amount of sample and control DNA to use based on desired sequencing depths:
 >the dilutions are useful to perform a QC of conversion estimates - the dilutions below will provide sufficient coverage of controls for libraries sequenced to 10M paired reads and above; if the sequencing depth will be lower than 10M PE, then dilution of controls will need to be optimized
 
@@ -88,7 +99,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 	>if working with fragmented/degraded DNA with low integrity, fragment with UltraShear for less time (5-15 minutes at 37°C)
 8. This is a safe stopping point! Samples can be stored overnight at -20°C
 
-#### End Prep of Fragmented DNA
+### End Prep of Fragmented DNA
 1. On ice, mix the following components in a sterile nuclease-free PCR tube:
 	>***Note***: the Ultra II End Prep Reaction Buffer and the DTT from the EM-seq v2 Kit are *not* used in this protocol. These reagents come from UltraShear 
 
@@ -106,7 +117,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 	- 15 minutes at 65°C
 	- Hold at 4°C
 
-#### Ligation of EM-seq Adaptor
+### Ligation of EM-seq Adaptor
 1. On ice, add the following components directly to the end prep reaction mixture and mix well:
 
 | Component                                     | Volume      |
@@ -126,7 +137,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 	- Hold at 4°C
 4. This is a safe stopping point! Samples can be stored overnight at -20°C.
 
-#### Clean-Up of Adaptor Ligated DNA
+### Clean-Up of Adaptor Ligated DNA
 1. Vortex sample purification beads to resuspend
 2. Add 93 uL (1.1X ratio) or resuspended sample purification beads to each sample. Mix well by pipetting up and down at least 10 times. Be careful to expel all of the liquid out of the tip during the last mix.
 3. Incubate samples on bench top for at least 5 minutes at room temperature.
@@ -149,7 +160,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 		- Add 1 μl of the NEBNext Carrier DNA (red) to 27 μl of DNA from the step above.
 10. This is a safe stopping point! Samples can be stored overnight at -20°C.
 
-#### Protection of 5mC and 5hmC
+### Protection of 5mC and 5hmC
 1. Prepare TET2 Buffer. Use Option A if you have # E8015S/#E8015G (24 reactions/G size) and Option B if you have # E8015L(96 reactions).
 	- **Note**: The TET2 Reaction Buffer Supplement is lyophilized. Centrifuge before use to ensure it is at the bottom of the tube.
 	- **Option A:** Add 100 μl of TET2 Reaction Buffer (yellow) to one tube of TET2 Reaction Buffer Supplement (yellow) and mix well (for the 24-reaction/G size kit). Write date on tube.
@@ -200,7 +211,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 	- Hold at 4°C
 11. This is a safe stopping point! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer.
 
-#### Clean-Up of Protected DNA
+### Clean-Up of Protected DNA
 1. Vortex NEBNext Sample Purification Beads to resuspend
 2. Add 50 μl (1X ratio) of resuspended NEBNext Sample Purification Beads to each sample. Mix well by pipetting up and down at least 10 times. Be careful to expel all of the liquid out of the tip during the last mix.
 3. Incubate samples on bench top for at least 5 minutes at room temperature
@@ -216,7 +227,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 	- **Caution**: Carrying even a small amount of beads forward can lead to inefficient deamination.
 12. This is a safe stopping point! Samples can be stored overnight at -20°C
 
-#### Denaturation of DNA
+### Denaturation of DNA
 >all sample input ranges (0.1-200 ng) follow the same denaturation and deamination conditions
 #### with Formamide
 >see online protocol for sodium hydroxide option
@@ -225,7 +236,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 3. Incubate at 85°C for 10 minutes in the pre-heated thermal cycler
 4. Immediately place in a pre-chilled metal cooling block on ice and allow the sample to fully cool (~2 minutes) before proceeding to the next section. If a metal cooling block is not available, place on ice and ensure proper contact with the tube walls.
 
-#### Deamination of Cytocines
+### Deamination of Cytocines
 1. On ice, add the following components to the denatured DNA:
 >For multiple reactions, a master mix of the reaction components can be prepared before addition to the denatured DNA.
 
@@ -253,7 +264,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 4. This is a safe stopping point! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer
 >**Note**: The samples move directly into PCR with no bead clean up
 
-#### PCR Amplification
+### PCR Amplification
 1. On ice, add the following components to the deaminated DNA from the section above:
 
 | Component                           | Volume    |
@@ -283,7 +294,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 | 0.1 ng    | 14         |
 4. This is a safe stopping point! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer
 
-#### Clean-Up of Amplified Libraries
+### Clean-Up of Amplified Libraries
 >**Caution**: The Sample Purification Beads behave differently during the post-PCR clean-up. After the bead washes, do not over drythe beads as they become very difficult to resuspend.
 1. Vortex NEBNext Sample Purification Beads to resuspend.
 2. Add 72 μl (0.8X ratio) of resuspended NEBNext Sample Purification Beads to each sample. Mix well by pipetting up and downat least 10 times. Be careful to expel all of the liquid out of the tip during the last mix.
@@ -300,6 +311,6 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 11. Place the tube on the magnetic stand. After 3 minutes (or whenever the solution is clear), transfer 20 μl of the supernatant to a new PCR tube.
 12. This is a safe stopping point! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer
 
-#### Library Quantification and Sequencing
+### Library Quantification and Sequencing
 1. Use an Agilent TapeStation or Bioanalyzer to determine the size distribution and concentration of the libraries.
 2. EM-seq libraries can be sequencing using the preferred Illumina platform. Typical read lengths are 2 x 756, 2 x 100, or 2 x 150 bp.
