@@ -135,7 +135,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 3. Place in a thermal cycler and run the following program ***with the heated lid off***:
 	- 15 minutes at 20°C
 	- Hold at 4°C
-4. This is a safe stopping point! Samples can be stored overnight at -20°C.
+4. This is a ==**safe stopping point**==! Samples can be stored overnight at -20°C.
 
 ### Clean-Up of Adaptor Ligated DNA
 1. Vortex sample purification beads to resuspend
@@ -158,7 +158,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 		- Mix well by pipetting up and down 10 times. Incubate for at least 1 minute at room temperature. If necessary, quickly spin the sample to collect the liquid from the sides of the tube before placing back on the magnetic stand.
 		- Place the tube on the magnetic stand. After 3 minutes (or whenever the solution is clear), transfer 27 μl of the supernatant to a new PCR tube.
 		- Add 1 μl of the NEBNext Carrier DNA (red) to 27 μl of DNA from the step above.
-10. This is a safe stopping point! Samples can be stored overnight at -20°C.
+10. This is a ==**safe stopping point**==! Samples can be stored overnight at -20°C.
 
 ### Protection of 5mC and 5hmC
 1. Prepare TET2 Buffer. Use Option A if you have # E8015S/#E8015G (24 reactions/G size) and Option B if you have # E8015L(96 reactions).
@@ -209,7 +209,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 10. Place in thermal cycler, and run the following program **with the heated lid set to at least 45°C**:
 	- 30 minutes at 37°C
 	- Hold at 4°C
-11. This is a safe stopping point! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer.
+11. This is a ==**safe stopping point**==! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer.
 
 ### Clean-Up of Protected DNA
 1. Vortex NEBNext Sample Purification Beads to resuspend
@@ -225,7 +225,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 10. Mix well by pipetting up and down 10 times. Incubate for at least 1 minute at room temperature. If necessary, quickly spin the sample to collect the liquid from the sides of the tube before placing back on the magnetic stand.
 11. Place the tube on the magnetic stand. After 3 minutes (or whenever the solution is clear), transfer 16 μl of the supernatant to a new PCR tube.
 	- **Caution**: Carrying even a small amount of beads forward can lead to inefficient deamination.
-12. This is a safe stopping point! Samples can be stored overnight at -20°C
+12. This is a ==**safe stopping point**==! Samples can be stored overnight at -20°C
 
 ### Denaturation of DNA
 >all sample input ranges (0.1-200 ng) follow the same denaturation and deamination conditions
@@ -261,7 +261,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 		- heated lid set to at least 45°C
 		- 3 hours at 37°C
 		- Hold at 4°C
-4. This is a safe stopping point! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer
+4. This is a ==**safe stopping point**==! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer
 >**Note**: The samples move directly into PCR with no bead clean up
 
 ### PCR Amplification
@@ -292,7 +292,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 | 10 ng     | 8          |
 | 1 ng      | 11         |
 | 0.1 ng    | 14         |
-4. This is a safe stopping point! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer
+4. This is a ==**safe stopping point**==! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer
 
 ### Clean-Up of Amplified Libraries
 >**Caution**: The Sample Purification Beads behave differently during the post-PCR clean-up. After the bead washes, do not over drythe beads as they become very difficult to resuspend.
@@ -309,7 +309,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 	- **Optional**: For long term storage of libraries, 21 μl of 1X TE (10 mM Tris-HCl pH 8.0, 1 mM EDTA) or Low TE (10 mM Tris-HCl pH 8.0, 0.1 mM EDTA) can be used.
 10. Mix well by pipetting up and down 10 times. Incubate for at least 1 minute at room temperature. If necessary, quickly spin the sample to collect the liquid from the sides of the tube before placing back on the magnetic stand.
 11. Place the tube on the magnetic stand. After 3 minutes (or whenever the solution is clear), transfer 20 μl of the supernatant to a new PCR tube.
-12. This is a safe stopping point! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer
+12. This is a ==**safe stopping point**==! Samples can be stored overnight at either 4°C in the thermal cycler or at -20°C in the freezer
 
 ### Library Quantification and Sequencing
 1. Use an Agilent TapeStation or Bioanalyzer to determine the size distribution and concentration of the libraries.
