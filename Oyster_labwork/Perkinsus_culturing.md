@@ -3,9 +3,10 @@ Last update: July 7, 2026 JF
 #### Table of contents:
 - [Culturing media](#Culturing%20media)
 - [Freezing media](#Freezing%20media)
-
-#### Related protocols:
-- [Cell_counting](Oyster_maintenance/Cell_counting.md)
+- [Passaging cells](#Passaging%20cells)
+- [Counting cells](#Counting%20cells)
+- [Freezing cells](#Freezing%20cells)
+- [Thawing cells](#Thawing%20cells)
 
 # Culturing media
 Based off of [Liu et al. 2023](https://doi.org/10.1017/S0031182023000768)
@@ -51,7 +52,8 @@ Steps:
 11. Continue to add solution to the filter cup until all 1L has been filtered
 12. Slowly pour the filtered culturing media into a labeled, sterile 1L glass bottle
 13. Store sterile culturing media at 4°C 
-#### Notes
+
+Notes:
 - Add 2% (v/v) antibiotics before in smaller batches before use
 - Alternative culturing media DME:Ham's F-12 + 5% FBS
 
@@ -105,9 +107,32 @@ Steps:
 9. Once finished passaging, consolidate the remaining cells to be discarded into one T25 flask and add a splash of bleach over the sink—swirl before running water and pouring down the drain
 10. The newly passaged cells can return to the bench top or incubator
 
-#### Notes
-If the cells need to be seeded at a specific number (ie. 2 million per 15mL media) additional steps should be taken to count the cells. Pro tip—remember C1V1 = C2V2! 
+Notes:
+- If the cells need to be seeded at a specific number (ie. 2 million per 15mL media) additional steps should be taken to count the cells (see next section)
+- Pro tip—remember C1V1 = C2V2! 
 
+# Counting cells
+Builds off of protocol for [counting algae cells](../Oyster_maintenance/Algae_cell_counting.md)
+
+Materials:
+- Lugol solution
+- DI water
+- 25 conical screw cap tube
+- Masking tape
+- 1 mL tubes
+- 10 uL pipet 
+- 20 uL pipet
+- 10-20 uL unfiltered pipet tips 
+- Perkinsus cells
+
+Steps:
+1. Follow steps 1-7 of the Counting Algae Cells Protocol above to properly clean the hemocytometer before use
+2. If not already made, in a 25 mL conical screw cap tube, create 30% (v/v) Lugol's iodine solution by mixing 3 parts iodine solution with 7 parts DI water
+3. Cover the tube with masking tape to prevent light degradation and store in a place away from direct sunlight
+4. Label a 1 mL tube "DF 1.1" and with the name of the species, Perkinsus, that is being counted
+5. Start with a dilution factor of 1.1 by adding 2 uL of the 30% (v/v) Lugol's iodine solution to 20 uL of algae in a 1 mL tube. Pipet up and down to mix solution
+6. Pipet 10 uL of the solution into a chamber of the hemocytometer and observe
+7. Increase the dilution factor by creating a new solution in a new tube if needed
 
 # Freezing cells
 Materials: 
@@ -129,8 +154,8 @@ Steps:
 8. Put in the -80ºC for 24-48 hours to slowly freeze, and then transfer the frozen tubes into a freezer box for long-term storage
 9. To dispose of the waste media, add a splash of bleach to the beaker over the sink—swirl before running water and pouring down the drain
 
-#### Notes
-If the cells need to be frozen at a specific number (ie. 2 million per cryo-vial) additional steps should be taken to count the cells. 
+Notes:
+- If the cells need to be frozen at a specific number (ie. 2 million per cryo-vial) additional steps should be taken to count the cells
 
 # Thawing cells
 Materials:

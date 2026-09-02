@@ -16,7 +16,7 @@ A hemocytometer is a specialized slide used for manual cell counting with a micr
 - Why do we use Lugol's iodine for counting algae?
 	- Lugol's iodine immobilizes and kills the algae cells, making them still and much easier to count. Lugol's iodine does not allow for you to distinguish between live and dead algae cells, as it will stain both live and dead cells. 
 
-# Counting Algae Cells 
+# Counting cells 
 ### Materials: 
 - 70% ethanol bottle 
 - Hemocytometer 
@@ -75,24 +75,4 @@ Concentration in cells per mL = avg # of cells per square * dilution factor * 10
 
 (If counting algae cells for oyster feeding see the [Algae Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1UBeluqx4SQUdaInXP4of0siFTtXhhd97nKfENCC8lmE/edit?gid=0#gid=0) - just enter the cell count and it auto-calculates concentration using the formula above)
 
-# Counting *Perkinsus* Cells
-Materials:
-- Lugol solution
-- DI water
-- 25 conical screw cap tube
-- Masking tape
-- 1 mL tubes
-- 10 uL pipet 
-- 20 uL pipet
-- 10-20 uL unfiltered pipet tips 
-- Perkinsus cells
-
-### Protocol:
-1. Follow steps 1-7 of the Counting Algae Cells Protocol above to properly clean the hemocytometer before use
-2. If not already made, in a 25 mL conical screw cap tube, create 30% (v/v) Lugol's iodine solution by mixing 3 parts iodine solution with 7 parts DI water
-3. Cover the tube with masking tape to prevent light degradation and store in a place away from direct sunlight
-4. Label a 1 mL tube "DF 1.1" and with the name of the species, Perkinsus, that is being counted
-5. Start with a dilution factor of 1.1 by adding 2 uL of the 30% (v/v) Lugol's iodine solution to 20 uL of algae in a 1 mL tube. Pipet up and down to mix solution
-6. Pipet 10 uL of the solution into a chamber of the hemocytometer and observe
-7. Increase the dilution factor by creating a new solution in a new tube if needed
 
