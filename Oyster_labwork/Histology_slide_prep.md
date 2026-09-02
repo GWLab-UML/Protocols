@@ -94,11 +94,20 @@ All ethanol washes can be in the *same* conical tube - dump ethanol between wash
 	2. Bring tweezers
 	3. Gloves 
 	4. P1000 and tips
-6. 1 wash in (roughly) 50/50 xylene substitute and wax (enough to thoroughly cover tissue) with vacuum on about 30 minutes (45 mins for larger tissue)
-	1.  turn on vacuum until the gauge reads 20, then turn off 
-7. 3+ wax washes (need to get the xylene substitute out) about 30 minutes each (vacuum; 45 mins for larger tissue) 
-	1. add enough wax to thoroughly cover the entire tissue
-8. While the tissue is still in warm wax, remove and place tissue into the cassette - then discard the remaining wax
+6. ==The wax oven is now kept in 614==
+7. The new wax oven is chemically safe oven which means its an explosion-proof or specialized heating unit designed to prevent dangerous chemical fumes from igniting. With that being said we can't keep the wax in the oven like in the fish lab due to it breaking down of the wax. 
+8. The process overall takes longer due to the warming of the oven, if you plan on using it **pre-heat the oven 2 hours before hand!** 
+9. Wax can be kept in the top of the leica embedding machine, this will keep it a liquid for the washing process. 
+10. Using the touch screen find the "finger" button on the bottom of the screen 
+    --> fix value--> function on/off --> turn off standby. The heating symbol will show in the upper right corner showing that it is ready to heat. 
+11. The temperature of the oven should be set to 60.0 and the pressure 50. (anymore than this and the wax will degrade) Once this is set press the finger button again --> fix value--> function on/off --> **valves ON**. There is a pump (maxima C plus) to the left of the wax oven and to make sure the second valve on top is open and turn on the pump in the back of the pump its self. 
+12. Once close to pressure the wax oven will click, this is the valves trying to regulate its self. Once the clicking starts press the finger button again --> fix value--> function on/off --> **Valves OFF**.--> Turn pump off. If the screen is +/- 5 PSI its ok. 
+13. When needing to open the oven for washes press the finger button again --> fix value--> function on/off --> open valves and change the pressure on the screen to 1100.0. Once it hits 990 mbar the door will unlock. 
+14. Washing the tissue is required in 4 steps: 
+	1. 1 wash in (roughly) 50/50 xylene substitute and wax (enough to thoroughly cover tissue) with vacuum on about 30 minutes (45 mins for larger tissue) Pipette 1 mL of xylene and fill the rest with wax. This depends on the size of the tissue. It might differ with size. 
+	2. 3+ wax washes (need to get the xylene substitute out) about 30 minutes each (vacuum; 45 mins for larger tissue)
+		add enough wax to thoroughly cover the entire tissue each time. 
+
 
 #### Embedding:
 0. Tissues can be kept in the warming compartment while waiting to keep tissues from getting hard due to the wax
