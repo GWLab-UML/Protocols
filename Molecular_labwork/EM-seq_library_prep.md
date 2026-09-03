@@ -51,7 +51,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 - 1X TE (10 mM Tris pH 8.0, 1mM EDTA)
 	- add 800mL DI water to a beaker 
 	- add 1.21 g Tris Base to the beaker and dissolve
-	- add 372 mg EDTA and dissolve (may take some time)
+	- add 0.372 g EDTA and dissolve (may take some time)
 	- measure pH and adjust to 8.0 using HCl
 	- transfer to 1L capped bottle, bring the final volume to 1L with DI water
 - Formamide
@@ -69,11 +69,12 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 ### DNA Preparation and Fragmentation
 #### Materials until next stopping point
 - sample DNA
-- control DNA(unmethylated lambda and CpG methylated pUC19)
+- control DNA(unmethylated lambda and CpG methylated pUC19; from EM-seq kit)
 - PCR tubes
 - UltraShear Reaction Buffer
 - UltraShear
 #### Protocol
+>takes roughly an hour to the next stopping point
 1. Determine the amount of sample and control DNA to use based on desired sequencing depths:
 >the dilutions are useful to perform a QC of conversion estimates - the dilutions below will provide sufficient coverage of controls for libraries sequenced to 10M paired reads and above; if the sequencing depth will be lower than 10M PE, then dilution of controls will need to be optimized
 
@@ -104,7 +105,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 >a master mix can be prepared by combining the UltraShear Reaction Buffer and UltraShear on ice. Vortex the master mix 5-10 seconds and briefly spin in a microcentrifuge. Use master mix immediately
 
 6. Vortex the reaction for 5-10 seconds and briefly spin down
-7. In a preheated thermal cycler, run the following program:
+7. In a preheated thermal cycler **with the heated lid set to at least 75°C** , run the following program:
 	- 25-35 minutes at 37°C
 	- 15 minutes at 65°C
 	- Hold at 4°C
@@ -120,6 +121,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 - Ligation Enhancer
 - Ultra II Ligation Master Mix
 #### Protocol
+>takes roughly an hour to the next stopping point
 1. On ice, mix the following components in a sterile nuclease-free PCR tube:
 	>***Note***: the Ultra II End Prep Reaction Buffer and the DTT from the EM-seq v2 Kit are *not* used in this protocol. These reagents come from UltraShear 
 
@@ -132,7 +134,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 >a master mix can be prepared by combining the 500 mM DTT and Ultra II End Prep Enzyme Mix on ice, then pipette mix the master mix and briefly spin down. use the master mix immediately
 
 2. Mix thoroughly by vortexing 1-2 seconds or by pipetting up and down at least 10 times and centrifuge briefly (**note**: it is important to mix well!)
-3. Place in a thermal cycler with the heated lid set to at least 75°C and run the following program:
+3. Place in a thermal cycler **with the heated lid set to at least 75°C** and run the following program:
 	- 15 minutes at 20°C
 	- 15 minutes at 65°C
 	- Hold at 4°C
@@ -167,23 +169,24 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 - new PCR tubes
 - Carrier DNA (if <10 ng DNA input)
 #### Protocol
+>takes roughly an hour to the next stopping point
 1. Vortex sample purification beads to resuspend
 2. Add 93 uL (1.1X ratio) or resuspended sample purification beads to each sample. Mix well by pipetting up and down at least 10 times. Be careful to expel all of the liquid out of the tip during the last mix.
 3. Incubate samples on bench top for at least 5 minutes at room temperature.
 4. Place the tubes against an appropriate magnetic stand to separate the beads from the supernatant.
-5. After  minutes (or when the solution is clear), carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets (**Do NOT remove the beads**)
+5. After 5 minutes (or when the solution is clear), carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets (**Do NOT remove the beads**)
 6. Add 200 uL of 80% EtOH to the tubes while on the magnetic stand. Incubate at room temperature for 30 seconds, and then carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets.
 7. Repeat the EtOH washes (step 6) for a total of 2 washes. Be sure to remove all visible liquid after the second wash using a p10 pipette tip.
 8. Air dry the beads for 1-2 minutes while the tubes are on the magnetic stand with the lid open
-	- **Caution**: Do not over-dry the beads. This may result in lower recovery of DNA targets. Elute the samples when the beadsare still dark brown and glossy looking, but when all visible liquid has evaporated. When the beads turn lighter brown and start to crack, they are too dry.
+	- **Caution**: Do not over-dry the beads. This may result in lower recovery of DNA targets. Elute the samples when the beads are still dark brown and glossy looking, but when all visible liquid has evaporated. When the beads turn lighter brown and start to crack, they are too dry.
 9. Elution options A or B
 	- **Option A**: for > 10 ng DNA input
 		- Remove the tubes from the magnetic stand. Elute the DNA targets from the beads by adding 29 uL of Elution Buffer (white)
 		- Mix well by pipetting up and down 10 times. Incubate for at least 1 minute at room temperature. If necessary, quickly spin the sample to collect the liquid from the sides of the tube before placing back on the magnetic stand.
 		- Place the tube on the magnetic stand. After 3 minutes (or whenever the solution is clear), transfer 28 μl of the supernatant to a new PCR tube.
-	- **Option B**: for < 10 ng DNA input
+	- **Option B**: for < or = 10 ng DNA input
 		- **Note:** only to be added if adaptor ligation has occurred. do not use with DNA that will not have adaptors ligated before conversion
-		- Remove the tubes from the magnetic stand. Elute the DNA targets from the beads by adding 28 μl of  Elution Buffer (white)
+		- Remove the tubes from the magnetic stand. Elute the DNA targets from the beads by adding 28 μl of Elution Buffer (white)
 		- Mix well by pipetting up and down 10 times. Incubate for at least 1 minute at room temperature. If necessary, quickly spin the sample to collect the liquid from the sides of the tube before placing back on the magnetic stand.
 		- Place the tube on the magnetic stand. After 3 minutes (or whenever the solution is clear), transfer 27 μl of the supernatant to a new PCR tube.
 		- Add 1 μl of the NEBNext Carrier DNA (red) to 27 μl of DNA from the step above.
@@ -202,13 +205,15 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 - Stop Reagent
 - Nuclease-free water
 #### Protocol
+>takes roughly 2 hours until the next stopping point
 1. Prepare TET2 Buffer. Use Option A if you have # E8015S/#E8015G (24 reactions/G size) and Option B if you have # E8015L(96 reactions).
-	- **Note**: The TET2 Reaction Buffer Supplement is lyophilized. Centrifuge before use to ensure it is at the bottom of the tube.
+	>**Note**: The TET2 Reaction Buffer Supplement is lyophilized. Centrifuge before use to ensure it is at the bottom of the tube.
+
 	- **Option A:** Add 100 μl of TET2 Reaction Buffer (yellow) to one tube of TET2 Reaction Buffer Supplement (yellow) and mix well (for the 24-reaction/G size kit). Write date on tube.
 	- **Option B:** Add 400 μl of TET2 Reaction Buffer (yellow) to one tube of TET2 Reaction Buffer Supplement (yellow) and mix well (for the 96-reaction kit). Write date on tube.
 	>**Note**: the reconstituted buffer should be stored at -20°C and discarded after 4 months
 2. Prepare diluted T4-BGT (yellow)
-	- **Only for ≤ 10 ng DNA input**: Dilute the T4-BGT (yellow) 1:10 using the T4-BGT Diluent (yellow)
+	- **Only for ≤ 10 ng DNA input**: Dilute the T4-BGT (yellow) 1:10 using the T4-BGT Dilutent (yellow)
 		- For example, add 9 μl of T4-BGT Diluent (yellow) to 1 μl of T4-BGT (yellow) and mix by vortexing for 1–2 seconds. Briefly centrifuge before use.
 	>**Note**: The diluted T4-BGT should be used immediately and discarded after use.
 3. On ice, add the following components directly to the EM-seq adaptor ligated DNA:
@@ -260,6 +265,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 - Elution buffer
 - new PCR tubes
 #### Protocol
+>takes roughly an hour to the next stopping point
 1. Vortex NEBNext Sample Purification Beads to resuspend
 2. Add 50 μl (1X ratio) of resuspended NEBNext Sample Purification Beads to each sample. Mix well by pipetting up and down at least 10 times. Be careful to expel all of the liquid out of the tip during the last mix.
 3. Incubate samples on bench top for at least 5 minutes at room temperature
@@ -285,6 +291,7 @@ Enzymatic fragmentation is an alternative to mechanical shearing. This protocol 
 - recombinant albumin
 - APOBEC
 #### Protocol
+>takes roughly an hour until the next stopping point
 #### with Formamide
 >see online protocol for sodium hydroxide option
 1. Pre-heat thermal cycle to 85°C **with the heated lid set to at least 105°C**
