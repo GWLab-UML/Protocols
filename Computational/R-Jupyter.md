@@ -6,10 +6,12 @@ This protocol allows you to run R in jupyter notebooks, which is better than usi
 ## For Macs:
 ### via [conda](https://anaconda.org/channels/anaconda/packages/conda/overview)
 Recommended for Unity
-1. Run 
+1. If on Unity, run in terminal: 
 ```
-module load conda/latest in terminal
+module load conda/latest
 ```
+otherwise, ensure conda is installed by running `conda --version`
+
 2. Create a new environment:
 ```
 conda create -n r_env -c conda-forge r-base r-irkernel jupyter
