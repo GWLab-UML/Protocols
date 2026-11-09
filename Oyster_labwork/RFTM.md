@@ -86,11 +86,12 @@ Last updated: 09/11/2025 by JM
 4. Add 40 mL of RFTM to falcon tubes
 5. Place 2.0 μm nylon membrane filter in filter stopper
 6. Connect filter stopper to vacuum pump 
-7. Start vacuum pump and filter water until switched off
+7. Start vacuum pump and filter 1000 mL of water 
 8. Remove filter from filter stopper and using tweezers, place filter in pre-filled and -labeled RFTM flacon tube
 9. Incubate for 5-10 days in the dark at 27°C (20°C - 30°C is fine). Then proceed to part 4 below.
 	1. For part 4, do not need to sterilize tweezers
 	2. If needed, can cut filter into two pieces when placing on top of microscope slides
+		1. The filter should not be teased apart like the tissue samples. You can add a couple drops of iodine and inspect with the Stereo Microscope
 
 ## IV. RFTM assay
 ### **Materials:**
