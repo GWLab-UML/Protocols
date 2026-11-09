@@ -70,10 +70,30 @@ Last updated: 09/11/2025 by JM
 	- Place excess tissues and liquid from oyster into a plastic bag to be discarded. Shells can be rinsed with water and kept in 'shell bag' in the bottom of the Narwhal freezer
 5. Add 2-4 drops of nystatin suspension into the pre-filled RFTM tube using a dropper to inhibit fungus growth
 6. Add dissected tissue(s) to pre-filled and -labeled RFTM tube (mantle and rectum can go in the same tube). 
-7. Incubate for 5-10 days in the dark at 27°C (20°C - 30°C is fine). Then proceed to part 3 below.
+7. Incubate for 5-10 days in the dark at 27°C (20°C - 30°C is fine). Then proceed to part 4 below.
 
+## III. RFTM inoculation with water samples
+### **Materials**
+***Reagents needed for inoculation:*** 
+- RFTM bottles
+- 0.1 g Nystatin (for 100 mL of nystatin suspension)
+### **Protocols**
+***Sterilization is not needed for this protocol*** 
+ 1. Create a **nystatin suspension** by mixing 0.1 g of nystatin powder with 100 mL of sterile DI water in a beaker. Spin on a stirring table with a stir rod. 
+	- Store in 4℃ fridge until use. 
+2. Add 2-4 drops of nystatin suspension into the pre-filled RFTM flacon tube using a dropper to inhibit fungus growth
+3. Label flacon tubes with Sample ID
+4. Add 40 mL of RFTM to falcon tubes
+5. Place 2.0 μm nylon membrane filter in filter stopper
+6. Connect filter stopper to vacuum pump 
+7. Start vacuum pump and filter 1000 mL of water 
+8. Remove filter from filter stopper and using tweezers, place filter in pre-filled and -labeled RFTM flacon tube
+9. Incubate for 5-10 days in the dark at 27°C (20°C - 30°C is fine). Then proceed to part 4 below.
+	1. For part 4, do not need to sterilize tweezers
+	2. If needed, can cut filter into two pieces when placing on top of microscope slides
+		1. The filter should not be teased apart like the tissue samples. You can add a couple drops of iodine and inspect with the Stereo Microscope
 
-## III. RFTM assay
+## IV. RFTM assay
 ### **Materials:**
 - Lugol's iodine
 - DI water
